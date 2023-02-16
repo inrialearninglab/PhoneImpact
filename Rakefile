@@ -6,4 +6,5 @@ task :deck do
   load 'decks/polluant_plus.rb'
   load 'decks/polluant_moins.rb'
   load 'decks/recyclage.rb'
+  load 'decks/pollution.rb'
 end

@@ -1,5 +1,5 @@
 resource:
-  x: 90
+  x: 70
   y: 90
   width: 70
   height: 70
@@ -32,3 +32,7 @@ pm_back:
 re_back:
   extends: resource_back
   file: svg/recycle.svg
+
+po:
+  extends: resource_back
+  file: svg/biohazard.svg

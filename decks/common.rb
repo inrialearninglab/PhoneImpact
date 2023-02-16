@@ -13,11 +13,11 @@ class MyDeck
             #rect x:0,y:0,width:825, height: 1125, stroke_color:'blue', stroke_width:1
             rect layout: 'cut', stroke_color: color, stroke_width: 10, radius:16
             rect layout: 'safe', stroke_color: 'white'
-            text str: cards['title'], layout: 'title'
-            text str: cards['desc'], layout: 'description', font_size: 10
+            text str: cards['title'], layout: 'title', font: 'Baloo 2 bold 13'
+            text str: cards['desc'], layout: 'description', font: 'Baloo 2', font_size: 10
             svg layout: cards['prefix'], mask: color
             svg file: cards['icon'], layout: 'illustration'
-            save_pdf file: " #{prefix}.pdf", width: 3450, height: 3450*297/210 # perfect fit for 4x4 on A4
+            save_pdf file: "#{prefix}.pdf", width: 3450, height: 3450*297/210 # perfect fit for 4x4 on A4
         end
     end
 
