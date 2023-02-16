@@ -10,14 +10,13 @@ class MyDeck
 
         Squib::Deck.new cards: size, layout: layouts do
             background color: 'white'
-            rect layout: 'cut', dash:'10 10'
+            rect layout: 'cut', stroke_color: 'white'
             rect layout: 'safe', stroke_color: color, stroke_width: 10, dash: ''
             text str: cards['title'], layout: 'title'
-            text str: cards['desc'], layout: 'description'
+            text str: cards['desc'], layout: 'description', font_size: 10
             svg layout: prefix, mask: color
             svg file: cards['icon'], layout: 'illustration'
-            #save_sheet prefix: prefix+'_', columns: 4
-            #save_pdf
+            save_pdf file: " #{prefix}.pdf", trim: 37.5, width: 2100*1.55, height: 2970*1.55 # 16 cards / page
         end
     end
 
