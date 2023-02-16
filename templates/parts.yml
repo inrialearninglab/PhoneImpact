@@ -1,0 +1,54 @@
+part_title:
+  font: Baloo 2 bold 30
+  align: center
+  color: '#230602'
+  width: 825
+  y: 150
+
+ms:
+  x: 150
+  y: 500
+  font: Baloo 2 bold 20
+  color: '#230602'
+ms_icon:
+  extends: ms
+  x: += 75
+  width: 120
+  height: 120
+  mask: '#230602'
+
+mc:
+  extends: ms
+  y: += 200
+
+mc_icon:
+  extends: ms_icon
+  y: += 200
+
+mr:
+  extends: ms
+  x: += 300
+
+mr_icon:
+  extends: ms_icon
+  x: += 300
+
+tr:
+  extends: ms
+  x: += 300
+  y: += 200
+
+tr_icon:
+  extends: ms_icon
+  x: += 300
+  y: += 200
+
+mp:
+  extends: ms
+  x: += 150
+  y: += 400
+
+mp_icon:
+  extends: ms_icon
+  x: += 150
+  y: += 400
