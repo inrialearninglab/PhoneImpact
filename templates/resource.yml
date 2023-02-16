@@ -17,3 +17,18 @@ illustration:
   y: 237.5
   width: 350
   height: 350
+
+resource_back:
+  x: 237.5
+  y: 350
+  width: 350
+  height: 350
+pp_back:
+  extends: resource_back
+  file: svg/biohazard.svg
+pm_back:
+  extends: resource_back
+  file: svg/hazard-sign.svg
+re_back:
+  extends: resource_back
+  file: svg/recycle.svg

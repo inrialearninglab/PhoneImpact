@@ -31,4 +31,4 @@ MyDeck.create('pp', '#704530', [
     'icon' => 'svg/cut-diamond.svg',
     'desc' => 'Or, argent, platine, palladium, etc.'
   }
-])
+], true)

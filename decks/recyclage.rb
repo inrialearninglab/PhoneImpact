@@ -19,5 +19,5 @@ MyDeck.create('re', '#06848d', [
     'icon' => 'svg/metal-bar.svg',
     'desc' => 'Lithium, tantale, Indium, etc.'
   }
-])
+], true)
 
