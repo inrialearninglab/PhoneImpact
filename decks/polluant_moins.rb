@@ -16,19 +16,19 @@ MyDeck.create('pm', '#E1824A', [
   {
     'count' => 12,
     'title' => 'Métal rare',
-    'icon' => 'svg/metal-bar.svg',
+    'icon' => 'svg/ore.svg',
     'desc' => 'Lithium, tantale, Indium, etc.'
   },
   {
     'count' => 4,
     'title' => 'Terre rare',
-    'icon' => 'svg/minerals.svg',
+    'icon' => 'svg/powder.svg',
     'desc' => 'Yttrium, Néodyme, Gadolinium, etc.'
   },
   {
     'count' => 2,
     'title' => 'Metal précieux',
-    'icon' => 'svg/cut-diamond.svg',
+    'icon' => 'svg/gold-bar.svg',
     'desc' => 'Or, argent, platine, palladium, etc.'
   }
 ], true)

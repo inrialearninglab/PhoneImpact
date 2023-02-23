@@ -5,6 +5,11 @@ part_title:
   width: 825
   y: 150
 
+part_points:
+  extends: part_title
+  y: += 150
+  font_size: 20
+
 ms:
   x: 150
   y: 500
@@ -16,21 +21,36 @@ ms_icon:
   width: 120
   height: 120
   mask: '#230602'
-
-mc:
+ms_text:
   extends: ms
-  y: += 200
-
-mc_icon:
-  extends: ms_icon
-  y: += 200
+  x: 110
+  y: += 120
+  width: 300
+  align: center
+  font: Baloo 2 7
 
 mr:
   extends: ms
-  x: += 300
+  y: += 200
 
 mr_icon:
   extends: ms_icon
+  y: += 200
+
+mr_text:
+  extends: ms_text
+  y: += 200
+
+mc:
+  extends: ms
+  x: += 300
+
+mc_icon:
+  extends: ms_icon
+  x: += 300
+
+mc_text:
+  extends: ms_text
   x: += 300
 
 tr:
@@ -43,6 +63,11 @@ tr_icon:
   x: += 300
   y: += 200
 
+tr_text:
+  extends: ms_text
+  x: += 300
+  y: += 200
+
 mp:
   extends: ms
   x: += 150
@@ -50,5 +75,10 @@ mp:
 
 mp_icon:
   extends: ms_icon
+  x: += 150
+  y: += 400
+
+mp_text:
+  extends: ms_text
   x: += 150
   y: += 400

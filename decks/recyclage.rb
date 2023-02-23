@@ -16,7 +16,7 @@ MyDeck.create('re', '#06848d', [
   {
     'count' => 5,
     'title' => 'Métal rare',
-    'icon' => 'svg/metal-bar.svg',
+    'icon' => 'svg/ore.svg',
     'desc' => 'Lithium, tantale, Indium, etc.'
   }
 ], true)

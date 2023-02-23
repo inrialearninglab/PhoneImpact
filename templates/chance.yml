@@ -1,0 +1,8 @@
+chance_text:
+  font: Baloo 2 bold 12
+  align: center
+  valign: middle
+  width: 625
+  height: 375
+  y: 400
+  x: 100

@@ -19,7 +19,7 @@ illustration:
   height: 350
 
 resource_back:
-  x: 237.5
+  x: 250 # offset from 237.5 pour compenser le declage d'impression
   y: 350
   width: 350
   height: 350
