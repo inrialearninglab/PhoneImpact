@@ -3,6 +3,29 @@ chance_text:
   align: center
   valign: middle
   width: 625
-  height: 375
+  height: 400
   y: 400
   x: 100
+
+chance_number:
+  font: Baloo 2 bold 15
+  align: center
+  valign: middle
+  width: 625
+  height: 100
+  y: 100
+  x: 100
+
+chance_illu:
+  x: 1
+  y: 1
+  width: 1
+  height: 1
+  file: svg/empty.svg
+
+chance_back:
+  x: 250
+  y: 350
+  width: 350
+  height: 350
+  file: svg/newspaper.svg

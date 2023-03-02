@@ -1,8 +1,15 @@
-# Smartphone
+# SMARTPHONE MINage durABLE
 
-## Getting started
+## Cible et instructions animateur
 
-This repository contains all resources and code to make our serious game about smartphones.
+[Voir les instructions](./PNP.md)
+
+## Règle du jeu
+
+[Voir les règles](./RULES.md)
+
+
+## Contributing
 
 ### Requirements
 
