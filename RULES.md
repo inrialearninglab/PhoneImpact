@@ -38,10 +38,18 @@ Pour chaque pioche, de 1 à 3 cartes visibles et un tas de cartes non visibles
     - Pas de malus
     - Ne contient pas de terres rares, ni de métaux rares
 
+#### Cartes malus
+
+- 64 cartes malus
+- 1 carte "Attention, vous commencez à trop polluer" à placer en position (nombre de joueurs x 3)
+- 1 carte "Alerte pollution, vos malus sont déduis de votre total de points" à placer en position (nombre de joueur x 5)
+
+Exemple : à 5 joueurs la carte "attention" se place en 15e position de la pioche malus et la carte "alert" se place en 25e position de la pioche malus.
+
 #### Cartes événements
 
 15 cartes évenements dont l'ordre est défini par un numéro sur celle-ci. Ces cartes évenements déclencheront des 
-actions particulière à chaque tour de jeu.
+actions particulières à chaque tour de jeu.
 
 ## Déroulement du jeu
 
