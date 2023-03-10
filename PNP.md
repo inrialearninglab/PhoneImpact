@@ -2,11 +2,16 @@ Print and Play Notes
 ====================
 
 **Cible** : le grand public, plus de 16 ans
+
 **Sujet** : démontrer qu’un smartphone pollue à cause des matières premières (extraction et transformation) et de la fabrication des principaux composants
+
 **Parcours** : Mooc Impact’Num (Module 2.3: Pourrons-nous continuer longtemps à fabriquer des équipements informatiques ?) + Epoc (formation sur mobile) “Le smartphone et la planète”
+
 **Durée** : 30/40mn pour que le jeu puisse être utilisé en cours
+
 **Emotions** : l’apprenant doit être étonné/surpris, scandalisé
-**Objectifs pédagogiques** :
+
+**Objectifs pédagogiques** :  
 - Identifier les différents types d'éléments nécessaires à la fabrication d’un smartphone 
     - Matières synthétiques : plastique, fibre... (30 à 50 % des matériaux)
     - Métaux précieux (et rares) : or, argent, le platine, le palladium ([fiche concept 2.3.1](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html?lang=fr))
