@@ -51,6 +51,10 @@ Exemple : à 5 joueurs la carte "attention" se place en 15e position de la pioch
 15 cartes évenements dont l'ordre est défini par un numéro sur celle-ci. Ces cartes évenements déclencheront des 
 actions particulières à chaque tour de jeu.
 
+## Disposition
+
+![img](./img/disposition.jpg)
+
 ## Déroulement du jeu
 
 Un joueur tiré au sort commence la partie.
