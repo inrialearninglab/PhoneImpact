@@ -2,11 +2,11 @@ require 'squib'
 
 class MyDeck
 
-    def self.create(prefix, color, compo, back)
+    def self.create(name, prefix, color, compo, back)
         layouts = ['economy.yml', 'templates/resource.yml']
         cards = self.compo(compo, prefix, back)
         size = compo.sum {|h| h['count'] }
-        puts "Create deck #{prefix} of #{size} cards"
+        puts "Create deck #{name} of #{size} cards"
 
         Squib::Deck.new cards: cards['title'].length(), layout: layouts do
             background color: 'white'
@@ -17,7 +17,7 @@ class MyDeck
             text str: cards['desc'], layout: 'description', font: 'Baloo 2', font_size: 10
             svg layout: cards['prefix'], mask: color
             svg file: cards['icon'], layout: 'illustration'
-            save_pdf file: "#{prefix}.pdf", width: 3450, height: 3450*297/210 # perfect fit for 4x4 on A4
+            save_pdf file: "#{name}.pdf", width: 3450, height: 3450*297/210 # perfect fit for 4x4 on A4
         end
     end
 

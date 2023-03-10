@@ -1,6 +1,6 @@
 require_relative 'common'
 
-MyDeck.create('pp', '#704530', [
+MyDeck.create('polluant-plus', 'pp', '#704530', [
   {
     'count' => 26,
     'title' => 'Matière synthétique',

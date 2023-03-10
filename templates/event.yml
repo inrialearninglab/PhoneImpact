@@ -1,0 +1,31 @@
+event_text:
+  font: Baloo 2 bold 12
+  align: center
+  valign: middle
+  width: 625
+  height: 400
+  y: 400
+  x: 100
+
+event_number:
+  font: Baloo 2 bold 15
+  align: center
+  valign: middle
+  width: 625
+  height: 100
+  y: 100
+  x: 100
+
+event_illu:
+  x: 1
+  y: 1
+  width: 1
+  height: 1
+  file: svg/empty.svg
+
+event_back:
+  x: 250
+  y: 350
+  width: 350
+  height: 350
+  file: svg/newspaper.svg

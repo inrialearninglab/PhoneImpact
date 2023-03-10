@@ -1,6 +1,6 @@
 require_relative 'common'
 
-MyDeck.create('re', '#06848d', [
+MyDeck.create('recyclage', 're', '#06848d', [
   {
     'count' => 12,
     'title' => 'Matière synthétique',

@@ -1,6 +1,6 @@
 require_relative 'common'
 
-MyDeck.create('pm', '#E1824A', [
+MyDeck.create('polluant-moins', 'pm', '#E1824A', [
   {
     'count' => 20,
     'title' => 'Matière synthétique',
