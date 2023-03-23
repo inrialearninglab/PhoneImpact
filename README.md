@@ -1,4 +1,4 @@
-# SMARTPHONE MINage durABLE
+# SMARTPHONE fort minable (FORage MINage durABLE)
 
 ## Cible et instructions animateur
 
