@@ -2,7 +2,7 @@
 
 ## Intro
 
-Vous êtes des fabricants de smartphone vous allez devoir surpassé votre concurrence en construisant votre smartphone
+Vous êtes des fabricants de smartphones vous allez devoir surpasser votre concurrence en construisant votre smartphone
 tout en polluant le moins possible.
 
 ## But du jeu
@@ -48,8 +48,7 @@ Exemple : à 5 joueurs la carte "attention" se place en 15e position de la pioch
 
 #### Cartes événements
 
-15 cartes évenements dont l'ordre est défini par un numéro sur celle-ci. Ces cartes évenements déclencheront des
-actions particulières à chaque tour de jeu.
+15 cartes évenements dont l'ordre est défini par un numéro sur celle-ci. Ces cartes évenements déclencheront des actions particulières à chaque tour de jeu.
 
 ## Disposition
 
@@ -69,9 +68,9 @@ A chaque tour de jeu (sauf au début) :
 ### Déroulement d’un tour d'un joueur
 
 Une seule action possible parmi :  
-    - Pioche dans une seule des 3 pioches (au choix parmi cartes visibles ou non-visible)
-    - Construction d’un composant ou du téléphone (Malus pollution ?)
-    - Dépoluer : on se débarasse de 2 cartes Malus
+- Pioche dans une seule des 3 pioches (au choix parmi cartes visibles ou non-visible)
+- Construction d’un composant ou du téléphone (Malus pollution ?)
+- Dépoluer : on se débarasse de 2 cartes Malus
 
 
 ## Fin de partie
