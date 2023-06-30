@@ -4,7 +4,16 @@ event_text:
   valign: middle
   width: 625
   height: 400
-  y: 400
+  y: 450
+  x: 100
+
+event_type:
+  font: Ballo 2 bold 15
+  align: center
+  valign: middle
+  width: 635
+  height: 100
+  y: 250
   x: 100
 
 event_number:

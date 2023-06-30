@@ -43,16 +43,19 @@ puts "Create deck event of #{events.length()} cards"
 
 # split into page of 9 cards
 pages_events = events.each_slice(9).to_a
+pages_types = types.each_slice(9).to_a
 pages_events_number = events_number.each_slice(9).to_a
 pages_events_illu = events_illu.each_slice(9).to_a
 
 # for each page add back of cards
 events = []
+types = []
 events_number = []
 events_illu = []
 cut = []
 pages_events.each_with_index do |page, index|
     events = events + pages_events[index] + Array.new(9, '')
+    types = types + pages_types[index] + Array.new(9, '')
     events_number = events_number + pages_events_number[index] + Array.new(9, '')
     events_illu = events_illu + pages_events_illu[index] + Array.new(9, 'event_back')
     cut = cut + Array.new(9, 10) + Array.new(9, 0)
@@ -64,6 +67,7 @@ Squib::Deck.new cards: events.length(), layout: layouts do
     rect layout: 'safe', stroke_color: 'white'
     svg layout: events_illu, mask: color
     text str: events, layout: 'event_text', color: color
+    text str: types, layout: 'event_type', color: color
     text str: events_number, layout: 'event_number', color: color
     save_pdf file: "event.pdf", width: 1800*1.5, height: 1800*297/210*1.5
 end
