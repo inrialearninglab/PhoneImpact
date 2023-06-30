@@ -5,19 +5,36 @@ color = '#0a4969'
 events = [
     'Chaque joueur prend une carte à son voisin de droite',
     'Chaque joueur prend une carte à ses voisins ayant plus de malus que lui',
-    'Chaque joueur pioche une carte de son choix parmis celles visibles dans l\'ordre croissant de malus',
+    'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus',
     'Chaque joueur prend une carte à son voisin de droite',
     'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées',
     'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus',
     'Chaque joueur prend une carte à ses voisins ayant plus de malus que lui',
     'Les malus des pioches sont doublés jusqu\'à la fin de la partie',
-    'Chaque joueur pioche une carte de son choix parmis celles visibles dans l\'ordre croissant de malus',
+    'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus',
     'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus',
-    'A DEFINIR',
-    'A DEFINIR',
-    'A DEFINIR',
-    'A DEFINIR',
+    'Tous les joueurs ayant au moins 5 cartes recyclées (main + téléphone) piochent 2 cartes',
+    'Chaque joueur prend une carte à ses voisins ayant plus de malus que lui',
+    'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées',
+    'Tous les joueurs ayant moins de 3 cartes recyclées défaussent 2 cartes',
     'FIN DE PARTIE'
+]
+types = [
+    'Péripétie',
+    'Duel',
+    'Bonus',
+    'Péripétie',
+    'Taxe',
+    'Taxe',
+    'Duel',
+    'Evolution',
+    'Bonus',
+    'Taxe',
+    'Bonus',
+    'Duel',
+    'Péripétie',
+    'Taxe',
+    'Evolution'
 ]
 events_number = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15];
 events_illu =  Array.new(15, 'event_illu')
