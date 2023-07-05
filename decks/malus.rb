@@ -31,7 +31,9 @@ Squib::Deck.new cards: 2, layout: layouts do
     background color: 'white'
     rect layout: 'cut', stroke_color: '#333', stroke_width: cards, radius:16
     rect layout: 'safe', stroke_color: 'white'
-    text str:['Attention, vous commencez à trop polluer', 'Alerte pollution, vos malus sont déduis de votre total de points'], x: 100, y: 400, width: 625, height: 400, font: 'Baloo 2 bold 12', align: 'center', valign: 'middle', color: '#333'
+    text str:'Malus', x: 0, y: 100, width: 825, height: 50, font: 'Baloo 2 bold 30', align: 'center', color: '#333'
+    svg layout: 'po', mask: '#333'
+    text str:['Attention, vous commencez à trop polluer', 'Alerte pollution, vos malus sont déduis de votre total de points'], x: 100, y: 700, width: 625, height: 400, font: 'Baloo 2 bold 12', align: 'center', valign: 'middle', color: '#333'
     save_pdf file: "malus-event.pdf", width: 3450, height: 3450*297/210 # perfect fit for 4x4 on A4
 end
 
