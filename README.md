@@ -51,3 +51,23 @@ Objectifs pédagogiques :
 `rake`
 
 Deck of cards are generated in `_output_`
+
+## Docker environment
+
+### Image
+[Docker image](https://hub.docker.com/r/viaudnathan/smartphone-deck)
+
+### Run container
+Execute this command and fill the local path for the generated cards
+```shell
+docker run -it -d -v path/to/generated_decks:/app/_output viaudnathan/smartphone-deck
+```
+
+### Instruction
+Everything is included inside the container so you can change and commit your changes;
+
+## Generating cards
+By default the cards you generate aren't added to the git repository, to add your cards please move the content of the _output file inside the pdf file by executing this command:
+```shell
+mv _output/*.pdf pdf/
+```

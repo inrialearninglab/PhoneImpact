@@ -11,3 +11,5 @@ RUN gem install squib
 WORKDIR /app
 
 COPY . /app
+
+RUN git pull
