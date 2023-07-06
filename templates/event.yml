@@ -3,8 +3,8 @@ event_text:
   align: center
   valign: middle
   width: 625
-  height: 400
-  y: 450
+  height: 500
+  y: 400
   x: 100
 
 event_type:
