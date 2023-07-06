@@ -56,11 +56,14 @@ Exemple : à 5 joueurs la carte "attention" se place en 15e position de la pioch
 
 ## Déroulement du jeu
 
-Un joueur tiré au sort commence la partie.
+La personne ayant l'indice de réparabilité le plus haut sur son smartphone:
+[Indice de reparabilité](https://www.indicereparabilite.fr/)
+
+Si égalité le plus anciens l'emporte.
 
 ### Déroulement d’un tour de jeu
 
-A chaque tour de jeu (sauf au début) :  
+A chaque tour de jeu (sauf au 1er tour) :  
 - On tire une carte événement valable pour tous les joueurs
 - Phase de négociation collective : échange de ressources et malus (ex: "je donne 1 ressource "Terre rare" avec 2 malus" ou "j'échange x ressources type1 contre Y ressources type2")
 - Chaque joueur joue à son tour, en commençant par celui qui a été tiré au sort puis dans le sens des aiguilles d'une montre.
@@ -68,7 +71,7 @@ A chaque tour de jeu (sauf au début) :
 ### Déroulement d’un tour d'un joueur
 
 Une seule action possible parmi :  
-- Pioche dans une seule des 3 pioches (au choix parmi cartes visibles ou non-visible)
+- Pioche dans une seule des 3 pioches au choix parmi les cartes visibles ou non-visibles (les cartes visibles ne sont repositionnées qu'à la fin de la phase de pioche)
 - Construction d’un composant ou du téléphone (Malus pollution ?)
 - Dépoluer : on se débarasse de 2 cartes Malus
 

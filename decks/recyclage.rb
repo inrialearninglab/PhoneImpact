@@ -14,7 +14,7 @@ MyDeck.create('recyclage', 're', '#06848d', [
     'desc' => "Aluminium, cuivre, nickel, etc.\n\n(Nécessite beacoup de ressources ou d'énergie)"
   },
   {
-    'count' => 1,
+    'count' => 3,
     'title' => 'Metal précieux',
     'icon' => 'svg/gold-bar.svg',
     'desc' => 'Or, argent, platine, palladium, etc.'

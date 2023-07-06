@@ -3,13 +3,13 @@ require_relative 'common'
 layouts = ['economy.yml', 'templates/event.yml']
 color = '#0a4969'
 events = [
-    'Chaque joueur prend une carte à son voisin de droite',
+    'Chaque joueur prend une carte à son voisin de droite commencant par celui qui a le moins de malus, sinon le plus de carte recyclées',
     'Chaque joueur prend une carte à ses voisins ayant plus de malus que lui',
-    'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus',
-    'Chaque joueur prend une carte à son voisin de droite',
+    'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus (recyclage si égalité)',
+    'Chaque joueur prend une carte à son voisin de droite commencant par celui qui a le moins de malus, sinon le plus de carte recyclées',
     'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées',
-    'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus',
-    'Chaque joueur prend une carte à ses voisins ayant plus de malus que lui',
+    'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus (arrondi à l\'inférieur)',
+    'Chaque joueur prend une carte à ses voisins ayant strictement plus de malus que lui',
     'Les malus des pioches sont doublés jusqu\'à la fin de la partie',
     'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus',
     'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus',
