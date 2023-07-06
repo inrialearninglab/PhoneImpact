@@ -1,6 +1,6 @@
 # SMARTPHONE IMPACT 
 
-L'empreinte métriel du smartphone
+L'empreinte matérielle du smartphone
 
 ## Informations générales
 Cible : le grand public, plus de 16 ans
