@@ -1,4 +1,6 @@
-# SMARTPHONE fort minable (FORage MINage durABLE)
+# SMARTPHONE IMPACT 
+
+L'empreinte métriel du smartphone
 
 ## Informations générales
 Cible : le grand public, plus de 16 ans
