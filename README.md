@@ -23,7 +23,7 @@ Objectifs pédagogiques :
 - Savoir quels types de métaux sont nécessaires pour chaque partie du smartphone (systext.org, blog.recommerce.org)
 - Réaliser que les réserves minières sont limitées
 - Réaliser que les méthodes d’extraction et de séparation de ces métaux font appel à des procédés très polluants
-- Savoir qu’il existe des filiaires plus durables/moins polluantes : pas de minéraux de conflits ou de travail des enfants, méthodes d’extraction moins polluantes ? (à vérifier)
+- Savoir qu’il existe des filières plus durables/moins polluantes : pas de minéraux de conflits ou de travail des enfants, méthodes d’extraction moins polluantes ? (à vérifier)
 - Utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible (et la pollution pour le recyclage n’est pas nulle)
 - Les métaux majeurs (cuivre, plomb, fer, aluminium…) et les métaux précieux (or, argent, platine…) sont recyclés à plus de 50%.
 - En revanche, les métaux mineurs (dont les terres rares) ne sont quasiment pas recyclés : moins de 1% par exemple pour l’indium, le néodyme, le tantale, le gallium et le germanium, et aucun recyclage pour d’autres métaux mineurs
