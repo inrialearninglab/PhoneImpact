@@ -3,36 +3,36 @@ require_relative 'common'
 layouts = ['economy.yml', 'templates/event.yml']
 color = '#0a4969'
 events = [
-    'Chaque joueur prend une carte à son voisin de droite commencant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #1
-    'Chaque joueur prend une carte à ses voisins ayant plus de malus que lui', #2
+    'Chaque joueur vole une carte à son voisin de droite commencant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #1
+    'Chaque joueur vole une carte à ses voisins ayant plus de malus que lui', #2
     'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus (recyclage si égalité)', #3
     'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées', #4
     'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus (arrondi à l\'inférieur)', #5
-    'Chaque joueur prend une carte à ses voisins ayant strictement plus de malus que lui', #6
+    'Chaque joueur vole une carte à ses voisins ayant strictement plus de malus que lui', #6
     'Les malus des pioches sont doublés jusqu\'à la fin de la partie', #7
     'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus', #8
     'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus', #9
     'Tous les joueurs ayant au moins 5 cartes recyclées (main + téléphone) piochent 2 cartes', #10
-    'Chaque joueur prend une carte à son voisin de droite commencant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #11
-    'Chaque joueur prend une carte à ses voisins ayant plus de malus que lui', #12
+    'Chaque joueur vole une carte à son voisin de droite commencant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #11
+    'Chaque joueur vole une carte à ses voisins ayant plus de malus que lui', #12
     'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées', #13
     'Tous les joueurs ayant moins de 3 cartes recyclées défaussent 2 cartes', #14
     'FIN DE LA PARTIE' #15
 ]
 types = [
-    'Redistribution', #1
-    'Règlementation', #2
+    'Pillage', #1
+    'Pillage', #2
     'Bonus', #3
     'Règlementation', #4
     'Règlementation', #5
-    'Règlementation', #6
+    'Pillage', #6
     'Événement majeur', #7
     'Bonus', #8
     'Règlementation', #9
     'Bonus', #10
-    'Redistribution', #11
-    'Règlementation', #12
-    'Règlementation', #13
+    'Pillage', #11
+    'Pillage', #12
+    'Pillage', #13
     'Règlementation', #14
     'Événement majeur' #15
 ]
