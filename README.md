@@ -56,13 +56,15 @@ Deck of cards are generated in `_output_`
 
 ## Docker environment
 
-### Image
-[Docker image](https://hub.docker.com/r/viaudnathan/smartphone-deck)
+### Create image
+```shell
+docker build -t [image_name] .
+```
 
 ### Run container
 Execute this command inside the project folder and the result will be generated in `_output`
 ```shell
-docker run -v .:/app viaudnathan/smartphone-deck
+docker run -v .:/app [image_name]
 ```
 
 ## Generating cards
