@@ -15,8 +15,8 @@ events = [
     'Tous les joueurs ayant au moins 5 cartes recyclées (main + téléphone) piochent 2 cartes', #10
     'Chaque joueur vole une carte à son voisin de droite commencant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #11
     'Chaque joueur vole une carte à ses voisins ayant plus de malus que lui', #12
-    'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées', #13
-    'Tous les joueurs ayant moins de 3 cartes recyclées défaussent 2 cartes', #14
+    'Tous les joueurs ayant moins de 3 cartes recyclées défaussent 2 cartes', #13
+    'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées', #14
     'FIN DE LA PARTIE' #15
 ]
 types = [
@@ -32,8 +32,8 @@ types = [
     'Bonus', #10
     'Pillage', #11
     'Pillage', #12
-    'Pillage', #13
-    'Règlementation', #14
+    'Règlementation', #13
+    'Pillage', #14
     'Événement majeur' #15
 ]
 events_number = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15];
