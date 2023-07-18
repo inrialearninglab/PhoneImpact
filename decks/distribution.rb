@@ -87,3 +87,45 @@ def printDistribution(cards)
 end
 
 printDistribution(defineDecks(5))
+
+require_relative 'common'
+
+layouts = ['economy.yml', 'templates/decks-distribution.yml']
+colors = ['#704530', '#E1824A', '#06848d']
+puts "Create deck of decks distribution"
+
+Squib::Deck.new cards: 3, layout: layouts do
+    background color: 'white'
+    rect layout: 'cut', stroke_color: colors, stroke_width: 10, radius:16
+    rect layout: 'safe', stroke_color: 'white'
+
+    svg layout: ['pp', 'pm', 're'], mask: colors
+
+    text str: ['Polluant +', 'Polluant -', 'Recyclage'], layout: 'deck_title'
+
+    svg file: 'svg/molecule.svg', layout: 'ms_icon'
+    text str: 'Matières synthétique', layout: 'ms_text'
+    text str: [26,20,12], layout: 'ms'
+
+    svg file: 'svg/stone-pile.svg', layout: 'mc_icon'
+    text str: 'Métaux communs', layout: 'mc_text'
+    text str: [18,12,7], layout: 'mc'
+
+    svg file: 'svg/ore.svg', layout: 'mr_icon'
+    text str: 'Métaux rares', layout: 'mr_text'
+    text str: [18,12,0], layout: 'mr'
+
+    svg file: 'svg/powder.svg', layout: 'tr_icon'
+    text str: 'Terres rares', layout: 'tr_text'
+    text str: [10,4,0], layout: 'tr'
+
+    svg file: 'svg/gold-bar.svg', layout: 'mp_icon'
+    text str: 'Métaux précieux', layout: 'mp_text'
+    text str: [5,2,3], layout: 'mp'
+
+    save_pdf file: "distribution.pdf", width: 1800*1.5, height: 1800*297/210*1.5
+end
+
+
+
+

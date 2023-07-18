@@ -1,4 +1,4 @@
-# SMARTPHONE IMPACT 
+# PHONE IMPACT 
 
 L'empreinte matérielle du smartphone
 
