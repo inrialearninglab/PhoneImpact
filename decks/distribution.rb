@@ -41,8 +41,8 @@ def defineDecks(nbPlayers)
     terreRare = 2.8
     metalPrecieux = 1.6
 
-    # Recyclage: 20% des cartes totales, contient: Plastiques, Métal commun et Métal précieux
-    cards['recyclage']['plastique'] = (plastique * nbPlayers * 0.2).round
+    # Recyclage: 20% des cartes totales, contient: Matière synthétique, Métal commun et Métal précieux
+    cards['recyclage']['matiereSynthetique'] = (plastique * nbPlayers * 0.2).round
     cards['recyclage']['metalCommun'] = (metalCommun * nbPlayers * 0.2).round
     # Peut être faire un surplus pour les métaux précieux ici
     cards['recyclage']['metalPrecieux'] = (metalPrecieux * nbPlayers * 0.4).round
@@ -54,8 +54,8 @@ def defineDecks(nbPlayers)
     # Terre rare: 100% des cartes totales
     # Métal précieux: 80% des cartes totales
 
-    # Polluant moins: 40% des cartes totales, contient: Plastiques, Métal commun, Métal rare, Terres rares et Métaux précieux
-    cards['polluant_moins']['plastique'] = (plastique * nbPlayers * 0.4).round
+    # Polluant moins: 40% des cartes totales, contient: Matière synthétique, Métal commun, Métal rare, Terres rares et Métaux précieux
+    cards['polluant_moins']['matiereSynthetique'] = (plastique * nbPlayers * 0.4).round
     cards['polluant_moins']['metalCommun'] = (metalCommun * nbPlayers * 0.4).round
     cards['polluant_moins']['metalRare'] = (metalRare * nbPlayers * 0.5).round
     cards['polluant_moins']['terreRare'] = (terreRare * nbPlayers * 0.4).round
@@ -68,8 +68,8 @@ def defineDecks(nbPlayers)
     # Terre rare: 60% des cartes totales
     # Métal précieux: 40% des cartes totales
 
-    # Polluant plus: 40% des cartes totales, contient: Plastiques, Métal commun, Métal rare, Terres rares et Métaux précieux
-    cards['polluant_plus']['plastique'] = (plastique * nbPlayers * 0.4).round
+    # Polluant plus: 40% des cartes totales, contient: Matière synthétique, Métal commun, Métal rare, Terres rares et Métaux précieux
+    cards['polluant_plus']['matiereSynthetique'] = (plastique * nbPlayers * 0.4).round
     cards['polluant_plus']['metalCommun'] = (metalCommun * nbPlayers * 0.4).round
     cards['polluant_plus']['metalRare'] = (metalRare * nbPlayers * 0.5).round
     cards['polluant_plus']['terreRare'] = (terreRare * nbPlayers * 0.6).round
@@ -78,54 +78,136 @@ def defineDecks(nbPlayers)
     return cards
 end
 
-# Print the distribution of the cards for 5 players
-def printDistribution(cards)
+# Compositions de toutes les pioches
+def getComposition()
+    decks5Players = defineDecks(5)
+    decks4Players = defineDecks(4)
+    decks3Players = defineDecks(3)
+    composition = {}
+
+    composition['matiereSynthetique'] = [
+        decks5Players['polluant_plus']['matiereSynthetique'],
+        decks5Players['polluant_moins']['matiereSynthetique'],
+        decks5Players['recyclage']['matiereSynthetique'],
+
+        decks4Players['polluant_plus']['matiereSynthetique'],
+        decks4Players['polluant_moins']['matiereSynthetique'],
+        decks4Players['recyclage']['matiereSynthetique'],
+
+        decks3Players['polluant_plus']['matiereSynthetique'],
+        decks3Players['polluant_moins']['matiereSynthetique'],
+        decks3Players['recyclage']['matiereSynthetique'],
+    ]
+    
+    composition['metalCommun'] = [
+        decks5Players['polluant_plus']['metalCommun'],
+        decks5Players['polluant_moins']['metalCommun'],
+        decks5Players['recyclage']['metalCommun'],
+
+        decks4Players['polluant_plus']['metalCommun'],
+        decks4Players['polluant_moins']['metalCommun'],
+        decks4Players['recyclage']['metalCommun'],
+
+        decks3Players['polluant_plus']['metalCommun'],
+        decks3Players['polluant_moins']['metalCommun'],
+        decks3Players['recyclage']['metalCommun'],
+    ]
+
+    composition['metalRare'] = [
+        decks5Players['polluant_plus']['metalRare'],
+        decks5Players['polluant_moins']['metalRare'],
+        decks5Players['recyclage']['metalRare'] || 0,
+
+        decks4Players['polluant_plus']['metalRare'],
+        decks4Players['polluant_moins']['metalRare'],
+        decks4Players['recyclage']['metalRare'] || 0,
+
+        decks3Players['polluant_plus']['metalRare'],
+        decks3Players['polluant_moins']['metalRare'],
+        decks3Players['recyclage']['metalRare'] || 0,
+    ]
+
+    composition['terreRare'] = [
+        decks5Players['polluant_plus']['terreRare'],
+        decks5Players['polluant_moins']['terreRare'],
+        decks5Players['recyclage']['terreRare'] || 0,
+
+        decks4Players['polluant_plus']['terreRare'],
+        decks4Players['polluant_moins']['terreRare'],
+        decks4Players['recyclage']['terreRare'] || 0,
+
+        decks3Players['polluant_plus']['terreRare'],
+        decks3Players['polluant_moins']['terreRare'],
+        decks3Players['recyclage']['terreRare'] || 0,
+    ]
+    
+    composition['metalPrecieux'] = [
+        decks5Players['polluant_plus']['metalPrecieux'],
+        decks5Players['polluant_moins']['metalPrecieux'],
+        decks5Players['recyclage']['metalPrecieux'],
+
+        decks4Players['polluant_plus']['metalPrecieux'],
+        decks4Players['polluant_moins']['metalPrecieux'],
+        decks4Players['recyclage']['metalPrecieux'],
+
+        decks3Players['polluant_plus']['metalPrecieux'],
+        decks3Players['polluant_moins']['metalPrecieux'],
+        decks3Players['recyclage']['metalPrecieux'],
+    ]
+    
+    return composition
+end
+
+def printCards(cards)
     puts "Distribution des cartes pour 5 joueurs:"
     puts "Recyclage: #{cards['recyclage']}"
     puts "Polluant moins: #{cards['polluant_moins']}"
     puts "Polluant plus: #{cards['polluant_plus']}"
 end
 
-printDistribution(defineDecks(5))
 
 require_relative 'common'
 
 layouts = ['economy.yml', 'templates/decks-distribution.yml']
-colors = ['#704530', '#E1824A', '#06848d']
+colors = ['#704530', '#E1824A', '#06848d']*3
 puts "Create deck of decks distribution"
 
-Squib::Deck.new cards: 3, layout: layouts do
+
+Squib::Deck.new cards: 9, layout: layouts do
     background color: 'white'
     rect layout: 'cut', stroke_color: colors, stroke_width: 10, radius:16
     rect layout: 'safe', stroke_color: 'white'
+    
 
-    svg layout: ['pp', 'pm', 're'], mask: colors
+    svg layout: ['pp', 'pm', 're']*3, mask: colors
 
-    text str: ['Polluant +', 'Polluant -', 'Recyclage'], layout: 'deck_title'
-
+    
+    composition = getComposition()
+    deckName = ['Polluant +', 'Polluant -', 'Recyclage']*3
+    nbPlayers = ['5 Joueurs']*3 + ['4 Joueurs']*3 + ['3 Joueurs']*3
+        
+    text str: deckName, layout: 'deck_title'
+    text str: nbPlayers, layout: 'deck_subtitle'
+    
     svg file: 'svg/molecule.svg', layout: 'ms_icon'
     text str: 'Matières synthétique', layout: 'ms_text'
-    text str: [26,20,12], layout: 'ms'
+    text str: composition['matiereSynthetique'], layout: 'ms'
 
     svg file: 'svg/stone-pile.svg', layout: 'mc_icon'
     text str: 'Métaux communs', layout: 'mc_text'
-    text str: [18,12,7], layout: 'mc'
+    text str: composition['metalCommun'], layout: 'mc'
 
     svg file: 'svg/ore.svg', layout: 'mr_icon'
     text str: 'Métaux rares', layout: 'mr_text'
-    text str: [18,12,0], layout: 'mr'
+    text str: composition['metalRare'], layout: 'mr'
 
     svg file: 'svg/powder.svg', layout: 'tr_icon'
     text str: 'Terres rares', layout: 'tr_text'
-    text str: [10,4,0], layout: 'tr'
+    text str: composition['terreRare'], layout: 'tr'
 
     svg file: 'svg/gold-bar.svg', layout: 'mp_icon'
     text str: 'Métaux précieux', layout: 'mp_text'
-    text str: [5,2,3], layout: 'mp'
+    text str: composition['metalPrecieux'], layout: 'mp'
 
     save_pdf file: "distribution.pdf", width: 1800*1.5, height: 1800*297/210*1.5
 end
-
-
-
-

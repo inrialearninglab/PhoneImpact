@@ -20,6 +20,13 @@ deck_title:
   width: 825
   y: 250
 
+deck_subtitle:
+  font: Baloo 2 15
+  align: center
+  color: '#230602'
+  width: 825
+  y: 375
+
 ms:
   x: 150
   y: 500
