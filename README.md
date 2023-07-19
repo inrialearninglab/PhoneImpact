@@ -28,7 +28,7 @@ Objectifs pédagogiques :
 - Prendre conscience qu'utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible (et la pollution pour le recyclage n’est pas nulle)
 - Prendre conscience qu'il n'est possible de recycler que 10% (à vérifier) des métaux
 - Réaliser que la pollution passée a des répercussions sur le présent
-- Sensibiliser / sur le fait que les constructeurs les plus pollueurs sont pénalisés pour réduire leur pollution (à modifier)
+- Sensibiliser sur le fait que les constructeurs les plus pollueurs subissent des sanctions afin de diminuer leur empreinte environnementale.
 
 ## Cible et instructions animateur
 
