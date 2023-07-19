@@ -40,7 +40,7 @@ Pour chaque pioche, de 1 à 3 cartes visibles et un tas de cartes non visibles
 
 #### Cartes malus
 
-- 64 cartes malus
+- 50 cartes malus
 - 1 carte "Attention, vous commencez à trop polluer" à placer en position (nombre de joueurs x 3)
 - 1 carte "Alerte pollution, vos malus sont déduis de votre total de points" à placer en position (nombre de joueur x 5)
 
