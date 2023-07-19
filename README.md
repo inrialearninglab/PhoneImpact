@@ -1,6 +1,6 @@
 # PHONE IMPACT 
 
-L'empreinte matérielle du smartphone
+Sous titre : Découvre l'impact des composants de ton smartphone
 
 ## Informations générales
 Cible : le grand public, plus de 16 ans
@@ -11,22 +11,24 @@ Parcours : Mooc Impact’Num (Module 2.3: Pourrons-nous continuer longtemps à f
 
 Durée : 30/40mn pour que le jeu puisse être utilisé en cours
 
+Nombre de joueurs : de 3 à 5
+
 Emotions : l’apprenant doit être étonné/surpris, scandalisé
 
 Objectifs pédagogiques :  
 - Identifier les différents types d’éléments nécessaires à la fabrication d’un smartphone
-  - Matières synthétiques : plastique, fibre… (30 à 50 % des matériaux)
-  - Métaux précieux (et rares) : or, argent, le platine, le palladium (fiche concept 2.3.1)
-  - Métaux rares (hors précieux)/Autres métaux rares : indium, lithium, cobalt, tantale
-  - Métaux mineurs (et non rares): aluminium, cuivre, Nickel
-  - Terres rares : pas rare mais difficile à extraire : néodyme, praséodyme, terbium et dysprosium
+  - Matière synthétique : plastique, fibre,… (30 à 50 % des matériaux)
+  - Métal précieux (et rares) : or, argent, platine, palladium,...
+  - Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
+  - Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
+  - Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
 - Savoir quels types de métaux sont nécessaires pour chaque partie du smartphone (systext.org, blog.recommerce.org)
 - Réaliser que les réserves minières sont limitées
-- Réaliser que les méthodes d’extraction et de séparation de ces métaux font appel à des procédés très polluants
 - Savoir qu’il existe des filières plus durables/moins polluantes : pas de minéraux de conflits ou de travail des enfants, méthodes d’extraction moins polluantes ? (à vérifier)
-- Utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible (et la pollution pour le recyclage n’est pas nulle)
-- Les métaux majeurs (cuivre, plomb, fer, aluminium…) et les métaux précieux (or, argent, platine…) sont recyclés à plus de 50%.
-- En revanche, les métaux mineurs (dont les terres rares) ne sont quasiment pas recyclés : moins de 1% par exemple pour l’indium, le néodyme, le tantale, le gallium et le germanium, et aucun recyclage pour d’autres métaux mineurs
+- Prendre conscience qu'utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible (et la pollution pour le recyclage n’est pas nulle)
+- Prendre conscience qu'il n'est possible de recycler que 10% (à vérifier) des métaux
+- Réaliser que la pollution passée a des répercussions sur le présent
+- Sensibiliser / sur le fait que les constructeurs les plus pollueurs sont pénalisés pour réduire leur pollution (à modifier)
 
 ## Cible et instructions animateur
 
