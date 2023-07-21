@@ -1,4 +1,4 @@
-# PHONE IMPACT 
+# PHONE IMPACT
 
 Sous titre : Découvre l'impact des composants de ton smartphone
 
@@ -15,22 +15,27 @@ Nombre de joueurs : de 3 à 5
 
 Emotions : l’apprenant doit être étonné/surpris, scandalisé
 
-Objectifs pédagogiques :  
+Objectif pédagogique principal : découvrir l'impact environnemental des composants du smartphone
+
+Objectifs pédagogiques (détail) :  
 - Identifier les différents types d’éléments nécessaires à la fabrication d’un smartphone
   - Matière synthétique : plastique, fibre,… (30 à 50 % des matériaux)
   - Métal précieux (et rares) : or, argent, platine, palladium,...
   - Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
   - Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
   - Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
-- Savoir quels types de métaux sont nécessaires pour chaque partie du smartphone (systext.org, blog.recommerce.org)
+- Enoncer quels types de métaux sont nécessaires pour chaque partie du smartphone (systext.org, blog.recommerce.org)
 - Réaliser que les réserves minières sont limitées
-- Savoir qu’il existe des filières plus durables/moins polluantes : pas de minéraux de conflits ou de travail des enfants, méthodes d’extraction moins polluantes ? (à vérifier)
+- Savoir qu’il existe des filières de minage plus ou moins polluantes : pas de minéraux de conflits ou de travail des enfants, méthodes d’extraction moins polluantes ? (à vérifier)
 - Prendre conscience qu'utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible (et la pollution pour le recyclage n’est pas nulle)
-- Prendre conscience qu'il n'est possible de recycler que 10% (à vérifier) des métaux
 - Réaliser que la pollution passée a des répercussions sur le présent
-- Sensibiliser sur le fait que les constructeurs les plus pollueurs subissent des sanctions afin de diminuer leur empreinte environnementale.
+- Réaliser qu'il est possible de modifier le comportement d'un constructeur en ajoutant des pénalités s'il pollue
 
-## Cible et instructions animateur
+## Instructions animateur
+
+[Voir les instructions](./Animation.md)
+
+## Instruction Print&Play
 
 [Voir les instructions](./PNP.md)
 

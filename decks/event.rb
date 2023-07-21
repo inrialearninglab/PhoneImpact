@@ -3,8 +3,8 @@ require_relative 'common'
 layouts = ['economy.yml', 'templates/event.yml']
 color = '#0a4969'
 events = [
-    'Chaque joueur vole une carte à son voisin de droite commencant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #1
-    'Chaque joueur vole une carte à ses voisins ayant plus de malus que lui', #2
+    'Chaque joueur vole une carte à son voisin de droite commençant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #1
+    'Chaque joueur vole une carte à ses voisins ayant strictement plus de malus que lui', #2
     'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus (recyclage si égalité)', #3
     'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées', #4
     'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus (arrondi à l\'inférieur)', #5
@@ -12,8 +12,8 @@ events = [
     'Les malus des pioches sont doublés jusqu\'à la fin de la partie', #7
     'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus', #8
     'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus', #9
-    'Tous les joueurs ayant au moins 5 cartes recyclées (main + téléphone) piochent 2 cartes', #10
-    'Chaque joueur vole une carte à son voisin de droite commencant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #11
+    'Tous les joueurs ayant au moins 4 cartes recyclées (main + téléphone) piochent 2 cartes', #10
+    'Chaque joueur vole une carte à son voisin de gauche commençant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #11
     'Chaque joueur vole une carte à ses voisins ayant plus de malus que lui', #12
     'Tous les joueurs ayant moins de 3 cartes recyclées défaussent 2 cartes', #13
     'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées', #14

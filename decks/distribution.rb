@@ -98,7 +98,7 @@ def getComposition()
         decks3Players['polluant_moins']['matiereSynthetique'],
         decks3Players['recyclage']['matiereSynthetique'],
     ]
-    
+
     composition['metalCommun'] = [
         decks5Players['polluant_plus']['metalCommun'],
         decks5Players['polluant_moins']['metalCommun'],
@@ -140,7 +140,7 @@ def getComposition()
         decks3Players['polluant_moins']['terreRare'],
         decks3Players['recyclage']['terreRare'] || 0,
     ]
-    
+
     composition['metalPrecieux'] = [
         decks5Players['polluant_plus']['metalPrecieux'],
         decks5Players['polluant_moins']['metalPrecieux'],
@@ -154,7 +154,7 @@ def getComposition()
         decks3Players['polluant_moins']['metalPrecieux'],
         decks3Players['recyclage']['metalPrecieux'],
     ]
-    
+
     return composition
 end
 
@@ -177,18 +177,20 @@ Squib::Deck.new cards: 9, layout: layouts do
     background color: 'white'
     rect layout: 'cut', stroke_color: colors, stroke_width: 10, radius:16
     rect layout: 'safe', stroke_color: 'white'
-    
+
 
     svg layout: ['pp', 'pm', 're']*3, mask: colors
 
-    
+
     composition = getComposition()
-    deckName = ['Polluant +', 'Polluant -', 'Recyclage']*3
-    nbPlayers = ['5 Joueurs']*3 + ['4 Joueurs']*3 + ['3 Joueurs']*3
-        
+    deckName = ['PolluePlus', 'PollueMoins', 'Recyclage']*3
+    nbPlayers = ['5 Joueurs, 2 malus'] + ['5 Joueurs, 1 malus'] + ['5 Joueurs'] +
+                ['4 Joueurs, 2 malus'] + ['4 Joueurs, 1 malus'] + ['4 Joueurs'] +
+                ['3 Joueurs, 2 malus'] + ['3 Joueurs, 1 malus'] + ['3 Joueurs']
+
     text str: deckName, layout: 'deck_title'
     text str: nbPlayers, layout: 'deck_subtitle'
-    
+
     svg file: 'svg/molecule.svg', layout: 'ms_icon'
     text str: 'Matières synthétique', layout: 'ms_text'
     text str: composition['matiereSynthetique'], layout: 'ms'

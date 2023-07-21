@@ -21,15 +21,15 @@ Chaque composant est constitué de ressources :
 - w Métaux mineurs
 - v Terres rares
 
-### 3 pioches de ressources/types de ressources:
+### 3 pioches de carte ressources/types de ressources:
 
-Pour chaque pioche, de 1 à 3 cartes visibles et un tas de cartes non visibles
+Pour chaque pioche, de 1 à 3 cartes visibles et un tas de cartes non visibles. Chaque pioche représente des ressources vendues par un fournisseur
 
-- Minage classique polluant non responsable
+- PolluePlus qui fait du minage classique polluant non responsable
     - 3 cartes ressources visibles parmi tous les types
     - 2 malus carbone
 
-- Minage moins polluant
+- PollueMoins qui fait du minage avec des efforts
     - 2 cartes ressources visibles parmi tous les types
     - 1 malus carbone
 
@@ -48,7 +48,12 @@ Exemple : à 5 joueurs la carte "attention" se place en 15e position de la pioch
 
 #### Cartes événements
 
-15 cartes évenements dont l'ordre est défini par un numéro sur celle-ci. Ces cartes évenements déclencheront des actions particulières à chaque tour de jeu.
+15 cartes événements dont l'ordre est défini par un numéro sur celle-ci. Ces cartes événements déclencheront des actions particulières à chaque tour de jeu.
+
+Certains événements désignent le joueur qui a le moins de malus (ex: action xxx commençant par celui qui a le moins de malus).
+- En cas d'égalité sur le nombre de malus, on regarde celui qui a le plus de cartes recyclés.
+- En cas d'égalité, on prend celui qui a le smartphone ayant l'indice de réparabilité le plus haut
+- En cas d'égalité, on prend celui qui a le smartphone ayant le smartphone le plus vieux
 
 ## Disposition
 
@@ -56,24 +61,28 @@ Exemple : à 5 joueurs la carte "attention" se place en 15e position de la pioch
 
 ## Déroulement du jeu
 
+### Qui commence ?
 La personne ayant l'indice de réparabilité le plus haut sur son smartphone:
 [Indice de reparabilité](https://www.indicereparabilite.fr/)
 
-Si égalité le plus anciens l'emporte.
+Si égalité le plus ancien l'emporte.
 
-### Déroulement d’un tour de jeu
+### Déroulement d’un tour de table
 
-A chaque tour de jeu (sauf au 1er tour) :  
-- On tire une carte événement valable pour tous les joueurs
+Les joueurs jouent chacun leur tour de jeu dans le sens horaire, en commençant par celui qui a été désigné (indice de réparabilité+age du smartphone).
+
+A la fin de chaque tour de table (avant que le 1er joueur ne démarre le tour suivant) :  
+- On tire une carte événement valable pour tous les joueurs et on fait éventuellement l'action écrite sur la carte
 - Phase de négociation collective : échange de ressources et malus (ex: "je donne 1 ressource "Terre rare" avec 2 malus" ou "j'échange x ressources type1 contre Y ressources type2")
-- Chaque joueur joue à son tour, en commençant par celui qui a été tiré au sort puis dans le sens des aiguilles d'une montre.
 
-### Déroulement d’un tour d'un joueur
+### Déroulement du tour de jeu d'un joueur
 
 Une seule action possible parmi :  
-- Pioche dans une seule des 3 pioches au choix parmi les cartes visibles ou non-visibles (les cartes visibles ne sont repositionnées qu'à la fin de la phase de pioche)
-- Construction d’un composant ou du téléphone (Malus pollution ?)
-- Dépoluer : on se débarasse de 2 cartes Malus
+- Pioche de cartes ressources dans une seule des 3 pioches au choix parmi les cartes visibles ou non-visibles (les cartes visibles ne sont repositionnées qu'à la fin de la phase de pioche).
+  - Selon la pioche, le joueur pioche des cartes Malus.
+  - Les cartes ressources sont cachées aux autres.
+- Construction d’un composant ou du téléphone
+- Dépoluer : on se débarasse de 2 cartes malus
 
 
 ## Fin de partie
