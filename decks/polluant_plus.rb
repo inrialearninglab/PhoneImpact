@@ -1,7 +1,7 @@
 require_relative 'common'
 require_relative 'distribution'
 
-polluant_plus = defineDecks(5)['polluant_plus']
+polluant_plus = defineDecks()['polluant_plus']
 
 MyDeck.create('polluant-plus', 'pp', '#704530', [
   {
