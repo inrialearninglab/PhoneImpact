@@ -9,24 +9,57 @@ tout en polluant le moins possible.
 
 Rassembler assez de ressources pour construire tous les composants de son smartphone.
 
-## Composition du jeu
+- Joueurs : 3 à 5
+- Âge : Dès 12 ans
+- Durée : 40 min
 
-### Téléphone à construire (7 Wonders Architect)
+## Matériel
+### Smartphones
+- 5 smartphones de 4 composants chacun : Coque, Carte Mère, Batterie, Ecran Tactile (chaque composant est une carte épaisse, visuel et taille exacte en cours de réalisation)
 
-4 composants : Coque, Carte Mère, Batterie, Ecran Tactile
-Chaque composant est constitué de ressources :
-- x Matières synthétiques
-- y Métaux précieux (rares)
-- z Autres métaux rares
-- w Métaux mineurs
-- v Terres rares
+Chaque composant est constitué de ressources qui apparaissent sur sa carte (type+nombre):
+- Matières synthétiques
+- Métaux précieux (rares)
+- Autres métaux rares
+- Métaux mineurs
+- Terres rares
+- [visuel du smartphone](./pdf/parts.pdf)
 
-### 3 pioches de carte ressources/types de ressources:
+### Cartes ressources
+- **99** cartes PolluePlus
+  - x cartes Matières synthétiques
+  - y cartes Métaux précieux (rares)
+  - z cartes Autres métaux rares
+  - w cartes Métaux mineurs
+  - v cartes Terres rares
+- **49** cartes PollueMoins
+  - x cartes Matières synthétiques
+  - y cartes Métaux précieux (rares)
+  - z cartes Autres métaux rares
+  - w cartes Métaux mineurs
+  - v cartes Terres rares
+- **17** cartes Recyclage
+  - x cartes Matières synthétiques
+  - y cartes Métaux précieux (rares)
+  - z cartes Autres métaux rares
+  - w cartes Métaux mineurs
+  - v cartes Terres rares
+--> 165 cartes
+### Cartes événement
+--> 17 cartes
+## Préparation du jeu
 
-Pour chaque pioche, de 1 à 3 cartes visibles et un tas de cartes non visibles. Chaque pioche représente des ressources vendues par un fournisseur
+### Téléphone à construire
+Chaque joueur possède un smartphone à construire
+- 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile
+Une plaquette par composant
+
+### 3 pioches de cartes ressources
+
+Les cartes ressources doivent être bien mélangées puis rassemblées en pioche, chacune représentant des ressources vendues par un fournisseur:
 
 - PolluePlus qui fait du minage classique polluant non responsable
-    - 3 cartes ressources visibles parmi tous les types
+    - 3 cartes ressources sont tirées de la pioche et placées côté
     - 2 malus carbone
 
 - PollueMoins qui fait du minage avec des efforts
@@ -54,6 +87,10 @@ Certains événements désignent le joueur qui a le moins de malus (ex: action x
 - En cas d'égalité sur le nombre de malus, on regarde celui qui a le plus de cartes recyclés.
 - En cas d'égalité, on prend celui qui a le smartphone ayant l'indice de réparabilité le plus haut
 - En cas d'égalité, on prend celui qui a le smartphone ayant le smartphone le plus vieux
+
+Selon le nombre de joueurs, on enlève certaines cartes :
+- on enlève les 2 dernières cartes (#13 et #14) à 5 joueurs
+- on enlève la dernière carte (#14) à 4 joueurs
 
 ## Disposition
 

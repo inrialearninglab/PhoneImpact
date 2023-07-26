@@ -3,23 +3,26 @@ require_relative 'common'
 layouts = ['economy.yml', 'templates/event.yml']
 color = '#0a4969'
 events = [
-    'Chaque joueur vole une carte à son voisin de droite commençant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #1
-    'Chaque joueur vole une carte à ses voisins ayant strictement plus de malus que lui', #2
-    'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus (recyclage si égalité)', #3
-    'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées', #4
-    'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus (arrondi à l\'inférieur)', #5
-    'Chaque joueur vole une carte à ses voisins ayant strictement plus de malus que lui', #6
+  "Entretenez votre smartphone pour éviter jusqu\'à 40% des pannes.\nTous les joueurs ayant 1 carte recyclée piochent 1 carte visible", #0
+    'Volez une carte à votre voisin de droite commençant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #1
+    'Volez une carte à vos voisins ayant strictement plus de malus que vous', #2
+    "Appliquez les R : Refuser, Réduire, Réparer, Recycler, Rendre à la terre.\nPiochez une carte parmi celles visibles dans l\'ordre croissant de malus", #3
+    "Loi anti-gaspillage, 2021: indice de réparabilité obligatoire sur les smartphones. Ne gardez que 2 ressources max de chaque type hors recyclées", #4
+    "Loi REEN, 2021 qui incite les entreprises à adopter des pratiques éco-responsables. Perdez nb cartes = nb malus/2 (arrondi inférieur)", #5
+    'Volez une carte à vos voisins ayant strictement plus de malus que vous', #6
     'Les malus des pioches sont doublés jusqu\'à la fin de la partie', #7
-    'Chaque joueur pioche une carte de son choix parmi celles visibles dans l\'ordre croissant de malus', #8
-    'Chaque joueur perd autant de cartes que de la moitié du nombre de ses malus', #9
-    'Tous les joueurs ayant au moins 4 cartes recyclées (main + téléphone) piochent 2 cartes', #10
-    'Chaque joueur vole une carte à son voisin de gauche commençant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #11
-    'Chaque joueur vole une carte à ses voisins ayant plus de malus que lui', #12
-    'Tous les joueurs ayant moins de 3 cartes recyclées défaussent 2 cartes', #13
-    'Chaque joueur perd les ressources pour en avoir 2 maximums de chaque type en excluant les ressources recyclées', #14
-    'FIN DE LA PARTIE' #15
+    "Réparez votre smartphone avant d\'en acheter un nouveau.\nChaque joueur pioche une carte parmi celles visibles (ordre croissant de malus)", #8
+    "France, 2015: l'obsolescence programmée constitue un délit avec condamnations. Perdez nb malus/2 ressources (arrondi inférieur)", #9
+    'Volez une carte à votre voisin de gauche commençant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #11
+    'Volez une carte à vos voisins ayant strictement plus de malus que vous', #12
+    "Union européenne, 2017: règlement sur l’importation de minerais provenant des zones de conflit. Perdez 2 ressources si vous avez moins de 3 cartes recyclées", #13
+    'Ne gardez que 2 ressources maximum de chaque type en excluant les ressources recyclées', #14
+    'FIN DE LA PARTIE', #15
+    'Carte supplémentaire','Carte supplémentaire'
+
 ]
 types = [
+  'Bonus', #0
     'Pillage', #1
     'Pillage', #2
     'Bonus', #3
@@ -29,15 +32,15 @@ types = [
     'Événement majeur', #7
     'Bonus', #8
     'Règlementation', #9
-    'Bonus', #10
     'Pillage', #11
     'Pillage', #12
     'Règlementation', #13
     'Pillage', #14
-    'Événement majeur' #15
+    'Événement majeur', #15
+    'Carte supplémentaire','Carte supplémentaire'
 ]
-events_number = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15];
-events_illu =  Array.new(15, 'event_illu')
+events_number = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17];
+events_illu =  Array.new(17, 'event_illu')
 puts "Create deck event of #{events.length()} cards"
 
 
