@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Vous êtes des fabricants de smartphones vous allez devoir surpasser votre concurrence en construisant votre smartphone
-tout en polluant le moins possible.
+Vous êtes des fabricants de smartphones vous allez devoir surpasser votre concurrence en construisant votre smartphone tout en polluant le moins possible.
 
 ## But du jeu
 
@@ -45,6 +44,9 @@ Chaque composant est constitué de ressources qui apparaissent sur sa carte (typ
   - w cartes Métaux mineurs
   - v cartes Terres rares
 --> 165 cartes
+
+Précision importante : le % de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
+
 ### Cartes événement
 --> 17 cartes
 ## Préparation du jeu
@@ -60,11 +62,11 @@ Les cartes ressources doivent être bien mélangées puis rassemblées en pioche
 
 - PolluePlus qui fait du minage classique polluant non responsable
     - 3 cartes ressources sont tirées de la pioche et placées côté
-    - 2 malus carbone
+    - 2 malus
 
 - PollueMoins qui fait du minage avec des efforts
     - 2 cartes ressources visibles parmi tous les types
-    - 1 malus carbone
+    - 1 malus
 
 - Recyclage
     - 1 carte ressource visible parmi les métaux recyclables
@@ -100,9 +102,11 @@ Selon le nombre de joueurs, on enlève certaines cartes :
 
 ### Qui commence ?
 La personne ayant l'indice de réparabilité le plus haut sur son smartphone:
-[Indice de reparabilité](https://www.indicereparabilite.fr/)
+[Indice de reparabilité](https://www.indicereparabilite.fr/).
 
-Si égalité le plus ancien l'emporte.
+Si un smartphone est tellement vieux qu'il n'a pas d'indice de réparabilité calculé de son smartphone --> c'est lui qui commence.
+
+En cas d'égalité d'indice de réparabilité, le smartphone le plus ancien l'emporte.
 
 ### Déroulement d’un tour de table
 
