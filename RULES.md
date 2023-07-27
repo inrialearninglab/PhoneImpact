@@ -26,19 +26,19 @@ Chaque composant est constitué de ressources qui apparaissent sur sa carte (typ
 
 ### Cartes ressources
 - **99** cartes PolluePlus
-  - x cartes Matières synthétiques
+  - x cartes Autres matières
   - y cartes Métaux précieux (rares)
   - z cartes Autres métaux rares
   - w cartes Métaux mineurs
   - v cartes Terres rares
 - **49** cartes PollueMoins
-  - x cartes Matières synthétiques
+  - x cartes Autres matières
   - y cartes Métaux précieux (rares)
   - z cartes Autres métaux rares
   - w cartes Métaux mineurs
   - v cartes Terres rares
 - **17** cartes Recyclage
-  - x cartes Matières synthétiques
+  - x cartes Autres matières
   - y cartes Métaux précieux (rares)
   - z cartes Autres métaux rares
   - w cartes Métaux mineurs
