@@ -1,7 +1,10 @@
 # Bibliographie du jeu
-[1.] [Mooc, activité 01]
-[2.] [https://www.se.com/us/en/download/document/998-21202519/]
-[3.] [Mooc, activité 03 Les impacts environnementaux d’un smartphone]
+
+- [1.] [Mooc, activité 01]
+
+- [2.] [https://www.se.com/us/en/download/document/998-21202519/]
+
+- [3.] [Mooc, activité 03 Les impacts environnementaux d’un smartphone]
 [4.] [Mooc, activité 04 Autopsie d’un smartphone]
 [5.] [Mooc, fiche concept "Quels métaux dans les smartphones?]
 [6.] [Enquête Ademe, Longue vie à notre smartphone]
