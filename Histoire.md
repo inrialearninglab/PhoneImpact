@@ -3,11 +3,11 @@ Dans la ville de Techcity, vous incarnez un fabricant de smartphones, au cœur d
 
 Au fil des tours de jeu et des événements, vous découvrirez les réalités souvent méconnues de l'industrie des smartphones, depuis l'extraction des ressources jusqu'à la production des composants clés.
 
-Vous avez le choix entre trois fournisseurs pour obtenir les ressources nécessaires à la production de vos smartphones :
+Pour d'obtenir les ressources nécessaires à la production de vos smartphones, vous avez le choix entre trois fournisseurs :
 
 - "PolluePlus" qui pratique un minage classique polluant et non responsable, avec une extraction agressive des ressources naturelles.
 - "PollueMoins" qui adopte des pratiques de minage moins polluantes et plus durables, en prenant en considération les conditions de travail dans les exploitations minières. 
-- "Recyclage" qui se spécialise dans le recyclage des matériaux issus de smartphones usagés et de composants électroniques, tout en reconnaissant que certains métaux ne sont pas recyclables et cherche activement à améliorer le taux de recyclage des métaux des TIC (env. 10%).
+- "Recyclage" qui se spécialise dans le recyclage des matériaux issus de smartphones usagés et de composants électroniques, tout en reconnaissant que certains métaux ne sont pas recyclables et cherche activement à améliorer le taux de recyclage des métaux des Technologies de l'Information et de la Communication (env. 10%).
 
 Gérez judicieusement les ressources disponibles et prenez des décisions stratégiques pour construire tous les composants de votre smartphone tout en veillant à réduire votre impact environnemental. Mais attention, chaque choix que vous faites aura des conséquences !
 
