@@ -1,7 +1,7 @@
 # Introduction
 Dans la ville de Techcity, vous incarnez un fabricant de smartphones, au cœur de l'industrie technologique. Alors que la compétition fait rage pour produire les téléphones les plus innovants, une question cruciale émerge : l'impact environnemental de ces appareils.
 
-Au fil des tours de jeu et des événements,, vous découvrirez les réalités souvent méconnues de l'industrie des smartphones, depuis l'extraction des ressources jusqu'à la production des composants clés.
+Au fil des tours de jeu et des événements, vous découvrirez les réalités souvent méconnues de l'industrie des smartphones, depuis l'extraction des ressources jusqu'à la production des composants clés.
 
 Vous avez le choix entre trois fournisseurs pour obtenir les ressources nécessaires à la production de vos smartphones :
 
