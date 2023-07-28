@@ -3,15 +3,15 @@ require_relative 'common'
 layouts = ['economy.yml', 'templates/event.yml']
 color = '#0a4969'
 events = [
-  "Entretenez votre smartphone pour éviter jusqu\'à 40% des pannes.\nTous les joueurs ayant 1 carte recyclée piochent 1 carte visible", #0
+  "Réparez votre smartphone avant d\'en acheter un nouveau.\nChaque joueur pioche une carte parmi celles visibles (ordre croissant de malus)", #0
     'Volez une carte à votre voisin de droite commençant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #1
     'Volez une carte à vos voisins ayant strictement plus de malus que vous', #2
     "Appliquez les R : Refuser, Réduire, Réparer, Recycler, Rendre à la terre.\nPiochez une carte parmi celles visibles dans l\'ordre croissant de malus", #3
     "Loi anti-gaspillage, 2021: indice de réparabilité obligatoire sur les smartphones. Ne gardez que 2 ressources max de chaque type hors recyclées", #4
     "Loi REEN, 2021 qui incite les entreprises à adopter des pratiques éco-responsables. Perdez nb cartes = nb malus/2 (arrondi inférieur)", #5
     'Volez une carte à vos voisins ayant strictement plus de malus que vous', #6
-    'Les malus des pioches sont doublés jusqu\'à la fin de la partie', #7
-    "Réparez votre smartphone avant d\'en acheter un nouveau.\nChaque joueur pioche une carte parmi celles visibles (ordre croissant de malus)", #8
+    "Devant le risque d'épuisement des métaux disponibles et la consommation du numérique qui augmente, les malus des pioches sont doublés jusqu\'à la fin de la partie", #7
+    "Entretenez votre smartphone pour éviter jusqu\'à 40% des pannes.\nTous les joueurs ayant 1 carte recyclée piochent 1 carte visible", #8
     "France, 2015: l'obsolescence programmée constitue un délit avec condamnations. Perdez nb malus/2 ressources (arrondi inférieur)", #9
     'Volez une carte à votre voisin de gauche commençant par celui qui a le moins de malus, sinon le plus de cartes recyclées', #11
     'Volez une carte à vos voisins ayant strictement plus de malus que vous', #12
