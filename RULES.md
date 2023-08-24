@@ -8,9 +8,6 @@ Vous êtes des fabricants de smartphones vous allez devoir surpasser votre concu
 
 Rassembler assez de ressources pour construire tous les composants de son smartphone.
 
-- Joueurs : 3 à 5
-- Âge : Dès 12 ans
-- Durée : 40 min
 
 ## Matériel
 ### Smartphones

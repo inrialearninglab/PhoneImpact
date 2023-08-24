@@ -3,15 +3,13 @@
 Sous titre : Découvre l'impact des composants de ton smartphone
 
 ## Informations générales
-Cible : le grand public, plus de 16 ans
 
-Sujet : démontrer qu’un smartphone pollue à cause des matières premières (extraction et transformation) et de la fabrication des principaux composants
+- Sujet : démontrer qu’un smartphone pollue à cause des matières premières (extraction et transformation) et de la fabrication des principaux composants
+- Parcours : Mooc Impact’Num (Module 2.3: Pourrons-nous continuer longtemps à fabriquer des équipements informatiques ?) + Epoc (formation sur mobile) “Le smartphone et la planète”
 
-Parcours : Mooc Impact’Num (Module 2.3: Pourrons-nous continuer longtemps à fabriquer des équipements informatiques ?) + Epoc (formation sur mobile) “Le smartphone et la planète”
-
-Durée : 30/40mn pour que le jeu puisse être utilisé en cours
-
-Nombre de joueurs : de 3 à 5
+- Joueurs : 3 à 5
+- Âge : Dès 12 ans
+- Durée : 40 min
 
 Emotions : l’apprenant doit être étonné/surpris, scandalisé
 
