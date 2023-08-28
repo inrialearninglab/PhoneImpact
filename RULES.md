@@ -49,12 +49,26 @@ Précision importante : le % de cartes nécessaires pour les composants n'est pa
 
 ### Cartes événement
 --> 17 cartes
+
+Les cartes sont numérotées et doivent être classées dans l'ordre croissant à chaque début de partie.
+Elles peuvent être de type :
+- bonus
+- pillage
+- règlementation
+- évènement majeur
+
+### Cartes Malus
+--> 37 cartes
+
+Les cartes doivent être mélangées à chaque début de partie.
+
 ## Préparation du jeu
 
-### Téléphone à construire
-Chaque joueur possède un smartphone à construire
-- 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile
-Une plaquette par composant
+### Plateau de jeu à construire
+Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
+Mélanger les cartes malus et les placer au milieu.
+
+![img](./img/disposition.jpg)
 
 ### 3 pioches de cartes ressources
 
@@ -75,6 +89,7 @@ Les cartes ressources doivent être bien mélangées puis rassemblées en pioche
 
 #### Cartes malus
 
+Les cartes malus sont mélangées et déposées en un tas, face cachée.
 - 50 cartes malus
 - 1 carte "Attention, vous commencez à trop polluer" à placer en position (nombre de joueurs x 3)
 - 1 carte "Alerte pollution, vos malus sont déduis de votre total de points" à placer en position (nombre de joueur x 5)
@@ -94,10 +109,6 @@ Selon le nombre de joueurs, on enlève certaines cartes :
 - on enlève les 2 dernières cartes (#13 et #14) à 5 joueurs
 - on enlève la dernière carte (#14) à 4 joueurs
 
-## Disposition
-
-![img](./img/disposition.jpg)
-
 ## Déroulement du jeu
 
 ### Qui commence ?
@@ -110,7 +121,7 @@ En cas d'égalité d'indice de réparabilité, le smartphone le plus ancien l'em
 
 ### Déroulement d’un tour de table
 
-Les joueurs jouent chacun leur tour de jeu dans le sens horaire, en commençant par celui qui a été désigné (indice de réparabilité+age du smartphone).
+Les joueurs jouent chacun leur tour dans le sens horaire, en commençant par celui qui a été désigné (indice de réparabilité+age du smartphone).
 
 A la fin de chaque tour de table (avant que le 1er joueur ne démarre le tour suivant) :  
 - On tire une carte événement valable pour tous les joueurs et on fait éventuellement l'action écrite sur la carte
@@ -123,18 +134,19 @@ Une seule action possible parmi :
   - Selon la pioche, le joueur pioche des cartes Malus.
   - Les cartes ressources sont cachées aux autres.
 - Construction d’un composant ou du téléphone
-- Dépoluer : on se débarasse de 2 cartes malus
+- Dépolluer : le joueur se débarrasse de 2 cartes malus
 
-
-## Fin de partie
+## Conditions de fin de partie
 2 conditions de fin de partie possible :  
 - un joueur a construit son smartphone (tous les composants)
-- la carte évenement "Fin de partie" est tirée la partie s'arrête
+- la carte événement "Fin de partie" est tirée, la partie s'arrête.
 
 On termine le tour quand une des 2 conditions précédentes est atteinte.
 
-## Le gagnant
-On compte ensuite les points en fonction :  
-- des composants du téléphone construit. Chaque composant rapporte un certain nombre de points.
+## Décompte des points
+Le gagnant est celui qui a le plus de points.
+
+On compte les points en fonction :  
+- des composants du téléphone construits. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - si son smartphone est terminé --> 10 points
 - éventuellement soustraire des points pour les malus si c'est spécifié durant la partie
