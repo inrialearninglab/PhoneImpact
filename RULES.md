@@ -14,7 +14,7 @@ Rassembler assez de ressources pour construire tous les composants de son smartp
 - 5 smartphones de 4 composants chacun : Coque, Carte Mère, Batterie, Ecran Tactile (chaque composant est une carte épaisse, visuel et taille exacte en cours de réalisation)
 
 Chaque composant est constitué de ressources qui apparaissent sur sa carte (type+nombre):
-- Matières synthétiques
+- Autres matières
 - Métaux précieux (rares)
 - Autres métaux rares
 - Métaux mineurs
@@ -22,24 +22,27 @@ Chaque composant est constitué de ressources qui apparaissent sur sa carte (typ
 - [visuel du smartphone](./pdf/parts.pdf)
 
 ### Cartes ressources
-- **99** cartes PolluePlus
-  - x cartes Autres matières
-  - y cartes Métaux précieux (rares)
-  - z cartes Autres métaux rares
-  - w cartes Métaux mineurs
-  - v cartes Terres rares
-- **49** cartes PollueMoins
-  - x cartes Autres matières
-  - y cartes Métaux précieux (rares)
-  - z cartes Autres métaux rares
-  - w cartes Métaux mineurs
-  - v cartes Terres rares
+- **99** cartes PolluPlus
+  - 4 cartes Métal précieux (et rares) : or, argent, platine, palladium,...
+  - 30 cartes Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
+  - 21 cartes Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
+  - 10 cartes Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
+  - 34 cartes Autre matière : Plastique, verre, ceramique, matières synthétiques, etc.(40 à 70% du poids)
+  
+- **49** cartes PolluMoins
+  - 2 cartes Métal précieux (et rares) : or, argent, platine, palladium,...
+  - 15 cartes Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
+  - 10 cartes Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
+  - 5 cartes Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
+  - 17 cartes Autre matière : Plastique, verre, ceramique, matières synthétiques, etc.(40 à 70% du poids)
+  
 - **17** cartes Recyclage
-  - x cartes Autres matières
-  - y cartes Métaux précieux (rares)
-  - z cartes Autres métaux rares
-  - w cartes Métaux mineurs
-  - v cartes Terres rares
+  - 2 cartes Métal précieux (et rares) : or, argent, platine, palladium,...
+  - 0 carte Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
+  - 6 cartes Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
+  - 0 carte Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
+  - 9 cartes Autre matière : Plastique, verre, ceramique, matières synthétiques, etc.(40 à 70% du poids)
+
 --> 165 cartes
 
 Précision importante : le % de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
@@ -57,11 +60,11 @@ Une plaquette par composant
 
 Les cartes ressources doivent être bien mélangées puis rassemblées en pioche, chacune représentant des ressources vendues par un fournisseur:
 
-- PolluePlus qui fait du minage classique polluant non responsable
+- PolluPlus qui fait du minage classique polluant non responsable
     - 3 cartes ressources sont tirées de la pioche et placées côté
     - 2 malus
 
-- PollueMoins qui fait du minage avec des efforts
+- PolluMoins qui fait du minage avec des efforts
     - 2 cartes ressources visibles parmi tous les types
     - 1 malus
 
