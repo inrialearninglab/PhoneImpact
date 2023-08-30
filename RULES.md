@@ -1,6 +1,5 @@
 # Règle du jeu
 
-[toc]
 
 ## Introduction
 
@@ -27,11 +26,11 @@ Chaque composant est constitué de ressources qui apparaissent sur la carte.
 
 Les ressources sont désignées par des types de ressources qui sont les suivants dans le jeu :
 
-- Métal précieux (et rares) : or, argent, platine, palladium,...
-- Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
-- Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
-- Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
-- Autre matière : Plastique, verre, ceramique, matières synthétiques, etc.(40 à 70% du poids)
+- Métal précieux : Or, argent, platine, palladium, etc... (Précieux mais aussi rare, stratégique donc cher)
+- Métal rare : Lithium, tantale, indium, etc... (Non précieux mais peu fréquent dans le sol)
+- Métal commun (et non rares): Aluminium, cuivre, nickel, etc... (L'extraction nécessite beaucoup de ressources et d'énergie)
+- Terre rare : Yttrium, néodyme, gadolinium, etc... (Pas si rare mais difficile à extraire)
+- Autre matière : Plastique, verre, céramique, matières synthétiques, etc... (40 à 70% du poids)
 
 [visuel du smartphone](./pdf/parts.pdf)
 
