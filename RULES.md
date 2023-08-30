@@ -15,9 +15,9 @@ Rassembler assez de ressources pour construire tous les composants de votre smar
 
 
 ## Matériel
-![Boite](./img/Boite.jpeg)
+![Boite](./img/Boite.png)
 
-![Matériel](./img/Materiel.jpeg)
+![Matériel](./img/Materiel.png)
 
 ### Plateau *Smartphones*
 Il y a dans le jeux 5 plateaux Smartphones de 4 composants chacun : Coque, Carte Mère, Batterie, Ecran Tactile (chaque composant est une carte épaisse). Les 4 cartes "composants" assemblées représentent un smartphone au format A4.
