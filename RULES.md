@@ -1,5 +1,7 @@
 # Règle du jeu
 
+[toc]
+
 ## Introduction
 
 Vous êtes des fabricants de smartphones. Vous allez devoir surpasser votre concurrence en construisant votre smartphone tout en polluant le moins possible.
