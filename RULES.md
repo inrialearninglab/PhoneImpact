@@ -108,7 +108,7 @@ Les cartes malus sont mélangées et déposées en un tas, face cachée.
 - 1 carte "Attention, vous commencez à trop polluer" à placer en position (nombre de joueurs x 3)
 - 1 carte "Alerte pollution, vos malus sont déduis de votre total de points" à placer en position (nombre de joueur x 5)
 
-Exemple : à 5 joueurs la carte "attention" se place en 15e position de la pioche malus et la carte "alert" se place en 25e position de la pioche malus.
+Exemple : à 5 joueurs la carte "attention" se place en 15e position de la pioche malus et la carte "alerte" se place en 25e position de la pioche malus.
 
 #### Cartes événements
 
