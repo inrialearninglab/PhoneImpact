@@ -1,5 +1,11 @@
 # Bibliographie du jeu
+## Références
+Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impact environnementaux du numérique" :
 
+- [lien pour s'inscrire au Mooc "Impact environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
+- [Portail de ressources du Mooc](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html)
+
+## sources des textes des malus
 - [1] [Mooc "Impact environnementaux du numérique", activité 01](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
 - [2] [https://www.se.com/us/en/download/document/998-21202519/]
 - [3] [Mooc "Impact environnementaux du numérique", activité 03 Les impacts environnementaux d’un smartphone](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)

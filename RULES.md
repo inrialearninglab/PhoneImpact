@@ -2,65 +2,78 @@
 
 ## Introduction
 
-Vous êtes des fabricants de smartphones vous allez devoir surpasser votre concurrence en construisant votre smartphone tout en polluant le moins possible.
+Vous êtes des fabricants de smartphones. Vous allez devoir surpasser votre concurrence en construisant votre smartphone tout en polluant le moins possible.
 
 ## But du jeu
 
-Rassembler assez de ressources pour construire tous les composants de son smartphone.
+Rassembler assez de ressources pour construire tous les composants de votre smartphone. Pour obtenir les ressources nécessaires à la production des composants, vous avez le choix entre trois fournisseurs :
+
+- **"PolluPlus"** qui pratique un minage classique polluant et non responsable, avec une extraction agressive des ressources naturelles.
+- **"PolluMoins"** qui adopte des pratiques de minage moins polluantes et plus durables, en prenant en considération les conditions de travail dans les exploitations minières.
+- **"Recyclage"** qui se spécialise dans le recyclage des matériaux issus de smartphones usagés et de composants électroniques, tout en cherchant à améliorer le recyclage des métaux des technologies de l'information et de la communication (environ 10%), même si certains métaux ne sont pas recyclables."
 
 
 ## Matériel
-### Smartphones
-- 5 smartphones de 4 composants chacun : Coque, Carte Mère, Batterie, Ecran Tactile (chaque composant est une carte épaisse, visuel et taille exacte en cours de réalisation)
+![Boite](./img/Boite.jpeg)
 
-Chaque composant est constitué de ressources qui apparaissent sur sa carte (type+nombre):
-- Autres matières
-- Métaux précieux (rares)
-- Autres métaux rares
-- Métaux mineurs
-- Terres rares
-- [visuel du smartphone](./pdf/parts.pdf)
+![Matériel](./img/Materiel.jpeg)
 
-### Cartes ressources
-- **99** cartes PolluPlus
-  - 4 cartes Métal précieux (et rares) : or, argent, platine, palladium,...
-  - 30 cartes Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
-  - 21 cartes Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
-  - 10 cartes Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
-  - 34 cartes Autre matière : Plastique, verre, ceramique, matières synthétiques, etc.(40 à 70% du poids)
-  
-- **49** cartes PolluMoins
-  - 2 cartes Métal précieux (et rares) : or, argent, platine, palladium,...
-  - 15 cartes Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
-  - 10 cartes Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
-  - 5 cartes Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
-  - 17 cartes Autre matière : Plastique, verre, ceramique, matières synthétiques, etc.(40 à 70% du poids)
-  
+### Plateau *Smartphones*
+Il y a dans le jeux 5 plateaux Smartphones de 4 composants chacun : Coque, Carte Mère, Batterie, Ecran Tactile (chaque composant est une carte épaisse). Les 4 cartes "composants" assemblées représentent un smartphone au format A4.
+
+Chaque composant est constitué de ressources qui apparaissent sur la carte.
+
+Les ressources sont désignées par des types de ressources qui sont les suivants dans le jeu :
+
+- Métal précieux (et rares) : or, argent, platine, palladium,...
+- Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
+- Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
+- Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
+- Autre matière : Plastique, verre, ceramique, matières synthétiques, etc.(40 à 70% du poids)
+
+[visuel du smartphone](./pdf/parts.pdf)
+
+### 165 Cartes *Ressources*
+Il existe 3 types de ressources qui correspondent à 3 tas de cartes :
+
+- **99** cartes de l'entreprise PolluPlus
+  - 4 cartes Métal précieux
+  - 30 cartes Métal rare
+  - 21 cartes Métal commun
+  - 10 cartes Terre rare
+  - 34 cartes Autre matière
+
+- **49** cartes de l'entreprise PolluMoins
+  - 2 cartes Métal précieux
+  - 15 cartes Métal rare
+  - 10 cartes Métal commun
+  - 5 cartes Terre rare
+  - 17 cartes Autre matière
+
 - **17** cartes Recyclage
-  - 2 cartes Métal précieux (et rares) : or, argent, platine, palladium,...
-  - 0 carte Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
-  - 6 cartes Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
-  - 0 carte Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
-  - 9 cartes Autre matière : Plastique, verre, ceramique, matières synthétiques, etc.(40 à 70% du poids)
+  - 2 cartes Métal précieux
+  - 0 carte Métal rare
+  - 6 cartes Métal commun
+  - 0 carte Terre rare
+  - 9 cartes Autre matière
 
---> 165 cartes
+**Précision importante** : le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
 
-Précision importante : le % de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
+### 17 Cartes *Événement*
+Les cartes *Événement* sont numérotées et doivent être classées dans l'ordre croissant à chaque début de partie.
 
-### Cartes événement
---> 17 cartes
-
-Les cartes sont numérotées et doivent être classées dans l'ordre croissant à chaque début de partie.
 Elles peuvent être de type :
-- bonus
-- pillage
-- règlementation
-- évènement majeur
 
-### Cartes Malus
---> 37 cartes
+- Bonus
+- Pillage
+- Règlementation
+- Événement majeur
 
-Les cartes doivent être mélangées à chaque début de partie.
+### 37 Cartes *Malus*
+Les cartes *Malus* doivent être mélangées à chaque début de partie. À chaque malus correspond un texte qui doit être lu par les joueurs quand ils tirent une de ces cartes. Ces textes sont des chiffres, des informations, des faits en relations avec les impacts environnementaux du numériques. À la fin du texte, un numéro entre crochets permet de retrouver la source du texte.
+
+### Sources
+Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](./Sources.md))
 
 ## Préparation du jeu
 
@@ -68,7 +81,7 @@ Les cartes doivent être mélangées à chaque début de partie.
 Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
 Mélanger les cartes malus et les placer au milieu.
 
-![img](./img/disposition.jpg)
+![Disposition des cartes et des plateaux](./img/disposition.jpg)
 
 ### 3 pioches de cartes ressources
 
@@ -125,16 +138,16 @@ Les joueurs jouent chacun leur tour dans le sens horaire, en commençant par cel
 
 A la fin de chaque tour de table (avant que le 1er joueur ne démarre le tour suivant) :  
 - On tire une carte événement valable pour tous les joueurs et on fait éventuellement l'action écrite sur la carte
-- Phase de négociation collective : échange de ressources et malus (ex: "je donne 1 ressource "Terre rare" avec 2 malus" ou "j'échange x ressources type1 contre Y ressources type2")
+- Phase de négociation collective : échange de ressources et malus (ex: "je donne 1 ressource "Terre rare" avec 2 malus" ou "j'échange X ressources type1 contre Y ressources type2")
 
 ### Déroulement du tour de jeu d'un joueur
 
 Une seule action possible parmi :  
-- Pioche de cartes ressources dans une seule des 3 pioches au choix parmi les cartes visibles ou non-visibles (les cartes visibles ne sont repositionnées qu'à la fin de la phase de pioche).
-  - Selon la pioche, le joueur pioche des cartes Malus.
-  - Les cartes ressources sont cachées aux autres.
-- Construction d’un composant ou du téléphone
-- Dépolluer : le joueur se débarrasse de 2 cartes malus
+- Pioche de cartes ressources dans une seule des 3 pioches au choix, parmi les cartes visibles ou non-visibles. Les cartes visibles sélectionnées ne seront remplacées qu'à la fin du tour du joueur.
+  - Selon la pioche, le joueur pioche des cartes Malus: 2 cartes pour la pioche PolluPlus, 1 carte pour la pioche PolluMoins.
+  - Les cartes ressources sont cachées aux autres joueurs.
+- Construction d’un composant ou du téléphone. Quand un composant est construit, les cartes ressources sont posées sur le carton du composant. Ces cartes ressources ne seront plus utilisées par la suite, hormis éventuellement pour des comptages.
+- Dépolluer : le joueur se débarrasse de 2 cartes Malus
 
 ## Conditions de fin de partie
 2 conditions de fin de partie possible :  
@@ -148,5 +161,5 @@ Le gagnant est celui qui a le plus de points.
 
 On compte les points en fonction :  
 - des composants du téléphone construits. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
-- si son smartphone est terminé --> 10 points
+- si le smartphone d'un joueur est terminé --> 10 points
 - éventuellement soustraire des points pour les malus si c'est spécifié durant la partie
