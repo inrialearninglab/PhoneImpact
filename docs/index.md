@@ -1,5 +1,10 @@
-# PHONE IMPACT
+---
+hide:
+  - navigation
+  - toc
+---
+# Accueil
+
+!!! warning "En construction"
 
 ![Materiel](Materiel.png)
-
-!!! warning En construction
