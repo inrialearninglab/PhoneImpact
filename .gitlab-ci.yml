@@ -1,0 +1,21 @@
+image: brospars/docker-mkdocs
+pages:
+  stage: deploy
+  script:
+  - pip install -r requirements.txt
+  - mkdocs build --site-dir public
+  - cd public
+  - for file in $(find * -name "*.html"); do
+      sed -i "s|<img \([^\\\>]*\)src=\"\([^\:\>]*\)\"|<img \1\src=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
+      sed -i "s|<a \([^\\\>]*\)href=\"\([^#][^\:\"]*\)\"|<a \1\href=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
+    done
+  - for file in $(find * -name "story.html"); do
+      sed -i -e "\@</body>@i\<script src=\"$CI_PAGES_URL/assets/extra.js\"></script>" $file;
+    done
+  artifacts:
+    expire_in: 3 days
+    paths:
+    - public
+  only:
+  - master
+

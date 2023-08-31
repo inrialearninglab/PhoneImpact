@@ -1,0 +1,41 @@
+site_name: Jeu sérieux : Phone Impact
+site_url: https://learninglab.gitlabpages.inria.fr/serious-game/smartphone
+repo_url: https://gitlab.inria.fr/learninglab/serious-game/smartphone
+repo_name: Source
+use_directory_urls: false
+theme:
+  name: material
+  custom_dir: custom/
+  features:
+    - navigation.tabs
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tabbed
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.arithmatex:
+      generic: true
+plugins:
+  - search
+  - macros
+
