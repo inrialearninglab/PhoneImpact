@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Vous êtes des fabricants de smartphones. Vous allez devoir surpasser votre concurrence en construisant votre smartphone tout en polluant le moins possible.
+Vous êtes un fabricant de smartphones. Surpassez vos concurrents en construisant votre smartphone, tout en polluant le moins possible. Mais attention, chaque choix que vous faites aura des conséquences !
 
 ## But du jeu
 

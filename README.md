@@ -1,33 +1,29 @@
-# PHONE IMPACT
+# Jeu sérieux Phone Impact
 
 Sous titre : Découvre l'impact des composants de ton smartphone
 
 ## Informations générales
 
 - Sujet : démontrer qu’un smartphone pollue à cause des matières premières (extraction et transformation) et de la fabrication des principaux composants
-- Parcours : Mooc Impact’Num (Module 2.3: Pourrons-nous continuer longtemps à fabriquer des équipements informatiques ?) + Epoc (formation sur mobile) “Le smartphone et la planète”
 
 - Joueurs : 3 à 5
 - Âge : Dès 12 ans
 - Durée : 40 min
 
-Emotions : l’apprenant doit être étonné/surpris, scandalisé
-
 Objectif pédagogique principal : découvrir l'impact environnemental des composants du smartphone
 
-Objectifs pédagogiques (détail) :  
+Objectifs pédagogiques secondaires :  
 - Identifier les différents types d’éléments nécessaires à la fabrication d’un smartphone
-  - Matière synthétique : plastique, fibre,… (30 à 50 % des matériaux)
-  - Métal précieux (et rares) : or, argent, platine, palladium,...
-  - Métal rare (hors précieux)/Autres métaux rares : indium, lithium, tantale,...
-  - Métal commun (et non rares): aluminium, cuivre, nickel,... (nécessite beaucoup de ressources ou d'énergie)
-  - Terre rare : yttrium, néodyme, gadolinium,... (pas rare mais difficile à extraire)
-- Enoncer quels types de métaux sont nécessaires pour chaque partie du smartphone (systext.org, blog.recommerce.org)
-- Réaliser que les réserves minières sont limitées
-- Savoir qu’il existe des filières de minage plus ou moins polluantes : pas de minéraux de conflits ou de travail des enfants, méthodes d’extraction moins polluantes ? (à vérifier)
-- Prendre conscience qu'utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible (et la pollution pour le recyclage n’est pas nulle)
-- Réaliser que la pollution passée a des répercussions sur le présent
-- Réaliser qu'il est possible de modifier le comportement d'un constructeur en ajoutant des pénalités s'il pollue
+- Citer quels types de métaux sont nécessaires pour chaque partie du smartphone (systext.org, blog.recommerce.org)
+- "Réaliser" que les réserves minières sont limitées
+- Identifier qu’il existe des filières de minage plus ou moins polluantes
+- Reconnaître qu'utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible (et la pollution pour le recyclage n’est pas nulle)
+- S'interroger sur le fait que la pollution passée a des répercussions sur le présent
+- Déduire qu'il est possible de modifier le comportement d'un constructeur en ajoutant des pénalités s'il pollue
+
+Ce jeu s'inscrit dans un parcours pédagogique :
+- [Mooc "Impact environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
+- [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
 
 ## Instructions animateur
 
