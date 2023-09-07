@@ -1,0 +1,24 @@
+title:
+  font: Baloo2 12
+  x: 22.7mm
+  y: 9.5mm
+  width: 37.4mm
+  height: 11mm
+  align: 'center'
+  valign: 'middle'
+
+illustration:
+  font: Baloo2 12
+  x: 11.8mm
+  y: 24.5mm
+  width: 45mm
+  height: 45mm
+
+description:
+  font: Baloo2 9
+  x: 7.5mm
+  y: 74.3mm
+  width: 52.1mm
+  height: 12.1mm
+  align: 'center'
+  valign: 'middle'
