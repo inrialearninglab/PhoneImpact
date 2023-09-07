@@ -1,0 +1,84 @@
+require 'squib'
+
+resources_text = []
+CSV.foreach('data/csv/resources_text.csv', headers: true) do |row|
+  resources_text << { 'type' => row['type'], 'name' => row['name'], 'description' => row['description'] }
+end
+
+polluplus = {
+  'type' => [],
+  'name' => [],
+  'description' => [],
+  'image' => [],
+  'icon' => [],
+}
+
+index = 0
+cards_per_sheet = 8
+
+CSV.foreach('data/csv/resources_distribution.csv', headers: true) do |row|
+  type = row['type']
+  deck = row['deck']
+  quantity = row['quantity'].to_i
+
+  if deck != "polluplus" then next end
+
+  name = resources_text.find { |d| d['type'] == type }['name']
+  description = resources_text.find { |d| d['type'] == type }['description']
+
+  quantity.times do
+    if index == cards_per_sheet
+      cards_per_sheet.times do
+        polluplus['type'] << ''
+        polluplus['name'] << ''
+        polluplus['description'] << ''
+        polluplus['image'] << 'data/images/back/polluplus_back.png'
+        polluplus['icon'] << 'data/images/icons/empty.png'
+      end
+
+      index = 0
+    end
+
+    polluplus['type'] << type
+    polluplus['name'] << name
+    polluplus['description'] << description.gsub('\n', "\n")
+    polluplus['image'] << "data/images/border/#{deck}_border.png"
+    polluplus['icon'] << "data/images/icons/#{type}.png"
+
+    index += 1
+  end
+
+end
+
+if index > 0
+  remaining_cards = cards_per_sheet - index
+
+  remaining_cards.times do
+    polluplus['type'] << ''
+    polluplus['name'] << ''
+    polluplus['description'] << ''
+    polluplus['image'] << 'data/images/back/empty.png'
+    polluplus['icon'] << 'data/images/icons/empty.png'
+  end
+
+  index.times do
+    polluplus['type'] << ''
+    polluplus['name'] << ''
+    polluplus['description'] << ''
+    polluplus['image'] << 'data/images/back/polluplus_back.png'
+    polluplus['icon'] << 'data/images/icons/empty.png'
+  end
+end
+
+Squib::Deck.new(cards: polluplus['name'].size, layout: ['layouts/resources.yml', 'layouts/common.yml']) do
+  background color: :white
+
+  png file: polluplus['image'], layout: 'background_pnp'
+
+  png file: polluplus['icon'], layout: 'illustration'
+
+  text str: polluplus['name'], layout: 'title'
+  text str: polluplus['description'], layout: 'description'
+
+  save_pdf file: 'polluplus.pdf', sprue: 'sprues/pnp.yml'
+end

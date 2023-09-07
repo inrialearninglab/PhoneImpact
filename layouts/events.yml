@@ -1,0 +1,52 @@
+event_number:
+  font: Baloo2 Bold 16
+  color: '#7f99e6'
+  x: 10mm
+  y: 10mm
+  width: 47mm
+  height: 5mm
+  align: center
+  valign: middle
+
+event_type:
+  font: Baloo2 Bold 16
+  color: '#7f99e6'
+  x: 10mm
+  y: 15mm
+  width: 47mm
+  height: 15mm
+  align: center
+  valign: middle
+
+event_text:
+  font: Baloo2 12
+  x: 10mm
+  y: 31mm
+  width: 47mm
+  height: 51mm
+  align: center
+  valign: middle
+
+number_rect:
+  fill_color: green
+  stroke_color: red
+  x: 10mm
+  y: 10mm
+  width: 47mm
+  height: 10mm
+
+type_rect:
+  fill_color: blue
+  stroke_color: red
+  x: 10mm
+  y: 20mm
+  width: 47mm
+  height: 15mm
+
+text_rect:
+  fill_color: yellow
+  stroke_color: red
+  x: 10mm
+  y: 35mm
+  width: 47mm
+  height: 47mm

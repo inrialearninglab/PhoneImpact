@@ -1,0 +1,8 @@
+malus_text:
+  font: Baloo2 12
+  x: 10mm
+  y: 10mm
+  width: 47mm
+  height: 72mm
+  align: 'center'
+  valign: 'middle'

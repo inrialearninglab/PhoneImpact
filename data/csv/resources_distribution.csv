@@ -1,0 +1,14 @@
+type,quantity,deck
+AM,9,recyclage
+MC,6,recyclage
+MP,2,recyclage
+AM,17,pollumoins
+MC,10,pollumoins
+MR,15,pollumoins
+TR,5,pollumoins
+MP,2,pollumoins
+AM,34,polluplus
+MC,21,polluplus
+MR,30,polluplus
+TR,10,polluplus
+MP,4,polluplus
