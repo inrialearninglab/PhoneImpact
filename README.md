@@ -31,7 +31,7 @@ Ce jeu s'inscrit dans un parcours pédagogique :
 
 ## Instructions pour l'animateur
 
-[Instructions pour animer le jeu](support/InstructionsAnimateur.md)
+[Instructions pour animer le jeu](supports/InstructionsAnimateur.md)
 
 ## Instruction Print&Play
 
