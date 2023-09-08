@@ -85,7 +85,7 @@ Les cartes *Malus* doivent être mélangées à chaque début de partie. À chaq
 Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](./Sources.md))
 
 ## Préparation du jeu
-Voir la fiche [Préparation du jeu](supports/PréparationJeu.md)
+Voir la fiche [Préparation du jeu](supports/PreparationJeu.md)
 
 ## Déroulement du jeu
 
