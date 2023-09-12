@@ -68,5 +68,5 @@ Squib::Deck.new cards: cards['text'].size, layout: ['layouts/malus.yml', 'layout
   png file: cards['image'], layout: 'background_pnp'
 
   text str: cards['text'], layout: 'malus_text'
-  save_pdf file: 'malus.pdf', sprue: 'sprues/pnp.yml'
+  save_pdf file: 'malus.pdf', dir: '_output/pnp', sprue: 'sprues/pnp.yml'
 end

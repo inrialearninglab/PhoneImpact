@@ -1,24 +1,23 @@
 title:
-  font: Baloo2 12
+  font: Montserrat weight=600 10
   x: 22.7mm
   y: 9.5mm
-  width: 37.4mm
+  width: 37mm
   height: 11mm
   align: 'center'
   valign: 'middle'
 
 illustration:
-  font: Baloo2 12
   x: 11.8mm
   y: 24.5mm
   width: 45mm
   height: 45mm
 
 description:
-  font: Baloo2 9
+  font: Montserrat weight=500 8
   x: 7.5mm
-  y: 74.3mm
+  y: 74.1mm
   width: 52.1mm
-  height: 12.1mm
+  height: 12.2mm
   align: 'center'
   valign: 'middle'

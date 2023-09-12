@@ -80,5 +80,5 @@ Squib::Deck.new(cards: pollumoins['name'].size, layout: ['layouts/resources.yml'
   text str: pollumoins['name'], layout: 'title'
   text str: pollumoins['description'], layout: 'description'
 
-  save_pdf file: 'pollumoins.pdf', sprue: 'sprues/pnp.yml'
+  save_pdf file: 'pollumoins.pdf', dir: '_output/pnp', sprue: 'sprues/pnp.yml'
 end

@@ -57,5 +57,5 @@ Squib::Deck.new cards: cards['number'].size, layout: ['layouts/events.yml', 'lay
   text str: cards['type'], layout: 'event_type'
   text str: cards['text'], layout: 'event_text'
 
-  save_pdf file: 'events.pdf', sprue: 'sprues/pnp.yml'
+  save_pdf file: 'events.pdf', dir: '_output/pnp', sprue: 'sprues/pnp.yml'
 end

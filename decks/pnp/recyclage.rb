@@ -80,5 +80,5 @@ Squib::Deck.new(cards: recyclage['name'].size, layout: ['layouts/resources.yml',
   text str: recyclage['name'], layout: 'title'
   text str: recyclage['description'], layout: 'description'
 
-  save_pdf file: 'recyclage.pdf', sprue: 'sprues/pnp.yml'
+  save_pdf file: 'recyclage.pdf', dir: '_output/pnp', sprue: 'sprues/pnp.yml'
 end

@@ -26,5 +26,5 @@ Squib::Deck.new cards: images.size, layout: ['layouts/common.yml'] do
 
   png file: images, layout: 'background_pnp'
 
-  save_pdf file: 'recap.pdf', sprue: 'sprues/pnp.yml'
+  save_pdf file: 'recap.pdf', dir: '_output/pnp', sprue: 'sprues/pnp.yml'
 end

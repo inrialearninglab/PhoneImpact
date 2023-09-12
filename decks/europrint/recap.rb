@@ -13,5 +13,5 @@ Squib::Deck.new cards: images.size, layout: ['layouts/common.yml'] do
 
   png file: images, layout: 'background'
 
-  save_pdf file: 'recap.pdf', sprue: 'sprues/europrint.yml'
+  save_pdf file: 'recap.pdf', dir: '_output/europrint', sprue: 'sprues/europrint.yml'
 end

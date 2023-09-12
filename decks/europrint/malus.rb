@@ -34,5 +34,5 @@ Squib::Deck.new cards: cards['text'].size, layout: ['layouts/malus.yml', 'layout
     png file: cards['image'], layout: 'background'
 
     text str: cards['text'], layout: 'malus_text', color: cards['color']
-    save_pdf file: 'malus.pdf', sprue: 'sprues/europrint.yml'
+    save_pdf file: 'malus.pdf', dir: '_output/europrint', sprue: 'sprues/europrint.yml'
 end

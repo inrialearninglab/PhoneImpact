@@ -50,5 +50,5 @@ Squib::Deck.new(cards: resources['name'].size, layout: ['layouts/resources.yml',
   text str: resources['name'], layout: 'title'
   text str: resources['description'], layout: 'description'
 
-  save_pdf file: 'resources.pdf', sprue: 'sprues/europrint.yml'
+  save_pdf file: 'resources.pdf', dir: '_output/europrint', sprue: 'sprues/europrint.yml'
 end

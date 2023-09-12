@@ -1,5 +1,5 @@
 event_number:
-  font: Baloo2 Bold 16
+  font: Montserrat Bold 15
   color: '#7f99e6'
   x: 10mm
   y: 10mm
@@ -9,44 +9,21 @@ event_number:
   valign: middle
 
 event_type:
-  font: Baloo2 Bold 16
+  font: Montserrat Bold 15
   color: '#7f99e6'
   x: 10mm
   y: 15mm
-  width: 47mm
-  height: 15mm
+  width: 48mm
+  height: 18mm
   align: center
   valign: middle
 
 event_text:
-  font: Baloo2 12
+  font: Montserrat weight=600 11
+  spacing: 2
   x: 10mm
-  y: 31mm
+  y: 25mm
   width: 47mm
-  height: 51mm
+  height: 57mm
   align: center
   valign: middle
-
-number_rect:
-  fill_color: green
-  stroke_color: red
-  x: 10mm
-  y: 10mm
-  width: 47mm
-  height: 10mm
-
-type_rect:
-  fill_color: blue
-  stroke_color: red
-  x: 10mm
-  y: 20mm
-  width: 47mm
-  height: 15mm
-
-text_rect:
-  fill_color: yellow
-  stroke_color: red
-  x: 10mm
-  y: 35mm
-  width: 47mm
-  height: 47mm
