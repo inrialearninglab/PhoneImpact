@@ -1,6 +1,5 @@
 # Préparation du jeu
 
-Tout d'abord, il est nécessaire de bien lire les règles du jeu avant de démarrer l'activité (Cf [Règles du jeu et matériel](./Regles.md)).
 
 ## Plateau de jeu à construire
 Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
