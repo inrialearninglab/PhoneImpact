@@ -1,12 +1,15 @@
 # Préparation du jeu
 
+Tout d'abord, il est nécessaire de bien lire les règles du jeu avant de démarrer l'activité (Cf [Règles du jeu et matériel](./Regles.md)).
+
 ## Plateau de jeu à construire
 Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
 Mélanger les cartes malus et les placer au milieu.
 
-![Disposition des cartes et des plateaux](./img/disposition.jpg)
+![Disposition des cartes et des plateaux](../img/materiel.jpeg)
 
 ## 3 pioches de cartes ressources
+Selon le nombre de joueurs,
 
 Les cartes ressources doivent être bien mélangées puis rassemblées en pioche, chacune représentant des ressources vendues par un fournisseur:
 

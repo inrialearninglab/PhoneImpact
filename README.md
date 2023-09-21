@@ -25,9 +25,9 @@ Ce jeu s'inscrit dans un parcours pédagogique :
 - [Mooc "Impact environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
 - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
 
-## Règle du jeu
+## Règles du jeu et matériel
 
-[Voir les règles](./RULES.md)
+[Voir les règles](supports/regles.md)
 
 ## Instructions pour l'animateur
 
