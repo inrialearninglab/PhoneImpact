@@ -1,6 +1,6 @@
 # Jeu sérieux Phone Impact
 
-Sous titre : Découvre l'impact des composants de ton smartphone
+Sous titre : Découvrir l'impact des composants du smartphone avec le jeu
 
 ## Informations générales
 
