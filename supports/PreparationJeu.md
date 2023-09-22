@@ -8,8 +8,6 @@ Mélanger les cartes malus et les placer au milieu.
 ![Disposition des cartes et des plateaux](../img/materiel.jpeg)
 
 ## 3 pioches de cartes ressources
-Selon le nombre de joueurs,
-
 Les cartes ressources doivent être bien mélangées puis rassemblées en pioche, chacune représentant des ressources vendues par un fournisseur:
 
 - PolluPlus qui fait du minage classique polluant non responsable
@@ -28,7 +26,7 @@ Les cartes ressources doivent être bien mélangées puis rassemblées en pioche
 ### Cartes malus
 
 Les cartes malus sont mélangées et déposées en un tas, face cachée.
-- 50 cartes malus
+- 37 cartes malus
 - 1 carte "Attention, vous commencez à trop polluer" à placer en position (nombre de joueurs x 3)
 - 1 carte "Alerte pollution, vos malus sont déduis de votre total de points" à placer en position (nombre de joueur x 5)
 
