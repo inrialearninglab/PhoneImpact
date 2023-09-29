@@ -18,7 +18,7 @@ background:
   height: 83mm
 
 background_pnp:
-  x: 2mm
-  y: 2mm
-  width: 63mm
-  height: 89mm
+  x: 5mm
+  y: 5mm
+  width: 57mm
+  height: 83mm
