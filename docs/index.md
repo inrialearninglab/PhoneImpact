@@ -1,7 +1,7 @@
 ---
 title: Présentation
 ---
-# Présentation
+# Présentation du jeu PhoneImpact
 
 ## Informations générales
 
@@ -28,6 +28,14 @@ title: Présentation
 
 - [Mooc "Impact environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
 - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
+
+## Règles du jeu et matériel
+
+[Voir les règles](./Regles.md)
+
+## Instructions pour l'animateur
+
+[Instructions pour animer le jeu](./InstructionsAnimateur.md)
 
 ## Print and play
 

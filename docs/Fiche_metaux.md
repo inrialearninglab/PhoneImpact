@@ -1,9 +1,9 @@
 # Fiche métaux
-
-Ces fiches métaux accompagnent les jeux:
+Ces fiches métaux accompagnent les jeux :
 
 - jeu sérieux PhoneImpact
 - jeu educatif Mines de rien, mon smartphone pollue !
+
 
 ## Des métaux communs
 

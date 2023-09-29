@@ -8,7 +8,8 @@ Eventuellement, avoir un écran de grande taille ou video-projecteur OU poster/k
 Sur chaque table, préparer les jeux :
 - Voir la fiche [Préparation du jeu](./PreparationJeu.md)
 
-Une fois que les élèves sont arrivés,
+Une fois que les élèves sont arrivés :
+
 - [Briefing: concepts, règles, placements des joueurs...](./Briefing.md)
 - Jeu
 - [Debriefing](./Debriefing.md)

@@ -108,14 +108,17 @@ A la fin de chaque **tour de table** (avant que le 1er joueur ne démarre le tou
 ### Déroulement du tour de jeu d'un joueur
 
 Une seule action possible parmi :  
+
 - Pioche de cartes ressources dans une seule des 3 pioches au choix, parmi les cartes visibles ou non-visibles. Les cartes visibles sélectionnées ne seront remplacées qu'à la fin du tour du joueur.
-  - Selon la pioche, le joueur pioche des cartes Malus: 2 cartes pour la pioche PolluPlus, 1 carte pour la pioche PolluMoins. Chacun lit à voix haute les textes écrits sur les malus (sauf si on manque de temps). Peut-être seul le premier malus s'il y en a deux. Au moins 2 tours de jeux.
-  - Les cartes ressources sont cachées aux autres joueurs.
+     - Selon la pioche, le joueur pioche des cartes Malus: 2 cartes pour la pioche PolluPlus, 1 carte pour la pioche PolluMoins. Chacun lit à voix haute les textes écrits sur les malus (sauf si on manque de temps). Peut-être seul le premier malus s'il y en a deux. Au moins 2 tours de jeux.
+     - Les cartes ressources sont cachées aux autres joueurs.    
 - Construction d’un composant. Quand un composant est construit, les cartes ressources sont posées sur le carton du composant. Ces cartes ressources ne seront plus utilisées par la suite, hormis éventuellement pour des comptages.
 - Dépolluer : le joueur se débarrasse de 2 cartes Malus
+- Proposer aux autres joueurs d'échanger des cartes ou malus
 
 ## Conditions de fin de partie
 2 conditions de fin de partie possible :  
+
 - un joueur a construit son smartphone (tous les composants)
 - la carte événement "Fin de partie" est tirée, la partie s'arrête.
 
@@ -125,6 +128,7 @@ On termine le tour quand une des 2 conditions précédentes est atteinte.
 Le gagnant est celui qui a le plus de points.
 
 On compte les points en fonction :  
+
 - des composants construits du téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - si le smartphone d'un joueur est terminé --> 10 points
 - éventuellement certains événements amèneront peut-être des points positifs ou négatifs à compter aussi.

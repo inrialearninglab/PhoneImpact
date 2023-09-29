@@ -1,7 +1,7 @@
 # Brief: avant de jouer
 
 ## Les concepts : plus de 50 éléments chimiques dans mon smartphone ?!
-- kakemono ([version provisoire](./Kakemono_PhoneImpact.pdf))
+- kakemono ([version provisoire](./pdf/Kakemono_PhoneImpact.pdf))
 - [les différents type de métaux](./Fiche_metaux.md)
 
 ## Histoire
