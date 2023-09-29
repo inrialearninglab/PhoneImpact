@@ -29,11 +29,11 @@ Rassembler assez de ressources pour construire tous les composants de votre smar
 ![Matériel](..?/img/Materiel.png)
 
 ### Plateau *Smartphones*
-Il y a dans le jeux 5 plateaux Smartphones de 4 composants chacun : Coque, Carte Mère, Batterie, Ecran Tactile (chaque composant est une carte épaisse). Les 4 cartes "composants" assemblées représentent un smartphone au format A4.
+Il y a dans le jeux 5 **plateaux Smartphones** de 4 composants chacun : Coque, Carte Mère, Batterie, Ecran Tactile (chaque composant est une carte épaisse). Les 4 cartes "composants" assemblées représentent un smartphone au format A4.
 
-Chaque composant est constitué de ressources qui apparaissent sur la carte.
+Chaque **composant** est constitué de ressources qui apparaissent sur la carte.
 
-Les ressources sont désignées par des types de ressources qui sont les suivants dans le jeu :
+Les **ressources** sont désignées par des types de ressources qui sont les suivants dans le jeu :
 
 - Métal précieux : Or, argent, platine, palladium, etc... (Précieux mais aussi rare, stratégique donc cher)
 - Métal rare : Lithium, tantale, indium, etc... (Non précieux mais peu fréquent dans le sol)
@@ -69,7 +69,7 @@ Il existe 3 types de ressources qui correspondent à 3 tas de cartes :
 **Précision importante** : le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
 
 ### 17 Cartes *Événement*
-Les cartes *Événement* sont numérotées et doivent être classées dans l'ordre croissant à chaque début de partie.
+Les cartes **Événement** sont numérotées et doivent être classées dans l'ordre croissant à chaque début de partie.
 
 Elles peuvent être de type :
 
@@ -79,7 +79,7 @@ Elles peuvent être de type :
 - Événement majeur
 
 ### 37 Cartes *Malus*
-Les cartes *Malus* doivent être mélangées à chaque début de partie. À chaque malus correspond un texte qui doit être lu par les joueurs quand ils tirent une de ces cartes. Ces textes sont des chiffres, des informations, des faits en relations avec les impacts environnementaux du numériques. À la fin du texte, un numéro entre crochets permet de retrouver la source du texte.
+Les cartes **Malus** doivent être mélangées à chaque début de partie. À chaque malus correspond un texte qui doit être lu par les joueurs quand ils tirent une de ces cartes. Ces textes sont des chiffres, des informations, des faits en relations avec les impacts environnementaux du numériques. À la fin du texte, un numéro entre crochets permet de retrouver la source du texte.
 
 ### Sources
 Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](./Sources.md))
@@ -96,21 +96,22 @@ Si un smartphone est tellement vieux qu'il n'a pas d'indice de réparabilité ca
 
 En cas d'égalité d'indice de réparabilité, le smartphone le plus ancien l'emporte.
 
+Si on manque de temps, celui qui commence est celui qui a le smartphone le plus vieux.
+
 ### Déroulement d’un tour de table
 
 Les joueurs jouent chacun leur tour dans le sens horaire, en commençant par celui qui a été désigné (indice de réparabilité+age du smartphone).
 
-A la fin de chaque tour de table (avant que le 1er joueur ne démarre le tour suivant) :  
+A la fin de chaque **tour de table** (avant que le 1er joueur ne démarre le tour suivant) :  
 - On tire une carte événement valable pour tous les joueurs et on fait éventuellement l'action écrite sur la carte
-- Phase de négociation collective : échange de ressources et malus (ex: "je donne 1 ressource "Terre rare" avec 2 malus" ou "j'échange X ressources type1 contre Y ressources type2")
 
 ### Déroulement du tour de jeu d'un joueur
 
 Une seule action possible parmi :  
 - Pioche de cartes ressources dans une seule des 3 pioches au choix, parmi les cartes visibles ou non-visibles. Les cartes visibles sélectionnées ne seront remplacées qu'à la fin du tour du joueur.
-  - Selon la pioche, le joueur pioche des cartes Malus: 2 cartes pour la pioche PolluPlus, 1 carte pour la pioche PolluMoins.
+  - Selon la pioche, le joueur pioche des cartes Malus: 2 cartes pour la pioche PolluPlus, 1 carte pour la pioche PolluMoins. Chacun lit à voix haute les textes écrits sur les malus (sauf si on manque de temps). Peut-être seul le premier malus s'il y en a deux. Au moins 2 tours de jeux.
   - Les cartes ressources sont cachées aux autres joueurs.
-- Construction d’un composant ou du téléphone. Quand un composant est construit, les cartes ressources sont posées sur le carton du composant. Ces cartes ressources ne seront plus utilisées par la suite, hormis éventuellement pour des comptages.
+- Construction d’un composant. Quand un composant est construit, les cartes ressources sont posées sur le carton du composant. Ces cartes ressources ne seront plus utilisées par la suite, hormis éventuellement pour des comptages.
 - Dépolluer : le joueur se débarrasse de 2 cartes Malus
 
 ## Conditions de fin de partie
@@ -124,6 +125,6 @@ On termine le tour quand une des 2 conditions précédentes est atteinte.
 Le gagnant est celui qui a le plus de points.
 
 On compte les points en fonction :  
-- des composants du téléphone construits. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
+- des composants construits du téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - si le smartphone d'un joueur est terminé --> 10 points
-- éventuellement soustraire des points pour les malus si c'est spécifié durant la partie
+- éventuellement certains événements amèneront peut-être des points positifs ou négatifs à compter aussi.

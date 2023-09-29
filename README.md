@@ -4,7 +4,7 @@ Sous titre : Découvrir l'impact des composants du smartphone avec le jeu
 
 ## Informations générales
 
-- Sujet : démontrer qu’un smartphone pollue à cause des matières premières (extraction et transformation) et de la fabrication des principaux composants
+- Sujet : démontrer qu’un smartphone pollue à cause des matières premières et de la fabrication des principaux composants
 
 - Joueurs : 3 à 5
 - Âge : Dès 12 ans
@@ -13,8 +13,8 @@ Sous titre : Découvrir l'impact des composants du smartphone avec le jeu
 Objectif pédagogique principal : découvrir l'impact environnemental des composants du smartphone
 
 Objectifs pédagogiques secondaires :  
-- Identifier les différents types d’éléments nécessaires à la fabrication d’un smartphone
-- Citer quels types de métaux sont nécessaires pour chaque partie du smartphone (systext.org, blog.recommerce.org)
+- Acquérir une compréhension globale de l'impact environnemental des composants d'un smartphone
+- Identifier les différents types de ressources nécessaires à la fabrication d’un smartphone
 - "Réaliser" que les réserves minières sont limitées
 - Identifier qu’il existe des filières de minage plus ou moins polluantes
 - Reconnaître qu'utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible (et la pollution pour le recyclage n’est pas nulle)
