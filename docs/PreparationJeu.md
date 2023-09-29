@@ -5,7 +5,7 @@
 Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
 Mélanger les cartes malus et les placer au milieu.
 
-![Disposition des cartes et des plateaux](../img/materiel.jpeg)
+![Disposition des cartes et des plateaux](img/materiel.jpeg)
 
 ## 3 pioches de cartes ressources
 Les cartes ressources doivent être bien mélangées puis rassemblées en pioche, chacune représentant des ressources vendues par un fournisseur:

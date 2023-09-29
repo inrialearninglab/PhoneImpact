@@ -1,4 +1,5 @@
-## Instructions animateur
+# Instructions animateur
+
 Tout d'abord, il est nécessaire de bien lire les règles du jeu avant de démarrer l'activité (Cf [Règles du jeu et matériel](./Regles.md)).
 
 Préparez des tables avec 3 à 5 chaises selon le nombre de joueurs.

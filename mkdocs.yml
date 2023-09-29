@@ -6,8 +6,6 @@ use_directory_urls: false
 theme:
   name: material
   custom_dir: custom/
-  features:
-    - navigation.tabs
 markdown_extensions:
   - admonition
   - abbr
@@ -36,6 +34,7 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 plugins:
+  - awesome-pages
   - search
   - macros
 

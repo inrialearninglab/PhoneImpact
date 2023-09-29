@@ -27,15 +27,7 @@ Ce jeu s'inscrit dans un parcours pédagogique :
 
 ## Règles du jeu et matériel
 
-[Voir les règles](supports/regles.md)
-
-## Instructions pour l'animateur
-
-[Instructions pour animer le jeu](supports/InstructionsAnimateur.md)
-
-## Instruction Print&Play
-
-[Voir les instructions](./PNP.md)
+[Voir les règles](https://learninglab.gitlabpages.inria.fr/serious-game/smartphone)
 
 
 ## Contributing
@@ -71,5 +63,5 @@ docker run -v .:/app [image_name]
 ## Generating cards
 By default the cards you generate aren't added to the git repository, to add your cards please move the content of the _output file inside the pdf file by executing this command:
 ```shell
-mv _output/*.pdf pdf/
+mv _output/*.pdf docs/pdf/
 ```

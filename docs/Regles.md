@@ -24,9 +24,9 @@ Rassembler assez de ressources pour construire tous les composants de votre smar
 
 ## Matériel
 
-![Boite](../img/Boite.png)
+![Boite](img/Boite.png)
 
-![Matériel](..?/img/Materiel.png)
+![Matériel](img/materiel.jpeg)
 
 ### Plateau *Smartphones*
 Il y a dans le jeux 5 **plateaux Smartphones** de 4 composants chacun : Coque, Carte Mère, Batterie, Ecran Tactile (chaque composant est une carte épaisse). Les 4 cartes "composants" assemblées représentent un smartphone au format A4.
@@ -82,9 +82,9 @@ Elles peuvent être de type :
 Les cartes **Malus** doivent être mélangées à chaque début de partie. À chaque malus correspond un texte qui doit être lu par les joueurs quand ils tirent une de ces cartes. Ces textes sont des chiffres, des informations, des faits en relations avec les impacts environnementaux du numériques. À la fin du texte, un numéro entre crochets permet de retrouver la source du texte.
 
 ### Sources
-Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](./Sources.md))
+Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](Fiche_metaux.md))
 ## Préparation du jeu
-Voir la fiche [Préparation du jeu](supports/PreparationJeu.md)
+Voir la fiche [Préparation du jeu](PreparationJeu.md)
 
 ## Déroulement du jeu
 
