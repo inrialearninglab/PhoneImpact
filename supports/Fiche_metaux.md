@@ -1,5 +1,10 @@
 # Fiche métaux
-Fiche écrite par Martine Olivi en Sept. 2023 pour accompagner le jeu éducatif "Mines de rien, mon smartphone pollue!"
+Ces fiches métaux accompagnent les jeux:
+- jeu sérieux PhoneImpact
+- jeu educatif Mines de rien, mon smartphone pollue !
+
+[toc]
+
 ## Des métaux communs
 
 Un smartphone est principalement constitué de métaux, de matières plastiques et de matériaux céramiques (en particulier du verre). En 1950, on dénombrait une douzaine de métaux dans nos bons vieux téléphones fixes. Le smartphone d'aujourd'hui, beaucoup plus petit et fin, contient plus de 50 métaux : une condition pour avoir toutes les fonctionnalités de nos équipements !
@@ -11,7 +16,7 @@ Cependant, les méthodes d'extraction et de séparation des métaux en général
 
 ## Des métaux précieux
 
-Ce sont des métaux rares, c'est-à-dire peu abondants dans la croute terrestre, et de grande valeur monétaire. La notion de métal précieux a varié au cours de l'histoire, essentiellement en fonction de l'offre et de la demande. Aujourd'hui *l'or, l'argent, le platine et le palladium * sont considérés comme précieux; ils entrent dans la composition d'un smartphone, mais en très petite quantité : environ 0,5 % de la totalité des métaux.
+Ce sont des métaux rares, c'est-à-dire peu abondants dans la croute terrestre, et de grande valeur monétaire. La notion de métal précieux a varié au cours de l'histoire, essentiellement en fonction de l'offre et de la demande. Aujourd'hui *l'or, l'argent, le platine et le palladium * sont considérés comme précieux; ils entrent dans la compostion d'un smartphone, mais en très petite quantité : environ 0,5 % de la totalité des métaux.
 
 Dans le monde de l’électronique, l’or est utilisé principalement pour les propriétés anti-oxydantes (ne rouille pas), de conductibilité de l’électricité sur les cartes électroniques et parce qu’il est très facile à travailler (on dit qu’il est ductile). Le palladium protège les circuits électroniques contre la corrosion.
 
