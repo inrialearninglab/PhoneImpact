@@ -46,25 +46,25 @@ Les **ressources** sont désignées par des types de ressources qui sont les sui
 Il existe 3 types de ressources qui correspondent à 3 tas de cartes :
 
 - **99** cartes de l'entreprise PolluPlus
-  - 4 cartes Métal précieux
-  - 30 cartes Métal rare
-  - 21 cartes Métal commun
-  - 10 cartes Terre rare
-  - 34 cartes Autre matière
+    - 4 cartes Métal précieux
+    - 30 cartes Métal rare
+    - 21 cartes Métal commun
+    - 10 cartes Terre rare
+    - 34 cartes Autre matière
 
 - **49** cartes de l'entreprise PolluMoins
-  - 2 cartes Métal précieux
-  - 15 cartes Métal rare
-  - 10 cartes Métal commun
-  - 5 cartes Terre rare
-  - 17 cartes Autre matière
+    - 2 cartes Métal précieux
+    - 15 cartes Métal rare
+    - 10 cartes Métal commun
+    - 5 cartes Terre rare
+    - 17 cartes Autre matière
 
 - **17** cartes Recyclage
-  - 2 cartes Métal précieux
-  - 0 carte Métal rare
-  - 6 cartes Métal commun
-  - 0 carte Terre rare
-  - 9 cartes Autre matière
+    - 2 cartes Métal précieux
+    - 0 carte Métal rare
+    - 6 cartes Métal commun
+    - 0 carte Terre rare
+    - 9 cartes Autre matière
 
 **Précision importante** : le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
 
@@ -103,6 +103,7 @@ Si on manque de temps, celui qui commence est celui qui a le smartphone le plus 
 Les joueurs jouent chacun leur tour dans le sens horaire, en commençant par celui qui a été désigné (indice de réparabilité+age du smartphone).
 
 A la fin de chaque **tour de table** (avant que le 1er joueur ne démarre le tour suivant) :  
+
 - On tire une carte événement valable pour tous les joueurs et on fait éventuellement l'action écrite sur la carte
 
 ### Déroulement du tour de jeu d'un joueur
