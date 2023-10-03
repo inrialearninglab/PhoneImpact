@@ -12,18 +12,24 @@ title: Présentation
     - **Âge :** Dès 12 ans
     - **Durée :** 40 min
 
-**Intérêt pédagogique :** découvrir l'impact environnemental des composants du smartphone.
+**Intérêt pédagogique :** Acquérir une compréhension globale de l'impact environnemental des composants d'un smartphone.
 
 **Objectifs pédagogiques :**
 
-- Acquérir une compréhension globale de l'impact environnemental des composants d'un smartphone
+- Calculer l'indice de réparabilité de son smartphone
 - Identifier les différents types de ressources nécessaires à la fabrication d’un smartphone
-- Prendre conscience que les réserves minières sont limitées
 - Identifier qu’il existe des filières de minage plus ou moins polluantes
 - Reconnaître qu'utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible
-- Prendre conscience que la pollution pour le recyclage n’est pas nulle (à dire dans le débrief)
+- Prendre conscience que les réserves minières sont limitées
 - S'interroger sur le fait que la pollution passée a des répercussions sur le présent
 - Déduire qu'il est possible de modifier le comportement d'un constructeur en ajoutant des pénalités s'il pollue
+- Prendre conscience que la pollution pour le recyclage n’est pas nulle (à dire dans le débrief)
+
+**Expérience de jeu :**
+
+Émotions : l’apprenant sera amené à être étonné/surpris, voir scandalisé
+
+Se mettre à la place d'un fabricant de smartphones, tiraillé par l'envie de dégager du profit tout en polluant le moins possible (green washing ! ou véritable conscience écologique)
 
 **Ce jeu s'inscrit dans un parcours pédagogique :**
 

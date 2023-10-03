@@ -25,4 +25,5 @@
 - Lancer l'application [Indice de reparabilité](https://www.indicereparabilite.fr/)
     - demander à chaque joueur la marque+nom de son tél et retrouver dans l'appli son indice de réparabilité (ou chacun calcule son indice)
     - demander à chaque joueur l'âge de son tel
-- Le joueur qui commence est celui qui a le smartphone ayant le meilleur indice de réparabilité. En cas d'égalité, ce sera celui qui a le tel le plus vieux.
+- Le joueur qui commence est celui qui a le smartphone ayant le meilleur indice de réparabilité. En cas d'égalité, ce sera celui qui a le téléphone le plus vieux.
+- Si on manque de temps, ce sera celui qui a le téléphone le plus vieux ou celui qui n'a pas de téléphone.
