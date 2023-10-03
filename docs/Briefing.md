@@ -13,6 +13,7 @@
         - smartphone pour les éléments utilisés dans la fabrication des smartphones
         - rouge=menace dans les prochains 100 ans (notamment dues à la forte utilisation de combustibles fossiles à base de carbone),
         - gris=minerais dans des zones de conflits
+    - taux de recyclage : taux de recyclage des objets collectés. Et c'est du recyclage fonctionnel (les propriétés physiques et chimiques qui ont rendu le matériau désirable au départ sont conservées pour un usage ultérieur).
 
 
 ## Histoire
