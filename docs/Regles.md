@@ -90,7 +90,12 @@ Voir la fiche [Préparation du jeu](PreparationJeu.md)
 
 ### Qui commence ?
 La personne ayant l'indice de réparabilité le plus haut sur son smartphone:
-[Indice de reparabilité](https://www.indicereparabilite.fr/).
+[Indice de reparabilité](https://www.indicereparabilite.fr/appareils/multimedia/smartphone/).
+
+<figure markdown>
+  ![QRCode www.indicereparabilite.fr](img/qrcode_indiceReparabilite.png){ width="300" }
+  <figcaption>Site indicereparabilite.fr pour calculer son indice de reparabilité</figcaption>
+</figure>
 
 Si un smartphone est tellement vieux qu'il n'a pas d'indice de réparabilité calculé de son smartphone --> c'est lui qui commence.
 
@@ -107,6 +112,8 @@ A la fin de chaque **tour de table** (avant que le 1er joueur ne démarre le tou
 - On tire une carte événement valable pour tous les joueurs et on fait éventuellement l'action écrite sur la carte
 
 ### Déroulement du tour de jeu d'un joueur
+
+![Recap des règles](img/CarteAideDeJeu.jpeg)
 
 Une seule action possible parmi :  
 
