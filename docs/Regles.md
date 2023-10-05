@@ -109,7 +109,8 @@ Les joueurs jouent chacun leur tour dans le sens horaire, en commençant par cel
 
 A la fin de chaque **tour de table** (avant que le 1er joueur ne démarre le tour suivant) :  
 
-- On tire une carte événement valable pour tous les joueurs et on fait éventuellement l'action écrite sur la carte
+- On tire une **carte événement** valable pour tous les joueurs et on fait éventuellement l'action écrite sur la carte.
+Si une action concerne tous les joueurs, on commence toujours par le joueur ayant l'indice de réparabilité le plus haut sur son smartphone.
 
 ### Déroulement du tour de jeu d'un joueur
 
