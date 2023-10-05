@@ -23,17 +23,17 @@ title: Présentation
 - Prendre conscience que les réserves minières sont limitées
 - S'interroger sur le fait que la pollution passée a des répercussions sur le présent
 - Déduire qu'il est possible de modifier le comportement d'un constructeur en ajoutant des pénalités s'il pollue
-- Prendre conscience que la pollution pour le recyclage n’est pas nulle (à dire dans le débrief)
+- Prendre conscience que la pollution pour le recyclage n’est pas nulle (à mentionner dans le débrief)
 
 **Expérience de jeu :**
 
-Émotions : l’apprenant sera amené à être étonné/surpris, voir scandalisé
+Émotions : l’apprenant sera amené à être étonné/surpris, voire scandalisé
 
 Se mettre à la place d'un fabricant de smartphones, tiraillé par l'envie de dégager du profit tout en polluant le moins possible (green washing ! ou véritable conscience écologique)
 
 **Ce jeu s'inscrit dans un parcours pédagogique :**
 
-- [Mooc "Impact environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
+- [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
 - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
 
 ## Règles du jeu et matériel
