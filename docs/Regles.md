@@ -113,7 +113,7 @@ A la fin de chaque **tour de table** (avant que le 1er joueur ne démarre le tou
 
 ### Déroulement du tour de jeu d'un joueur
 
-![Recap des règles](img/CarteAideDeJeu.jpeg)
+![Recap des règles](img/AideDeJeu.jpeg)
 
 Une seule action possible parmi :  
 
