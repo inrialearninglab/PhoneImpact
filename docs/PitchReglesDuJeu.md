@@ -35,7 +35,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle.
 
 A chaque tour, vous pouvez
 
-- proposer des échanges avec d'autres joueurs
+- proposer des échanges avec d'autres joueurs (pour une partie complète uniquement)
 
 Puis faire une de ces actions :
 
@@ -80,13 +80,14 @@ a construit son smartphone ou lorsque la carte événement "Fin de
 partie" est tirée. On termine le tour et on compte les points pour
 déclarer le vainqueur.
 
-## Pour 20' de jeu                                                      
-- événements : 1 ; 2 ; 8 ; 10 ; 15  ;
-- malus
+## Adaptations des règles pour une partie en 20'                                                      
+- On ne garde que les événements : 1 ; 2 ; 8 ; 10 ; 15  ;
+- Position des malus de type "événement"
     - 3 ou 4 joueurs
-        - 9e place pour la première alerte si , 12e si 5 joueurs
+        - 9e place pour la première alerte
         - 14e place pour la deuxième alerte
     - 5 joueurs
         - 12e place pour la première alerte
         - 17e place pour la deuxième alerte
-- On ne lit les textes des malus que un tour
+- On ne lit les textes des malus que durant un tour
+- Tour de jeu : l'action "échange entre joueurs est annulée"
