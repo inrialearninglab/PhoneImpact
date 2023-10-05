@@ -49,8 +49,7 @@ Puis faire une de ces actions :
     > ce qui vous permet d'obtenir 2 cartes ressources
     > mais par contre 1 malus
 
-    - Recyclage spécialisé dans le recyclage (comme son nom l'indique),
-    > même si certains métaux ne sont pas recyclables
+    - **Recyclage** spécialisé dans le recyclage (comme son nom l'indique),
     > ce qui vous permet d'obtenir 1 carte ressource
     > Pas de malus mais à savoir que dans cette pioche il n'y a ni terres rares, ni métaux
     rares
@@ -60,15 +59,15 @@ Puis faire une de ces actions :
 - vous débarrasser de 2 cartes Malus
 
 Vu que ça fait beaucoup d'informations d'un coup, on vous a fait un
-récap cf. cartes aide de jeu
+récap cf. cartes aide de jeu.
 
 ![Recap des règles](img/AideDeJeu.jpeg){ width="300" }
 
 Une fois que vous avez choisi votre fournisseur, vous pouvez prendre les
-cartes visibles ou dans la pioche
+cartes visibles ou dans la pioche.
 
 Après chaque tour de table, on tire une carte événement valable pour
-tous les joueurs et on fait l'action écrite sur la carte
+tous les joueurs et on fait l'action écrite sur la carte.
 
 Pour déterminer qui commence, on se base sur l'indice de réparabilité
 de votre smartphone, ou l'âge de votre smartphone, si vous avez des
@@ -77,7 +76,7 @@ n'a pas de smartphone commence.
 
 **Conditions de fin de partie :** La partie se termine lorsqu'un joueur
 a construit son smartphone ou lorsque la carte événement "Fin de
-partie" est tirée. On termine le tour et on compte les points pour
+partie" est tirée. On compte les points pour
 déclarer le vainqueur.
 
 ## Adaptations des règles pour une partie en 20'                                                      
