@@ -79,7 +79,7 @@ Elles peuvent être de type :
 - Événement majeur
 
 ### 37 Cartes *Malus*
-Les cartes **Malus** doivent être mélangées à chaque début de partie. À chaque malus correspond un texte qui doit être lu par les joueurs quand ils tirent une de ces cartes. Ces textes sont des chiffres, des informations, des faits en relations avec les impacts environnementaux du numériques. À la fin du texte, un numéro entre crochets permet de retrouver la source du texte.
+Les cartes **Malus** doivent être mélangées à chaque début de partie. À chaque malus correspond un texte qui doit être lu par les joueurs quand ils tirent une de ces cartes. Ces textes sont des chiffres, des informations, des faits en relations avec les impacts environnementaux du numérique. À la fin du texte, un numéro entre crochets permet de retrouver la source du texte.
 
 ### Sources
 Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](Fiche_metaux.md))
@@ -105,7 +105,7 @@ Si on manque de temps, celui qui commence est celui qui a le smartphone le plus 
 
 ### Déroulement d’un tour de table
 
-Les joueurs jouent chacun leur tour dans le sens horaire, en commençant par celui qui a été désigné (indice de réparabilité+age du smartphone).
+Les joueurs jouent chacun leur tour dans le sens horaire, en commençant par celui qui a été désigné (indice de réparabilité+âge du smartphone).
 
 A la fin de chaque **tour de table** (avant que le 1er joueur ne démarre le tour suivant) :  
 
@@ -125,7 +125,7 @@ Une seule action possible parmi :
 - Proposer aux autres joueurs d'échanger des cartes ou malus
 
 ## Conditions de fin de partie
-2 conditions de fin de partie possible :  
+2 conditions de fin de partie possibles :  
 
 - un joueur a construit son smartphone (tous les composants)
 - la carte événement "Fin de partie" est tirée, la partie s'arrête.
