@@ -114,7 +114,9 @@ Si une action concerne tous les joueurs, on commence toujours par le joueur ayan
 
 ### Déroulement du tour de jeu d'un joueur
 
-![Recap des règles](img/AideDeJeu.jpeg)
+![Recap des règles](img/AideDeJeu.jpeg){ width="300" }
+
+
 
 Une seule action possible parmi :  
 
