@@ -12,6 +12,8 @@ title: Présentation
     - **Âge :** Dès 12 ans
     - **Durée :** 40 min
 
+![Aperçu du jeu sur une table](img/LS-PhoneImpactTableDeJeu.jpg){ width="300" }
+
 **Intérêt pédagogique :** Acquérir une compréhension globale de l'impact environnemental des composants d'un smartphone.
 
 **Objectifs pédagogiques :**
