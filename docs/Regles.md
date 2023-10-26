@@ -89,19 +89,16 @@ Voir la fiche [Préparation du jeu](PreparationJeu.md)
 ## Déroulement du jeu
 
 ### Qui commence ?
-La personne ayant l'indice de réparabilité le plus haut sur son smartphone:
-[Indice de reparabilité](https://www.indicereparabilite.fr/appareils/multimedia/smartphone/).
 
 <figure markdown>
   ![QRCode www.indicereparabilite.fr](img/qrcode_indiceReparabilite.png){ width="300" }
   <figcaption>Site indicereparabilite.fr pour calculer son indice de reparabilité</figcaption>
 </figure>
 
-Si un smartphone est tellement vieux qu'il n'a pas d'indice de réparabilité calculé de son smartphone --> c'est lui qui commence.
+Pour déterminer qui commence, il y a 2 possibilités, selon le type de joueurs et le temps qu'on a:
+- soit on se base sur l'[Indice de reparabilité](https://www.indicereparabilite.fr/appareils/multimedia/smartphone/) de votre smartphone; celui qui commence est celui qui a l'indice le plus élevé
+- soit l'âge de votre smartphone, si vous avez des reconditionnés ou que vous avez récupéré un vieux smartphone, c'est mieux. Celui ou celle qui n'a pas de smartphone commence !
 
-En cas d'égalité d'indice de réparabilité, le smartphone le plus ancien l'emporte.
-
-Si on manque de temps, celui qui commence est celui qui a le smartphone le plus vieux.
 
 ### Déroulement d’un tour de table
 
@@ -124,8 +121,8 @@ Une seule action possible parmi :
      - Selon la pioche, le joueur pioche des cartes Malus: 2 cartes pour la pioche PolluPlus, 1 carte pour la pioche PolluMoins. Chacun lit à voix haute les textes écrits sur les malus (sauf si on manque de temps). Peut-être seul le premier malus s'il y en a deux. Au moins 2 tours de jeux.
      - Les cartes ressources sont cachées aux autres joueurs.    
 - Construction d’un composant. Quand un composant est construit, les cartes ressources sont posées sur le carton du composant. Ces cartes ressources ne seront plus utilisées par la suite, hormis éventuellement pour des comptages.
-- Dépolluer : le joueur se débarrasse de 2 cartes Malus
-- Proposer aux autres joueurs d'échanger des cartes ou malus
+- Dépolluer : le joueur se débarrasse de 2 cartes Malus. Ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté
+- proposer des échanges avec d'autres joueurs, avant ou après la pioche (échanges de ressources et/ou de malus).
 
 ## Conditions de fin de partie
 2 conditions de fin de partie possibles :  
@@ -142,4 +139,9 @@ On compte les points en fonction :
 
 - des composants construits du téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - si le smartphone d'un joueur est terminé --> 10 points
-- éventuellement certains événements amèneront peut-être des points positifs ou négatifs à compter aussi.
+- +2 points pour celui qui a le plus de cartes recyclées
+- [à tester: -2 points pour celui qui a le plus de cartes Pollu+]
+- éventuellement certains événements amèneront peut-être des points positifs ou négatifs à compter aussi
+
+
+En cas d'égalité, le gagnant est celui qui a le plus de cartes recyclées.

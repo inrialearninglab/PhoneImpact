@@ -9,7 +9,7 @@ text,type,number
 "Attention, les métaux disponibles s'épuisent alors que la consommation du numérique augmente! les malus des pioches sont doublés jusqu'à la fin de la partie",Événement majeur,8
 "Appliquez les 5 R : Refuser, Réduire, Réparer, Recycler, Rendre à la terre.\nChoisissez une ressource parmi celles qui sont visibles (ordre croissant de malus)",Bonus,9
 "France, 2015: l'obsolescence programmée constitue un délit avec condamnations.\nPerdez nb malus/2 cartes ressources (arrondi inférieur)",Règlementation,10
-"Volez une carte (hors recyclées) à votre voisin de gauche commençant par celui qui a le moins de malus, sinon le plus de cartes recyclées",Taxe,11
+"Dépolluer n'est pas toujours possible ! Pendant le tour suivant, vous ne pourrez pas défausser de malus",Événement majeur,11
 "Volez une carte (hors recyclées) à vos voisins ayant strictement plus de malus que vous",Taxe,12
 "UE, 2017: règlement sur l’importation de minerais issues des zones de conflit.\nPerdez 2 ressources si vous avez moins de 3 cartes recyclées",Règlementation,13
 "Ne gardez que 2 ressources maximum de chaque type en excluant les ressources recyclées",Taxe,14

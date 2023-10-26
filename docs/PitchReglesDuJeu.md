@@ -35,7 +35,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle.
 
 A chaque tour, vous pouvez
 
-- proposer des échanges avec d'autres joueurs (pour une partie complète uniquement)
+- proposer des échanges avec d'autres joueurs, avant ou après la pioche (échanges de ressources et/ou de malus).
 
 Puis faire une de ces actions :
 
@@ -56,7 +56,7 @@ Puis faire une de ces actions :
 
 - construire un composant de votre smartphone
 
-- vous débarrasser de 2 cartes Malus
+- dépolluer en vous débarrassant de 2 cartes Malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté
 
 Vu que ça fait beaucoup d'informations d'un coup, on vous a fait un
 récap cf. cartes aide de jeu.
@@ -69,15 +69,22 @@ cartes visibles ou dans la pioche.
 Après chaque tour de table, on tire une carte événement valable pour
 tous les joueurs et on fait l'action écrite sur la carte.
 
-Pour déterminer qui commence, on se base sur l'indice de réparabilité
-de votre smartphone, ou l'âge de votre smartphone, si vous avez des
-reconditionnés ou que vous avez récupéré c'est mieux. Celui ou celle qui
-n'a pas de smartphone commence.
+Pour déterminer qui commence, il y a 2 possibilités, selon le type de joueurs et le temps qu'on a:
+- soit on se base sur l'[Indice de reparabilité](https://www.indicereparabilite.fr/appareils/multimedia/smartphone/) de votre smartphone; celui qui commence est celui qui a l'indice le plus élevé
+- soit l'âge de votre smartphone, si vous avez des reconditionnés ou que vous avez récupéré un vieux smartphone, c'est mieux. Celui ou celle qui n'a pas de smartphone commence !
 
 **Conditions de fin de partie :** La partie se termine lorsqu'un joueur
 a construit son smartphone ou lorsque la carte événement "Fin de
 partie" est tirée. On compte les points pour
 déclarer le vainqueur.
+
+**Décompte des points**: le gagnant est celui qui a le plus de points. On compte les points en fonction :  
+
+- des composants construits du téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
+- si le smartphone d'un joueur est terminé --> 10 points
+- +2 points pour celui qui a le plus de cartes recyclées
+- [à tester: -2 points pour celui qui a le plus de cartes Pollu+]
+- éventuellement certains événements amèneront peut-être des points positifs ou négatifs à compter aussi
 
 ## Adaptations des règles pour une partie en 20'                                                      
 - On ne garde que les événements : 1 ; 2 ; 8 ; 10 ; 15  ;

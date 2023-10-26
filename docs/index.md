@@ -38,6 +38,8 @@ Se mettre à la place d'un fabricant de smartphones, tiraillé par l'envie de d�
 - [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
 - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
 
+Validation scientifique par des experts, garants de l’aspect “sérieux” du jeu. Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont accompagnés pour le contenu du kakemono présenté lors du brief du jeu.
+
 ## Règles du jeu et matériel
 
 [Voir les règles](./Regles.md)
