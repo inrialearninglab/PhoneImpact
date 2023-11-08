@@ -1,16 +1,16 @@
 text,type,number
-"Volez une carte à votre voisin de droite et ne l'ajoutez à votre jeu qu'une fois l'événement terminé",Taxe,1
+"Volez une carte non recyclée à votre voisin de droite et ne l'ajoutez à votre jeu qu'une fois l'événement terminé",Taxe,1
 "Entretenez votre smartphone pour éviter jusqu'à 40% des pannes!\nSi vous avez au moins 1 carte recyclée, choisissez une ressource parmi celles qui sont visibles",Bonus,2
-"Volez une carte à vos voisins ayant strictement plus de malus que vous",Taxe,3
+"Volez une carte non recyclée à vos voisins ayant strictement plus de malus que vous",Taxe,3
 "Loi anti-gaspillage, 2021: l'indice de réparabilité des smartphones devient obligatoire.\nNe gardez que 2 ressources de chaque type (hors recyclées)",Règlementation,4
 "Réparez votre smartphone avant d'en acheter un nouveau!\nChoisissez une ressource parmi celles qui sont visibles (ordre croissant de malus)",Bonus,5
 "Loi REEN, 2021 qui incite les entreprises à adopter des pratiques éco-responsables.\nPerdez nb malus/2 cartes ressources (arrondi inférieur)",Règlementation,6
-"Volez une carte à vos voisins ayant strictement plus de malus que vous (hors recyclées)",Taxe,7
+"Volez une carte non recyclée à vos voisins ayant strictement plus de malus que vous (hors recyclées)",Taxe,7
 "Attention, les métaux disponibles s'épuisent alors que la consommation du numérique augmente! les malus des pioches sont doublés jusqu'à la fin de la partie",Événement majeur,8
 "Appliquez les 5 R : Refuser, Réduire, Réparer, Recycler, Rendre à la terre.\nChoisissez une ressource parmi celles qui sont visibles (ordre croissant de malus)",Bonus,9
 "France, 2015: l'obsolescence programmée constitue un délit avec condamnations.\nPerdez nb malus/2 cartes ressources (arrondi inférieur)",Règlementation,10
 "Dépolluer n'est pas toujours possible ! Pendant le tour suivant, vous ne pourrez pas défausser de malus",Événement majeur,11
-"Volez une carte (hors recyclées) à vos voisins ayant strictement plus de malus que vous",Taxe,12
+"Volez une carte non recyclée à vos voisins ayant strictement plus de malus que vous",Taxe,12
 "UE, 2017: règlement sur l’importation de minerais issues des zones de conflit.\nPerdez 2 ressources si vous avez moins de 3 cartes recyclées",Règlementation,13
 "Ne gardez que 2 ressources maximum de chaque type en excluant les ressources recyclées",Taxe,14
 "FIN DE LA PARTIE",Événement majeur,15
