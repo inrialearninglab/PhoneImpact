@@ -88,6 +88,7 @@ On termine le tour et on compte les points pour déclarer le vainqueur.
 - [à tester: -2 points pour celui qui a le plus de cartes Pollu+]
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
 
+
 ## Adaptations des règles pour une partie en 20'                                                      
 - On ne garde que les événements : 1 ; 2 ; 8 ; 10 ; 15  ;
 - Position des malus de type "événement"

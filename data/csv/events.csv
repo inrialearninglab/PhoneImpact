@@ -1,18 +1,17 @@
 text,type,number
-"Volez une carte non recyclée à votre voisin de droite et ne l'ajoutez à votre jeu qu'une fois l'événement terminé",Taxe,1
-"Entretenez votre smartphone pour éviter jusqu'à 40% des pannes!\nSi vous avez au moins 1 carte recyclée, choisissez une ressource parmi celles qui sont visibles",Bonus,2
-"Volez une carte non recyclée à vos voisins ayant strictement plus de malus que vous",Taxe,3
-"Loi anti-gaspillage, 2021: l'indice de réparabilité des smartphones devient obligatoire.\nNe gardez que 2 ressources de chaque type (hors recyclées)",Règlementation,4
-"Réparez votre smartphone avant d'en acheter un nouveau!\nChoisissez une ressource parmi celles qui sont visibles (ordre croissant de malus)",Bonus,5
-"Loi REEN, 2021 qui incite les entreprises à adopter des pratiques éco-responsables.\nPerdez nb malus/2 cartes ressources (arrondi inférieur)",Règlementation,6
-"Volez une carte non recyclée à vos voisins ayant strictement plus de malus que vous (hors recyclées)",Taxe,7
-"Attention, les métaux disponibles s'épuisent alors que la consommation du numérique augmente! les malus des pioches sont doublés jusqu'à la fin de la partie",Événement majeur,8
-"Appliquez les 5 R : Refuser, Réduire, Réparer, Recycler, Rendre à la terre.\nChoisissez une ressource parmi celles qui sont visibles (ordre croissant de malus)",Bonus,9
-"France, 2015: l'obsolescence programmée constitue un délit avec condamnations.\nPerdez nb malus/2 cartes ressources (arrondi inférieur)",Règlementation,10
-"Dépolluer n'est pas toujours possible ! Pendant le tour suivant, vous ne pourrez pas défausser de malus",Événement majeur,11
-"Volez une carte non recyclée à vos voisins ayant strictement plus de malus que vous",Taxe,12
-"UE, 2017: règlement sur l’importation de minerais issues des zones de conflit.\nPerdez 2 ressources si vous avez moins de 3 cartes recyclées",Règlementation,13
-"Ne gardez que 2 ressources maximum de chaque type en excluant les ressources recyclées",Taxe,14
-"FIN DE LA PARTIE",Événement majeur,15
+"Les smartphones actuels renferment plus de 50 métaux, nécessaires pour l'accès internet, les applications, la caméra, le GPS, la messagerie...\n→ Pas d'action pour ce tour-ci !",Le saviez-vous ?,1
+"La collecte des smartphones permet de récupérer des matériaux pour les réutiliser.\n→ Si vous avez au moins 1 carte Recyclage, choisissez une ressource parmi celles qui sont visibles",Bonus,2
+"2021: la loi REEN incite les entreprises à adopter des pratiques éco-responsables.\n→ Durant ce tour, vous ne pourrez pas piocher de cartes PolluPlus",La loi change,3
+"Si vous entretenez votre smartphone, vous éviterez jusqu'à 40% des pannes.\n→ Choisissez une ressource parmi celles qui sont visibles (ordre croissant de malus)",Bonus,4
+"2021: la loi anti-gaspillage rend obligatoire l'indice de réparabilité des smartphones.\n→ Ne gardez que 2 ressources maximum de chaque type en excluant les ressources Recyclage",La loi change,5
+"Alerte pollution !!!\n→ Vos malus seront déduits de votre total de points (-1 point par malus).\n→ N'oubliez pas que des échanges sont possibles avec les autres joueurs",Événement majeur,6
+"Appliquez les 5 R : Refuser, Réduire, Réparer, Recycler, Rendre à la terre.\n→ Choisissez une ressource parmi celles qui sont visibles (par ordre croissant de malus)",Bonus,7
+"Attention, les teneurs en minerai diminuent (quantité de minéraux utiles présente dans un gisement ou un minerai).\n→ Les malus des pioches sont doublés jusqu'à la fin de la partie",Événement majeur,8
+"2015, France: l'obsolescence programmée constitue un délit avec condamnations.\n→ Defaussez autant de ressources que votre nombre de malus/2 (arrondi inférieur)",La loi change,9
+"Dépolluer n'est pas toujours possible !\n→ Pendant le tour suivant, vous ne pourrez pas défausser de malus",Événement majeur,10
+"En recyclant les smartphones, on réduit les déchets électroniques.\n→ Le joueur qui a le plus de cartes Recyclage prend une carte ressources à celui qui a le plus de PolluPlus",Bonus,11
+"2017: l'UE adopte un règlement sur l'importation de minerais en provenance de zones de conflit.\n→ Perdez 2 ressources si vous avez moins de 3 ressources Recyclage",La loi change,12
+"Selon les sources, le numérique représente aujourd’hui 3 à 4 % des émissions de gaz à effet de serre.\n→ Ne gardez que 2 ressources maximum de chaque type en excluant les ressources Recyclage",Le saviez-vous ?,13
+"Épuisement des métaux disponibles !\n→ Dernier tour avant la fin de la partie !",Événement majeur,14
+"Fin de la partie",Événement majeur,15
 "Carte supplémentaire",Carte supplémentaire,16
-"Carte supplémentaire",Carte supplémentaire,17

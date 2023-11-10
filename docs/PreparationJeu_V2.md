@@ -1,4 +1,4 @@
-# Préparation du jeu V1 (boite de jeu)
+# Préparation du jeu V2
 
 
 ## Plateau de jeu à construire
@@ -22,12 +22,13 @@ Les cartes ressources doivent être bien mélangées puis rassemblées en pioche
     - la carte recap de Recyclage qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche (A noter que cette pile ne contient pas de terres rares, ni de métaux rares)
 
 ### Cartes Malus
-
 Les cartes Malus sont mélangées et déposées en une pioche, face cachée :
 
-- 37 cartes Malus
-- 1 carte "Attention, vous commencez à trop polluer" à placer en position (nombre de joueurs x 3)
-- 1 carte "Alerte pollution, vos malus sont déduits de votre total de points" à placer en position (nombre de joueur x 5)
+Le nombre de cartes Malus est : nombre de joueurs*12.
+Enlever les cartes inutiles selon le nombre de joueurs.
+Les cartes Malus sont mélangées et déposées en un tas, face cachée :
+
+- cartes Malus : 36 pour 3 joueurs, 48 pour 4 joueurs, 60 pour 5 joueurs
 
 ### Cartes Événements
 
