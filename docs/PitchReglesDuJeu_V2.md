@@ -1,4 +1,4 @@
-# Pitch avec les règles du jeu
+# Pitch avec les règles du jeu V2
 
 ## Règles pour une partie en 45'
 Dans ce jeu, vous incarnez un fabricant de smartphones et votre objectif
