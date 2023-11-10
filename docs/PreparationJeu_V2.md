@@ -1,4 +1,6 @@
 # Préparation du jeu V2
+Pour cette version, vous pouvez utiliser la boite de jeu hormis les cartes Événements qui doivent être imprimées ([lien vers le fichier](pdf/pnp/events.pdf)).
+Si vous utilisez les cartes Malus de la boite, il faut enlever pour cette version les 2 cartes Alerte (texte écrit en rouge) du jeu.
 
 
 ## Plateau de jeu à construire

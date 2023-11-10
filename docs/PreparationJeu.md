@@ -1,5 +1,6 @@
 # Préparation du jeu V1 (boite de jeu)
-
+Pour cette version, vous pouvez utiliser la boite de jeu complète.  
+En particulier les carte Événements sont celles de la boite de jeu.
 
 ## Plateau de jeu à construire
 Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
