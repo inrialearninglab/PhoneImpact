@@ -21,7 +21,7 @@ Les cartes ressources doivent être bien mélangées puis rassemblées en pioche
     - 1 carte ressource est placée face visible à droite de la pioche
     - la carte recap de Recyclage qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche (A noter que cette pile ne contient pas de terres rares, ni de métaux rares)
 
-### Cartes Malus
+## Cartes Malus
 
 Les cartes Malus sont mélangées et déposées en une pioche, face cachée :
 
@@ -29,7 +29,7 @@ Les cartes Malus sont mélangées et déposées en une pioche, face cachée :
 - 1 carte "Attention, vous commencez à trop polluer" à placer en position (nombre de joueurs x 3)
 - 1 carte "Alerte pollution, vos malus sont déduits de votre total de points" à placer en position (nombre de joueur x 5)
 
-### Cartes Événements
+## Cartes Événements
 
 15 cartes Événements dont l'ordre est défini par un numéro sur celles-ci.
 Les 15 cartes Événements sont classées dans l'ordre de numéro indiqué sur celles-ci et déposées en une pioche, face cachée :

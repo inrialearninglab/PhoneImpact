@@ -11,7 +11,7 @@ text,type,number
 "Dépolluer n'est pas toujours possible !\n→ Pendant le tour suivant, vous ne pourrez pas défausser de malus",Événement majeur,10
 "En recyclant les smartphones, on réduit les déchets électroniques.\n→ Le joueur qui a le plus de cartes Recyclage prend une carte ressources à celui qui a le plus de PolluPlus",Bonus,11
 "2017: l'UE adopte un règlement sur l'importation de minerais en provenance de zones de conflit.\n→ Perdez 2 ressources si vous avez moins de 3 ressources Recyclage",La loi change,12
-"Selon les sources, le numérique représente aujourd’hui 3 à 4 % des émissions de gaz à effet de serre.\n→ Ne gardez que 2 ressources maximum de chaque type en excluant les ressources Recyclage",Le saviez-vous ?,13
+"Le numérique représente aujourd’hui 3 à 4 % des émissions de gaz à effet de serre.\n→ Ne gardez que 2 ressources maximum de chaque type en excluant les ressources Recyclage",Le saviez-vous ?,13
 "Épuisement des métaux disponibles !\n→ Dernier tour avant la fin de la partie !",Événement majeur,14
 "Fin de la partie",Événement majeur,15
 "Carte supplémentaire",Carte supplémentaire,16

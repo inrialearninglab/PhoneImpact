@@ -1,41 +1,46 @@
-# Pitch avec les règles du jeu V1 (boite de jeu)
+# Pitch avec les règles du jeu
 
 ## Règles pour une partie en 45'
+### Présentation du jeu
 Dans ce jeu, vous incarnez un fabricant de smartphones et votre objectif
 est de construire un smartphone tout en minimisant votre impact
 environnemental. Vous aurez des choix à faire tout au long du jeu mais
 attention, ces choix auront des conséquences.
 
-Chaque joueur a un plateau smartphone composé de : l'écran tactile
+Vous avez chacun un plateau smartphone composé de : l'écran tactile
 (dalle et vitre), la batterie, la coque, la carte mère.
 
 Chaque composant est constitué de ressources qui apparaissent sur la
 carte. Ces ressources sont désignées par des types de ressources qui sont les
-suivants dans le jeu
+suivants dans le jeu :
 
--   **Métal précieux** mais aussi rare, stratégique donc cher comme l'Or
-    > : représenté par un lingot d'Or
+-   **Métal précieux** mais aussi rare, stratégique donc cher comme l'Or, l'argent, le platine, le palladium...
+    -> *représenté par un lingot d'Or*
 
--   **Métal rare** Non précieux mais peu fréquent dans le sol comme le
-    > Lithium : représenté par une pierre précieuse bleu
+-   **Métal rare** Non précieux mais peu fréquent dans le sol comme le Lithium, le tantale, l'indium...
+    -> *représenté par une pierre précieuse bleu*
 
--   **Métal commun** L'extraction nécessite beaucoup de ressources et
-    > d'énergie comme l'Aluminium, le cuivre : représenté par un métal
-    > gris
+-   **Métal commun** L'extraction nécessite beaucoup de ressources et d'énergie comme l'Aluminium, le cuivre, le nickel...
+    -> *représenté par un métal gris*
 
--   **Terre rare** (Pas si rare mais difficile à extraire) comme l'
-    > Yttrium : représenté par un tas de terre marron
+-   **Terre rare** (Pas si rare mais difficile à extraire) comme l'Yttrium, le néodyme, la gadolinium...
+    -> *représenté par un tas de terre marron*
 
--   **Autre matière** (40 à 70% du poids du smartphone) comme le
-    > plastique, le verre : représenté par une fibre violette
+-   **Autre matière** (40 à 70% du poids du smartphone) comme le plastique, le verre, la céramique, les matières synthétiques...
+    -> *représenté par une fibre violette*
 
 Le but du jeu est de rassembler assez de ressources pour construire tous les composants de votre smartphone.
 
-Cependant, l'acquisition des ressources peut s'accompagner de Malus (cartes malus, à lire quand elles sont tirées) qui auront des conséquences dans la suite du jeu.
+Cependant, l'acquisition des ressources peut s'accompagner de Malus qui auront des conséquences dans la suite du jeu.
+Les textes des cartes Malus sont lues quand elles sont tirées, éventuellement une sur deux si c'est trop long.
 
-Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle.
+[Detail du matériel si besoin](./Materiel.md)
 
-A chaque tour, vous pouvez faire une seule de ces 3 actions :
+## Déroulement du jeu
+
+Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sens des aiguilles d'une montre.
+
+A chaque tour, vous pouvez faire une seule de ces 3 actions suivantes :
 
 - piocher des cartes ressources parmi un des trois fournisseur :
 
@@ -50,15 +55,16 @@ A chaque tour, vous pouvez faire une seule de ces 3 actions :
     - **Recyclage** spécialisé dans le recyclage (comme son nom l'indique),
     > ce qui vous permet d'obtenir 1 carte ressource
     > Pas de malus mais à savoir que dans cette pioche il n'y a ni terres rares, ni métaux
-    rares
+    rares.
+
     Une fois que vous avez choisi votre fournisseur, vous pouvez prendre les
     cartes visibles ou dans la pioche.
 
 - construire un seul des 4 composants de votre smartphone
 
-- dépolluer en vous débarrassant de 2 cartes Malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté
+- dépolluer en vous débarrassant de 2 cartes Malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
 
-Vous pouvez en plus à votre tour de jeu proposer des échanges avec d'autres joueurs, avant ou après la pioche (échanges de ressources et/ou de malus).
+Vous pouvez en plus à votre tour de jeu proposer des échanges avec d'autres joueurs, avant ou après l'action (échanges de ressources et/ou de malus).
 
 Vu que ça fait beaucoup d'informations d'un coup, on vous a fait un
 récap cf. cartes aide de jeu.
@@ -66,31 +72,47 @@ récap cf. cartes aide de jeu.
 ![Recap des règles](img/AideDeJeu.jpeg){ width="300" }
 
 
+**Qui commence ?**
 
-Après chaque tour de table, on tire une carte événement valable pour
-tous les joueurs et on fait l'action écrite sur la carte.
+<figure markdown>
+  ![QRCode www.indicereparabilite.fr](img/qrcode_indiceReparabilite.png){ width="200" }
+  <figcaption>Site indicereparabilite.fr pour calculer son indice de reparabilité</figcaption>
+</figure>
 
 Pour déterminer qui commence, il y a 2 possibilités, selon le type de joueurs et le temps qu'on a:
-- soit on se base sur l'[Indice de reparabilité](https://www.indicereparabilite.fr/appareils/multimedia/smartphone/) de votre smartphone; celui qui commence est celui qui a l'indice le plus élevé.
-- soit l'âge de votre smartphone, si vous avez des reconditionnés ou que vous avez récupéré un vieux smartphone, c'est mieux. Celui ou celle qui n'a pas de smartphone commence !
+- soit on se base sur l'[Indice de reparabilité](https://www.indicereparabilite.fr/appareils/multimedia/smartphone/) du smartphone de chaque joueur; celui qui commence est celui qui a l'indice le plus élevé
+- soit l'âge du smartphone de chaque joueur. Si un joueur à un smartphone reconditionnés ou a récupéré un vieux smartphone, c'est mieux. Celui ou celle qui n'a pas de smartphone commence !
 
-**Conditions de fin de partie :** La partie se termine quand:
-- un joueur a construit son smartphone en entier
-- la carte événement "Fin de partie" est tirée
-- il n'y a plus de cartes malus, on ne peut plus acheter de cartes PolluPlus ou PolluMoins
+
+Après **chaque tour de table** :
+
+- on tire une carte événement valable pour tous les joueurs
+- on lit la carte et on fait l'action écrite sur la carte
+- le joueur suivant devient le premier joueur du tour suivant
+
+
+**Conditions de fin de partie :** La partie se termine quand :
+
+- un des joueurs a construit son smartphone en entier,
+- la carte événement "Fin de partie" est tirée,
+- il n'y a plus de cartes Malus. Dans ce cas, on ne peut plus acheter de cartes PolluPlus ou PolluMoins.
 
 On termine le tour et on compte les points pour déclarer le vainqueur.
 
 **Décompte des points**: le gagnant est celui qui a le plus de points. On compte les points en fonction :  
 
-- des composants construits du téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
-- +2 points pour celui qui a le plus de cartes recyclage
+- des composants construits de votre téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
+- +2 points pour celui qui a le plus de cartes Recyclage, y compris celles posées sur le plateau
 - [à tester: -2 points pour celui qui a le plus de cartes Pollu+]
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
 
+En cas d'égalité, le gagnant est celui qui a le plus de cartes recyclées, puis le moins de cartes PolluPlus, puis le moins de cartes PolluMoins.
+
 ## Adaptations des règles pour une partie en 20'                                                      
-- On ne garde que les événements : 1 ; 2 ; 8 ; 10 ; 15  ;
-- Position des malus de type "événement"
+- On ne garde que les événements :
+    - pour la V1 (cartes de la boite de jeu) : 1 ; 2 ; 8 ; 10 ; 15  ;
+    - pour la V2 (cartes de la boite de jeu) : 2 ; 4 ; 6 ; 9 ; 15  ;
+- Position des malus de type "événement" (uniquement pour la V1)
     - 3 ou 4 joueurs
         - 9e place pour la première alerte
         - 14e place pour la deuxième alerte

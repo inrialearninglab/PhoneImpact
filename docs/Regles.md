@@ -82,7 +82,7 @@ Elles peuvent être de type :
 Les cartes **Malus** doivent être mélangées à chaque début de partie. À chaque malus correspond un texte qui doit être lu par les joueurs quand ils tirent une de ces cartes. Ces textes sont des chiffres, des informations, des faits en relations avec les impacts environnementaux du numérique. À la fin du texte, un numéro entre crochets permet de retrouver la source du texte.
 
 ### Sources
-Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](Fiche_metaux.md))
+Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](Sources.md))
 ## Préparation du jeu
 Voir la fiche [Préparation du jeu](PreparationJeu.md)
 

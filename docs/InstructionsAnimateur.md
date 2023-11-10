@@ -7,10 +7,16 @@ Eventuellement, avoir un écran de grande taille ou video-projecteur OU poster/k
 
 Sur chaque table, préparer les jeux :
 
-- Voir la fiche [Préparation du jeu](./PreparationJeu.md)
+- Voir la fiche [Préparation du jeu (V1, evt boite de jeu)](./PreparationJeu.md)
+- Voir la fiche [Préparation du jeu (V2, evt Print and play)](./PreparationJeu_V2.md)
 
 Une fois que les élèves sont arrivés :
 
 - [Briefing: concepts, règles, placements des joueurs...](./Briefing.md)
-- Jeu
+- Expliquer les [règles du jeu](PitchReglesDuJeu.md)
+- Si on a du temps, lancer l'application [Indice de reparabilité](https://www.indicereparabilite.fr/) via le QR code du recap
+    - demander à chaque joueur la marque+nom de son téléphone et retrouver dans l'application son indice de réparabilité (ou chacun calcule son indice)
+    - demander à chaque joueur l'âge de son téléphone
+    - Le joueur qui commence est celui qui a le smartphone ayant le meilleur indice de réparabilité. En cas d'égalité ou par manque de temps, ce sera celui qui a le téléphone le plus vieux ou reconditionné ou pas de téléphone.
+
 - [Debriefing](./Debriefing.md)

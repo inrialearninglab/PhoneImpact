@@ -30,7 +30,7 @@ Les cartes Malus sont mélangées et déposées en un tas, face cachée :
 
 - cartes Malus : 36 pour 3 joueurs, 48 pour 4 joueurs, 60 pour 5 joueurs
 
-### Cartes Événements
+### Cartes Événements (pdf Print&Play et pas les cartes événements)
 
 15 cartes Événements dont l'ordre est défini par un numéro sur celles-ci.
 Les 15 cartes Événements sont classées dans l'ordre de numéro indiqué sur celles-ci et déposées en une pioche, face cachée :

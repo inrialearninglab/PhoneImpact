@@ -26,6 +26,7 @@ title: Présentation
 - S'interroger sur le fait que la pollution passée a des répercussions sur le présent
 - Déduire qu'il est possible de modifier le comportement d'un constructeur en ajoutant des pénalités s'il pollue
 - Prendre conscience que la pollution pour le recyclage n’est pas nulle (à mentionner dans le débrief)
+- Prendre conscience que la pollution des autres nous impacte aussi
 
 **Expérience de jeu :**
 
@@ -38,28 +39,18 @@ Se mettre à la place d'un fabricant de smartphones, tiraillé par l'envie de d�
 - [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
 - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
 
-Validation scientifique par des experts, garants de l’aspect “sérieux” du jeu. Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont accompagnés pour le contenu du kakemono présenté lors du brief du jeu.
+Validation scientifique par des experts, garant de l’aspect “sérieux” du jeu. Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont accompagnés pour le contenu du kakemono présenté lors du brief du jeu.
 
-## Règles du jeu et matériel
-
-[Voir les règles](./Regles.md)
-
-## Instructions pour l'animateur
+## Instructions pour l'animateur (matériel, règles, brief/debrief...)
 
 [Instructions pour animer le jeu](./InstructionsAnimateur.md)
 
 ## License
 Le jeu PhoneImpact est sous license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International
 
-
 ## Print and play
 
-Ci-dessous les liens de téléchargement pour imprimer votre propre version du jeu :
+[Print an Play](./PrintAndPlay.md)
 
-- [Plateau](pdf/pnp/plateau.pdf) (1/joueur, à imprimer en mode portrait 4 pages par feuille)
-- [Événements](pdf/pnp/events.pdf)
-- [Malus](pdf/pnp/malus.pdf)
-- [Descriptifs composition des pioches](pdf/pnp/recap.pdf)
-- [Pioche Recyclage](pdf/pnp/recyclage.pdf)
-- [Pioche PollueMoins](pdf/pnp/pollumoins.pdf)
-- [Pioche PolluePlus](pdf/pnp/polluplus.pdf)
+## Sources
+Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](Sources.md))

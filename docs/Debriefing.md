@@ -3,6 +3,8 @@ Une fois le jeu terminé, il est débriefé.
 
 Le [kakémono](pdf/Kakemono_PhoneImpact.pdf) est expliqué si ça n'a pas été fait lors du Brief
 
+**Précision importante** : le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
+
 Des questions clés sont posées aux joueurs :
 
 - Qu’avez-vous ressenti ?

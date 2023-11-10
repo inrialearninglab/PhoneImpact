@@ -18,13 +18,3 @@
 
 ## Histoire
 - Histoire à raconter au début: "[Dans la ville de Techcity...](./Histoire.md)"
-
-## Règles du jeu et désignation de celui qui commence
-- Expliquer les [règles du jeu](Regles.md)
-- Bien dire que les textes des cartes Malus seront lus au début de la partie (au moins 2 tours de table).
-- Placer les joueurs par groupe
-- Lancer l'application [Indice de reparabilité](https://www.indicereparabilite.fr/)
-    - demander à chaque joueur la marque+nom de son téléphone et retrouver dans l'application son indice de réparabilité (ou chacun calcule son indice)
-    - demander à chaque joueur l'âge de son téléphone
-- Le joueur qui commence est celui qui a le smartphone ayant le meilleur indice de réparabilité. En cas d'égalité, ce sera celui qui a le téléphone le plus vieux.
-- Si on manque de temps, ce sera celui qui a le téléphone le plus vieux ou celui qui n'a pas de téléphone.
