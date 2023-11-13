@@ -27,8 +27,8 @@ Les cartes ressources doivent être bien mélangées puis rassemblées en pioche
 Les cartes Malus sont mélangées et déposées en une pioche, face cachée :
 
 - 37 cartes Malus
-- 1 carte "Attention, vous commencez à trop polluer" à placer en position (nombre de joueurs x 3)
-- 1 carte "Alerte pollution, vos malus sont déduits de votre total de points" à placer en position (nombre de joueur x 5)
+- 1 carte "Attention, vous commencez à trop polluer" à placer en position (nombre de joueurs x 3). Par exemple pour 4 joueurs, à placer en position 12.
+- 1 carte "Alerte pollution, vos malus sont déduits de votre total de points" à placer en position (nombre de joueurs x 5). Par exemple pour 4 joueurs, à placer en position 20.
 
 ## Cartes Événements
 
