@@ -50,7 +50,7 @@ Le jeu PhoneImpact est sous license [CC BY-NC-SA 4.0](https://creativecommons.or
 
 ## Print and play
 
-[Print an Play](./PrintAndPlay.md)
+[Imprimer les cartes et le plateau](./PrintAndPlay.md)
 
 ## Sources
 Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](Sources.md))
