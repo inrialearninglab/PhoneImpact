@@ -12,3 +12,8 @@ Ci-dessous les liens de téléchargement pour imprimer votre propre version du j
 - [Pioche Recyclage](pdf/pnp/recyclage.pdf)
 - [Pioche PollueMoins](pdf/pnp/pollumoins.pdf)
 - [Pioche PolluePlus](pdf/pnp/polluplus.pdf)
+
+Ci-dessous les liens vers les kakemonos qui accompagnent le jeu lors des phases de brief et debrief :
+
+- [kakemono du brief, présentation des métaux](pdf/Kakemono_PhoneImpact.pdf)
+- [kakemono du debrief, tour du mon du smartphone](pdf/kakemonoDebriefPhoneImpact.pdf)
