@@ -102,8 +102,8 @@ On termine le tour et on compte les points pour déclarer le vainqueur.
 **Décompte des points**: le gagnant est celui qui a le plus de points. On compte les points en fonction :  
 
 - des composants construits de votre téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
-- +2 points pour celui qui a le plus de cartes Recyclage, y compris celles posées sur le plateau
-- [à tester: -2 points pour celui qui a le plus de cartes Pollu+]
+- +2 points pour celui qui a le plus de cartes Recyclage, y compris celles posées sur le plateau [à tester: compter uniquement les cartes recyclées qui sont sur le plateau et pas dans la main]
+- [à tester: -2 points pour celui qui a le plus de cartes Pollu+ dans sa main]
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
 
 En cas d'égalité, le gagnant est celui qui a le plus de cartes recyclées, puis le moins de cartes PolluPlus, puis le moins de cartes PolluMoins.
