@@ -1,4 +1,4 @@
-# Bibliographie du jeu
+# Sources du jeu
 ## Références
 Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impact environnementaux du numérique" ainsi que sur la formation sur mobile ePoc "Smartphone et planète":
 
@@ -24,11 +24,11 @@ Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impact 
 - [15] [Belgique : du plomb dans le sang des enfants d’Hoboken. Le Monde, 2020](https://www.lemonde.fr/planete/article/2020/09/24/belgique-du-plomb-dans-le-sang-des-enfants-d-hoboken_6053489_3244.html)
 - [16] [Terres rares : notre ultra-dépendance à la Chine (et comment en sortir). The conversation. 2019](https://theconversation.com/terres-rares-notre-ultra-dependance-a-la-chine-et-comment-en-sortir-125855)
 - [17] [4. Impacts environnementaux : Toxicité. Eric Drezet. Ecoinfo. 2012](https://ecoinfo.cnrs.fr/2012/11/09/4-impacts-environnementaux)
-- [18] [Panguna mine at centre of bloody Bougainville conflict set to reopen after 30 years. The Guardian. 2022](https://www.theguardian.com/world/2022/feb/11/panguna-mine-at-centre-of-bloody-bougainville-conflict-set-to-reopen-after-30-years)
+- [18] [Panguna mine at centre of bloody Bougainville conflict set to reopen after 30 years. The Guardian. 2022. theguardian](https://www.theguardian.com/world/2022/feb/11/panguna-mine-at-centre-of-bloody-bougainville-conflict-set-to-reopen-after-30-years)
 - [19] [« Mining Secrets » : nouvelles révélations sur les pratiques controversées d’un géant de l’industrie minière au Guatemala. Le Monde. 2022](https://www.lemonde.fr/international/article/2022/03/06/mining-secrets-nouvelles-revelations-sur-les-pratiques-controversees-d-un-geant-de-l-industrie-miniere-au-guatemala_6116375_3210.html)
-- [20] [“Lithium in Bolivia: A Case Study in the Politics of Extractivism and Development” par Amy Borsuk (2014)]
-- [21] [“Resource-related Conflicts in the West African Region: Causes, Consequences and Management” par Khadijatul Kubra (2019)]
-- [22] [Roche, C., Thygesen, K., & Baker, E. (2017). Mine Tailings Storage: Safety Is no Accident. UN Environment, GRID-Arendal]
+- [20] [Maëlle Mariette, « Maîtriser ses ressources. Les enjeux de l’industrialisation du lithium bolivien », Cahiers des Amériques latines, 96 | 2021, 7-20.](https://journals.openedition.org/cal/12424)
+- [21] [“Afrique. Minerais de sang et néocolonialisme en République Démocratique du Congo (RDC). Le conflit au Kivu, zone grise en proie à de cruciales rivalités géoéconomiques” Par Melvil BOSSE. 2020. diploweb.com](https://www.diploweb.com/Afrique-Minerais-de-sang-et-neocolonialisme-en-Republique-Democratique-du-Congo-RDC.html)
+- [22] [Roche, C., Thygesen, K., & Baker, E. (2017). Mine Tailings Storage: Safety Is no Accident. UN Environment, GRID-Arendal. 2017](https://miningwatch.ca/sites/default/files/2017-11-unepgrid-minetailingssafety-finalreport_0.pdf)
 - [23] [Espagne : réouverture d'une mine 16 ans après une grave pollution. Sciences et avenir. 2014](https://www.sciencesetavenir.fr/nature-environnement/espagne-reouverture-d-une-mine-16-ans-apres-une-grave-pollution_13486)
-- [24] [https://fr.wikipedia.org/wiki/Catastrophe_de_Baia_Mare]
-- [25] [ https://fr.wikipedia.org/wiki/Accident_de_l’usine_d’aluminium_d’Ajka]
+- [24] [Catastrophe de Baia Mare (wikipedia)](https://fr.wikipedia.org/wiki/Catastrophe_de_Baia_Mare )
+- [25] [Accident de l'usine d'aluminium d'Ajka (wikipedia)](https://fr.wikipedia.org/wiki/Accident_de_l%27usine_d%27aluminium_d%27Ajka)
