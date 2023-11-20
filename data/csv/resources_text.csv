@@ -1,6 +1,6 @@
 type,name,description,examples
-AM,Autres matières,"Plastique, verre, céramique, matières synthétiques, etc...\n(40 à 70% du poids)","[ex1,ex2,ex3]"
-MC,Métaux communs,"Aluminium, cuivre, nickel, etc...\n(L'extraction nécessite beaucoup de ressources et d'énergie)","[ex1,ex2,ex3]"
-MR,Métaux rares,"Lithium, tantale, indium, etc...\n(Non précieux mais peu fréquent dans le sol)","[ex1,ex2,ex3]"
-TR,Terres rares,"Yttrium, néodyme, gadolinium, etc...\n(Pas si rare mais difficile à extraire)","[ex1,ex2,ex3]"
-MP,Métaux précieux,"Or, argent, platine, palladium, etc...\n(Précieux mais aussi rare, stratégique donc cher)","[ex1,ex2,ex3]"
+AM,Autres matières,"Plastique, verre, céramique, matières synthétiques, etc...\n(40 à 70% du poids)","ex1,ex2,ex3"
+MC,Métaux communs,"Aluminium, cuivre, nickel, etc...\n(L'extraction nécessite beaucoup de ressources et d'énergie)","ex1,ex2,ex3"
+MR,Métaux rares,"Lithium, tantale, indium, etc...\n(Non précieux mais peu fréquent dans le sol)","ex1,ex2,ex3"
+TR,Terres rares,"Yttrium, néodyme, gadolinium, etc...\n(Pas si rare mais difficile à extraire)","ex1,ex2,ex3"
+MP,Métaux précieux,"Or, argent, platine, palladium, etc...\n(Précieux mais aussi rare, stratégique donc cher)","ex1,ex2,ex3"
