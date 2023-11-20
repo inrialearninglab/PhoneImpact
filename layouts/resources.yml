@@ -21,3 +21,12 @@ description:
   height: 12.2mm
   align: 'center'
   valign: 'middle'
+
+examples:
+  font: Montserrat weight=600 11
+  x: 7.5mm
+  y: 74.1mm
+  width: 52.1mm
+  height: 12.2mm
+  align: 'center'
+  valign: 'middle'
