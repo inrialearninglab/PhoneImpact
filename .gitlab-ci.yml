@@ -25,8 +25,7 @@ stages:
 create-cards:
   stage: deploy
   script:
-    - docker pull nathanviaud/phone-impact:latest
-    - docker run -v .:/app nathanviaud/phone-impact:latest
+    - docker run -v .:/app viaudnathan/phone-impact:latest
   artifacts:
     expire_in: 3 days
     paths:
