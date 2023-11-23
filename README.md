@@ -27,13 +27,13 @@ Deck of cards are generated in `_output_`
 
 ### Create image
 ```shell
-docker build -t [image_name] .
+docker build -t phone-impact .
 ```
 
 ### Run container
 Execute this command inside the project folder and the result will be generated in `_output`
 ```shell
-docker run -v .:/app [image_name]
+docker run -v .:/app phone-impact
 ```
 
 ## Generating cards
