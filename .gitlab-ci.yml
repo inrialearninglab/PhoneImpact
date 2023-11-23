@@ -23,6 +23,9 @@ create-cards:
   stage: deploy
   image: viaudnathan/phone-impact
   script:
+    - ls -al
+    - cd app
+    - ls -al
     - rake pnp
   artifacts:
     expire_in: 3 days
