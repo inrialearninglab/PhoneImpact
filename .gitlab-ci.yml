@@ -19,3 +19,17 @@ pages:
   only:
   - main
 
+stages:
+  - deploy
+
+deploy-manual:
+  stage: deploy
+  script:
+    - docker pull nathanviaud/phone-impact:latest
+    - docker run -v .:/app nathanviaud/phone-impact:latest
+  artifacts:
+    expire_in: 3 days
+    paths:
+      - _output
+  only:
+    - manual
