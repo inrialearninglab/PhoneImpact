@@ -1,6 +1,6 @@
 require 'squib'
 
-task default: [:europrint]
+task default: [:pnp]
 
 task :pnp do
   load 'decks/pnp/malus.rb'
