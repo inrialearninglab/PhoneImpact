@@ -22,7 +22,7 @@ pages:
 stages:
   - deploy
 
-deploy-manual:
+create-cards:
   stage: deploy
   script:
     - docker pull nathanviaud/phone-impact:latest
