@@ -32,4 +32,4 @@ create-cards:
     paths:
       - _output
   only:
-    - main
+    - manual
