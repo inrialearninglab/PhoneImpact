@@ -24,8 +24,9 @@ stages:
 
 create-cards:
   stage: deploy
+  image: viaudnathan/phone-impact
   script:
-    - docker run -v .:/app viaudnathan/phone-impact:latest
+    - rake pnp
   artifacts:
     expire_in: 3 days
     paths:
