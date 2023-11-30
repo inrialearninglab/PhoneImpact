@@ -2,3 +2,4 @@ _output/*.png
 _output/pnp/*.pdf
 ~$*
 .DS_Store
+.idea
