@@ -42,7 +42,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
 
 A chaque tour, vous pouvez faire une seule de ces 3 actions suivantes :
 
-- piocher des cartes ressources parmi un des trois fournisseur :
+- Vous approvisionner : choisir un fournisseur et prendre le nombre de cartes ressources (visibles ou en haut du tas) et malus correspondant :
 
     - **PolluPlus** qui fait du minage classique polluant non responsable
     > ce qui vous permet d'obtenir 3 cartes ressources
@@ -60,11 +60,11 @@ A chaque tour, vous pouvez faire une seule de ces 3 actions suivantes :
     Une fois que vous avez choisi votre fournisseur, vous pouvez prendre les
     cartes visibles ou dans la pioche.
 
-- construire un seul des 4 composants de votre smartphone
+- Fabriquer un composant : poser les cartes ressources nécessaires et construire un des composants du smartphone
 
-- dépolluer en vous débarrassant de 2 cartes Malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
+- Dépolluer : se défausser de 1 à 2 cartes malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
 
-Vous pouvez en plus à votre tour de jeu proposer des échanges avec d'autres joueurs, avant ou après l'action (échanges de ressources et/ou de malus).
+Vous pouvez en plus à votre tour de jeu commercer : proposer des échanges de cartes ressources et/ou malus aux autres joueurs.
 
 Vu que ça fait beaucoup d'informations d'un coup, on vous a fait un
 récap cf. cartes aide de jeu.
