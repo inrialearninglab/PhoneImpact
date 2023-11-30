@@ -1,8 +1,8 @@
 # Sources du jeu
 ## Références
-Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impact environnementaux du numérique" ainsi que sur la formation sur mobile ePoc "Smartphone et planète":
+Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impacts environnementaux du numérique" ainsi que sur la formation mobile ePoc "Smartphone et planète":
 
-- [lien pour s'inscrire au Mooc "Impact environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
+- [lien pour s'inscrire au Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
 - [Portail de ressources du Mooc](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html)
 - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
 
