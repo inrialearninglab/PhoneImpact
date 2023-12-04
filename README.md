@@ -36,8 +36,19 @@ Execute this command inside the project folder and the result will be generated 
 docker run -v .:/app phone-impact
 ```
 
-## Generating cards
-By default the cards you generate aren't added to the git repository, to add your cards please move the content of the _output file inside the pdf file by executing this command:
+### Enter container
 ```shell
-mv _output/*.pdf pdf/
+docker run -v .:/app --entrypoint sh -it phone-impact  
 ```
+
+
+
+[//]: # (## Generating cards)
+
+[//]: # (By default the cards you generate aren't added to the git repository, to add your cards please move the content of the _output file inside the pdf file by executing this command:)
+
+[//]: # (```shell)
+
+[//]: # (mv _output/*.pdf pdf/)
+
+[//]: # (```)
