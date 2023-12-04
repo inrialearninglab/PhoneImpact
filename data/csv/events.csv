@@ -1,5 +1,5 @@
 text,type,number
-"Quel est le pourcentage de Français qui possèdent un smartphone en 2022 ?\n→ Celui qui est le plus proche de la bonne réponse (84%) prend une ressource parmi celles qui sont visibles",Question,1
+"Quel est le pourcentage de Français qui possèdent un smartphone en 2022 ?\n→ Celui qui est le plus proche de la bonne réponse prend une ressource parmi celles qui sont visibles (Réponse=84%) ",Question,1
 "La collecte des smartphones permet de récupérer des matériaux pour les réutiliser.\n→ Si vous avez au moins 1 carte Recyclage, choisissez une ressource parmi celles qui sont visibles",Bonus,2
 "2021: la loi REEN incite les entreprises à adopter des pratiques éco-responsables.\n→ Durant ce tour, vous ne pourrez pas piocher de cartes PolluMoins",La loi change,3
 "Si vous entretenez votre smartphone, vous éviterez jusqu'à 40% des pannes.\n→ Choisissez une ressource parmi celles qui sont visibles (ordre croissant de malus)",Bonus,4
