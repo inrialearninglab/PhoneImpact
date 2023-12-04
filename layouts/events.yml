@@ -19,7 +19,7 @@ event_type:
   valign: middle
 
 event_text:
-  font: Montserrat weight=600 11
+  font: Montserrat weight=600 10
   spacing: 2
   x: 10mm
   y: 25mm
