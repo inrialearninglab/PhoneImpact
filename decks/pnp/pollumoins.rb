@@ -30,6 +30,7 @@ CSV.foreach('data/csv/resources_distribution.csv', headers: true) do |row|
 
   name = resources_text.find { |d| d['type'] == type }['name']
   examples = resources_text.find { |d| d['type'] == type }['examples']
+  tmp_examples = examples
 
   quantity.times do
     if index == cards_per_sheet
@@ -46,7 +47,16 @@ CSV.foreach('data/csv/resources_distribution.csv', headers: true) do |row|
 
     pollumoins['type'] << type
     pollumoins['name'] << name
-    pollumoins['examples'] << get_example(examples)
+    pollumoins['examples'] << (-> {
+      if tmp_examples == '' then tmp_examples = examples end
+
+      res = get_example(tmp_examples)
+
+      # search & remove res from tmp_examples
+      tmp_examples = tmp_examples.split(',').reject { |e| e == res }.join(',')
+
+      res
+    }).call
     pollumoins['image'] << "data/images/border/#{deck}_border.png"
     pollumoins['icon'] << "data/images/icons/#{type}.png"
 
