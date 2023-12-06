@@ -47,3 +47,6 @@ Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impacts
 - [38] [Mooc "Impact environnementaux du numérique" Fiche concept : quelles sont les limites de l'économie circulaire](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.4.3-EconomieCirculaire-MoocImpactNum.html)
 - [39] [Faire durer son smartphone. HOP](https://www.produitsdurables.fr/faire-durer-son-smartphone/)
 - [40] [Effets rebond du numérique. EcoInfo-CNRS](https://ecoinfo.cnrs.fr/thematiques/consequences-du-numerique/effets-rebond-du-numerique/)
+- [41] [Indice IK : qu'est-ce que c'est ?. Futura-Sciences](https://www.futura-sciences.com/maison/definitions/maison-indice-ik-10725/)
+- [42] [Enfant du numérique (wikipedia)](https://fr.wikipedia.org/wiki/Enfant_du_numérique)
+- [43] [Taux d'équipement en smartphone en France entre 2019 et 2022, selon la tranche d'âge, statista](https://fr.statista.com/statistiques/505110/taux-de-penetration-du-smartphone-par-age-france/)
