@@ -50,3 +50,4 @@ Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impacts
 - [41] [Indice IK : qu'est-ce que c'est ?. Futura-Sciences](https://www.futura-sciences.com/maison/definitions/maison-indice-ik-10725/)
 - [42] [Enfant du numérique (wikipedia)](https://fr.wikipedia.org/wiki/Enfant_du_numérique)
 - [43] [Taux d'équipement en smartphone en France entre 2019 et 2022, selon la tranche d'âge, statista](https://fr.statista.com/statistiques/505110/taux-de-penetration-du-smartphone-par-age-france/)
+- [44] [Carte mère d'un Samsung Galaxy S4 (wikimedia commons)](https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S4_I9505_mainboard.jpg)
