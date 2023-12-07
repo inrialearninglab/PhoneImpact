@@ -1,4 +1,4 @@
-# Préparation du jeu V1 (boite de jeu)
+# Préparation du jeu V1 (boite de jeu, cartes de la boite)
 Pour cette version, vous pouvez utiliser la boite de jeu complète.  
 En particulier les carte Événements sont celles de la boite de jeu.
 

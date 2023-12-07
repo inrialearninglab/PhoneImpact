@@ -1,7 +1,9 @@
-# Préparation du jeu V2
+# Préparation du jeu V2 (Boite de jeu+Cartes à imprimer)
 Pour cette version, vous pouvez utiliser la boite de jeu hormis les cartes Événements qui doivent être imprimées ([lien vers le fichier](pdf/pnp/events.pdf)).
-Si vous utilisez les cartes Malus de la boite, il faut enlever pour cette version les 2 cartes Alerte (texte écrit en rouge) du jeu.
 
+Pour les cartes Malus:
+- Si vous utilisez les cartes Malus de la boite, il faut enlever pour cette version les 2 cartes Alerte (texte écrit en rouge) du jeu.
+- Sinon de nouvelles cartes malus (avec texte ou illustrations) peuvent être à imprimées ([lien vers le fichier](pdf/pnp/malus.pdf)).
 
 ## Plateau de jeu à construire
 Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
