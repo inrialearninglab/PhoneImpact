@@ -5,6 +5,9 @@ title: Présentation
 
 ## Informations générales
 
+Ce jeu sérieux a été conçu et réalisé par le service Inria Learning Lab.  
+Pour nous contacter: phoneimpact@inria.fr.
+
 !!! info "En bref"
 
     - **But du jeu :** démontrer qu’un smartphone pollue à cause des matières premières et de la fabrication des principaux composants

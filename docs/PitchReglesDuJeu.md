@@ -79,9 +79,9 @@ récap cf. cartes aide de jeu.
   <figcaption>Site indicereparabilite.fr pour calculer son indice de reparabilité</figcaption>
 </figure>
 
-Pour déterminer qui commence, il y a 2 possibilités, selon le type de joueurs et le temps qu'on a:
-- soit on se base sur l'[Indice de reparabilité](https://www.indicereparabilite.fr/appareils/multimedia/smartphone/) du smartphone de chaque joueur; celui qui commence est celui qui a l'indice le plus élevé
-- soit l'âge du smartphone de chaque joueur. Si un joueur à un smartphone reconditionnés ou a récupéré un vieux smartphone, c'est mieux. Celui ou celle qui n'a pas de smartphone commence !
+Pour déterminer qui commence, il y a 2 possibilités :
+- Celui qui a le smartphone le plus vieux commence. Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux. Celui ou celle qui n'a pas de smartphone commence ! 
+- Une alternative si les joueurs ont des smartphones récents et si vous avez du temps : on se base sur l'[Indice de reparabilité (sur le site www.indicereparabilite.fr)](https://www.indicereparabilite.fr/appareils/multimedia/smartphone/) du smartphone de chaque joueur; celui qui commence est celui qui a l'indice le plus élevé. C'est l'occasion de parler du reconditionnement des smartphones (garantie légale de conformité de 6 mois qui couvre les pannes, dysfonctionnements mais aussi le caractère limité des performances).
 
 
 Après **chaque tour de table** :
