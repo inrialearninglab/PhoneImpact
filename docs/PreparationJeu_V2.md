@@ -1,5 +1,7 @@
-# Préparation du jeu V2 (Boite de jeu+Cartes à imprimer)
-Pour cette version, vous pouvez utiliser la boite de jeu hormis les cartes Événements qui doivent être imprimées ([lien vers le fichier](pdf/pnp/events.pdf)).
+# Préparation du jeu V2 (Version Print&Play)
+Pour cette version, vous pouvez utiliser : 
+- soit la version Print&Play du jeu 
+- soit la boite de jeu hormis les cartes Événements qui doivent être imprimées ([lien vers le fichier](./PrintAndPlay.md)).
 
 Pour les cartes Malus:
 - Si vous utilisez les cartes Malus de la boite, il faut enlever pour cette version les 2 cartes Alerte (texte écrit en rouge) du jeu.
