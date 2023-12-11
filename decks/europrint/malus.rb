@@ -19,15 +19,6 @@ CSV.foreach('data/csv/malus.csv', headers: true) do |row|
     cards['color'] << black
 end
 
-CSV.foreach('data/csv/malus_events.csv', headers: true) do |row|
-    cards['text'] << row['text'].gsub('\n', "\n")
-    cards['image'] << 'data/images/border/malus_event_border.png'
-    cards['color'] << red
-
-    cards['text'] << ''
-    cards['image'] << 'data/images/back/malus_back.png'
-    cards['color'] << black
-end
 
 Squib::Deck.new cards: cards['text'].size, layout: ['layouts/malus.yml', 'layouts/common.yml'] do
     background color: 'white'

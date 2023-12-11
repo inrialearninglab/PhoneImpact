@@ -36,27 +36,6 @@ CSV.foreach('data/csv/malus.csv', headers: true) do |row|
   index += 1
 end
 
-CSV.foreach('data/csv/malus_events.csv', headers: true) do |row|
-  if index == cards_per_sheet
-    cards_per_sheet.times do
-      cards['type'] << ''
-      cards['text'] << ''
-      cards['image'] << 'data/images/back/malus_back.png'
-      cards['color'] << black
-      cards['illu'] << 'data/images/malus_img/empty.png'
-    end
-
-    index = 0
-  end
-
-  cards['type'] << ''
-  cards['text'] << row['text'].gsub('\n', "\n")
-  cards['image'] << 'data/images/border/malus_event_border.png'
-  cards['color'] << red
-  cards['illu'] << 'data/images/malus_img/empty.png'
-
-  index += 1
-end
 
 if index > 0
   remaining_cards = cards_per_sheet - index
