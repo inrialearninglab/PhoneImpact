@@ -6,6 +6,8 @@ use_directory_urls: false
 theme:
   name: material
   custom_dir: custom/
+extra_javascript:
+  - assets/extra.js
 markdown_extensions:
   - admonition
   - abbr
