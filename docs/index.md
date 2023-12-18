@@ -10,7 +10,7 @@ Pour nous contacter: phoneimpact@inria.fr.
 
 !!! info "En bref"
 
-    - **But du jeu :** démontrer qu’un smartphone pollue à cause des matières premières et de la fabrication des principaux composants
+    - **But du jeu :** Sensibiliser à l'impact environnemental des composants d'un smartphone
     - **Joueurs :** 3 à 5
     - **Âge :** Dès 12 ans
     - **Durée :** 40 min

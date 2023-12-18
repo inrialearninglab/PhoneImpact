@@ -1,4 +1,3 @@
-
 # Jeux serieux PhoneImpact
 correspond à la partie 2 du Mooc https://lms.fun-mooc.fr/courses/course-v1:inria+41025+session01/info- [x]
 
@@ -987,8 +986,8 @@ Idées à tester
 - Proposition Suzon sur l'organisation du jeu :
     - on tire une carte evt sauf au 1er tour
     - phase de negociation collective
-    - les cartes malus pourraient être négociées aussi (ex: 1 carte rare contre 4 mallus !!!) --> à tester
-    - puis chaque joueur (piocher, produire, perdre 2 mallus)
+    - les cartes malus pourraient être négociées aussi (ex: 1 carte rare contre 4 malus !!!) --> à tester
+    - puis chaque joueur (piocher, produire, perdre 2 malus)
 - travailler le storytelling : course à la préparation du smartphone 
 - possibilité d'ajouter des textes (un info) aux cartes malus --> toutes sans incidence dans le jeu, on s'en fiche MAIS il y a 2 cartes malus avec des incidences -> questionnement/message intéressant, permet de montrer qu'on s'en fiche la plupart du temps jusqu'au moment où on est touché (ex: jeu de Matthieu heros -> les menaces ont des légendes)
 - 
