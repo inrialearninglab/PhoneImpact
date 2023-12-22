@@ -1,1455 +1,636 @@
+
 # Jeux serieux PhoneImpact
-correspond à la partie 2 du Mooc https://lms.fun-mooc.fr/courses/course-v1:inria+41025+session01/info- [x]
+correspond à la partie 2 du Mooc https://lms.fun-mooc.fr/courses/course-v1:inria+41025+session01/info
+
 
 [toc]
 
-## Visio avec Suzon 6/10/2022
-Dans un 1er temps : Sujet, cible et objectifs
-Sujet
-- Trouver un sujet
-- Est-ce qu'on a la connaissance ou bien connait-on un expert ?
-- Appétence pour le sujet ?
-
-Le jeu peut s'inscrire dans une formation
-Définir la cible est importante aussi
-Laurence : envoyer le jeu de Julie
-
-Définir notre séquence : on veut travailler sur ... notre cible est ... dans quel parcours ? le contexte ?
-La contrainte est importante, ainsi que la durée
-
-
-## Réunion interne du 7/10/2022
-Pistes envisagées :
-- Inscription du jeu dans un parcours existant
-- Data : vie d'une donnée.
-   - Sur les datas : expliquer  collecte, traitement, Analyse 
-   - collecte des donnees : tous les types de donnees
-   - traitement : crypto, bcp d'autres 
-   - Analyse : valeur de l'info, 
-Cible : grand public, 16 ans et +
-
-
-- Impact Num
-**--> démontrer qu'un smartphone est couteux et pollue à cause des matières premières (extraction et transformation) et de sa fabrication des principaux composants**
-Illustrations : 
-![](https://notes.inria.fr/uploads/upload_f740a8901ae8b719ea6a8744aea422fc.png)
-   - le smartphone fait 4 fois le tour de la planete
-
-![](https://notes.inria.fr/uploads/upload_cc0cc3514f405ffbfd71faedef7737f3.png)
-
-- Objectifs pédagogiques :
-    ~~- lister la composition d'un smartphone + ressources nécessaires à la construction d'un smartphone~~
-   ~~- 1er sujet = les composants d'un smartphone ~~
-   ~~- objectifs : comprendre de quoi est composé un smartphone / acles ressources : metaux précieux, connaitre leur provenance /~~ 
-   être capable de :
-   - lister les principaux éléments nécessaires à la fabrication d'un smartphone (Acier, Tatale, Or... plus de 50)
-   - identifier les différents types de métaux : abondants/rares, précieux, stratégiques, abondants, dangereux...
-   - identifier les ressources rares (idem prédédent?)
-   - citer les différentes étapes de la conception à la vente d'un smartphone et les localiser géographiquement (Conception, extraction et transformation des matières premières, fabrication des composants, assemblage, distribution ) 
-
-Ajout Laurence : peut-être ajouter "identifier ce qui est recyclable (très peu) er ce qui ne l'est pas"
-
-
-- Parcours : [Mooc Impact'Num](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) (Module 2.3: Pourrons-nous continuer longtemps à fabriquer des équipements informatiques ? + activité [Des métaux dans nos smartphones, pour quoi faire ?](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_3_Mesurer2/story.html))  + Epoc (formation sur mobile) "Le smartphone et la planète"
-- Durée : 30/40mn pour que le jeu puisse être utilisé en cours
-- Emotions : l'apprenant doit être étonné/surpris, scandalisé
-
-## Récapitulatif (envoyé à Suzon et validé) 
-> [historique: assez vague, bcp d'objectifs]
-- **Cible** : le grand public, plus de 16 ans
-- **Sujet** : démontrer qu'un smartphone est couteux et pollue à cause des matières premières (extraction et transformation) et de la fabrication des principaux composants
-- **Parcours** : Mooc Impact'Num (Module 2.3: Pourrons-nous continuer longtemps à fabriquer des équipements informatiques ?)  + Epoc (formation sur mobile) "Le smartphone et la planète"
-- **Durée** : 30/40mn pour que le jeu puisse être utilisé en cours
-- **Emotions** : l'apprenant doit être étonné/surpris, scandalisé
-- **Objectifs pédagogiques** :
-   - lister les principaux éléments nécessaires à la fabrication d'un smartphone (Acier, Tatale, Or... plus de 50)
-   - identifier les différents types de métaux : abondants/rares, précieux, stratégiques, abondants, dangereux...
-   - identifier les ressources rares (idem prédédent?)
-   - citer les différentes étapes de la conception à la vente d'un smartphone et les localiser géographiquement (Conception, extraction et transformation des matières premières, fabrication des composants, assemblage, distribution )
-   - soutenabilité ? on est limité dans le temps pour certaines ressources (cuivre)
-Deux illustrations pour nous aider à comprendre le sujet :
-![](https://notes.inria.fr/uploads/upload_f740a8901ae8b719ea6a8744aea422fc.png)
-   - le smartphone fait 4 fois le tour de la planete
-   - Les matériaux composant un téléphone portable et leurs impacts: https://blog.recommerce.com/green-circle/reconditionne/composants/
-
-![](https://notes.inria.fr/uploads/upload_cc0cc3514f405ffbfd71faedef7737f3.png)
-
-## Réunion interne 10/11/2022
-A préparer : message de Suzon : _En vu de préparer ce temps de travail, vous pouvez préparer chacun (ou en échanger, c’est encore mieux !) :_
-- la liste des messages connexes. Par exemple « les terres rares se trouvent essentiellement en Amérique du Sud », « pour extraire 1 tonne d’or, il faut extraire X tonnes »… C’est à dire que ce ne sont pas des objectifs pédagogiques mais des éléments que vous souhaitez que le joueurs ai perçu/vu pendant le jeu. 
-- des idées de jeux ou de mécaniques que vous connaissez et qui vous inspirent pour sous-tendre vos messages. (Par exemple, je voudrais que les joueurs achètent leurs ressources pour créer un téléphone, et qu’ils n’y en ait pas assez pour tout les joueurs…)
-
-**Brainstorming:**
-- construire son smartphone : 5 étapes de la conception à la vente d'un smartphone + récupérer les ressources nécessaires
-- carte du monde, il faut aller sur le bon continent pour aller chercher des ressources (ex: cluedo, aventuriers du rail). 
-- en fonction du pays, (dés?), on pourra obtenir des ressources (pioche d'une carte) avec des cartes inutiles
-- chacun a une carte smartphone à compléter
-- à son tour, possibilité de négocier avec les autres pour échanger des ressources
-- possibilité de voler les ressources des autres ?
-- coût des metaux / en eau / en energie pour comprendre que certains métaux sont couteux en eau et en énergie
-- soit individuel, soit collaboratif, soit en équipe
-- possibilité de récupérer des vieux smartphones et de récupérer les métaux (pour comprendre le recyclage)
-- 5 des étapes pour fabriquer le smartphone --> il faut se déplace sur la carte pour les 5 étapes (Cf carte)
-- possibilité de malus/bonus écologique selon le lieu d'assemblage. Selon le lieu, cout d'assemblage. Sous-traitance de l'assemblage
-- dilemne entre écologie et économie
-
-**Messages connexes = messages clé**:
-- transport couteux, tour de la planète pour faire des smartphone (5 étapes)
-- difficulté  d'extraction qui nécessite de l'eau et de l'énergie
-- quantité disponible des métaux sur la planète
-- recyclage : possibilité de recycler 10%(à vérifier) des métaux
-- on est limité en ressources
-- on est limité en eau
-- l'energie coûte cher
-
-Fin du jeu 
-- terminer son smartphone en premier --> le plus pollueur
-- plusieurs méthodes de succès, systeme de points
-    - terminer en 1er rapporte des points
-    - moins polluer te rapporte des points
-    - actions qui rapportent des points (ex: recyclage)
-
-
-A Faire pour préparer reunion avec Suzon :-1: 
-
-- faire le Module 2 du Mooc
-- Laurence pointe directement vers des fiches concept
-- noter les idees dans les messages connexes
-
-### Sources à consulter
-- epoc Smartphone et planète
-- Mooc ImpactNum Module 2
-    - [lien Mooc](https://lms.fun-mooc.fr/courses/course-v1:inria+41025+session01/jump_to_id/c399c24355ae4cad9a39b22228c6a6b8)
-    - [lien portail de ressources](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/index.html)
-    - 
-Fiches concepts:
-- [Quels métaux dans les smartphones?](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html?lang=fr)
-- [Quelle est l’empreinte environnementale d’un terminal aux différentes étapes de son cycle de vie ?](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.2.1-EmpreinteEnvironnementaleTerminal-MoocImpactNum.html?lang=fr)
-- [L'analyse de cycle de vie, notamment chapitre "Évaluation des impacts environnementaux"](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.2.2-ACV-MoocImpactNum.html?lang=fr#evaluation-des-impacts-environnementaux)
-- [Pourquoi les projections autour de la durée des réserves minières sont difficiles](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.2-ProjectionDureeRessourcesMinieres-MoocImpactNum.html?lang=fr)
-
-### Liste des messages connexes, faits
-
-_"éléments que vous souhaitez que le joueurs aient perçu/vu pendant le jeu"_
+## Adresse editeur de jeu par Denis 8/12/2023
+Denis Trystram" <denis.trystram@imag.fr>
+Siège à Londres et Ireland :
+Cloudberries.co.uk
 
-- connaitre de quoi est fait un smartphone (composition) cf video "empreinte du smartphone" voir aussi https://www.systext.org/sites/all/animationreveal/mtxsmp/#/2
+##  Rencontre Gameflow 7/12/2023
+Présents : Laurence, Madeline, Elise, Myriam, Valérie et Clément
+"Clément Leclercq" <clement.leclercq@game-flow.fr>; 
 
-        - la coque : matière plastique --> pétrole transformé
-        - l' écran : verre avec Indium (métal rare)
-        - une batterie : lithium-ion  --> composés toxiques
-        - une carte électronique qui concentre les matériaux de valeur : 
-                    * métaux spéciaux : cuivre, aluminium, fer, nickel, zinc, étain, plomb, tantale 
-                    * + métaux précieux : or, argent, palladium
-                    * + terres rares :  gallium, germanium, praséodyme, néodyme, etc.
-                    
-Dans un téléphone il y a + de 50 métaux différents ( minerais qui sont des ressources fossiles, non renouvelables)
-**lieu de production** : afrique ou asie principalement
+avec Roméo (ami de Clément), édition de jeux pour le commerce et livres de jeu
 
-**Conséquences**-->
-- consommation de grandes quantités d'eau
-- pollution de l'eau à cause de l'injection de produits chimiques nocifs
-- érosion des sols
-- perte de biodiversité
-- perte humaine ( par ex. travail des enfants)
-- conflits armés (congo) ---> Tantale : surnom "minerais de sang"
-
-ACV : analyse cycle de vie 
- méthode d’évaluation quantifiée des impacts environnementaux d'un produit (qui peut être un bien ou un service). Cette méthode est formalisée par les normes internationales ISO 
- 
- - Recycler n'est pas gagné - / économie circulaire  Les 5 R - refuser - réduire - réutiliser ou réparer - rendre à la terre - recycler
-
- - L'effet rebond : Une technologie plus efficace a tendance à être plus utilisée, 
+Retours Clément : comment gérer la production et surtout la distribution ?
 
+Objectif :
+-créer un jeu pour le commerce (pour le grand public): circuit standart pour la distribution -> convaincre un distributeur
+cf. L'année des 5 empereurs en 5000 exemplaires
+-ou diffuser auprès d'organismes/ écoles
 
-- En moyenne, 70 kg de matière sont nécessaires pour fabriquer un smartphone, dont 60 métaux différents6
-- Pour les appareils électriques à forte composante électronique, 80 % de l'impact carbone des produits se situe lors de la phase de production des matières premières
-- Pour les smartphones, 85 à 95% des émissions de CO2 proviennent de sa fabrication
-- Un français génère en moyenne 21 kg de déchets électriques et électroniques par an
-- Au niveau mondial, seuls 20% des déchets d'équipements électriques et électroniques sont recyclés10
-- 4 tours du Monde pour fabriquer 1 smartphone
-        - 1. conception (US)
-        - 2. extraction matières premières (Asie, Afrique, Australie, Amérique sud)
-        - 3. fabrication des principaux composants (US, Asie, Europe)
-        - 4. Assemblage (Asie)
-        - 5. Distribution dans le monde entier
+Interlocuteur pour la distribution : logistique en tant que prestation pour le coût de stockage et un coût pour chaque envoi
 
-Terres rares = materiaux difficile à extraire
+Trouver le bon axe pour l'amener sur le marché et il faut que ce soit vendeur - un éditeur pas trop cher et pas trop loin (autre de Gameflow) de tenter avec par ex 1000 ou 2000 boîtes.
 
-## Visio avec Suzon 14/11/2022
-> [historique: 1er RDV avec Suzon]
-
-Messages connexes : 
-- bien choisir 5 ou 6 messages clé
-- Granularité à avoir, niveau de détail
-
-Comment sera utilisé le jeu ? en ligne/plateau/jeu à imprimer ?
-
-S'il y a des pions, pas pratique à imprimer
-
-Print and play ? pas pratique sinon pour les enseignants
-
-Se renseigner sur le recyclage : plus ou moins couteux que l'extraction d'une ressources
-
-2 sources d'approvionnement
-- payer des fournisseurs/extracteurs
-- payer des gens qui recyclent (filière du recyclage)--> on en a moins
-- acheter à d'autres / négociation
-
-Comment on gagne:
-notion d'offre et de demande / tension sur la rareté - tout le monde n'aura pas tout
-Il existe un jeu = ambition (offre et demande), on produit du chocolat et on a besoin de cacao
-On peut imaginer une mécanique pour l'achat : soit je vais vers le recyclé / soit vers le neuf 
-
-A la fin:
-- on arrête le 1er qui a terminé le 1er smartphone ou quand il n'y a plus de ressources -> il faut assez de ressources pour que au moins un joueur termine
-- on ajoute les bonus: le moins consommateur, le plus de recyclage
-
-Ressources finies vs explosion de la planete (jauge)
-produire des telephones
-avoir qqchose qui est soutenable en restant sous la jauge 
-
-Galerapagos = kho-lanta, on veut quitter une ile avec un radeau --> on coopère mais il n'y a pas assez de place pour tout le monde
-l'ile interdite : explorateurs sur une ile qui doivent recuperer des reliques pendant que le niveau de l'eau monte.
-
-Des points bonus si bonne conduite ?
-
-Comment on gagne ? doit être en cohérence avec nos messages 
-je gagne si j'ai le maximum de points - carte objectifs avec des valeurs + ou - importantes - critères de soutenabilité (recyclé, reparabilité, lieu de production ...)
-production de smartphone
-
-
-Piste : 
-- duree de vie des smartphones
-- matieres recyclées
-- SM réparable ?
-- Pub pour fairphone 
-- --> pourrait être des objectifs initiaux : objectifs éthiques
-
-Objectifs différents qui rapportent des points différents : indices de reparabilité/utilisation de métaux recyclés/limiter mes déplacements - tu choisis le telephone que tu veux faire 
---> statégies différentes selon l'objectif (type de tél qu'on veut fabriquer)
-
-La partie s'arrête soit à l'epuisement des ressources ou soit quand le 1er joueur a rempli 3 objectifs de sa creation de smartphone soutenable (choisir les 2)
-
-- objectifs de point : chaque objectif doit être mesurable - Comment je fais pour tracer les matieres
-
-la ressource est limitée mais ce n'est pas connu par les joueurs. Sinon, un joueur pourra prendre la totalité d'une ressource
-
-2 pioches
-- une pioche avec un peu de chaque ressource
-- une pioche avec de manière aléatoire moins de ressources pour garantir la jouabilité
-- recyclage = valeur sûre en petite quantité
-
-> [historique: différents types de smartphones, des objectifs à réaliser, pb de l'achat des ressources, règles compliquées]
-
-Récap :
-- Pour avancer : il faut un but du jeu
-- Qu'est-ce qu'on imagine ? 
-- ex: 5 types de smartphones possibles 
-- on tire des objectifs et on en garde 3 
-- comment on gagne du point ? Proportionnel à la soutenabilité
-- la partie s'arrête à l'épuisement des ressources ou quand un joueur a atteint 3 objectifs
-
-Carte Smartphone/objectifs à construire avec nb de points qui dépend de:
-- recyclabilité -> j'utilise x% de matière recyclée
-- reparabilité (plus de métaux pour être réparable pour garder des pièces détachées) -> plus de points
-- lieux d'assemblage/de production
---> à affiner 
-
-Si on peut arriver avec un prototype (grossier), ce serait super
-Montrer aux autres nos objectifs et la mécanique globale du jeu
-
-On a le but du jeu à tester - comment je gagne -  (dans la conception/realisation du jeu, on teste et on reteste)
-
-Quelles sont les étapes d'un tour --> tester avec du papier découpé
-
-Condition de fin : epuisement des ressources soit 3 cartes objectifs remplis
-comment on gagne : on compte les points = objectifs remplis
-Au début, on tire des objectifs / on choisit parmi un ensemble d'objectifs --> à définir
-Préciser nos cartes objectifs/critères
-
-## Leviers dans la fabrication d'un smartphone / soutenabilité
-Laurence : synthèse des contenus qu'on a dans le Mooc sur le sujet
-
-- *les impacts environnementaux sont quasiment proportionnels à la **surface de l'écran**, ou encore à la **taille du disque dur ou de la batterie***. [fiche 2.2.1](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.2.1-EmpreinteEnvironnementaleTerminal-MoocImpactNum.html)
-- *Quant aux **LED**, elles contiennent de base un composé de gallium (extrait du minerai d'aluminium) et d'au moins un autre atome, qui va déterminer la couleur « de base » de la LED. Ainsi, de l'arsenic combiné à du phosphore va donner une lumière rouge orangé, alors qu'avec de l'azote ou de l'indium, la LED apparaît bleue. **Mais les concepteurs de LED ont imaginé pouvoir faire des couleurs plus belles et plus variées, jaune, blanc, rouge, bleu ou vert**. Alors sont utilisés différents cocktails de terres rares aux noms mystérieux : grenat d'yttrium et d'aluminium, cérium, yttrium, europium ou terbium. On peut aussi retrouver du lanthane et du gadolinium.* [fiche 2.3.1](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html?lang=fr)
-- [Comment réduire l'impact environnemental de notre smartphone ?. Ademe](https://www.mtaterre.fr/dossiers/le-smartphone-pas-si-smart-pour-lenvironnement/comment-reduire-limpact-environnemental-de). Quand on choisit son smartphone, il est important de :
-    - *Par exemple, se demander si on a vraiment besoin d’un écran de 6 pouces, d’une **mémoire** de 20 Go ou d’un **appareil photo de 15 millions de pixels** ;*
-    - *chercher un smartphone durable : **solide, démontable, évolutif**… Oui, il existe des smartphones qui répondent à ces caractéristiques ! Renseignez-vous auprès du vendeur pour savoir si la **batterie est remplaçable** facilement, si vous avez le panel des connectiques : **port audio jack, port USB**… et si le **chargeur est universel**.*
-- Lutter contre L'**obsolescence technique** [fiche 2.4.4](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.4.4-Obsolescence-MoocImpactNum.html?lang=fr) : *L'obsolescence technique se produit lorsque le bien ne fonctionne plus en raison de la durée de vie limitée de l'un de ses composants ou pièces essentiels et inamovibles. Elle peut aussi représenter le fait d'introduire un dispositif visant à limiter volontairement la durée de vie du produit après un certain nombre d'usages ou de cycles.*
-- Lutter contre l'**obsolescence esthétique** [fiche 2.4.4](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.4.4-Obsolescence-MoocImpactNum.html?lang=fr) : L'obsolescence esthétique ou culturelle vise à rendre démodés et peu attrayants les biens d'un point de vue psychologique pour entrainer leur renouvellement 
-- [fiche 2.4.4](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.4.4-Obsolescence-MoocImpactNum.html?lang=fr) : Du côté des fabricants, il est indispensable de :
-  - Mieux concevoir les produits : en **choisissant au mieux les matériaux ayant le moins d'impact possible sur l'environnement**, en les rendant plus **robustes**, plus facilement **réparables**, plus **adaptables aux évolutions technologiques** et plus **faciles à entretenir** (on parle d'éco-conception) ;
-  - **Faciliter la réparation des produits** : dès l'étape de conception, mais aussi en **rendant disponibles les pièces détachées et documentations nécessaires, le plus longtemps possible et à un prix raisonnable** ;
-  - Mieux informer les consommateurs : c'est l'objectif de l'**indice de réparabilité**, et du futur **indice de durabilité**, tous deux développés en lien avec les pouvoirs publics, des fabricants, des vendeurs et des associations, dans le but de guider les choix des consommateurs lors de l'achat.
-- Fairphone [Fiche 3.4.1](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie3/FichesConcept/FC3.4.1-EcoconceptionPilierEconomieCirculaire-MoocImpactNum.html)
-    - Fabrication
-        - **Identification et choix de composants issus de filiaires durables** (pas de minéraux de conflits ou de travail des enfants)
-        - **Rémunération correcte de l'ensemble de la chaine de valeurs**
-        - **Conception robuste et modulaire** pour faciliter le changement de sous-ensemble
-        - **Suppression des accessoires inutiles** : chargeur, écouteurs... disponibles uniquement sur demande
-    - Distribution
-        - **Packaging uniquement en carton**
-    - Usage
-        - Travail sur l'**autonomie de la batterie**
-        - **Mise à jour du système d'exploitation** pour permettre une augmentation de la durée de vie
-    - Fin de vie
-        - Système de **reprise de l'ancien matériel**
-        - Démontabilité accrue par le principe de modularité
-        - Indice de réparabilité de 8,7
-        - Mise à disposition de tutoriel officiel I-fixit pour réparer soit-même
-
-
-![](https://notes.inria.fr/uploads/upload_443fab82d8ed860ede61726efb4585e0.png)
-
-## Visio 16/11/22
-Profil de téléphone avec des points selon des critères environnementaux (durabilité, réparabilité, taille écran...)
-
-![](https://notes.inria.fr/uploads/upload_ba2c968b3274919106aa229afd8a5ad0.png)
-
-Les aventuriers du rail : https://boardgamearena.com/gamepanel?game=tickettoride
-
-Limiter les ressources pour chaque personne ? 
-Des jauges plutôt que des points --> la carte rappporte ensuite globalement des points
-
-Règles 
-- plateau en cercle comme monopoly (case=etape), un pion par personne, le pion reste dans une case tant qu'il n'a pas terminé son étape
-- **5 étapes** (conception, extraction de métaux et traitement des matières premières, fabrication des composants, assemblage, distribution)
-- A chaque etape, on pioche des cartes selon l'étape
-- chaque carte rapporte des points. Plus c'est ecolo, plus ça rapporte des points
-- **étape 1 : conception** : en début de partie, on commence sur la case conception
-    - on tire x cartes -> 3 smartphones différents (1 ecolo qui rapporte beaucoup de points, un moins écolo et un pas du tout écolo qui rapporte peu de point) / on tire au hasard parmi 20 smartphones (depend du nombre de joueurs) au 1er tour. Puis ensuite quand on a terminé son tel, on en choisit un autre
-    - Chaque objectif/smartphone rapporte des points, plus de points si ecolo mais elles sont plus difficiles à fabriquer
-    - on choisit une de ces cartes/objectifs
-- ensuite, 4. A chaque étape, on tire des cartes pour finir l'étape, choix entre ecolo (plus couteux) et pas ecolo
-    - **étape extraction**
-        - 2 pioches : 
-            - une éthique avec des cartes qui rapportent plus de matériaux (ex de 4 à 6 kg)
-            - une moins éthique avec des cartes qui rapporte moins de matériaux (de 1 à 3 kg)
-            - qd on a assez de materiaux etape 3
-    - **étape fabrication**
-        - plus c'est ecolo, plus il faut de tours car plu long de faire du durable, réparable....
-    - étapes suivantes à faire...
+Le tester et le montrer à des éditeurs
+accompagner une prod et du stockage : Clément est partant
+
+Éditeur lyonnais de jeux Opla (produire en France) qui réalisent des jeux sur l'environnement : https://www.jeux-opla.fr/
+
+Matériel autour de 25 euros mais pas forcément valable en france -
+
+Clément va tester le jeu et le présenter à l'[Union des éditeurs de jeux](http://uej.fr/) la semaine prochaine -> laisser une boîte
+
+proposition : réduire le nombre de cartes pour baisser le prix
+ex : curseur sur le plateau de jeu 
+
+De notre côté, essayer d'évaluer combien de boites on peut vendre/payer --> contacter la DNE, l'ESR, la fresque du numérique...
+
+## Echange de mail avec Science PO pour une utilisation du jeu en P&P, 6/12/2023 
+"Sebastien Gregov" <sebastien.gregov@sciencespo-rennes.fr>
+Sebastien Gregov a testé le jeu au Learning show et souhaiterait l'utiliser : "au second semestre à Sciences Po Rennes avec un public d'étudiants internationaux en mobilité Erasmus dans le cadre d'un séminaire de conduite de projet où les étudiants organisent un hackathon sur la transition environnementale. 
+De mon côté, j'ai bon espoir d'avoir 4 tuteurs ou animateurs (nous serions au total 5 voire 6) qui pourraient se former en amont et faire jouer le jeu ensuite aux étudiants."
+
+"Je pensais effectivement utiliser le "print and play" en passant par le service reprographie de notre établissement. La langue française doit être la langue de communication du séminaire et la plupart la comprendront.
+Je peux proposer aux anglophone natifs une relecture si vous en avez besoin. Je me réjouis d'une rencontre aux alentours du 11 janvier pour aller plus loin. Pour une intervention de votre part, soit en présentiel, soit en distanciel, il me faudrait un devis estimatif..."
+
+Prochain RDV en visio le 11 janvier avec Benjamin Ninassi
+
+## retours sur les tests du jeu à Sophia 5/12/2023 
+Test du jeu avec : Thierry Vieville, Sabrina Barnabé, M-Hélène Comte, Sylvain Chevillard
+
+Test avec la v2
+- changement écran tactile 8 pts, batterie 6 pts, coque 4 pts
+- la batterie : vieille version
+- dépollution : 2 malus (pas de quiz)
+
+- Pour la carte aide de jeu
+    - séparer visuellement la partie **optionelle** des 3 actions possibles 
+        -  [ ] TODO Madeline, remettre le trait
+    - on a eu un gros souci avec l'indice de réparabilité : aucun des participants n'a pu trouver son téléphone (car téléphone trop ancien)
+        - [x] TODO Laurence : supprimer cette règle et la mettre en optionnel (si les smartphones sont récents et on a du temps) 
+        - [x] dans le débrief, à faire en plus
+        - [ ] TODO Madeline modif carte de jeu
+
+- Pour les evenements :
+    - evenement 3 : pourquoi interdire pioche à "pollue -"" et pas à  "pollue +" ?
+        - [ ] réfléchir sur le message, situation où on doit choisir dans les extrêmes, soit vraiment polluer soit se limiter et utiliser des métaux recyclés
+    - evenement 9 : la formulation de la phrase a été mal comprise, à voir si on peut reformuler
+        - [x] TODO Laurence : reformuler ou donner une exemple -> Si j'ai 5 malus, je défausse 2 ressources --> j'ai remis comme avant "2021: la loi REEN incite les entreprises à adopter des pratiques éco-responsables.\n→ Durant ce tour, vous ne pourrez pas piocher de cartes PolluPlus" car le message et l'action sont plus cohérentes. Si on veut garder PolluMoins, il faut changer le message (une catastrophe par exemple).
+        - [ ] ou illustration by donovann : 5 cartes dont 2 ressources barrées 
+    - proposition : faire le tour pour dernier evenement "fin de partie".
+        - il reste un tour, c'est bon
+
+- Pour les cartes ressources
+    - proposition de Sylvain de rajouter sur chaque carte la formulation chimique de la ressource qui sera indiquée dans le petit encadré du bas
+        - ca a déjà évolué car on met un métal 
+        - [ ] TODO Laurence : ajouter entre parenthèses la formule (ex: aluminium (Al))
+
+Retours globaux : 
+- très bon et enthousiaste
+- de la frustration
+- ts les malus ont été lu : sensation "fou les boules" ;)
+--> petit côté schizophréne du jeu 
+- remarque sur les malus : peut-être plus factuel : refaire du lien avec nos propres implications
+- on a partagé l'idée du quiz --> ils proposent de le mettre en place qu'en milieu de partie : peut-être au moment où les malus passent à -1 --> peur que si depollue que de 1 ou pas casse la dynamique de d'abord polluer
+
+Pour la fin :
+plus de cartes recyclage, pas de malus à deffausser donc obligé de "passer son tour" (d'ailleurs a-t-on le droit de passer son tour ?) ou de piocher chez les pollus + ou - donc hyper frustrant
+
+
+
+
+## Test des evenements 28/11/2023 + point sur les modifs Donovan
+Test du jeu avec : Madeline, Benoit, Mélanie, Jérémy, Laurence
+Modif des evts
+- [x] : à faire Laurence directement à partir des modifs sur les cartes
+
+Modif des règles:
+- [x] dépolluer 1 ou 2 mallus
+
+Nombre de ressources à modifier
+
+| Type de resssources| PollusPlus | PolluMoins | Recyclage |
+| -------- | -------- | -------- | -------- |
+| Métaux communs | 26     | 15     | 6 |
+| Métaux rares | 16     | 10     | 0 |
+| Autres Matières | 22     |  17   | 9 |
+| Métaux précieux | 3     |   2   | 2 |
+| Terres rares | 8     |    5  | 0 |
+| **Somme** | 75 |   49   | 17 |
+
+
+Modifications à faire sur les plateaux/cartes recap
+- Plateau
+    - [ ] écran tactile 8 pts, batterie 6 pts, coque 4 pts
+    - [ ] dans la batterie : 2 métaux communs et 1 métaux rares
+    - [ ] pour les ressources grisées, ajouter 0 dans un cadre rouge --> identique carte recap
     
--------------------
-### Notes MHC
+- Pour la carte aide de jeu
+    - À chaque tour, vous pouvez :
+        - [ ] Commercer : proposer des échanges de cartes ressources et/ou malus aux autres joueurs (optionnel)
+        - [ ] S'approvisionner : choisir un fournisseur et prendre le nombre de cartes ressources (visibles ou en haut du tas) et malus correspondant
+        - [ ] Fabriquer : poser les cartes ressources nécessaires et construire un des composants du smartphone
+        - [ ] Dépolluer : se défausser de 1 à 2 cartes malus
+    - [ ] préciser que l'échange = **Action optionnelle**
+    - [ ] préciser : qui démarre ? QR code vers l'indice de réparabilité et inscrire url du site
 
-- 3 ojectifs différents à tirer au sort : choix de téléphones à construire - 
+- Cartes récap
+    - [ ] carte recyclage : erreur "1 malus" à remplacer par "0 malus"
+    - [ ] Avoir 3 cartes recap avec les malusx2 qui remplacent les autres, bien les reconnaitre des autres (écrire "X2" dessus + titre en rouge)
+    - [ ] pour la carte recyclage, griser quand 0 ressource
+    - [ ] écrire polluplus, pollumoins en toutes lettres
+    - [ ] vérifier que quand c'est zéro -> grisé
+    - [ ] changer les nombres sur la répartition
 
-- jeux avec des étapes differentes selon l'avancement de la construction du telephone : 1. conception / 2. extraction mineraux / 3. fabrication / 
-- --> cycle de jeu 
+----
 
-A chaque etape, tu as des cartes à tirer qui te rapporte plus ou moins de points 
+- Uniquement si on garde le puzzle et PrintEurope :
+  - [ ] [marque pour reconnaitre les composants de chaque smartphone, un numéro ou une lettre (à cause du puzzle, pouvoir différencier les plateaux)]
+----
+Répartition des piles dans les cartes récap
 
-Une pioche sur les ressources mineraux 
+## PhoneImpact ANF (Benjamin Ninassi) 28/11/2023
+Présents: Benjamin, Madeline, Laurence, Aurélie
 
---> faire vite :
-cela te rapporte plus de materiaux mais tu gagnes moins de points
+ANF = action nationale de formation (CNRS), écoinfo chaque année en organise sur la thématique de la sobriété numérique, 7R 
+30 personnes ont assisté (en majorité CNRS) parmi beaucoup de postulants
+8 1/2 journée avec des intervenants sur les impacts env du numérique
 
----> faire lentement: (nombre de tours de jeu plus long )
-- cela te rapporte moins de materiaux, donc 
-- plus couteux
+Interventions de Benjamin:
+- mercredi soir PhoneImpact
+- une présentation par une société sur l'extraction des terres rares
+- jeudi : matinée "Refuser", changement de parcours professionnel
+- projet CEPIR https://cepir.info (quantification des impacts des oeuvres immersives = avec casque de réalité virtuelle)
 
-On tire 3 cartes au debut du jeu : 3 catégories de téléphone : fairphone / medium / tres peu ecolo
-On prend le risque de faire un telephone polluant
+4 jeux imprimés, papier cartonné, service d'université de Rennes via service com IRISA : 14,90 euros
+Version 1 du jeu pour les règles
 
+Orga : 28 participants
+7 tables de 4 : présence d'1 facilitateur/table (facilitateurs = personne ecoInfo)
+Présentation des règles par Benjamin et ensuite, passer de table en table
 
-si tu fais un telephone 
-au depart chaque joueur a une "cagnotte " de bilan carbonne
-
-
-Etape 2 : extraction de materiaux
-- une pioche avec des materiaux dont l'extraction est polluante
-- une pioche avec des materiaux non polluants 
-
-- qui rapportent beaucoup de point sont difficiles : construire un fairphone
-
-
-- Des actions qui rapportent des points :-1: --> actions qui vont vers le Fairphone 
-
-
-- les ressources seraient personnelles / jauges de pollution 
-
-
-une pioche ecolo qui te rapporte 1 seule carte : 
-tu perds un tour à recycler ton telephone
-
-### Synthèse
-> [historique: 5 étapes, 3 types de smartphones, encore trop compliqué]
-
-**Storytelling :** Vous etes d'affreux industriels du monde de la tech qui veulent faire ~~du green washing~~ des progres écoresponsables
-
-**Materiel :*
-- Un plateau qui represente le cycle de fabrication
-- Des pions qui représentent les joueurs
-- Des cartes ressources
-
-**But du jeu :** Fabriquer des smartphones pour obtenir le plus de points "d'écoresponsabilité" à partir des ressources et des modèles de smartphones mis à disposition (eco-construction du telephone)
-
-**Conditions de fin de partie :** 
-- Epuisement des ressources
-- Epuisement des téléphones à construire (X Téléphones au départ en fonction du nombre de joueurs)
-
-**Grandes phases du jeu :**
-- Cycle de production
-    - Conception
-    - Extraction des ressources
-    - Assemblage / Fonderie construction des composants
-    - distribution
-    - Recyclage
-
-**Détails des phases de jeu :**
-1. Conception : 
-    - Chaque joueur choisit le ou les nouveaux telephones à fabriquer pour ce cycle de production (ecolo, moyen, pas du tout)
-
-**Cas particuliers :**
-- Au premier tour, le tirage du téléphone à construire est au hasard : chacun a un telephone à realiser 
-
-## Visio 01/02/2023
-Présents : Marie-Hélène, Benoit, Shérazade, Jean-Marc, Laurence
-> [historique: 3 types de tel, leviers, plusieurs tel construits dans la partie]
-Déroulement du jeu : 
-
-1. On attribue à chaque joueur un téléphone à construire
-    - Exemple : 3 joueurs
-        - Joueur 1 reçoit un tel écoresponsable
-        - Joueur 2 reçoit un tel moyennement éco
-        - Joueur 3 reçoit un tel peu eco
-    - Leviers :
-
-        - Ecran (taille)
-        - Mémoire 
-        - Appareil photo
-        - Solide
-        - Demontable, réparable, pièces détachées et documentation
-            - Indice : https://www.indicereparabilite.fr/appareils/multimedia/smartphone/
-        - Evolutif (adaptable aux evolutions techniques, ex : changer pour un meilleur appareil photo)
-        - Chargeur universel
-        - Obsolescence logicielle (mise à jour OS etc)
-        - Durabilité : Choix des ressources de filières durables : indice durabilité : https://www.halteobsolescence.org/lindice-de-durabilite-une-revolution-prevue-pour-2024/ https://www.clubdeladurabilite.fr/
-        - Ethique (Travail des enfants, rémunération, conflit)
-        - Recyclage en fin de vie
-    - critères
-        - réparabilité --> indice de réparabilité
-        - pollution (metaux, produits utilisés pour l'extraction, utilisation de matériaux recyclables, taille écran...) 
-            - Rapport de greenpeace : https://www.greenpeace.org/usa/reports/greener-electronics-2017/
-        - éthique (travail des enfants, conflit armé) -> A,B,C
-        - obsolescence (maj système par exemple)
-    - Exemple 1 : 3 téléphones
-        - Tel eco : "Fairphone" 
-            - réparabilité 9
-            - peu polluant 8
-            - ethique 9
-            - obsolecsence 7
-            - ressources : 10 or, 15 Tantale, 5 silicium
-            - 20pdv (point de victoire)
-        - Tel moyen eco : "AïePhone" 10pdv
-            - réparabilité 6
-            - peu polluant 7
-            - ethique 8
-            - obsolecsence 5
-            - ressources : 10 or, 15 Tantale, 5 silicium
-            - 10pdv
-        - Tel peu eco : "SamSoul" 5pdv
-            - réparabilité 5
-            - peu polluant 3
-            - ethique 5
-            - obsolecsence 3
-            - ressources : 10 or, 15 Tantale, 5 silicium
-            - 5pdv
-    - Exemple 2 : 3 téléphones montrés à tous sur le plateau
-        - Model 1
-            - ressources : 15 or, 12 Tantale, 4 silicium
-        - Model 2 
-            - ressources : 10 or, 15 Tantale, 5 silicium
-        - Model 3  
-            - ressources : 8 or, 10 Tantale, 7 silicium
-        - Cartes de ressources : 3 possibilités pour tirer des ressources, 3 piles : polluante, peu polluante ou recyclé
-        - selon les ressources tirées : 
-            - ca te rapporte des ressources + des points de victoire
-            - une carte = x or, y Tantale, z silicium
-            - dans les cartes polluantes, x, y, z élevés, valeurs aléatoires
-            - la pile polluante rapporte beaucoup de ressources mais peu de pdv
-            - la pile recyclage rapporte peu de ressources mais beaucoup de pdv
-            - la pile peu polluante rapporte des ressources (moins que la pile polluante) et des pdv (plus que la pile polluante)
-        - avoir des cartes de contexte pour ajouter des obstacles 
-            - pénurie de gaz -> ressources qui coûtent plus cheres
-            - nouvelles loies qui imposent un indice de réparabilité minimum
-        - contraintes pour ne pas pouvoir construire que des tel polluants
-
-    - ajouter pour chaque fiche qqs caractéristiques
-2. Debut du cycle de production
-- recolter les matériaux nécessaire à l'assemblage
-- Cycle de production
-    - Conception --> choix du téléphone (carte)
-        - tirage d'une carte de téléphone
-    - Extraction des ressources 
-        - tirage de cartes de ressources
-        - 3 piles de cartes ressources/métaux : très polluante, moyennement polluante, peu polluante/recyclage (cf dessus carte de ressources)
-        - Actions : piocher ressources, troc, ??
-    - Assemblage / Fonderie construction des composants
-        - plus de temps pour fabriquer des tel ecolo
-    - distribution
-    - Recyclage
-4. 
-
-
-## Proposition scenario Mh le 8/02/23
-
-> [historique: simplification suite à un brainstorming ]
-suppression du plateau=carte du monde des pays producteurs / plateau avec etapes de production
-
-proposition de MHC qui a simplifié les règles
-
-BUT
-- On doit construire  un téléphone  (pas de modèle prédefini ) selon des modes de production les + ecolo possible
-- Conditions de la victoire  : celui qui arrive au bout du cycle complet de fabrication d'un telephone + 
-- Obtenir le plus de points possibles selon que le téléphone construit est plus ou moins  ecolo 
-
-on définit au départ une config minimum pour faire un telephone  
-
-exemple : 
-
-Distinguer materiaux et composants
-
-Mineraux qui permettent de construire des composants
-- 1 or 
-- 2 tantales
-- 1 silicium
-- 1 nickel
-- 
-
-élements
-- 1 processeur 
-- 1 ecran
-- 1 dalle tactile
-- 1 batterie
-- 1 coque en plastique
-
-
-Démarrage du jeu :  1 - On tire au hasard dans une pile de cartes chacun/chacune à notre tour 
-ces cartes sont soit des cartes avec des composants materiaux : 1 or 3 tantale 2 silicium ou des composants comme 1 ecran grande taille, 1 processeur super performant, 1 coque en plastique 
-- les cartes que je tire ont des scores de pollution
-- je peux avoir plusieurs ecrans ou plusieurs appareils photo ce qui me pousse à vouloir vendre ou si je n'en ai aucun à acheter 
- 
-
-- des cartes avec un melange de materiaux : 
-ex : 2 or 3 tantales 1 silicium
-ex : 1 or 2 tantales 2 silicium 
-- des cartes avec des pieces detachées
-
-
-on peut revendre les ressources en trop 
-
-Une place de marché permet de rendre la monnaie : 
-
-- par exemple : un joueur veut m'acheter une unite d'or que j'ai en trop ---> on passe par la banque pour faire la transaction 
-
-- + chaque joueur a des jetons (argent) pour acheter / vendre des pieces 
-
-
-Chaque fois qu'on achete/vend une piece à un autre joueur, on marque des points 
-
-## Visio 08/02/2023
-Présents : Marie-Hélène, Benoit, Shérazade, Jean-Marc, Nathan, Laurence
-> [historique: maintenant que les règles sont plus simples, on affine nos connaissances pour voir la composition du smartphone et des ressources ]
+Règles :
+- quand plus de cartes malus -> la partie s'arrete
+- comme il n'y avait plus assez de cartes -> quand il dépolluait, une des 2 cartes était mise dessous
+- comptage des points
+    - +2 pour celui qui a le plus de recyclé
+    - -2 pour celui qui a le moins de PolluPlus
+    - --> cette règle n'a pas changé les résultats ni la stratégie
+    - changement de premier joueur = ajouter 1 jeton ou objet (illustration smartphone avec indication premier joueur)
+    - pas le temps pour regarder l'indice de réparabilité, début avec l'âge du smartphone
+    - carte pillage non volable
+    - ATTENTION, erreur PNP carte recap Recyclage = 0 malus et non 1 malus
+    - pas attentif pour écouter les malus donc -> pose une question et les personnes doivent répondre, casse un peu le rythme du jeu monotone, mais comment valoriser les bonnes réponses ?
+    - un % de carte Malus qui pourraient être des questions quiz ?
+    - alternative : quand on dépollue, soit on dépollue 1 carte, soit on dépollue 2 cartes mais il faut répondre juste à un quiz
+    - quiz sur des textes lus avant dans les malus
+    - tas de cartes Quiz avec la réponse. Le quiz est lu par le facilitateur.
+    - Le quiz concerne une thématique/un fait qui est abordé dans une carte malus qui arrivera peut-être plus tard
     
-Composition par élément du smartphone https://www.systext.org/sites/all/animationreveal/mtxsmp/#/7 
+Retours positifs
+1h30 de créneau avec les explications
+fin de partie 1h pour la première table et 1h40 pour la dernière.
+Toutes les cartes malus ont été lues
+pas d'échange effectué
 
-Composition globale : 
-- 50 % de plastiques divers (coque, touches, etc.),
-- 15 % de cuivre (connecteurs, batterie et circuit imprimé),
-- 15 % de verre (l’écran et les connecteurs),
-- 4 % de cobalt ou de lithium (batterie),
-- 4 % de carbone pur (batterie,
-- 3 % de métaux ferreux,
-- 2 % de nickel (batterie),
-- 1 % d’étain (circuit imprimé),
-- 0,5 % de zinc (circuit imprimé),
-- 0,5 % d’argent (circuit imprimé),
-- 0,5 % de plomb (circuit imprimé),
-- 0,5 % de chrome (circuit imprimé),
-- 0,5 % de tantale (circuit imprimé),
-- 0,5 % de cadmium (circuit imprimé),
-- 3 % d’autres matières dont 0,1 % de d’antimoine, d’or, et de berrylium,
+Comptage des points :
+écran doit rapporter plus de points
+10,8 (ecran tactile car une terre rare),6,4
 
-Les métaux peuvent être…
-- abondants dans la croûte terrestre comme le **Fer** (composant, ex: aimant neodyme) et ne pas soulever  de problèmes particuliers ; 
-- abondants mais exiger une grande quantité d’énergie pour être extraits et raffinés, c’est par exemple le cas de l’**Aluminium** (dalle tactile et coque) ; 
-- abondant mais nécessite beaucoup d'eau : **cuivre** (composants électroniques), **lithium** (batterie) (Environ 2.2 million de litres d'eau pour 1 tonne de lithium.) 
-        - précieux et stratégiques dans les nouvelles technologies comme l’**Or** (contact composant), l’Argent ou le Palladium. Ces trois métaux représentent d’ailleurs l’essentiel de la valeur monétaire des cartes électroniques de nos déchets ; 
-- abondants mais dont l’extraction génère des déchets radioactifs difficiles à gérer. C’est le cas des “terres rares” dont on parle beaucoup à cause de leurs propriétés exceptionnelles et des problèmes géopolitiques liés leur extraction et utilisation ; ex: **yttrium** 
-- juste rares, c’est-à-dire peu fréquents dans la croûte terrestre, comme le Cobalt, le **Tantale** (composant, ex: condensateur), **l’Indium** (dalle tactile), le Germanium, etc. 
-- **mercure** très polluant et toxique
-Elements d'un smartphone : 
+Editeurs de jeux : https://subverti.com/fr/maps/publishers/
 
-- Dalle tactile : Indium + Aluminium
-- Ecran : Yttrium + Mercure + Magnesium
-- Batterie : Lithium + Cobalt + Aluminium
-- Composant electronique : Fer + Tantale + Or
-- Coque : Aluminium + Magnesium
+contacter Board Game Arena, quand les règles sont figées.
 
-Carte ressource X : n ressources de type X + des points
-- on choisit sa carte soit :
-    - parmi des cartes visibles
-    - dans la pioche
-    - "carte bonus qui permettent de voler des ressources aux autres"
-    - possibilité de piquer des cartes aux autres
-- malus
-- chacun son smartphone à construire
-- à la fin, on compte les points des éléments terminés
+quiz HOP : https://docs.google.com/forms/d/e/1FAIpQLSf4PjPJy_7SvjYIimECSQ5mzl6d0fLGWMQdYUDzZIcdcFyYjQ/viewscore?viewscore=AE0zAgAZQJmVAEhb9B8cpCJP0-zCN-O8eT-wvTCXMiO1dZ19k2ELJx_qNgdppMgPZUFVJCY
 
-Indice de réparabilité : possibilité d'avoir des bonus avec des actions secondaire (ex: achat d'un écran pour réparer ton écran s'il casse)
+## Rencontre jeux serieux MPLS (Nathalie Vuillod) 24/11/2023
+Présents: Elise, Madeline, Laurence, Nathalie
 
-## Réunion présentiel 9 fev 2023
-Présents : Nathan, Benoit, Laurence
+Mission principale : formation continue de l'enseignement (maths, svt, physique, techno)
+profs de collège, prof des écoles (Isère, Savoie)
+partenaire scientifique pour la classe (av. ASTEP) co-construire une séquence 
+promouvoir un enseignement des sciences en se mettant dans la peau d'un/d'une scientifique
 
-Arrêt du jeu : quand le premier joueur a fini de construire son téléphone - On compte les points en fin de jeu
-et celui qui a le plus de points a gagné 
+Pistes :
+à l'INSPE, emprunt de malettes par les profs au centre de ressources en sciences et technologie
+fin du prêt aux enseignants, limité aux étudiants de l'INSPE, don des malettes à la MPLS
 
-Dans la pioche polluante, on va plus vite car on tire 3 cartes
-Dans les pioches moins polluante ou recyclé, on tire que 2 ou 1 carte.
+envisageable avec phoneimpact en prêt à la MPLS
 
-Il y a un stock de composants (batterie, carte mere, coque ... ) qui peuvent etre sous forme
-de "pions" ou 
+réfléchir sous quelles formes on peut faire connaître PhoneImpact
+formateur péda/ formation (prof de collège ou conseiller péda) et scientifiques en lien avec la thématique 
 
-### Composition du jeu
-> [historique: brainstorming en présentiel, les cartes, les tours, les règles --> 1ere maquette avec les pioches, cartes evenements, malus]
+prof de techno : intéressant
+Guillaume Vincenzi (formation sur l'IA)
+Christophe Minutolo (formation fablab)
 
-#### Téléphone à construire (7 Wonders Architect)
+imaginer une formation de 25 profs/an sur l'impact du smartphone avec MPLS (inscrite au PAC), avec formateur péda qui aurait testé en amont avec ses élèves
 
-| Composant | Coût | Points |
-| --- | --- | --- |
-| Coque | 1Al 1Mg | 2 |
-| Carte Mère | 1Fe 1Ta 1Au | 3 |
-| Batterie | 1Li 1Co 1Al | 3 |
-| Ecran | 1Yt 1Me 1Mg | 3 |
-| Dalle | 1Ind 1Al | 2 |
-|  | Total | 13 + bonus(2) |
+dans toutes les formations destinées aux profs (2 jours) : une partie asynchrone (25 profs/an)
+Moyen de faire le Mooc+ePoc
 
-#### 3 pioches:
+Comment diffuser l'information:
 
-- Pioche polluante "Plus"
-    - 3 cartes ressources parmi :
-        - Composition : tous les matériaux
-      
-        | Type | Quantité |
-        | --- | --- |
-        | In | 4 |
-        | Al | 12 |
-        | Yt | 7 |
-        | Me | 8 |
-        | Mg | 10 |
-        | Li | 8 |
-        | Co | 13 |
-        | Fe | 15 |
-        | Tan | 6 |
-        | Au | 7 |
-        | Total | 90 |
-    - 2 malus carbone
-- Pioche polluante "Moins"
-    - 2 cartes ressources
-        - Composition : La plupart des matériaux
+- comment toucher plus large ? toucher le rectorat via Guillaume et Christophe qui sont impliqués dans de nombreuses formations en lien avec le Rectorat voire au niv National (ex. création des programmes autour de l'IA)
+- malettes pédagogiques ("malettes mérites") stokées dans un collège à Valence, peut-être établissements relais ?
+- Adapter le jeu pour les plus jeunes ? dispositif "partenaire scientifique pour la classe", pan du programme sur les matériaux
 
-        | Type | Quantité |
-        | --- | --- |
-        | In | 2 |
-        | Al | 12 |
-        | Yt | 3 |
-        | Me | 4 |
-        | Mg | 10 |
-        | Li | 4 |
-        | Co | 13 |
-        | Fe | 15 |
-        | Tan | 3 |
-        | Au | 7 |
-        | Total | 72 |
-    
-    - 1 malus carbone
+12 maisons pour la science -> mutualiser les formations
+Sur Aix-Marseille en PACA, prof de techno ? a lancé un projet récupérer de vieux ordis et monter des clubs dans les collèges, former les élèves à s'approprier l'environnement, réparer les ordis, etc
+
+carte amundi: https://cartamundi.fr/fr/
+influenceurs/blogueurs
+
+## Rencontre jeux serieux autour du portable Maria Christou 22/11/2023
+Présents: Jean-Marc (au début), Marie et Laurence
+Maria Christou (INP)
+https://www.cerag.org/vie-scientifique/serious-games/my-iot-discovery-game
+ou via le site de la créatrice : https://www.laetitiathomas.com/copie-de-my-garment-
+Entreprise de création distibution : [https://www.kaperli.com](https://www.kaperli.com)
+
+Appui pédagogie UGA : DAPI 
+Appui pédagogie Grenoble INP : Perform
+Chez Perform : un créateur de jeux avec experience Ken Wright (on peut appeler de la part de Maria)
+
+Jeu financé par l'IRT : MyIOT
+- plateau
+- bilingue EN/FR
+- livret d'animation pour non spécialiste d'IOT
+- 15' à 3h
+- cible : futurs ingénieurs
+- plusieurs jeux de cartes pour jouer en même temps : de 3 à 10 personnes (5 idéal) / tables
+- jeu basé sur l'intelligence collective
+- Maria a animé seule pour 30 personnes
+- la boite contient plusieurs ensembles de jeux
+- un doc pour accompagner l'animateur du jeu
+- plusieurs phases de déroulement du jeu
+    1) l'activité brise glace 
+        - questions simples sur l'IOT) comporte plusieurs niveaux de difficulté sur l'IOT selon le public
+        - animation par débat mouvant (les gens se placent dans la classe en fonction de leur point de vue sue une question donnée)
+        - recherche autonome sur les réponses aux questions
+    2) phase exploratoire
+        - sur le cycle de vie d'un produit
+        - cartes hexagonales -> faire un schéma avec les cartes: plusieurs façon de les positionner facilité par l'héxagone
+        - une fois qu'ils ont placé les phases du cycle de vie : quels sont les impacts -> les cartes impact d'action liée au développement de l'IOT sont placées et organisées selon leur vision de l'impact sur le cycle de vie
+        - descriptif sur les cartes Impact+source et résumé dans un doc à part
+        - travail en équipe
+        - débrief à la fin de cette étape sur ce qu'ils ont appris
+        - chaque table choisit un impact qui les touche particulièrement
+
+    Ensuite les étapes sont moins grand public.
         
+    3) phase experte : Value Chain canvas
+        - un impact a été sélectionné par table pour exploration détaillée
+        - travail sur la chaine de valeurs (value chain canvas)
+        - ACV=un modèle mais d'autres modeles peuvent être utilisés 
+        - Post-it Analyses/opportunités selon l'impact qui a été choisi -> comment améliorer cet impact d'ici 3 ans, proposer des solutions
+        - Nécessite un animateur expert par table
+        - Puis étape suivante
+    4) Phase Partner map sur les solutions identifiées à l'étape précédente
+        - comment agir, quels acteurs...
+        - tableau rempli d'acteurs, à partager avec le groupe
+    5) Phase Circular canvas  / Business model
+        - phase précédente completée sur les aspects business : couts, bénéfices
+        - concevoir la nouvelle entreprise 'green' basée sur cette solution
+    6) Pour des étudiants : possiblite de présentation orale de l'netreprise créée (une semaine plus tard)
 
-- Pioche recyclage
-    - 1 carte
-    - Composition
-        - Seulement matériaux recyclables (ex: pas de lithium)
-        
-        | Type | Quantité |
-        | --- | --- |
-        | In | 0 |
-        | Al | 12 |
-        | Yt | 0 |
-        | Me | 3 |
-        | Mg | 10 |
-        | Li | 0 |
-        | Co | 0 |
-        | Fe | 15 |
-        | Tan | 0 |
-        | Au | 7 |
-        | Total | 47 |
-    - Pas de malus
+Maria prépare une formation sur une journée en février (personnel INP) basée sur son jeu et serait intéressée éventuellement pour qu'on vienne animer le notre, peut être avant de démarrer le sien.
 
-#### Cartes événements (ex: oltree)
+## Point 20/11/2023
+préparation du jeu V1 : ancienne version avec anciens évents
+préparation du jeu V2 : nvll version avec nv évents
 
-- A chaque tour de jeu
-- Malus ou bonus ou rien en fonction du bilan carbone (ex: Les joueurs perdent autant de ressources qu’il a des points de malus, les joueurs avec moins de 3 malus ont une action supplémentaire ce tour, le moins de malus vole 1 carte au plus de malus)
-- on peut avoir un évènement "echanger chacun une carte"
-- on peut avoir un evenement "remettre dans la pioche 1 element"
-- on doit piocher ou echanger une ressource recyclée
-- 
+2 urgences :
 
-### Déroulement d’un tour d'un joueur
+mettre les malus à jour
+préciser le type de malus (data>csv>malus)
+déposer les images tout en PNG + les renommer 
+preview : fichier > exporter > format PNG
 
-- 1 seule action par tour:
-    - Pioche dans l'une des 3 pioches (parmi cartes visibles + pioche de cartes non visible comme pour le rail)
-    - Echange comme au Catane (on pioche si personne veut échanger)
-    - Construction d’un composant ou du téléphone
+types de malus à garder sur 1 ligne :
+~~chiffre ->~~ information
+besoin ou risque
+catastrophe ~~(naturelle) -> cataclysme ???~~
+pollution
+accident
+conflits
 
+push évent 11 et 13
 
-### Fin de partie
+## Réunion STIP du 14/11 : suite du concours
 
-La fin de partie se déclenche lorsqu’un joueur termine son smartphone -> on termine le tour
-Celui qui gagne est celui a le plus de points, pas forcément celui qui termine (à définir comment on compte les points)
-Calcul des points selon composants terminée, malus, ressources
+Présents : Laurence, Nathan, Madeline, Elise, Myriam et Valérie
 
-### Idées supplémentaires
-> [historique: on affine les règles
-> - on abandonne l'idée d'avoir plusieurs types de telephones
-> - on abandonne aussi la piste quota carbone car le jeu devenait trop mercantile
-> - on regroupe les ressources par type ]
+- Impression de jeu (grande quantité) Belgique Azao https://azaogames.com/
+exemple pour jeu produit : fois 10 jeux *Class'?* = 480 euros
 
-- Chaque joueurs construit le même téléphone : échange les ressources contre des composants (qui peuvent avoir des couts différents)
-- piste quota carbone abandonnée car le jeu devenait trop mercantile et pb quand on arrivait en fin de quota
-- attention, beaucoup de ressources --> les regrouper par type de ressources : plastique, métaux précieux, métaux abondant, terres rares, abondant couteux en énergie et/ou eau
-    - **@Todo** Benoit : Refaire les composants à partir de ces 2 infographies :
-        - https://www.systext.org/sites/all/animationreveal/mtxsmp/#/7
-        - https://blog.recommerce.com/green-circle/reconditionne/composants/
+- Possibilité de cibles :
 
-### Prochaines étapes
-- construire un prototype avec des cartes, des jetons, malus ...
-- Compléter les événements
-- Chacun joue de son côté (Sophia, Grenoble)
-- A grenoble, tester avec Benjamin
-- Retour
-- Puis à Sophia, tester avec Martine et Sabrina
+1. Référents numériques (selon académie) pour appuyer les enseignants sur les aspects numériques et proposer des activités
+2. Maison pour la Science (MPLS) qui forme les enseignants https://alpes-dauphine.maisons-pour-la-science.org/ --> RDV 23/11 14h30
+3. DRH Inria
+4. Gameflow à Grenoble https://www.game-flow.fr/reception avoir peut-être des prix différents ou même commercialiser le jeu et le produire ? cf. jeu : L'année des 5 empereurs --> RDV 30/11 10h
 
-## Test du jeu en présentiel 20 Fev
-> [historique: tests -> ajustement, modif de qqs règles pour dynamiser le jeu]
+- Événements :
 
-- Carte chances importantes pour dynamiser
-- Attention au pénalité trop important => ralentisse le jeu, empêche l'échange
-- Changement icones peu parlantes
-- Pioche trop peu (voir si passer les pioches en : 2, 3, 4) => avoir plus de cartes en main favorise l'échange
-- Voir si composants doit avoir une ressource prédominante
-- Recyclage fait défausser un malus => sinon aucun interet
-- Regrouper ecran et dalle tactile
+1. Proposer une activité de présentation de jeux sérieux made in Inria ?
+2. Tech&Fest https://www.tech-fest.fr/fr (1 & 2 Février (jeudi vendredi) stand de 20m carré) : Session de 2h le deuxième jour, tout public (différent de fête de la science) pour donner des informations technologiques et scientifiques au grand public. Possibilité aussi de participer avec public scientifique le premier jour. Créneaux possibles pour ILL (à redéfinir quand).
 
-## Jeu après retours du 20 Fev
+- Evolution du jeu :
 
-A télécharger et imprimer : https://mybox.inria.fr/smart-link/d623eeb5-6219-46c9-be0e-9a063c7d950e/
+1. Passer le jeu en format numérique comme board game Arena https://en.boardgamearena.com/
+2. Adaptation de PhoneImpact pour le cycle 3 (CM1 et CM2)
 
-### Equilibrage actuel : 
+- Plan d'action : quel temps, quelle autorisation, qui ?
 
-![](https://notes.inria.fr/uploads/upload_a55bb1c6a4f829afd6304f3d73a684ba.png)
+1. côté ILL : terminer le paramètrage du jeu
+proposer une formation numérique pour facilitateurs
+adaptation du jeu pour public primaire ?
 
-![](https://notes.inria.fr/uploads/upload_54e31a28239cab6896770d09c2ceaaf3.png)
+2. côté STIP : regarder combien ça coûte pour d'autres boîtes de jeu (nb entre 50 et 100 boîtes) : demander des devis
 
-## Tests du jeu le 23 Fev avec des experts
-Testeurs : Sophie Quinton, Benjamin Ninassi, Benoit, Nathan, Laurence
-> [historique: tests avec les experts
-> - remplacement de certains mots
-> - correction de certaines erreurs (ex: ajouter dans la pile recyclage des métaux précieux)
-> - Sophie nous propose de tenir compte du temps dans les règles --> plus le temps passe, plus on pollue
-> - 2 fins possibles ?
-> - ajouter une histoire --> des vrais evts associés à certaines cartes
-> - petit tas de cartes recyclage -> on doit terminer le tas avant la partie
-> - construire un téléphone même avec du recyclage pollue -> le mieux est de garder ton téléphone -> passer son tour permet de se débarasser de 2 malus
-> - ajouter du sérieux dans le jeux (malus event, libellé)
-> ]
+- Qui fait quoi ?
 
-Retours:
-- vérifier les intitulés des types de ressources/ressources (ex: le lithium n'est pas rare)--> DONE LF (plus bas, "Identifier les différents types d'éléments")
-- Métaux communs -> Métaux mineurs --> DONE LF (plus bas, "Identifier les différents types d'éléments")
-- Idem Métaux rares -> Autres métaux rares --> DONE LF (plus bas, "Identifier les différents types d'éléments")
-- Retirer les explications entre parenthèse --> TODO Benoit
-- Mettre dans la pile recyclage des métaux précieux --> TODO Benoit (voir plus bas, "Identifier les différents types d'éléments")
-- dans le calcul des points à la fin, --> à réfléchir avec Suzon
-    - tenir compte du temps -> plus il y a de tours, plus les malus pénalisent
-    - avec un point négatif par malus, trop pénalisant pour les pollueurs
-    - peut-être prévoir 2 fins avec ou sans compter les malus pour pénaliser plus ou moins le pollueur. Peut-être un événement qui introduit des pénalités fortes pour les pollueurs
-
-Bibliographie de Sophie pour les histoires à associer aux événements (ou malus)
-1. Pollution de l'usine de recyclage Umicore :
-
-- https://www.lemonde.fr/planete/article/2020/09/24/belgique-du-plomb-dans-le-sang-des-enfants-d-hoboken_6053489_3244.html
-- https://www.umicore.com/en/newsroom/managing-impact-in-hoboken/#french
-
-2. Ruptures de digues
-
-- Mine Tailings Storage: Safety Is no Accident
-https://www.grida.no/publications/383
-- Aurore Stéphant : https://www.youtube.com/watch?v=QW9udH0vwlE. autour de 20 minutes
-- 1998 - Espage - Aznalcollar  : https://www.sciencesetavenir.fr/nature-environnement/espagne-reouverture-d-une-mine-16-ans-apres-une-grave-pollution_13486
-- 2000 - Roumanie - Baia Mare (mine d'or) puis Borsa (mine de plomb-zinc)
-: https://fr.wikipedia.org/wiki/Catastrophe_de_Baia_Mare
-- 2008 - Hongrie - Kolantar (mine d'aluminium) : https://fr.wikipedia.org/wiki/Accident_de_l%27usine_d%27aluminium_d%27Ajka
-2015 et 2019 - Brésil (mine de fer)
-
-3. Conflits miniers
-
-Global Atlas of Environmental Justice
-https://ejatlas.org/
-
-https://mapa.conflictosmineros.net/ocmal_db-v2/
-https://www.ocmal.org/
-
-https://www.euractiv.com/section/central-europe/opinion/rosia-montana-an-omen-for-ttip/
-
-https://fr.wikipedia.org/wiki/Mouvement_pour_l%27%C3%A9mancipation_du_delta_du_Niger
-
-https://fr.wikipedia.org/wiki/Ogoni_(peuple)
-
-https://www.theguardian.com/world/2022/feb/11/panguna-mine-at-centre-of-bloody-bougainville-conflict-set-to-reopen-after-30-years
-
-https://www.lemonde.fr/international/article/2022/03/06/mining-secrets-nouvelles-revelations-sur-les-pratiques-controversees-d-un-geant-de-l-industrie-miniere-au-guatemala_6116375_3210.html
-
-4. Pollutions minières
-
-https://www.theguardian.com/world/2020/jun/29/russian-mining-giant-admits-pumping-wastewater-into-arctic-tundra
-https://www.theguardian.com/cities/2016/sep/15/norilsk-red-river-russias-most-polluted-city-clean
-
-5. Tensions géopolitiques
-...
-
-## Recapitulatif du jeu sérieux, informations et règles
-### Informations générales : cible, sujet, objectifs, durée
-> [Historique: recapitulatif avec les ajustements + depot Gitlab+scripts pour générer les cartes
-> tests avec des personae : Nathan=pollueur, Laurence=ecolo, Benoit=la gagne
-> objectif : que le plus pollueur ne gagne pas ! mais aussi que recyclage ne suffit pas pour gagner]
-**Nom du jeu** : 
-**Cible** : le grand public, plus de 16 ans
-**Sujet** : démontrer qu’un smartphone pollue à cause des matières premières (extraction et transformation) et de la fabrication des principaux composants
-**Parcours** : Mooc Impact’Num (Module 2.3: Pourrons-nous continuer longtemps à fabriquer des équipements informatiques ?) + Epoc (formation sur mobile) “Le smartphone et la planète”
-**Durée** : 30/40mn pour que le jeu puisse être utilisé en cours
-**Emotions** : l’apprenant doit être étonné/surpris, scandalisé
-**Objectifs pédagogiques** :
-- Identifier les différents types d'éléments nécessaires à la fabrication d’un smartphone 
-    - Matières synthétiques : plastique, fibre... (30 à 50 % des matériaux)
-    - Métaux précieux (et rares) : or, argent, le platine, le palladium ([fiche concept 2.3.1](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html?lang=fr))
-    - Métaux rares (hors précieux)/Autres métaux rares : indium,  lithium, cobalt, tantale
-    - Métaux mineurs (et non rares): aluminium, cuivre, Nickel
-    - Terres rares : pas rare mais difficile à extraire : néodyme, praséodyme, terbium et dysprosium
-- Savoir quels types de métaux sont nécessaires pour chaque partie du smartphone ([systext.org](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/1), [blog.recommerce.org](https://blog.recommerce.com/green-circle/reconditionne/composants/))
-- Réaliser que les réserves minières sont limitées
-- Réaliser que les méthodes d'extraction et de séparation de ces métaux font appel à des procédés très polluants
-- Savoir qu'il existe des filiaires plus durables/moins polluantes : pas de minéraux de conflits ou de travail des enfants, méthodes d'extraction moins polluantes ? (à vérifier)
-- Utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible (et la pollution pour le recyclage n'est pas nulle)
-    - Les métaux majeurs (cuivre, plomb, fer, aluminium...) et les métaux précieux (or, argent, platine...) sont recyclés à plus de 50%. 
-    - En revanche, les métaux mineurs (dont les terres rares) ne sont quasiment pas recyclés : moins de 1% par exemple pour l’indium, le néodyme, le tantale, le gallium et le germanium, et aucun recyclage pour d'autres métaux mineurs
-
-### Composition du jeu
-
-#### Téléphone à construire (7 Wonders Architect)
-4 composants : Coque, Carte Mère, Batterie, Ecran Tactile
-Chaque composant est constitué de ressources / simplifié avec des types de ressource : 
-- x Matières synthétiques
-- y Métaux précieux (rares)
-- z Autres métaux rares
-- w Métaux mineurs 
-- v Terres rares 
-
-#### 3 pioches de ressources/types de ressources:
-Pour chaque pioche, de 1 à 3 cartes visibles et un tas de cartes non visibles
-- Pioche polluante "Plus" et non responsable
-    - 3 cartes ressources visibles parmi tous les types
-    - 2 malus carbone
-- Pioche polluante "Moins" et/ou plus responsable
-    - 2 cartes ressources visibles parmi tous les types
-    - 1 malus carbone
-
-- Pioche recyclage
-    - 1 carte ressource visible parmi les métaux recyclables (métaux précieux, Matières synthétiques, métaux commun ? ) 
-    - Pas de malus
-    
-#### Equilibrage
-Attention, à revoir avec différents types d'éléments nécessaires (TODO Benoit --> à mettre à jour)
-![](https://notes.inria.fr/uploads/upload_a55bb1c6a4f829afd6304f3d73a684ba.png)
-
-![](https://notes.inria.fr/uploads/upload_54e31a28239cab6896770d09c2ceaaf3.png)
-
-#### Cartes événements (ex: oltree)
-
-- A chaque tour de jeu, tirage d'une carte événement
-- Malus ou bonus ou rien en fonction du bilan carbone (ex: Les joueurs perdent autant de ressources qu’il a des points de malus, les joueurs avec moins de 3 malus ont une action supplémentaire ce tour, le moins de malus vole 1 carte au plus de malus)
-    - on peut avoir un évènement "echanger chacun une carte"
-    - on peut avoir un evenement "remettre dans la pioche 1 element"
-    - on doit piocher ou echanger une ressource recyclée
-    - prendre une carte à son voisin s'il a plus de malus
-    - perdre autant de carte ressources que nb malus/2
-    - ...
-- Les cartes événement doivent raconter une histoire : un conflit, de nouvelles loies ou règlementations, ...
-
-### Déroulement d’un tour d'un joueur
-
-- 1 seule action par tour:
-    - Pioche dans l'une des 3 pioches (parmi cartes visibles + pioche de cartes non visibles comme pour le rail)
-    - Echange comme au Catane (on pioche si personne veut échanger)
-    - Construction d’un composant ou du téléphone
-    - on se débarasse de 2 cartes Malus
-
-
-### Fin de partie
-
-La fin de partie se déclenche lorsqu’un joueur termine son smartphone -> on termine le tour
-Celui qui gagne est celui a le plus de points, pas forcément celui qui termine (à définir comment on compte les points)
-Calcul des points selon 
-- les composants terminés rapportent des points(points selon le composant, voir équilibrage)
-- le smartphone terminé rapporte x points
-- malus: points négatifs. Modalité à discuter, plusieurs choix:
-    - x points negatifs pour n cartes malus
-    - les n premières cartes = 1/2 point par malus puis 1 point
-    - avoir 2 fins avec ou sans compter les malus pour pénaliser plus ou moins le pollueur. Peut-être un événement qui introduit des pénalités fortes pour les pollueurs
-    - tenir compte du temps -> plus il y a de tours, plus les malus pénalisent
-    - les malus sont tirés dans une pioche (ou dé) de 0 à 2 points
-
-
-## Lien vers dépot Gitlab
-
-Dépôt: https://gitlab.inria.fr/learninglab/serious-game/smartphone
-- les infos générales : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/README.md
-- les instructions (cible, objectifs, durée...) : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/PNP.md
-- les règles : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/RULES.md
-- les cartes : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/tree/main/pdf 
-
-
-
-## Visio avec Suzon 10/03/2023
-> [Historique: tests avec Suzon+brainstorming
-> - plus de clareté dans certaines règles et certains evts
-> - ajouter une règle pour celui qui commence
-> - Changement des règles des malus en cours de partie : à un moment, le message a un impact : "à partir de maintenant, nouvelles loies --> doublement des malus" --> au début de la partie, on se fiche d'avoir des malus (et des messages associés) et ensuite, quand les malus compte double, ça compte plus !!! -> car la pioche recyclage n'était pas assez forte
-> - Numéroter les cartes et travailler si le nb de cartes pour 3, 4 ou 5 joueurs
-]
-
-Règles du jeu : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/RULES.md
-
-Evenement :-1: 
-- carte 2 : duel avec ses voisins, ... être plus clair : en commençant par le 1er joueur, dire que les cartes qu'on prend ne sont pas remis dans ses cartes
-- avoir une échelle de malus pour prioriser les actions
-- Grille avec la position de chaque joueur (le plus vieux smartphone, le moins de Malus)
-carte evt ou on perd nb de ressources/2 --> Grille pour ne pas trop impacter (moins de 4 cartes -> perd 1 carte, de 4 à 8 cartes -> perd 2 cartes...)
-
-1er joueur : pas avantageux
-Les cartes evt s'appliquent à tous --> pas d'impact d'être 1er joueur
-2 conditions de fin de partie
-- un des joueurs a terminé
-- la carte evt de fin de partie
-- on termine le tour
-
-Jeu proposé avec modèle+découpage
-- jetons malus plutôt de cartes --> plus économique
-~~Proposer une option pour les malus
-~~- legos
-~~- coquilletes
-~~- pions achetés~~
-
-Habiller les cartes Malus avec un texte
-- sans incidence pour les 1eres
-- à un moment, le message a un impact
-    - attention ...
-    - à partir de maintenant, nouvelles loies --> doublement des malus
-
-Préparer le jeu pour être imprimé (print&play), 
-- 150 cartes à imprimer/découper
-- pour moins de 50 exemplaires= env 15€ pour une impression de faible qualité (hors carte evt)
-- pour un côté evenementiel, possibilité d'avoir meilleure qualité
-- + design des cartes (voir avec le service comm)
-- attention, travailler l'illustration des smartphones + cartes evt
-- trouver un financement pour illustrer le jeu qui peut faire de la médiation
-- **proposer ce jeu au learning show** (Rennes, 9 et 10 octobre), conscience environnementale sur cet événement
-
-Numéroter les cartes Malus en prévenant de **ne pas regarder les cartes** (ex: Test du jeu Unlock)
-Numéroter aussi les cartes evt
-Bien dire à ceux qui vont tester de ne pas regarder
-Pour les cartes, indiquer si pour 3, 4 ou 5 joueurs (comme 7 wonders)
-Médiateurs pour avant-propos et débriefing ?
-Suzon
-- Proposer une fiche d'introduction
-- débriefing : débat, questions/réponses, éléments pour étayer le propos, grille de questionnement :
-    - est-que la pile "recyclage est vide" --> qu'est-ce que ça propovque chez vous ?
-- si on veut jouer avec ses enfants
-
-Travailler sur le graphisme, avec un illustrateur ou utiliser l'IA pour générer des cartes evt par exemple
-Suzon peut s'occuper de l'édition et nous mettre en relation
-Il nous faut qqs exemplaires propres --> pouvoir le montrer aux services comm
-
-Idées à tester
-- phase de négo ? seulement à son tour ? 
-- Proposition Suzon sur l'organisation du jeu :
-    - on tire une carte evt sauf au 1er tour
-    - phase de negociation collective
-    - les cartes malus pourraient être négociées aussi (ex: 1 carte rare contre 4 malus !!!) --> à tester
-    - puis chaque joueur (piocher, produire, perdre 2 malus)
-- travailler le storytelling : course à la préparation du smartphone 
-- possibilité d'ajouter des textes (un info) aux cartes malus --> toutes sans incidence dans le jeu, on s'en fiche MAIS il y a 2 cartes malus avec des incidences -> questionnement/message intéressant, permet de montrer qu'on s'en fiche la plupart du temps jusqu'au moment où on est touché (ex: jeu de Matthieu heros -> les menaces ont des légendes)
-- 
-Suzon va tester notre et le montrer à des illustrateurs
-
-A venir : tests avec les autres membres de l'équipe
-
-Maintenant, réfléchir sur ce qu'on veut faire avec
-Suzon peut nous faire une proposition selon le nombre d'exemplaires, selon la qualité
-Pour le même budget, c'est mieux d'avoir un vrai jeu de cartes
-Ajuster le nombre de cartes à 5 joueurs -> moins de cartes
-Il existe un service de production de cartes (made in china), peut-être un service équivalent en France
-Possibilité de déléguer l'expédition
-On revient vers Suzon après notre plénière
-Ira t'on au learning show pour présenter le jeu et ePoc 
-Faire un retour à Suzon sur les tests, budgets proto, ...
-
-
-Titre alternatif : SMARTPHONE FORage MINier durABLE ?
-
-## Préparation prochaine réunion
-Petit rappel pour les anciens et pour les nouveaux :
-- Où en est-on ? tout est dans l'entrepot Gitlab : https://gitlab.inria.fr/learninglab/serious-game/smartphone
-- les infos générales : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/README.md
-- les instructions (cible, objectifs, durée...) : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/PNP.md
-- les règles : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/RULES.md
-- les cartes : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/tree/main/pdf
-- le pad avec l'évolution, les points avec Suzon...: https://notes.inria.fr/QFn6K1BjTT278DFov5cwig#
-- Aligner avec le jeu éducatif "Autopsie d'un smartphone" car on partagera le kakemono/poster pour le brief/debrief : https://notes.inria.fr/09jC8UJuSzCnxiysMqADyQ#
-
-
-## Réunion du 6 juillet
-Présents: Benoit, Nathan, Shérazade, Madeline, Laurence
-
-### Reste à faire, listes des tâches
-- Trouver un titre long et court 
-- paramétrage cartes :
-  - nb de cartes selon le nombre de joueurs (3, 4, 5)
-  - Indiquer pour chaque carte si pour 3, 4 ou 5 joueurs (comme 7 wonders)
-  - Revoir la composition des piles (recyclage notamment)
-  - Faire une fiche de la compositiond e chaque pioche
-- Cartes Evenements
-  - être plus clair dans l'énoncé de certains événements (ex: duel avec ses voisins, ... être plus clair : en commençant par le 1er joueur, dire que les cartes qu'on prend ne sont pas remis dans ses cartes)
-  - carte evt où on perd nb de ressources/2 --> Grille pour ne pas trop impacter (moins de 4 cartes -> perd 1 carte, de 4 à 8 cartes -> perd 2 cartes...)
-  - Ajouter des événements et les typer (Cf merge request de Nathan à compléter https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/merge_requests/1/diffs) --> DONE
-  - Trouver des vrais événements pour les cartes événements. S'inspirer de la biblio de Sophie + jeu Systex "la mine, prédatrice et dangereuse" ([livret(https://www.systext.org/sites/all/documents/dynamine-O8/O8-S0_Livret-Animation.pdf)], [cartes](https://www.systext.org/sites/all/documents/dynamine-O8/O8_S2_Etiquettes-Impact.pdf))
-- Cartes Malus: Habiller les cartes Malus avec un texte
-    - nb de cartes selon le nombre de joueurs
-    - Indiquer pour chaque carte si pour 3, 4 ou 5 joueurs (comme 7 wonders)
-    - Associer un texte court à chaque malus 
-    - sans incidence pour les 1eres
-    - à un moment, le message a un impact
-        - attention ...
-        - à partir de maintenant, nouvelles lois --> doublement des malus
-    - Numéroter les cartes Malus en prévenant de **ne pas regarder les cartes** (ex: Test du jeu Unlock)
-
-- Proposer une fiche d'introduction
-- débriefing : débat, questions/réponses, éléments pour étayer le propos, grille de questionnement
-  - est-que la pile "recyclage est vide" --> qu'est-ce que ça propovque chez vous ?
-- Travailler sur le graphisme avec un illustrateur (idem ePoc et/ou jeu éducatif)
-- Editer qqs exemplaires du jeu
-- Présentation du jeu au learning show pour présenter le jeu 
-
-
-Qui commence ? Indice de réparabilité :
-https://www.indicereparabilite.fr/appareils/multimedia/smartphone/
-
-Brainstorm pour trouver un nom et titre du jeu
-* catastrophe
-* composant
-* ressource
-* extraction
-* impact
-* assemblage
-* fabrication
-* smartphone
-* métaux
-* environnement
-* terre rare
-* pollution
-
-Nom 
-* Rarephone
-* ~~Smart~~PhoneImpacts
-* ImpactPhone
-* ImpactSmartphone
-* Polluphone
-* **PhoneImpact** -> le gagnant
-
-Titres 
-1. Les ressources d'un smartphone, quels impacts ?
-2. Les composants d'un smartphone, quels impacts ?
-3. Les matériaux d'un smartphone, quels impacts ?
-**4. L'empreinte matérielle du smartphone** -> le gagnant
-5. La face cachée de ton smartphone
-> [remarque de Marie] : on ne comprend pas dans le titre "L'empreinte matérielle du smartphone" ce qu'on doit faire pendant le jeu (utiliser des matériaux pour fabriquer un smartphone en polluant le moins possible)."
-
-> Utiliser des matériaux pour fabriquer un smartphone en polluant le moins possible
-> Découvre les matériaux d'un smartphone et leur impact environnemental 
-~~> Explorer les alternatives matérielles pour une production plus verte~~
-> Fabrique ton smartphone en minimisant la pollution
-> Découvre l'impact des composants de ton smartphone
-
-### Partage des tâches (Pour le 20 juillet)
-- [ ] Trouver un titre long et court -> evento https://evento.renater.fr/survey/results/umlbj2yi le titre qui a gagné est **PhoneImpact**
-
-- Raconter l'histoire / brief
-    - [ ] introduire l'histoire du jeu : "motre mission est de fabriquer les composants les smartphones le plus rapidement possible et en polluant le moins possible" (Madeline)
-https://notes.inria.fr/S_kX6hE2Rs2lcqgQYRtikw#
-
-    - [ ] règles de jeu (Benoit)
-    - [ ] introduire les notions importantes (les composants, types de métaux, pollution smartphone...) (Madeline)
--  mise à jour des cartes 
-    - [ ] description de la composition des pioches (Benoit)
-    - [ ] evenements -> trouver des evts réalistes en relation avec le type de carte (Madeline, Sherazade, Laurence) -> 15 événements dont un gros pour celui qui doublent le nb de malus piochés 
-    - [ ] malus -> faits divers (des chiffres, des vrais faits), s'inspirer de l'epoc et du Mooc (Madeline, Sherazade, Laurence) -> 50
-    - [ ] malus qui changent le jeu -> un evt exceptionnel (Création d'une instance mondiale pour réfléchir sur le numérique, cette instance décide de mettre en place une taxe carbone...) (Madeline, Sherazade, Laurence)-> 2  
-- [ ] paramétrage selon le nombre de joueurs (Nathan)
-- [ ] illustrations, discussions avec Donovann (Madeline)
-- [ ] Feedback en commun avec le jeu éducatif “Autopsie d’un smartphone” (Laurence, sherazade, Madeline)
-- [ ] Article MagRH (Aurelie , sherazade, Madeline, Laurence)
-
-### Proposition de texte pour les cartes Événements en fonction du type
-- Pdf des cartes Evt: https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/pdf/event.pdf
-- fichier de config : https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/decks/event.rb
-
-6 cartes "**Pillage**" = action qui provoque des pioches de cartes chez les voisins, en pénalisant les plus pollueurs
-
-
-3 cartes "**Bonus**" suite à une action citoyenne = action qui fait gagner des cartes 
-
-> * ~~[Collectif conception numérique responsable](https://collectif.greenit.fr/) : avec entre autres Frédéric Bordage, Romuald Priol...~~
-> * ~~[EcoInfo](https://ecoinfo.cnrs.fr/), « pour une informatique éco-responsable », groupement de services du CNRS. Avec entre autres Françoise Berthoud.~~
-> * ~~[Electrocycle](https://www.electrocycle.co/) : association et laboratoire citoyen de recherche de solutions en vue de développer le réemploi des équipements électriques et électroniques en fin de vie.~~
-> * ~~[GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)~~
-> * ~~[Halte à l'obsolescence programmée](https://www.halteobsolescence.org/) : avec entre autres Laeticia Vasseur, Adèle Chasson, Samuel Sauvage.~~
-> * ~~[Institut Numérique Responsable](https://institutnr.org/), entre autres Jean-Christophe Chaussat (Pôle-Emploi) et Vincent Courboulay (Université de la Rochelle).~~
-> *~~Acheter un smartphone reconditionné réduit son impact environnemental de près de 77 à 91 % par rapport à l'achat d'un produit neuf (source: Ademe, 2022, https://agirpourlatransition.ademe.fr/particuliers/conso/conso-responsable/acheter-smartphone-reconditionne-avantages)~~
-> * Appliquez les R : Refuser, Réduire, Réparer, Recycler, Rendre à la terre (https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.4.1-Les5R.html?lang=fr)
-> * Pensez à réparer votre smartphone avant d'en acheter un nouveau
-> * Entretenez votre smartphone pour éviter jusqu'à 40% des pannes
-> 
-> - ... 
-
-> Autres propositions
-> - > De nombreux citoyen.nes et organisations étant conscients de la situation s’engagent pour le changement de leurs pratiques en adoptant les 5R : Refuser, réutiliser, réduire, recycler, rendre à la terre
-
-
-4 cartes "**Règlementation**" = action qui fait perdre des ressources et qui pénalisent les plus pollueurs
-- > [Ministere de la transition écologique, https://www.ecologie.gouv.fr/indice-reparabilite-quatre-nouveaux-produits-vie-quotidienne-desormais-concernes] 
-Loi anti-gaspillage, 2021 : l'indice de réparabilité est obligatoire sur les smartphones. 
-
- >[Ministere de la transition écologique, https://www.ecologie.gouv.fr/numerique-responsable] 
- >Loi REEN, 2021 qui incite les entreprises à adopter des pratiques éco-responsables
-
-> [Mooc, Fiche 2.4.4 Comment lutter contre l'obsolescence programmée ?] Depuis août 2015 en France, l'obsolescence programmée constitue désormais un délit, et peut engendrer des condamnations.
-
-> [Mooc, fiche concept "Quels métaux dans les smartphones?"] 
-> Règlement 3TG (étain, tentale, tungtène et or), 2021: réguler les chaînes d'approvisionnement et forcer la transparence des acteurs
-
-- > [HOP, 2021, https://www.halteobsolescence.org/lindice-de-durabilite-une-revolution-prevue-pour-2024/] Un indice de durabilité permettra de garantir aux consommateurs un indice donnant des informations sur la fiabilité, la réparabilité et l’évolutivité afin de pouvoir comparer les produits en magasin ou en ligne et répondre à la question : lequel est conçu pour durer ? Cet indice de durabilité, qui devrait remplacer l’indice de réparabilité, entrera en vigueur en 2024.
-- > [EcoCO2, Affichage environnemental du numérique : une obligation sur les factures de téléphone, 2022, https://www.ecoco2.com/blog/affichage-environnemental-du-numerique-une-obligation-sur-les-factures-de-telephone/] Les fournisseurs d’accès internet et opérateurs mobiles (FAI) doivent désormais communiquer à leurs abonnés les émissions de gaz à effet de serre liées à leurs consommations internet et mobiles. Cette obligation provient de la loi Anti-gaspillage et économie circulaire (AGEC) du 10 février 2021.
--
-
-
-- > [A quoi sert l'éco-contribution DEEE, Ecologic, ] Depuis le 15 novembre 2006, tous les produits électriques et électroniques vendus aux ménages, en ligne ou en magasin, sont soumis à l'éco-contribution (ou éco-participation) dont le montant s'ajoute, de façon visible et transparente, au prix de chaque produit. Perçue auprès du consommateur au moment de l'achat, cette contribution environnementale constitue la principale ressource financière de la filière des DEEE ménagers.
-- > Deux éco-labels distinguent les équipements éco-conçus : EPEAT et TCO. Ils jouent un rôle essentiel dans l'amélioration de l'impact du numérique en encourageant les fabricants à adopter des pratiques plus durables et en aidant les consommateurs à faire des choix responsables.
-
-
-2 cartes Evt de type "**Événement majeur**"
-- "*Les malus des pioches sont doublés jusqu'à la fin de la partie*"
-- "*Fin de la partie*"
-> [Laurence] voir si on met un libellé
- - > si oui, exemples
-    - > [Le monde, 2020, "Belgique : du plomb dans le sang des enfants d’Hoboken"] Une usine de recyclage de métaux répand du plomb sous forme de particules fines et de poussières près des maisons de cette ville belge. Une situation connue des autorités OU Si la présence de cette substance est bien mesurée dans l’air, l’impact dans les organismes des populations locales est curieusement ignoré des autorités
-    - > [Rupture de digue: Catastrophe de Baia Mare, https://fr.wikipedia.org/wiki/Catastrophe_de_Baia_Mare + chatgpt "La catastrophe de Baia Mare en quelques mots"] La catastrophe de Baia Mare est survenue en janvier 2000, lorsque le barrage de la mine d'or de Baia Mare en Roumanie a cédé, provoquant une fuite massive de cyanure et de métaux lourds dans la rivière Tisza. Cela a entraîné une grave pollution de l'eau et de l'écosystème, affectant les communautés riveraines et la vie aquatique sur des centaines de kilomètres. Cette catastrophe a mis en évidence les dangers de l'exploitation minière irresponsable et a conduit à des appels à une meilleure réglementation et à une plus grande responsabilité dans l'industrie minière. 
-    - > [Rupture de digue mine d'Aznalcollar https://www.sciencesetavenir.fr/nature-environnement/espagne-reouverture-d-une-mine-16-ans-apres-une-grave-pollution_13486 + chatgpt "catastrophe de la rupture de digue de la mine d'Aznalcollar en quelques mots"] La catastrophe de la rupture de digue de la mine d'Aznalcollar s'est produite en avril 1998, près de Séville, en Espagne. La digue d'un bassin de stockage des déchets miniers a cédé, libérant environ 4 millions de mètres cubes de boue et de produits chimiques toxiques dans les rivières environnantes, notamment le fleuve Guadiamar. Cela a entraîné une grave contamination de l'eau, la destruction de l'écosystème et la mort de milliers d'animaux. Cette catastrophe a mis en évidence les risques environnementaux liés à l'industrie minière et a conduit à des réformes réglementaires pour prévenir de telles tragédies à l'avenir.
-    - > [Where the river runs red: can Norilsk, Russia's most polluted city, come clean?, The guardian, 2016, https://www.theguardian.com/world/2020/jun/29/russian-mining-giant-admits-pumping-wastewater-into-arctic-tundra] La rivière rouge de Norilsk est le résultat de la pollution causée par les activités minières dans la région. La ville de Norilsk, en Russie, abrite des mines et des usines métallurgiques qui ont rejeté des déchets toxiques dans la rivière et les environs. Cette pollution a des conséquences graves sur l'environnement et la santé des habitants. Des mesures doivent être prises pour réduire cette pollution et promouvoir des pratiques minières plus durables.
-
-
-### Proposition de texte pour les cartes Malus
-**ATTENTION, le détail des carte malus est ici : https://notes.inria.fr/e2GWGYbDQeWR-eV2pb1_wg?both**
-La suite est gardé en archive
-#### Sources 
-- Mooc ImpactNum
-- ePoc Le smartphone et la planète
-- Ademe, Longue vie à notre smartphone !, https://librairie.ademe.fr/cadic/7327/guide-longue-vie-smartphone.pdf
-
-#### Les cartes
-- 2 cartes Malus qui changent le jeu -> un evt exceptionnel (proposition d'intitulé "révélation")
-    - "*Attention, vous commencez à trop polluer*" : 
-        - > [LF] Création de XXX, instance mondiale pour réfléchir sur les impacts du numérique
-    - "*Alerte pollution, vos malus sont déduits de votre total de points*"
-        - > [LF] XXX décide de mettre en place une taxe très élevée sur les métaux ayant un impact environnemental élevé
-
-- 50 cartes Malus de type "faits divers" (des chiffres, des faits réels...), s'inspirer de l'epoc et du Mooc (Madeline, Sherazade, Laurence)
-    - **[Mooc, activité 01]** +3
-        - ~~Au rythme actuel, un réchauffement de +1,5°C sera atteint entre 2030 et 2052.~~ -> trop général ?
-        - Le secteur des nouvelles technologies représente à lui seul entre 6 à 10% de la consommation mondiale d'électricité selon les estimations (env 4% toute énergie)
-        - Le numérique représente aujourd'hui env. 4 % des émissions de gaz à effet de serre (GES) dans le monde
-        - L'empreinte énergétique du numérique augmente chaque année de 6% ce qui veut dire un doublement tous les 12 ans
-
-    - **[Mooc, activité 03 Les impacts environnementaux d'un smartphone]** +6
-        - C’est la carte électronique du smartphone qui émet la majorité des gaz à effet de serre
-        - Les phases de production et de fin de vie concentrent la majorité des impacts environnementaux (hors GES).
-        - L’extraction des métaux concentre une grande partie des impacts et ce en dépit des normes environnementales qui, bien que plus contraignantes, restent insuffisantes et ne sont pas appliquées partout.
-        - 83% des équipements électroniques mondiaux ne sont pas recyclés dans la bonne filière ce qui conduit dans le meilleur des cas à une dispersion et donc une perte des métaux non recyclés;
-        - D’importantes quantités d’eau sont nécessaires pour l’extraction des métaux, d’autant plus que la concentration des métaux dans les minerais est de plus en plus faible (sauf exceptions).
-        - Des produits + ou – toxiques sont issus des déchets miniers, dont le stockage plus ou moins sécurisé sous forme liquide comporte un risque d’épanchement dans la nature, mais aussi des déchets électroniques qui se retrouvent encore trop souvent dans des décharges à ciel ouvert.
-
-    - **[Mooc, activité 04 Autopsie d’un smartphone]** +17
-        - 1,4 milliard de smartphones ont été vendus dans le monde en 2019
-        - La durée d’utilisation moyenne d’un smartphone en France se situe entre 20 et 24 mois
-        - Le nombre de smartphones en usage dans le monde est de l’ordre de 4 milliards, plus un très grand nombre qui attendent dans des tiroirs
-        - Un smartphone contient plus de 50 éléments différents !
-        - le Néodyme et le Praséodyme sont utilisés pour produire les vibrations du téléphone
-        - Certains métaux abondants exigent une grande quantité d’énergie pour être extraits et raffinés (ex: Aluminium)
-        - Certains métaux sont précieux et stratégiques dans les nouvelles technologies comme l’Or, l’Argent ou le Palladium.
-        - Certains métaux sont abondants mais dont l’extraction génère des déchets radioactifs difficiles à gérer (ex: les terres rares)
-        - L'or présent dans les déchets électroniques constitue la principale source de valeur de ces déchets, avec près de 19 milliards d’euros pour seulement 500 tonnes de matière
-        - l’or est utilisé principalement pour les propriétés anti-oxydantes (ne rouille pas), de conductibilité de l’électricité sur les cartes électroniques et parce qu’il est très facile à travailler (on dit qu’il est ductile).
-        - Il y a plus d’or dans une tonne de déchets de cartes électroniques que dans une tonne de minerai d’or
-        - On parle de mines urbaines pour désigner ces stocks de déchets de cartes électroniques.
-        - Le Tantale est un métal rare exploité notamment dans des mines artisanales en République Démocratique du Congo, ce qui soulève d’importants problèmes à cause des conditions d’extraction, des conflits armés et du travail des enfants OU La soudaine demande de tantale liée à la miniaturisation de nos smartphones que l’on souhaite suffisamment plats pour les glisser dans nos poches, a fait exploser le nombre de mines artisanales et les conflits armés autour de ces ressources
-        - Le tantale (métal rare) est employé pour faciliter la miniaturisation et pour sa nature réfractaire
-        - On trouve l’indium (métal rare) dans le film transparent qui recouvre l’écran d’un smartphone.
-        - les réserves d'indium s’épuisent très vite alors que le recyclage n’est pas encore au rendez-vous.
-        - Il y a en circulation dans le monde des milliards de smartphones, qui concentrent de grandes quantités de métaux (de l’ordre de 40 tonnes d’or, entre 1 et 2 tonnes d’Indium et de Tantale)
-    
-    - **[Mooc, fiche concept "Quels métaux dans les smartphones?"]** +11 
-        - Le smartphone d'aujourd'hui contient plus de 50 métaux : une condition pour avoir toutes les fonctionnalités de nos équipements !
-        - De l'Indium et de l'étain sont nécessaires à la fabrication de nos écrans pour transformer l'effleurement de notre index en « clic ».
-        - Les LED contiennent de base un composé de gallium (extrait du minerai d'aluminium) et au moins un autre atome, qui va déterminer la couleur « de base » de la LED (arsenic + phosphore pour le rouge orangé)
-        - Les méthodes d'extraction et de séparation des terres rares font appel à des procédés complexes et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. 
-        - Les processus d'extraction et de séparation des terres rares requièrent de grandes quantités d'eau.
-        - Les plastiques et les matières synthétiques représentent 30 à 50 % des matériaux nécessaires aux smartphones
-        - le verre et la céramique représentent 10 à 20 % des matériaux nécessaires aux smartphones
-        - les métaux représentent 40 à 60 % des matériaux dans la composition d'un smartphone
-        - Sur quantité de métaux d'un smartphone, 80 à 85 % sont des matériaux ferreux et non ferreux comme le cuivre, l'aluminium, le zinc, l'étain, le chrome ou le nickel...
-        - Sur quantité de métaux d'un smartphone, 0,5 % sont des métaux précieux : l'or, l'argent, le platine, le palladium...
-        - Sur quantité de métaux d'un smartphone,  0,1 % de terres rares et métaux spéciaux : europium, yttrium, terbium, gallium, tungstène, etc.
-
-    - **[Mooc, fiche concept "2.3.3 Où en est-on du recyclage ?"]** +2
-        - le taux de recyclage des métaux des TIC est bas voire extrêmement bas (inférieur à 50% pour plus de la moitié d'entre eux, pour certains inférieur à 1%) et ne permet donc pas de couvrir 100% de nos besoins en matières premières
-        - le prix de certains métaux recyclés sur le marché peut être plus élevé que les métaux primaires, n'incitant donc pas au développement des filières de recyclage
-
-    - **[Enquête Ademe, Longue vie à notre smartphone ]** +5
-        - 84% des Français possèdent un smartphone
-        - 63% des smartphones utilisés ont moins de 2 ans
-        - Un smartphone fait 4 fois le tour du monde de la conception à la vente
-        - 1,43 milliards de smartphones ont été vendus dans le monde en 2021
-        - 3/4 des impacts d'un téléphone sont dus à sa fabrication 
-    
-    - **[ePoc le smartphone et la planète ]** +4
-        - La France a été le premier pays au monde à interdire la pratique de l'obsolescence programmée en 2015.
-        - Un téléphone portable contient en moyenne plus de 50 matériaux différents
-        - Depuis 2021, le reglement 3TG (étain, tentale, tungtène et or) permet de réguler les chaines d'approvisionnement et forcer la transparence des differents acteurs
-        - 80% des impacts envrionnementaux associés à un smartphone ont lieu lors de sa fabrication
-    
-    - **[Sources externes]** +7
-        - Le trafic de données mobiles devrait atteindre 131 exaoctets par mois d'ici 2025, soit une augmentation spectaculaire par rapport aux 35 exaoctets mensuels, en 2021. (source : https://www.ericsson.com/en/reports-and-papers/mobility-report )
-        - Environ 63 % des utilisateurs d'Internet dans le monde se connectent via un smartphone ( source : https://datareportal.com/reports/digital-2021-global-overview-report )
-        - Un phénomène connu sous le nom de "nomophobie" décrit la peur excessive à l’idée de perdre ou d’être séparé de son téléphone portable. 
-        - En 2020, on estime qu'il y avait plus de 3,8 milliards d'utilisateurs de smartphones dans le monde (source : statista, 2023, https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/ )
-        - Plus de la moitié de la population mondiale utilise désormais un smartphone. (statista, 2023, https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/ )
-        - Acheter un smartphone reconditionné réduit son impact environnemental de près de 77 à 91 % par rapport à l'achat d'un produit neuf (source: Ademe, 2022, https://agirpourlatransition.ademe.fr/particuliers/conso/conso-responsable/acheter-smartphone-reconditionne-avantages)
-        - L'exposition des enfants aux déchets d'équipements électriques et électroniques (DEEE) peut avoir des conséquences sur leur santé. Les DEEE contiennent souvent des substances toxiques telles que le plomb, le mercure, le cadmium ou les retardateurs de flamme bromés, qui peuvent être libérés dans l'environnement lorsqu'ils ne sont pas correctement traités. (OMS, Les enfants et les décharges numériques : exposition aux déchets d’équipements électriques et électroniques et santé des enfants, 2021, https://www.who.int/fr/publications-detail/9789240024557)
-       - « […] l’extraction de métaux est de plus en plus énergivore et la production d’énergie de plus en plus consommatrice de métaux. » (Quel futur pour les métaux ? par Benoît de Guillebon pour la Société géologique de France. Consultable à l’adresse : https://www.geosoc.fr/metiers-formations/domaines-d-activites/ressources-minerales/pour-en-savoir-plus/tensions-et-contraintes-des-substances-minerales/352-quel-futur-pour-les-metaux/file.html)
-    - **["La consommation de métaux du numérique : un secteur loin d’être dématérialisé", Liliane Dedryver avec l’aide de Vincent Courich, 2020, www.strategie.gouv.fr https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf]**
-        - "la majorité des ressources minérales et notamment les métaux sont non renouvelables" ou "La quantité de métaux disponible sur terre, tous métaux confondus, est finie, à l’échelle humaine" 
-        - "La consommation énergétique liée à l’extraction des métaux représente une part croissante de la consommation énergétique mondiale : de 10 % en 2012, elle pourrait atteindre 40 % en 2030, malgré une croissance du volume total d’énergie."
-        - Il existe deux principaux impacts liés à l’utilisation de l’eau : la consommation et la dégradation de la qualité des eaux
-        - Une grande partie de l’énergie et de l’eau du numérique est donc consommée au stade de l’extraction et de la production des matières premières nécessaires à la fabrication des équipements
-        - De multiples risques de pollution des eaux de surface et souterraines sont liés aux exploitations minières. On retiendra notamment les risques d’écoulement d’acide de mine riche en métaux toxiques, le ruissellement d’eaux chargées de sédiments lors de tempêtes, le débordement des bassins de décantation de résidus toxiques de la mine, ou, pire, la rupture du barrage de retenue de ces bassins ==> simplifié : "Les exploitations minières polluent les eaux avec acide, métaux toxiques, sédiments, et résidus toxiques. Le barrage peut également rompre."
-        - Les exploitations minières produisent des émissions atmosphériques qui portent atteinte à la qualité de l’air
-        - Les exploitations minières peuvent entraîner une contamination des sols sur de grandes étendues
-        - La déforestation ainsi que les bruits et vibrations créés par les exploitations minières font fuir les animaux résidant à proximité de ces dernières
-        - Les travailleurs des mines inhale des poussières, sont exposés à des radiations et à des produits chimiques toxiques à l’origine de maladies respiratoires, cancers, affections neurologiques et aberrations chromosomiques
-        - Les pollutions engendrées par les activités minières ont un impact direct sur les moyens de subsistance des populations locales pouvant, à terme, les forcer à l’exil
-        - l’industrie extractive joue un rôle non négligeable dans l’instabilité politique de certaines régions d’exploitation
-        - L’exploitation du tantale, abondamment présent en République démocratique du Congo, a financé (et finance toujours) de nombreux groupes paramilitaires, en particulier à partir des années 2000
-        - La commercialisation des « minerais du sang », dont le tantale fait partie, fait l’objet d’un suivi particulier par la communauté internationale et notamment par l’OCDE qui a publié un guide
-        - Les sociétés développées consomment la majorité des métaux extraits au niveau mondial, sans vouloir en assumer la production, par peur des conséquences négatives qu’elle peut avoir sur notre environnement --> peut-être un peu trop politique ?
-        - Un quart des e-déchets produits sont des déchets numériques
-        - les DEEE contiennent des substances toxiques qui, lorsqu’elles ne sont pas traitées correctement, peuvent polluer notre environnement et présentent des risques pour la santé
-
-    
-    
-    - **[GreenIT, Etude iNum, Impacts environnementaux du numérique en France, chapitre 01 "Recommandations", 2021]** +5
-        - R1 : augmenter la durée de vie des équipements en allongeant la durée de garantie légale
-        - R2 : augmenter la durée de vie des équipements en favorisant la réparation et le réemploi
-        - R3 : augmenter la durée de vie des équipements en luttant contre certains modèles économiques (smartphone « à 1 euro » contre réengagement 24 mois par exemple)
-        - R4 : redonner le contrôle aux utilisateurs du numérique en leur permettant de choisir les mises à jour logicielles
-        - R5 : redonner le contrôle aux utilisateurs du numérique en les guidant vers des équipements réparables et faciles à reconditionner
-
-
-
-## Article / axes, sujet (1er debrief 17 juil 2023)
-Article pour MagRH Spécial Learning Show 2023
-- sujet à envoyer avant le 21 juillet
-- article à envoyer le 8 septembre
-- Ecriture : Aurélie (pilote), Shérazade, Madeline, Laurence (relecture)
-
-2 axes possibles
-- Le jeu s'inscrit dans un parcours avec un Mooc, un epoc, un jeu sérieux plateau et un jeu sérieux éducatif en bois
-- histoire du jeu, avec une étape importante quand on a testé le jeu avec des scientifiques
-
-Thématiques couvertes par l'édition 2023 du Learning Show (en gras les thématques éligibles pour PhoneImpact):
-- **Activités pédagogiques innovantes** : L’imagination et la créativité pédagogique sont au pouvoir ! Que cela soit dans l’utilisation des outils innovants, comme la vidéo, dans l’exploration du potentiel  ludique sous toutes ses formes, ou sous des aspects méthodologiques, les ateliers seront autant de découvertes étonnantes.
-- **Ludo pédagogie** : Quel meilleur moyen d'apprendre et de se développer que le jeu ? Explorer avec nous comment les serious games peuvent transformer l'expérience d'apprentissage et améliorer les résultats de formation. Venez découvrir les multiples facettes de la ludopédagogie, expérimenter différentes mécaniques de jeu et de gamification, tester de nombreux exemples de cette approche novatrice de l'apprentissage.
-- IA & formation : Les innovations à base d'intelligence artificelle applicables au domaine de la formation vont bousculer totalement l'écosystème et l'ensemble des métiers. Comment faire dès aujourd'hui pour nous approprier ces technologies, pour en utiliser tout le potentiel et nous prémunir des dérives ? Un enjeu incontournable pour un futur devenu dès aujourd'hui la réalité.
-- **Low tech / Les solutions pour former & vivre autrement** : Alors que le monde est en pleine transformation, confronté à l'impasse des modèles actuels face aux menaces climatiques et sociales, quelle place la formation va t-elle prendre pour contribuer elle aussi aux exigences d'écoresponsabilité et d'inclusion de tous ?
-- **La narration / le récit** : Depuis des siècles, savoirs, mémoires, ou encore traditions se transmettent sous forme d’histoires. La formation connaît le « narrative based-learning », on parle aussi de récits expérientiels et de savoirs épisodiques. Le Learning Show vous invite à explorer les multiples facettes de la narration en formation, en explorant les structures narratives, la richesse de la voix, le sketchnoting, le design narratif, et bien d’autres expressions de ce que l’on peut communément appeler le storytelling.
-
-## Réunion du 18 juillet 2023
-Présents : Benoit, Nathan, Aurelie, Madeline, Shérazade, Laurence
-ODJ:
-- choisir le titre
-- historique du jeu par Laurence
-- sujet de l'article pour MagRH Spécial Learning Show 2023 ! ([debut de réflexion](#article--axes-sujet-1er-debrief-17-juil-2023))
-- point sur les événements : [nouvelle (typologie Pillage, Bonus, Réglementation, Événement majeur) + texte](#proposition-de-texte-pour-les-cartes-%C3%A9v%C3%A9nements-en-fonction-du-type)
-
-Titre, propositions:
-- L'empreinte matérielle du smartphone -> le gagnant du sondage
-> [remarque de Marie] : on ne comprend pas dans le titre "L'empreinte matérielle du smartphone" ce qu'on doit faire pendant le jeu (utiliser des matériaux pour fabriquer un smartphone en polluant le moins possible)."
-- Utilise des matériaux pour fabriquer un smartphone en polluant le moins possible
-- Découvre les matériaux d'un smartphone et leur impact environnemental 
-~~> Explorer les alternatives matérielles pour une production plus verte~~
-- Fabrique ton smartphone en minimisant la pollution
-- **Découvre l'impact des composants de ton smartphone** the winner 🏆 !
-
-
-Sujet de l'article pour MagRH Spécial Learning Show 2023
-- focus **simplification**, volonté de dire beaucoup de choses -> simplification nécessaire
-- savoir s'entourer d'expert métier + ludopedagogie(Suzon)
-- test, test et retest, re calibrer
-- aspect sérieux, ancrer dans le réel, histoire pour élever le jeu, revenir dans le réel -> rester proche de la réalité
-
-Aller/retour parcours pédagogique/jeu (epoc, Mooc)
-2 axes:
-- axes 1
-    - Conception d'un jeu sur une thématique de recherche, dans un contexte recherche, avec des experts -> focus sur pourquoi le jeu, les objectifs pédagogiques, qu'est-ce qu'on veut mettre en avant. .  
-    - On a voulu concevoir un jeu sur l'impact env du num. Raconter comment a été cevu cette conception de jeu. Elle s'insere dans une stratégie avec différents supports
-    - en plus, c'est ancré dans un parcours
-
-> [proposition] Proposition de titre : Retour d’expérience sur la conception d’un jeu sérieux pour découvrir les réalités de l’industrie des smartphones
-
->Dans la ville de Techcity, vous incarnez un fabricant de smartphones, au cœur de l’industrie technologique. Alors que la compétition fait rage pour produire les téléphones les plus innovants, une question cruciale émerge : l’impact environnemental de vos smartphones.
-PhoneImpact, est un jeu serieux construit en collaboration avec des scientifiques experts qui offre une expérience immersive dans lequel chaque choix que vous faites a des conséquences! Vous ne verez plus vos smartphones de la même façon.
-Dans cet article nous partageons notre experience de conception collaborative d’un jeu serieux comme levier de prise de conscience citoyenne pour aborder l’impact environnemental du numerique et plus particulièrement l’impact environnemental des smartphones.
-
-
-- axes 2
-    - Ancrer le jeu dans l'institut de recherche, déclinaison en Mooc, epoc, jeu... Pourquoi on a fait certains choix / ancrage dans le réel. Raconter une histoire / simplification
-    - Tt ce qui a été mis en place au LL sur les impacts env du numérique, tous les outils pédagogiques dont le jeu qu'on détaille plus
-    
-> [proposition -pas aboutie... mais début d'idée...]
-
->L'urgence climatique ne se discute plus et l'importance d'une transformation écologique semble largement acceptée dans la société. Aujourd'hui transformation écologique rime souvent avec transformation numérique. Mais qu'en est-il réellement des impacts environnemenentaux du numérique.
->Inria Learning Lab présente différents outils et approches pédagogiques pour informer, sensibiliser et former les citoyens et citoyennes de tout âge
+- [ ] Demander devis auprès de PhoneImpact et Azao : Madeline
+- [x] Contacter GameFlow : STIP
+- [x] MPLS + Canopé : mise en relation par STIP
+- [ ] Réfléchir à comment protéger design, nom+logo, réserver le nom de domaine : STIP
+- [ ] Garder un oeil sur les formations obligatoires à destination des fonctionnaires, au sujet de la transition écologique
+- [ ] Se renseigner sur l'obligation de former les étudiants à la transition écologique
+- [ ] se rapprocher de Canopé pour savoir comment ils font pour organiser prêt / retour / vente de jeux auprès des écoles
 
     
 
-**on part sur l'axe 1**
-On avait des ressources, des scientifiques, formation de Suzon, connaissance des jeux
+## Point PhoneImpact 9/11/2023
+### ODJ
+- retour sur ce qui a été fait suite à la dernière réunion
+- point sur les règles actuelles
+- génération des cartes/boite de jeux
+- propositions de nouvelles règles de Francis Vivat pour pouvoir rejouer au jeu
 
-[Pitch du jeu](https://notes.inria.fr/S_kX6hE2Rs2lcqgQYRtikw#)
+### retours Laurence
+Retours sur les tests avec les nouvelles règles:
+- Le joueur qui commence a vraiment un gros avantage sur le 1er tour et ensuite sur tous les tours qui arrivent après un evts où on pioche des cartes visibles ==> 
+    - [x] on change le 1er joueur du tour à chaque tour 
+- Pour la règle "Quand il n'y a plus de malus, tout le monde perd" : ça ne marche pas car ceux qui sont en retard prennent des malus pour accélerer la partie et faire de l'anti-jeu --> ensuite, tout le monde est énervé, le message ne passe pas, dificile de faire ensuite un débrief ==> j'ai remplacé la règle par "Quand il n'y a plus de malus, la partie s'arrête" qui permet quand même de garder l'objectif pédagogique que tout le monde paie pour la pollution de tous --> 
+    - [x] "Quand il n'y a plus de malus, la partie s'arrête, on finit le tour sans piocher dans PolluPlus et PolluMoins"
+- [ ] pour les evts, en cas d'égalité de cartes recyclées, le moins de cartes PolluPlus ?
+- [ ] on m'a repproché de ne pas annoncer en début de partie les types d'événements comme les taxes où on pourrait se faire voler des ressources non recyclées --> ajouter une phrase au début du pitch pour dire que quand on aquiert des ressources, on prend des malus qui auront des conséquences dans la suite du jeu (pour introduire la notion de malus)
 
-Pour la comm de Rennes (mail envoyé par Marie à Nathalie), description succincte de l'article : *Démarche de conception d'un jeu sérieux, vécu comme une expérience immersive, pour découvrir les réalités de l'industrie des smartphones*"
+### retour Sophie
+#### 1. Modifs des règles du jeu (donc un peu majeures)
 
-## test du jeu 20 juil avec Donovan
-Joueurs : Donovan, MAdeline, JM, Benoit, Nathan
-Notes : Laurence
+- Pour simplifier le jeu, supprimer la possibilité de faire des échanges
+à chaque tour, et le permettre via une ou plusieurs cartes événements.
+Ça peut être pour un tour, ou bien : à partir de maintenant 
+à chaque début de tour...
+- ajouter à un evt existant "A partir de maintenant, possibilité de faire des échanges" 
+    - [x] -> EVt 6 : ajouter le texte "N'oubliez pas que des échanges sont possibles avec les autres joueurs"
 
-- [x] depart : indice ou age -> indice long -> preparer le site tt de suite
-- [x] il faut cacher les cartes ressources
-- [x] lire les 1eres cartes Malus
-- [x] dans les pioches, si meme nb de malus, smartphone le plus reparable
-- [x] evt pioche sens horaire ou anti-horaire -> alterner à gauche ou à droite
-- [x] Dans les cartes de pres, indiquer le nb de malus à piocher
-- [x] Au debut du jeu, calculer pour chacun indice de reparabilité, puis nb d'années du smt
-- [x] pour les carte evt pillage: moins de malus puis le plus de cartes recyclées, puis indice de reparabilité, puis nb d'années
-- [x] Quand on construit un composant, jeton ou carte dessus --> [Donovann]
-- [ ] dans les composants, bien voir (griser) les ressources 0 --> [Donovann]
-- [ ] une carte par composant -> diminue taille de la boite --> [Donovann]
-- ~~[ ] carte avec nb de ressources -> recto/verso avec x1 ou x2 --> Non pour garder le suspens~~
-- [ ] pouvoir compter plus facilement le nb de recyclé --> [Donovan]
-- [x] trop long -> diminuer le nb de tour quand on est 5 -> supprimer les cartes doubles --> [laurence] ajouté dans Rules.md "on enleve les 2 dernières cartes à 5 joueurs et la dernière carte à 4 joueurs"
-- [x] evt ceux qui ont plus de 5 -> 4 cartes recycles piochent 2 cartes
+- Mettre du texte seulement sur certaines cartes malus, sinon mettre des photos/images qui illustrent différentes étapes de l'extraction, ou situer géographiquement certaines zones minières
+    - [ ] OK, essayer de mettre une illustration/photo sur une carte sur deux. Voir dans le Mooc et l'epoc. Au moins pour avoir 60 cartes malus, faire des illustration/photo pour les nouvelles cartes
+    - [x] Nathan : modifier le script pour pouvoir ajouter des images, à mettre dans le Gitlab
+    - [x] images à mettre dans https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/tree/main/data/images/malus_img
 
-- [x] Ne pas voir quand est la carte fin de partie (et pas à la fin). Position de la carte selon le nb de joueur. Carte evt vide à la fin pour ne pas savoir quand est la fin --> [Laurence]
-- [x] Demander à Suzon des adresses pour les cartes -> mail envoyé par MAdeline le 20 juillet
-- [ ] Diminuer le nb de cartes de ressources --> modif script [Benoit/Nathan]
-- [ ] Modifier les textes des cartes malus pour avoir des libellés type "Message sur les paquets de cigarettes" --> [Madeline, Laurence]
+**Fin de partie**
+- Annoncer dès le départ que le nombre de malus et de certaines ressources est limité : on ne peut pas extraire ou polluer à l'infini ! Quand il n'y a plus de cartes malus (ou ressources, mais ça c'est logique), on ne peut plus miner, mais on peut continuer à jouer jusqu'à être bloqué. Du coup on peut enlever les deux cartes malus rouges et transformer la deuxième en carte événement.
+    - c'est fait exprès car ça dépend du comportement des joueurs
+    - permet de simplifier la tâche du facilitateur
+    - [x] remplacer l'evt 7 par le malus EVT "les malus seront déduits de votre total..."
+    - [ ] Nathan supprimer la génération des malus_events  
+    - [x] echanger evt 8 et 9 pour ne pas avoir 7 et 8 à côté
 
-Pour les piles de ressources : 
-- [x]  minage classique, minage avec des efforts, recyclage
-- [x]  3 entreprises : PolluePlus, PlusMoins, Recyclage 
+- Plutôt que fin de partie, annoncer le dernier tour sur la carte 15.
+    - [x] remplacer l'evt "fin de partie" par "dernier tour"
+- La partie s'arrête si : 
+- 1. Un joueur a construit son smartphone en entier ; 
+- 2. Plus personne ne peut jouer ; 
+    - [x] --> ILL : plus de malus et on a terminé le tour. Pendant ce tour, on  peut  se débarrasser de malus et on peut piocher des cartes recyclées 
+- 3. On est à la fin du 15e tour de jeu
+    - [x] modif pitchRegle
+
+- Le gagnant est celui qui a le plus de points. On gagne des points 
+- 1. en construisant des composants 
+- 2. +10 pour le smartphone complet 
+    - [x] à supprimer
+- 3. +2 pour celui qui a le plus de cartes recyclées 
+- 4. -2 pour celui qui a le plus de PolluePlus 
+    - pour le moment, non
+- 5. Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
+    - [x] modif pitchRegle
+
+***
+
+#### 2. Autres modifs que je trouve importantes
+
+- Mettre moins de points sur la coque et plus sur la batterie
+    - [ ] echanger le nombre de points (6 pour la baterie et 4 pour la coque) -> TODO Donovan
+    - [x] à modifier sur les cartons du jeu actuel (feutre)
+
+**Cartes ressources**
+- Ne rien mettre d'autre que les noms des ressources sur les cartes : Plastique, verre, céramique, matières synthétiques, etc. / Lithium, tantale, indium, etc. / Aluminium, cuivre, nickel, etc. / Or, argent, platine, palladium, etc. / Yttrium, néodyme, gadolinium, etc. Alternativement, avoir le nom d'une seule ressource par carte, pour avoir tous les noms dans le deck ; éventuellement dans ce cas expliquer en quelques mots son usage principal
+    - [x] modifier dans le script (Nathan): plutôt que tout le texte, écrire juste un métal de ce type -> donner à Nathan plusieurs métaux pour chaque type
+    - [x] ajouter dans le csv une colonne avec les métaux possibles 
+
+**Cartes malus**
+- Transformer les 9 cartes malus qui parlent des smartphones ou du numérique en général (i.e. pas des mines) en cartes événements de type "Le saviez-vous ?"
+    - pas assez d'événement
+- Ajouter des catégories sur les cartes : accident/catastrophe, pollution, conflit, besoin, risque
+    - [x] script à faire par Nathan
+    - [x] ajouter une colonne dans le csv
+- Reprendre le texte pour chaque carte
+
+**Cartes événements**
+- Supprimer les cartes "Pillage" : 1, 3, ~~5~~, 7, ~~11~~, 12, 14
+    - evt 7 déjà remplacé
+    - [x] supprimer l'evt 3 car avec la modif de l'evt 15 (Fin de partie -> dernier tour), on a ajouté un tour
+    - [x] evt 1 = remplacé par une carte "Le saviez-vous ?" avec pioche parmi les cartes visible
+    -  ajouter des evts de type :"Eboulement à XX --> au tour suivant, vous ne pourrez pas acheter des ressources chez YYY" 
+        - [x] Evt3 : 2021: la loi REEN incite les entreprises à adopter des pratiques éco-responsables.\n→ Durant ce tour, vous ne pourrez pas piocher de cartes PolluPlus"
+- Ajouter des catégories sur les cartes : Le saviez-vous ? La loi change! Coup de pouce
+    -  Remplacer "Bonus" par "Le saviez-vous" puis avant d'annoncer l'action, écrire "Coup de pouce"
+        - on garde Bonus car c'est un classique dans les jeux
+- Ajouter des cartes "Le saviez-vous ?" :  malus avec ref 1, 2, 5, 6 x4, 7, 8 + événements 2, 4, 9, 10
+    - revoir les textes des Bonus 2, 5, 9 en prenant des textes des malus avec ref
+    - [x] les événements ont été réécrits
+
+- Pour la carte qui fait x2 sur les malus : expliquer que c'est parce que les teneurs en minerai baissent
+    - [x] modifier l'evt 8
+- Reprendre le texte des cartes
+    - [x] OK
+- Ajouter une carte : La loi change ! On ne peut plus polluer autant, PolluePlus doit se mettre aux normes environnementales et se comporte désormais comme PollueMoins
+    - pas vraiment d'intérêt pour le joueur et compliqué
+
+- Ajouter une carte : Coup de pouce : Le joueur qui a le plus de cartes Recyclage (si égalité et le moins de cartes PolluPlus) prend une carte ressources à celui qui a le plus de PolluePlus (il faut gérer les égalités)
+    - [x] remplacer le texte de l'evt 12
+
+***
+
+3. Modifs mineures
+
+- Mettre le contexte en italique et la consigne en gras sur les cartes événements
+    - [x] on ne peut pas jouer sur l'italique ou le gras mais j'ai mis une flèche https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/pdf/pnp/events.pdf
+- Supprimer la redondance dans les règles du jeu : But du jeu, Préparation du jeu, Pour commencer, Méthode du jeu, Comptage de points
+    - [x] yes done, j'ai simplifié
+
+Sur les cartes composants
+- mettre en avant la carte mère et l'écran, puis la batterie et en dernier la coque (dont inverser batterie et carte mère)
+    - [x] yes done, manuellement sur les boite existante
+    - [ ] TODO Donovan sur le modèle
+
+Sur le récap
+- Mettre une url à côté du QR code ?
+    - [ ] TODO Madeline + mettre la carte recap dans le Print&Play
+- Remplacer la lampe par "C'est à vous de jouer" puis dessous : "À chaque tour, vous pouvez :"
+    - [ ] TODO Madeline + mettre la carte recap dans le Print&Play
+- Échanges seulement avec les voisins ? Je pense qu'on peut supprimer cette règle pour simplifier le jeu (ou mieux : en faire une carte événement) ; Sinon "Commercer : proposer des échanges de cartes ressources et/ou malus aux autres joueurs"
+    - [ ] TODO Madeline écrire : "Commercer : proposer des échanges de cartes ressources et/ou malus aux autres joueurs"
+
+- "Prendre 1 à 3 cartes..." → "S'approvisionner : choisir un fournisseur et prendre le nombre de cartes ressources (visibles ou en haut du tas) et malus correspondant.
+    - [ ] TODO Madeline 
+- "Dépolluer..." → "Dépolluer : se défausser de 2 cartes malus"
+    - [ ] TODO Madeline
+- "Réunir..." → "Fabriquer : poser les cartes ressources nécessaires et construire un des composants du smartphone"
+    - [ ] TODO Madeline
+
+Sur les cartes résumé des cartes ressources
+- POLLU + → PolluPlus etc. : j'ai mis du temps à comprendre ! --> écrire en lettre PolluPlus et PolluMoins
+    - [ ] à faire par Donovan : écrire PolluPlus et PolluMoins en entier sur les cartes Recap
+
+***
+
+4. Propositions de compléments
+
+- Montrer à quoi ressemblent en vrai les composants, peut-être avec une photo plus explicite sur le kakemono
+    - [ ] ou alors sur les illustrations des mallus ?
+- Avec la biblio, préciser le lien avec la réalité de certains paramètres du jeu, par ex. le nombre de cartes ressources de chaque type dans les trois tas, le nombre de ressources nécessaires pour chaque composant (je peux donner quelques refs pour faire un peu mieux que dire que c'est illustratif)
+    - [ ] oui, @Sophie, on est preneur
+- Faire peut-être une liste des points d'attention pour les profs : les messages qu'il ne faut *pas* retenir : par ex. il y a plein d'autres pollutions que celles dues au smartphone, et elle ne sont pas toutesliées au mines, les mines ne servent pas qu'au numérique etc.
+    - [ ] travailler sur le debrief avec Sophie
+- Expliquer les impacts au moment de la fabrication des composants, voire rajouter des malus (eh oui, la fabrication en elle-même pollue aussi)
+    - [ ] travailler sur le debrief avec Sophie
+
+***
+
+5. Objectifs pédagogiques
+
+Dans le brief
+- Le cycle de vie d'un smarphone
+    - [ ] à ajouter dans le kakemono ? 
+    - [ ] sinon dans le brief
+- La grande diversité de métaux dans un smartphone
+- La classification des métaux
+- Les principaux composants d'un smartphone
+    - [ ] c'est déjà dans le kakemono
+
+Pendant le jeu
+- Les matières premières qui constituent ces composants
+- Les usages des différents métaux
+- Les différents types d'impacts environnementaux
+- Les grandes étapes de l'extraction minière
+- Les pollutions, risques, conflits et accidents liés à l'industrie minière
+- Les différences dans les méthodes d'extraction
+- NB : Il y a tous les messages plus subtils auxquels il faut que je réfléchisse, du genre : la stratégie gagnante dépend directement de la législation, les impacts environnementaux et la contrainte sur les ressources disponibles sont des enjeux collectifs même si chacun joue dans son intérêt propre (on n'est pas loin de parler des équilibres de Nash, haaaaaaa !) etc.
+    - les objectifs pédagogiques du jeu sont dans la page d'accueil du portail (https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/)
+
+Dans le débrief
+- Au-delà de la fabrication, les autres impacts
+- Au-delà des smartphones : le numérique
+    - [ ] travailler sur le debrief
+
+### Retour Sherazade (test avec nouvelles règles du 10/11):
+- Dans les règles : détailler tous les types d'échanges possibles : ressources vs ressources, malus vs ressources, malus et ressources vs ressources car mal compris pour certains.
+- Pour le changement du premier joueurs, il est difficile de se rappeler qui commence le jeu à chaque tour --> solution : prévoir un jeton 1er joueur qui tourne, comme au poker.
+- Le 1er évenement est à modifier car l'info est déjà dite juste avant, lors du brief.
+- On a été bloqués par le site qui calcule l'indice de réparabilité car il ne référence pas tous les smartphones.
+- Pb de re-jouabilité --> suggestion : intégrer un dé qui permettrait de tomber sur n'importe quel evenement ou qui modifierait son impact.
+- Evenement 11 "celui qui a le plus de carte recyclé vole à celui qui a le plus de carte pollu +" à peu d'impact, il faut donner la possibilité à celui qui a le plus de carte recyclé de voler à tout le monde.
+- Problème au niveau de l'enchainement des évènements 12 et 13. Les joueurs perdent 2 cartes à l'evt12 donc le 13 a quasiment pas d'impact car peu de personnes ont plus de 2 cartes resssources de meme type en main.
+- Suggestion : ne pas permettre les échanges lors des 3 premiers tours car les joueurs savent exactement ce que les autres ont en main, donc pas de surprise.
+- Formulation des phrases malus à modifier.
+- Augmenter le nombre de malus : pour une partie avec 3 joueurs, il en restait que 6 dans la pile.(partie faite avec le set de 38 malus)
+- Jeu trop serieux pour certains : ajouter une dose d'humour dans les cartes evenement.
+- Mon frère se demandait s'il y a vraiment de métaux rares dans les coques des telephones ?
+- Ils ont été embêtés evt 8 "malus doublés jusqu'à la fin de la partie". Ils trouvent que ça arrive trop tôt dans le jeu et que ça ne laisse plus la possibilité de jouer --> suggestion : le mettre que pour les 3 prochains tours.
+
+## Retours PhoneImpact Rennes, maj des règles, et la suite ! 23/10/2023
+Présents: Aurélie, Shérazade, Madeline, Laurence
+
+Fete de la science, EcoInfo, Learning show, Inria Rennes, discussions Sophie, Retours Francis Vivat
+
+Terminologie/ textes à modifier : **Laurence et Madeline**
+
+- cartes Evenements
+    - [x] Pillage -> renommer **"Taxe"** ~~ou "Commerce"~~
+    - [x] revoir les libellés
+    - [ ] retester les nouveaux evts
+- cartes Malus
+    - [ ] Revoir les textes qui ne sont pas toujours clairs et pour certains qui ont été trop raccourcis / mettre plus d'implication "à cause de vous....", plus responsabilisant que culpabilisant
+    - [ ] pour les sources entre crochets --> écrire en bas de la carte "Référence xxx"
+    - [ ] Pour chaque malus, en plus de la source écrire un résumé, notamment pour les accidents, dégats, ruptures de digues...
+    - [ ] Ajouter des thématiques au malus : Chiffres, Catastrophes naturelles, pollution, accident... accident, pollution, conflit, besoin, risque --> **Accident, Information, Pollution, Catastrophe, Conflit**
+    - [ ] carte "Alerte pollution" ->modifier les libellés pour qu'on comprenne bien que ça touche tout le monde et pas seulement celui qui tire la carte
+    - [ ] Ajouter des malus pour en avoir au total 60 (12*nb joueurs)
+
+Illustrations : **Madeline**
+- Feuillet recap des actions / carte aide de jeu : 
+    - [ ] Proposer des échanges **avec les autres joueurs** (à voir si rajoute "même les malus")
+    - [ ] préciser que l'échange = **Action optionnelle**
+    - [ ] préciser : qui démarre ? QR code vers l'indice de réparabilité
+- Carte recap pile de ressources
+    - [ ] carte recyclage : erreur "1 malus" à remplacer par "0 malus"
+    - [ ] Avoir 3 cartes recap avec les malusx2 qui remplacent les autres, bien les reconnaitre des autres (écrire "X2" dessus + titre en rouge)
+    - [ ] pour la carte recyclage, griser quand 0 ressource
+    - ~~Dépolluer --> on peut defausser 1 tour/2~~ -> un evt
+- plateau smartphone
+    - [ ] pour les ressources grisées, ajouter 0 dans un cadre rouge --> identique carte recap
+    - [ ] Mettre des gommettes derrière chaque plateau pour les reconnaitre
+- pour les malus de type événement, il faudrait mieux les voir --> blanc sur fond rouge
+- [ ] Faire une carte du monde où apparaissent les références des malus de type catastrophe (idée Sophie)
 
 
-Besoin Donovan pour le devis :
-- 5 exemplaires
-- cartes ressources, evt, malus
-- cartes composant
-- pictogrammes, illustrations
-- boite 
-- logo 
+Règles de jeu, pitch, animation : **Laurence, à compléter par Aurelie et Shérazade**
+- [ ] ajouter des malus quand on joue à 5 -> nb malus=nb joueurs*12 
+- [x] est-ce qu'on remet dans la pioche les malus défaussés --> NON -> mettre dans la règle
+- que se passe t'il quand il n'y a plus de malus:
+    - ~~on arrête la partie mais on l'annonce dès le début / en cours de partie?~~
+    - [x] tout le monde perd mais on l'annonce 15 cartes malus avant la fin --> ajout d'une carte malus de type evenement : texte="Attention, si vous utilisez tous les malus, tout le monde perdra ! (il en reste 15)"
+- restreindre la possibilité de se débarasser de 2 malus:
+    - ~~soit on ne peut le faire que un tour sur 2~~
+    - ~~[MM] on ne peut pas le faire 2 tours de suite~~
+    - ~~remplacer la carte evt 11 par : "A partir de maintenant, pour défausser 2 cartes malus, il faut au minimum 3 cartes recyclées main+plateau. A la fin de la partie, +2 points pour celui qui aura le plus de cartes recyclés." /~~ ~~"ou toujours : on ne peut défausser 2 malus que un tour sur deux + A la fin de la partie,~~ 
+    - [x] remplacer l'evt 11 par "Pendant le tour suivant, vous ne pouvez pas défausser de malus" et (mettre l'evt 11 plus tard ?)
+- Les échanges:
+    - [x] lors du tour de joueur, avant ou après la pioche
+    - [x] possibilité d'échanger aussi des malus -> Oui
+- qui débute:
+    - [x] si on a le temps et si ce sont des adultes -> indice de réparabilité
+    - [x] sinon, celui ou celle qui n'a pas de smartphone>qui a récupéré un vieux smartphone> qui a acheté un reconditionné>qui a le plus vieux tel
+- [x] Cartes de type "taxe" : l'action ne s'effectue pas sur les cartes recyclage -> on ne peut pas te voler une carte recyclée
+- ~~+0,5 par carte recyclée / composant pour compter les points en fin de partie~~
+- [x] faire apparaître sur la règle du jeu en cas d'égalité, joueur avec le plus de cartes recyclées gagne.
+- Comptage des points à la fin : 
+    - [x] +2 points pour celui qui aura le plus de cartes recyclés
+    - peut-être -2 points pour celui qui a le plus de cartes pollu+ ???
+    - [ ] supprimer règle de +10 points si smartphone construit.
 
-Histoire :
-On a eu hier une discussion très vive sur le nom des tas des cartes de ressources "Minage classique polluant non responsable, "Minage moins polluant" et "Recyclage" qui avait été déjà longuement discutés avec les experts mais qui s'avèrent trop longs à écrire sur les cartes et à dire oralement. Bref, grâce à Marie qui a eu l'idée géniale qui a mis toute le monde d'accord, nous partons sur une histoire nouvelle :
-- nous sommes des fabricants de smartphones
-- pour fabriquer nos smartphones, nous avons 3 fournisseurs qui se nomment "PolluePlus" qui pratique un minage classique polluant non responsable, "PollueMoins" qui pratique un minage moins polluant et "Recyclage" --> on a le nom de nos tas de cartes
-- la suite est à écrire...
+Autres propositions/extensions:
 
-## Point avec Benjamin 26/07/2023
-Présents : Benjamin, Laurence
-Quelques réponses par écrit pour tracer, on en parle tout de suite : 
-- [x] dans les règles il est question de "Malus Carbone" => supprimer "carbone", les impacts environnementaux sont multiples 
+- possibilité de créer un jeu avec moins de texte pour un public plus jeune (remarque ILL : quelle pertinence d'un jeu sur l'impact des smartphones à destination d'un public qui n'en a pas encore ?) voire plus d'illustrations (cf. cartes malus) - ou avec texte simplifié et adapté à un public de niveau primaire (suggestion d'une participante du LS)
+- Sur le même modèle, faire un jeu sur les terminaux, les ordinateurs, les datacenters...
 
-OK
-- [x] Pour trancher les égalités : smartphone le plus vieux > smartphone avec le meilleurs indice de réparabilité
+- achat du jeu : intérêt des participants pour acquérir le jeu (achat) - renvoi vers le portail à ce stade. 
+--> à discuter avec STIP
 
---> sauf assez vieux pour qu'il n'y soit pas -> celui qui commence
-- est-ce qu'il y a un symbolisme derrière l'action de piocher une ressource non visible ? (je comprends la mécanique de jeu) : --> Non
+--POUR LA SUITE--
+- soit ajouter des cartes événements "Pendant le tour suivant, on ne peut pas se débarasser des malus"
+- evt "perdez nb malus/2 ressources"-> s'il ne reste qu'une carte, on la perd
 
-- [x] Modification des libellés des ressources (cf https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/commit/f41da894468fdebc9877bfdc3ca5af00227bd005)
+- un ePoc/portail pour le facilitateur (brief, règles, débrief : avec possibilité de ressources à destination des joueurs) --> Madeline
 
-- [x] Est-ce que plastique pourrait être remplacé par plastique/verre/céramique ?
-ok, point précedent
-- Ajouter 1 plastique/céramique pour diminuer à 60% les métaux (on est à 64% actuellement, dans le mooc on dit qu'il y a au plus 60% de métaux)? -> non trop tard ! 
-- [x] par contre ajouter dans les règles : Préciser que le % de cartes nécessaires pour les composants n'est pas representatif du poids des ressources ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires
+--AUTRES JEUX MEME THEMATIQUE--
+- Klimato --> rupture de stock : possibilité de tester avec une personne d'incoInfo basée sur Grenoble
+- Terra
+- CO2
 
-- [x] Sur les quantités par composant : on mélange variété des métaux et quantité (poids), donc de toute façon on ne sera pas représentatif de la réalité, à voir si ça fonctionne en jeu et vis à vis des objectifs pédagogiques -> point précédent
-- [x] Ajout de certains evts
-- [x] modif cartes Malus qui changent le jeu
+Questions en suspens :
+- peut-être -2 points pour celui qui a le plus de cartes pollu+ ???
 
-
-## Choix couleur des matériaux 28/08
-Rose (Autres matières): #CD84F1
-Gris (Métal commun): #8395A7
-Bleu (Métal rare): #63CDDA
-Marron (Terres rares): #936654
-Jaune (Métal précieux): #FFE287
-
-![](https://notes.inria.fr/uploads/upload_63ab141e3c6f21227f89c8911ed795b6.png)
-
-## Participation au concours d'idées innovantes
-https://project.inria.fr/concoursstipgra/candidater-2/
-
-document déposé :
-- source genial.ly https://view.genial.ly/64ee28c1b40d6c0012046c59/dossier-sales-phoneimpact
-- [rendu](https://view.genial.ly/64ee28c1b40d6c0012046c59)
-
-## Point Learning Show 26/09
-9h30/10h45, 11h/12h45
-capacité 70 personnes
-Présentation
-Intro générale
-Jeu IA
-Phone Impact
-    - brief
-    - expérience de jeu
-    - debrief
-    
-## Suite
+## Sauvegarde des notes du 6/10/2022 au 26/09/2023
+[Sauvegarde du passé dans le Gitlab du jeu (du 6/10/2022 au 26/09/2023)](https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/NotesPhoneImpact.md)
