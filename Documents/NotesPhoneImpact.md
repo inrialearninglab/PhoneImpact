@@ -5,12 +5,19 @@ correspond à la partie 2 du Mooc https://lms.fun-mooc.fr/courses/course-v1:inri
 
 [toc]
 
-## Adresse editeur de jeu par Denis 8/12/2023
+## Récap des activités/actions/salons autour du jeu
+- 3 et 4 avril 2024, Lille, Participation à Ludinord PRO 2024, candidature sémectionnée
+- 1 et 2 février 2024: Tech&Fest Grenoble https://www.tech-fest.fr/fr 
+- 5 février après-midi 2024: Phelma Grenoble, "animer ensemble, avec une partie "instructive" et une partie "ludique" trois heures de formation à destination des personnels de Phelma sur les enjeux sociétaux et environnementaux de la micro-électronique", Maria Maria CHRISTOU, Ingénieure Pédagogique - Learning developer, Programme Formation CHIF - IRT Nanoelec
+
+## Réunions/visio
+
+### Adresse editeur de jeu par Denis 8/12/2023
 Denis Trystram" <denis.trystram@imag.fr>
 Siège à Londres et Ireland :
 Cloudberries.co.uk
 
-##  Rencontre Gameflow 7/12/2023
+###  Rencontre Gameflow 7/12/2023
 Présents : Laurence, Madeline, Elise, Myriam, Valérie et Clément
 "Clément Leclercq" <clement.leclercq@game-flow.fr>; 
 
@@ -41,7 +48,7 @@ ex : curseur sur le plateau de jeu
 
 De notre côté, essayer d'évaluer combien de boites on peut vendre/payer --> contacter la DNE, l'ESR, la fresque du numérique...
 
-## Echange de mail avec Science PO pour une utilisation du jeu en P&P, 6/12/2023 
+### Echange de mail avec Science PO pour une utilisation du jeu en P&P, 6/12/2023 
 "Sebastien Gregov" <sebastien.gregov@sciencespo-rennes.fr>
 Sebastien Gregov a testé le jeu au Learning show et souhaiterait l'utiliser : "au second semestre à Sciences Po Rennes avec un public d'étudiants internationaux en mobilité Erasmus dans le cadre d'un séminaire de conduite de projet où les étudiants organisent un hackathon sur la transition environnementale. 
 De mon côté, j'ai bon espoir d'avoir 4 tuteurs ou animateurs (nous serions au total 5 voire 6) qui pourraient se former en amont et faire jouer le jeu ensuite aux étudiants."
@@ -51,7 +58,7 @@ Je peux proposer aux anglophone natifs une relecture si vous en avez besoin. Je 
 
 Prochain RDV en visio le 11 janvier avec Benjamin Ninassi
 
-## retours sur les tests du jeu à Sophia 5/12/2023 
+### Retours sur les tests du jeu à Sophia 5/12/2023 
 Test du jeu avec : Thierry Vieville, Sabrina Barnabé, M-Hélène Comte, Sylvain Chevillard
 
 Test avec la v2
@@ -93,9 +100,7 @@ Pour la fin :
 plus de cartes recyclage, pas de malus à deffausser donc obligé de "passer son tour" (d'ailleurs a-t-on le droit de passer son tour ?) ou de piocher chez les pollus + ou - donc hyper frustrant
 
 
-
-
-## Test des evenements 28/11/2023 + point sur les modifs Donovan
+### Test des evenements 28/11/2023 + point sur les modifs Donovan
 Test du jeu avec : Madeline, Benoit, Mélanie, Jérémy, Laurence
 Modif des evts
 - [x] : à faire Laurence directement à partir des modifs sur les cartes
@@ -145,7 +150,7 @@ Modifications à faire sur les plateaux/cartes recap
 ----
 Répartition des piles dans les cartes récap
 
-## PhoneImpact ANF (Benjamin Ninassi) 28/11/2023
+### PhoneImpact ANF (Benjamin Ninassi) 28/11/2023
 Présents: Benjamin, Madeline, Laurence, Aurélie
 
 ANF = action nationale de formation (CNRS), écoinfo chaque année en organise sur la thématique de la sobriété numérique, 7R 
@@ -199,7 +204,7 @@ contacter Board Game Arena, quand les règles sont figées.
 
 quiz HOP : https://docs.google.com/forms/d/e/1FAIpQLSf4PjPJy_7SvjYIimECSQ5mzl6d0fLGWMQdYUDzZIcdcFyYjQ/viewscore?viewscore=AE0zAgAZQJmVAEhb9B8cpCJP0-zCN-O8eT-wvTCXMiO1dZ19k2ELJx_qNgdppMgPZUFVJCY
 
-## Rencontre jeux serieux MPLS (Nathalie Vuillod) 24/11/2023
+### Rencontre jeux serieux MPLS (Nathalie Vuillod) 24/11/2023
 Présents: Elise, Madeline, Laurence, Nathalie
 
 Mission principale : formation continue de l'enseignement (maths, svt, physique, techno)
@@ -237,7 +242,7 @@ Sur Aix-Marseille en PACA, prof de techno ? a lancé un projet récupérer de vi
 carte amundi: https://cartamundi.fr/fr/
 influenceurs/blogueurs
 
-## Rencontre jeux serieux autour du portable Maria Christou 22/11/2023
+### Rencontre jeux serieux autour du portable Maria Christou 22/11/2023
 Présents: Jean-Marc (au début), Marie et Laurence
 Maria Christou (INP)
 https://www.cerag.org/vie-scientifique/serious-games/my-iot-discovery-game
@@ -292,7 +297,7 @@ Jeu financé par l'IRT : MyIOT
 
 Maria prépare une formation sur une journée en février (personnel INP) basée sur son jeu et serait intéressée éventuellement pour qu'on vienne animer le notre, peut être avant de démarrer le sien.
 
-## Point 20/11/2023
+### Point 20/11/2023
 préparation du jeu V1 : ancienne version avec anciens évents
 préparation du jeu V2 : nvll version avec nv évents
 
@@ -313,7 +318,7 @@ conflits
 
 push évent 11 et 13
 
-## Réunion STIP du 14/11 : suite du concours
+### Réunion STIP du 14/11 : suite du concours
 
 Présents : Laurence, Nathan, Madeline, Elise, Myriam et Valérie
 
@@ -357,14 +362,14 @@ adaptation du jeu pour public primaire ?
 
     
 
-## Point PhoneImpact 9/11/2023
-### ODJ
+### Point PhoneImpact 9/11/2023
+#### ODJ
 - retour sur ce qui a été fait suite à la dernière réunion
 - point sur les règles actuelles
 - génération des cartes/boite de jeux
 - propositions de nouvelles règles de Francis Vivat pour pouvoir rejouer au jeu
 
-### retours Laurence
+#### retours Laurence
 Retours sur les tests avec les nouvelles règles:
 - Le joueur qui commence a vraiment un gros avantage sur le 1er tour et ensuite sur tous les tours qui arrivent après un evts où on pioche des cartes visibles ==> 
     - [x] on change le 1er joueur du tour à chaque tour 
@@ -373,8 +378,8 @@ Retours sur les tests avec les nouvelles règles:
 - [ ] pour les evts, en cas d'égalité de cartes recyclées, le moins de cartes PolluPlus ?
 - [ ] on m'a repproché de ne pas annoncer en début de partie les types d'événements comme les taxes où on pourrait se faire voler des ressources non recyclées --> ajouter une phrase au début du pitch pour dire que quand on aquiert des ressources, on prend des malus qui auront des conséquences dans la suite du jeu (pour introduire la notion de malus)
 
-### retour Sophie
-#### 1. Modifs des règles du jeu (donc un peu majeures)
+#### retour Sophie
+##### 1. Modifs des règles du jeu (donc un peu majeures)
 
 - Pour simplifier le jeu, supprimer la possibilité de faire des échanges
 à chaque tour, et le permettre via une ou plusieurs cartes événements.
@@ -417,7 +422,7 @@ Retours sur les tests avec les nouvelles règles:
 
 ***
 
-#### 2. Autres modifs que je trouve importantes
+##### 2. Autres modifs que je trouve importantes
 
 - Mettre moins de points sur la coque et plus sur la batterie
     - [ ] echanger le nombre de points (6 pour la baterie et 4 pour la coque) -> TODO Donovan
@@ -534,7 +539,7 @@ Dans le débrief
 - Au-delà des smartphones : le numérique
     - [ ] travailler sur le debrief
 
-### Retour Sherazade (test avec nouvelles règles du 10/11):
+#### Retour Sherazade (test avec nouvelles règles du 10/11):
 - Dans les règles : détailler tous les types d'échanges possibles : ressources vs ressources, malus vs ressources, malus et ressources vs ressources car mal compris pour certains.
 - Pour le changement du premier joueurs, il est difficile de se rappeler qui commence le jeu à chaque tour --> solution : prévoir un jeton 1er joueur qui tourne, comme au poker.
 - Le 1er évenement est à modifier car l'info est déjà dite juste avant, lors du brief.
@@ -549,7 +554,7 @@ Dans le débrief
 - Mon frère se demandait s'il y a vraiment de métaux rares dans les coques des telephones ?
 - Ils ont été embêtés evt 8 "malus doublés jusqu'à la fin de la partie". Ils trouvent que ça arrive trop tôt dans le jeu et que ça ne laisse plus la possibilité de jouer --> suggestion : le mettre que pour les 3 prochains tours.
 
-## Retours PhoneImpact Rennes, maj des règles, et la suite ! 23/10/2023
+### Retours PhoneImpact Rennes, maj des règles, et la suite ! 23/10/2023
 Présents: Aurélie, Shérazade, Madeline, Laurence
 
 Fete de la science, EcoInfo, Learning show, Inria Rennes, discussions Sophie, Retours Francis Vivat
@@ -632,5 +637,5 @@ Autres propositions/extensions:
 Questions en suspens :
 - peut-être -2 points pour celui qui a le plus de cartes pollu+ ???
 
-## Sauvegarde des notes du 6/10/2022 au 26/09/2023
-[Sauvegarde du passé dans le Gitlab du jeu (du 6/10/2022 au 26/09/2023)](https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/NotesPhoneImpact.md)
+## Sauvegarde des notes sur le Gitlab à partir du 6/10/2022 
+[Sauvegarde du passé dans le Gitlab du jeu (du 6/10/2022 au 26/09/2023)](https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/Documents/NotesPhoneImpact.md?ref_type=heads)
