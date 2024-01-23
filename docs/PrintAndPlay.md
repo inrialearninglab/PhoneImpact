@@ -5,7 +5,7 @@ title: Print and play
 
 Ci-dessous les liens de téléchargement pour imprimer votre propre version du jeu :
 
-- [Plateau](pdf/pnp/plateau.pdf) (1/joueur, à imprimer en mode portrait 4 pages par feuille)
+- [Plateau](pdf/docCommuns/plateau.pdf) (1/joueur, à imprimer en mode portrait 4 pages par feuille)
 - [Événements](pdf/pnp/events.pdf)
 - [Malus](pdf/pnp/malus.pdf)
 - [Descriptifs composition des pioches](pdf/pnp/recap.pdf)
@@ -13,10 +13,10 @@ Ci-dessous les liens de téléchargement pour imprimer votre propre version du j
 - [Pioche PollueMoins](pdf/pnp/pollumoins.pdf)
 - [Pioche PolluePlus](pdf/pnp/polluplus.pdf)
 
-- [Aide de jeu](pdf/AideDeJeu.pdf)
-- [Fascicule de présentation du jeu](pdf/depliant.pdf)
+- [Aide de jeu](pdf/docCommuns/AideDeJeu.pdf)
+- [Fascicule de présentation du jeu](pdf/docCommuns/depliant.pdf)
 
 Ci-dessous les liens vers les kakemonos qui accompagnent le jeu lors des phases de brief et debrief :
 
-- [kakemono du brief, présentation des métaux](pdf/Kakemono_PhoneImpact.pdf)
-- [kakemono du debrief, tour du mon du smartphone](pdf/kakemonoDebriefPhoneImpact.pdf)
+- [kakemono du brief, présentation des métaux](pdf/docCommuns/Kakemono_PhoneImpact.pdf)
+- [kakemono du debrief, tour du mon du smartphone](pdf/docCommuns/kakemonoDebriefPhoneImpact.pdf)
