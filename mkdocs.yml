@@ -6,8 +6,15 @@ use_directory_urls: false
 theme:
   name: material
   custom_dir: custom/
+  palette:
+    primary: teal
+    accent: amber
+extra_css:
+  - assets/extra.css
 extra_javascript:
   - assets/extra.js
+extra:
+  generator: false
 markdown_extensions:
   - admonition
   - abbr
