@@ -14,6 +14,6 @@ Gérez judicieusement les ressources disponibles et prenez des décisions strat�
 
 PhoneImpact vous propose une expérience immersive où vous apprendrez en jouant. En intégrant des chiffres clés sur les impacts environnementaux, le jeu vous sensibilisera aux conséquences réelles de vos décisions.
 
-Le temps est venu de construire un avenir plus durable, un smartphone à la fois. Êtes-vous prêt à relever ce défi de taille ? Le destin de Techcity est entre vos mains. 
+Le temps est venu de construire un avenir plus durable. Êtes-vous prêt à relever ce défi de taille ? Le destin de Techcity est entre vos mains. 
 
 Bonne chance !
