@@ -12,4 +12,4 @@ Des questions clés sont posées aux joueurs :
 - Avez-vous modifié votre stratégie à un moment de la partie ? Pourquoi ?
 - Quelles sont les informations que vous avez retenues de ce jeu ?
 
-Pour ceux qui ne l'ont pas fait au début du jeu, calculer son [[Indice de reparabilité (sur le site www.indicereparabilite.fr)]](https://www.indicereparabilite.fr/) et en discuter. C'est l'occasion de parler du reconditionnement des smartphones (garantie légale de conformité de 6 mois qui couvre les pannes, dysfonctionnements mais aussi le caractère limité des performances).
+Pour ceux qui ne l'ont pas fait au début du jeu, calculer son [Indice de reparabilité (sur le site www.indicereparabilite.fr)](https://www.indicereparabilite.fr/) et en discuter. C'est l'occasion de parler du reconditionnement des smartphones (garantie légale de conformité de 6 mois qui couvre les pannes, dysfonctionnements mais aussi le caractère limité des performances).
