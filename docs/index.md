@@ -30,6 +30,7 @@ Pour nous contacter: phoneimpact@inria.fr.
 - Déduire qu'il est possible de modifier le comportement d'un constructeur en ajoutant des pénalités s'il pollue
 - Prendre conscience que la pollution pour le recyclage n’est pas nulle (à mentionner dans le débrief)
 - Prendre conscience que la pollution des autres nous impacte aussi
+- Prendre conscience que ralentir/stopper la production est un moyen de dépolluer (quand on défausse les 2 cartes malus)
 
 **Expérience de jeu :**
 
