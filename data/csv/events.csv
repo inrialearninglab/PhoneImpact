@@ -1,17 +1,16 @@
 text,type,number
-"Question à trouver sur les métaux/minage pour départager les joueurs ?\n→ Celui qui est le plus proche de la bonne réponse prend une ressource parmi celles qui sont visibles (Réponse=84%) ",Question,1
-"La collecte des smartphones permet de récupérer des matériaux pour les réutiliser.\n→ Si vous avez au moins 1 carte Recyclage, choisissez une ressource parmi celles qui sont recyclables",Le saviez-vous,2
-"Trouver un motif.\n→ Durant ce tour, vous ne pourrez pas piocher de cartes PolluPlus",La loi change,3 à supprimer
-"2005: le système de marché des quotas carbone est mis en place. Il vise à réduire les émissions de gaz à effet de serre \n→ Des échanges sont possibles avec les autres joueurs (ressources et/ou malus)",La loi change,3
-"2021: la loi anti-gaspillage rend obligatoire l'indice de réparabilité des smartphones.\n→ Le joueur qui a le plus de cartes Recyclage prend une carte ressource à celui qui a le plus de cartes PolluPlus",La loi change,4
-"Un loi est votée pour lutter contre l'accaparement des métaux.\n→ Ne gardez que 2 ressources maximum de chaque type en excluant les ressources Recyclage",La loi change,5
-"Les citoyens de Techcity manifestent, une loi est votée pour limiter la pollution du minage !!!\n→ Vos malus seront déduits de votre total de points (-1 point par malus).",Événement majeur,6
-"Trouver un motif.\n→ Prendre une carte à vos voisins ayant strictement moins de cartes Recyclage que vous",Taxe,7
-"Attention, les teneurs en minerai diminuent (quantité de minéraux utiles présente dans un gisement).\n→ Les malus des pioches sont doublés jusqu'à la fin de la partie",Événement majeur,8
-"2030: Un accident grave survient dans une mine très polluante.\n→ Défaussez 2 cartes PolluPlus. Ex: Si j'ai 5 malus, je défausse 2 ressources.",Information,9
-"Dépolluer n'est pas toujours possible !\n→ Pendant le tour suivant, vous ne pourrez pas défausser de malus",Événement majeur,10
-"2032: Ouverture d'une mine en France avec des règles plus strictes sur l'éco-responsabilité.\n→ Choisissez une ressource parmi celles qui sont visibles (ordre croissant de malus). On défausse 2 cartes Malus.",Information,11
-"2035: une nouvelle réglementation environnementale inclut des mesures incitatives pour encourager le recyclage\n→ Perdez 2 ressources si vous avez moins de 3 ressources Recyclage",La loi change,12
-"2037: Trouver un motif.\n→ Volez une carte à vos voisins ayant strictement plus de malus que vous",Taxe,13
-"2040: on a trop pollué, certains métaux sont épuisés !\n→ Fin de la partie !",Événement majeur,14
+"Combien faut-il extraire de tonnes de terre et de minerais pour produire un kilo d’or ?\n→ Celui qui est le plus proche de la bonne réponse prend une ressource parmi celles qui sont visibles (5000 tonnes) ",Quiz,1
+"Collecter des smartphones permet de récupérer certains matériaux pour les réutiliser\n→ Si vous avez au moins 1 carte Recyclage, choisissez une ressource parmi celles qui peuvent se recycler (métaux communs, précieux et autres matières)",Coup de pouce,2
+"2005: l'Union européenne s'est dotée d'un système d'échange de quotas d'émission de GES : le marché du carbone \n→ À partir de maintenant, les échanges sont possibles entre les joueurs (ressources et/ou malus)",La loi change,3
+"2017: l’Union Européenne adopte un règlement sur l’importation de minerais en provenance de zones de conflit\n→ Durant ce tour, vous ne pourrez pas piocher de cartes PolluPlus",La loi change,4
+"2025: plusieurs mines ouvrent à côté de Techcity\n→ Choisissez une ressource parmi celles qui sont visibles (ordre croissant de malus). On défausse 1 carte Malus par carte piochée",Coup de pouce,5
+"2028: les citoyens de Techcity manifestent, une loi est votée pour appliquer le principe pollueur-payeur\n→ Vos malus seront déduits de votre total de points (-1 point par malus)",Événement majeur,6
+"2031: Techcity décide de favoriser les fabricants les plus vertueux\n→ Prendre une carte à vos voisins ayant strictement plus de cartes Malus que vous",Taxe,7
+"2034: suite à un accident grave dans des mines qui ne respectaient pas les règles de sécurité, la production est arrêtée temporairement\n→ Défaussez 2 cartes PolluPlus",Catastrophe,8
+"La teneur des minerais diminue fortement; produire la même quantité de métal pollue 2 fois plus\n→ Les malus des pioches sont doublés jusqu'à la fin de la partie",Événement majeur,9
+"2036: Une loi est votée pour lutter contre l'accaparement des métaux par quelques fabricants\n→ Ne gardez que 2 ressources maximum de chaque type en excluant les ressources Recyclage",La loi change,10
+"2038: Techcity décide d'envourager le fabricants le plus vertueux\n→ Le joueur qui a le plus de cartes Recyclage prend une carte ressource à celui qui a le plus de cartes PolluPlus",Taxe,11
+"2039: une nouvelle réglementation inclut des mesures pour taxer ceux qui ne font pas assez d'efforts sur le recyclage\n→ Perdez 2 ressources si vous avez moins de 3 ressources Recyclage",Taxe,12
+"La miniaturisation des composants et la présence de certains matériaux rendent difficile, voire impossible, la dépollution complète d'un smartphone\n→ Pendant le tour suivant, vous ne pourrez pas défausser de malus",Événement majeur,13
+"2040: L'exploitation minière excessive a conduit à l'épuisement de certains métaux, rendant leur exploitation trop ardue et contraignant à l'arrêt de la production\n→ Fin de la partie !",Événement majeur,14
 "Carte supplémentaire",Carte supplémentaire,15
