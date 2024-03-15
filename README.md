@@ -40,8 +40,17 @@ docker run -v .:/app phone-impact
 ```shell
 docker run -v .:/app --entrypoint sh -it phone-impact  
 ```
+### Generate the event cards 
+```shell
+ruby decks/pnp/events.rb
+```
+The file `_output_/events.pdf` is generated. Copy it in docs/pdf/pnp/events.pdf if it's ok.
 
-
+### Generate the malus cards
+```shell
+ruby decks/pnp/malus.rb
+```
+The file `_output_/malus.pdf` is generated. Copy it in docs/pdf/pnp/malus.pdf if it's ok.
 
 [//]: # (## Generating cards)
 
