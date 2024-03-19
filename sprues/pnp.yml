@@ -21,6 +21,7 @@ cards:
 - x: 215.5mm
   "y": 96.0mm
 crop_line:
+  style: :dashed
   overlay: :overlay_on_cards
   lines:
   - type: :vertical
