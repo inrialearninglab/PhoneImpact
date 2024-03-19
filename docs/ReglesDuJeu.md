@@ -1,4 +1,4 @@
-# Pitch avec les règles du jeu
+# Règles du jeu
 
 ## Règles pour une partie en 45'
 ### Présentation du jeu
@@ -31,8 +31,8 @@ suivants dans le jeu :
 
 Le but du jeu est de rassembler assez de ressources pour construire tous les composants de votre smartphone.
 
-Cependant, l'acquisition des ressources peut s'accompagner de Malus qui auront des conséquences dans la suite du jeu.
-Les textes des cartes Malus sont lues quand elles sont tirées, éventuellement une sur deux si c'est trop long.
+Cependant, l'acquisition des ressources peut s'accompagner de malus qui auront des conséquences dans la suite du jeu.
+Les textes des cartes malus sont lues quand elles sont tirées, éventuellement une sur deux si c'est trop long. À la fin de ces textes, un numéro indique la source à consulter pour en savoir plus ([Lien vers les sources](Sources.md)).
 
 [Detail du matériel si besoin](./Materiel.md)
 
@@ -40,7 +40,7 @@ Les textes des cartes Malus sont lues quand elles sont tirées, éventuellement 
 
 Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sens des aiguilles d'une montre.
 
-A chaque tour, vous pouvez faire une seule de ces 3 actions suivantes :
+À chaque **tour de jeu**, vous pouvez faire une seule de ces 3 actions suivantes :
 
 - Vous approvisionner : choisir un fournisseur et prendre le nombre de cartes ressources (visibles ou en haut du tas) et malus correspondant :
 
@@ -57,58 +57,48 @@ A chaque tour, vous pouvez faire une seule de ces 3 actions suivantes :
     > Pas de malus mais à savoir que dans cette pioche il n'y a ni terres rares, ni métaux
     rares.
 
-    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre les
-    cartes visibles ou dans la pioche.
+    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n'importe quelle 
+    carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
 
-- Fabriquer un composant : poser les cartes ressources nécessaires et construire un des composants du smartphone
+- Fabriquer un composant : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué.
 
 - Dépolluer : se défausser de 1 à 2 cartes malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
 
-Vous pouvez en plus à votre tour de jeu commercer : proposer des échanges de cartes ressources et/ou malus aux autres joueurs.
 
-Vu que ça fait beaucoup d'informations d'un coup, on vous a fait un
-récap cf. cartes aide de jeu.
+En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
 ![Recap des règles](img/AideDeJeu.jpeg){ width="300" }
 
-
 **Qui commence ?**
 
-<figure markdown>
-  ![QRCode www.indicereparabilite.fr](img/qrcode_indiceReparabilite.png){ width="200" }
-  <figcaption>Site indicereparabilite.fr pour calculer son indice de reparabilité</figcaption>
-</figure>
+Pour déterminer qui commence :
+- Celui ou celle qui a le smartphone le plus vieux commence.
+- Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux.
+- Celui qui n'a pas de smartphone commence !
 
-Pour déterminer qui commence, il y a 2 possibilités :
-- Celui qui a le smartphone le plus vieux commence. Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux. Celui ou celle qui n'a pas de smartphone commence ! 
-- Une alternative si les joueurs ont des smartphones récents et si vous avez du temps : on se base sur l'[Indice de reparabilité (sur le site www.indicereparabilite.fr)](https://www.indicereparabilite.fr/appareils/multimedia/smartphone/) du smartphone de chaque joueur; celui qui commence est celui qui a l'indice le plus élevé. C'est l'occasion de parler du reconditionnement des smartphones (garantie légale de conformité de 6 mois qui couvre les pannes, dysfonctionnements mais aussi le caractère limité des performances).
-
+Le premier joueur désigné prend la carte "premier joueur"
 
 Après **chaque tour de table** :
 
 - on tire une carte événement valable pour tous les joueurs
 - on lit la carte et on fait l'action écrite sur la carte
-- le joueur suivant devient le premier joueur du tour suivant
+- Certaines actions nécessitent de départager les joueurs. En cas d'égalité, on privilégie celui qui a le plus de cartes recyclage, puis le moins de cartes malus, puis celui qui répond juste au Quiz ([Lien vers les questions](Questions.md)).
+- le joueur suivant devient le premier joueur du tour suivant (sens des aiguilles d'une montre) et récupère la carte "Premier joueur"
 
-
-**Conditions de fin de partie :** La partie se termine quand :
+**Conditions de fin de partie :** La partie s'arrête quand :
 
 - un des joueurs a construit son smartphone en entier,
 - la carte événement "Fin de partie" est tirée,
-- il n'y a plus de cartes Malus. Dans ce cas, on ne peut plus acheter de cartes PolluPlus ou PolluMoins.
-
-On termine le tour et on compte les points pour déclarer le vainqueur.
+- il n'y a plus de cartes malus. Dans ce cas, on ne peut plus acheter de cartes PolluPlus ou PolluMoins.
 
 **Décompte des points**: le gagnant est celui qui a le plus de points. On compte les points en fonction :  
 
 - des composants construits de votre téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
-- +2 points pour celui qui a le plus de cartes Recyclage, y compris celles posées sur le plateau [à tester: compter uniquement les cartes recyclées qui sont sur le plateau et pas dans la main]
-- [à tester: -2 points pour celui qui a le plus de cartes Pollu+ dans sa main]
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
 
 En cas d'égalité, le gagnant est celui qui a le plus de cartes recyclées, puis le moins de cartes PolluPlus, puis le moins de cartes PolluMoins.
 
-## Adaptations des règles pour une partie en 20'                                                      
+## Adaptations des règles pour une partie en 20'      (à modifier)                                                
 - On ne garde que les événements :
     - pour la V1 (cartes de la boite de jeu) : 1 ; 2 ; 8 ; 10 ; 15  ;
     - pour la V2 (cartes de la boite de jeu) : 2 ; 4 ; 6 ; 9 ; 15  ;

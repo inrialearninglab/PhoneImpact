@@ -13,7 +13,7 @@ Sur chaque table, préparer les jeux :
 Une fois que les élèves sont arrivés :
 
 - [Briefing: concepts, règles, placements des joueurs...](./Briefing.md)
-- Expliquer les [règles du jeu](PitchReglesDuJeu.md)
+- Expliquer les [règles du jeu](ReglesDuJeu)
 - Si on a du temps, lancer l'application [Indice de reparabilité](https://www.indicereparabilite.fr/) via le QR code du recap
     - demander à chaque joueur la marque+nom de son téléphone et retrouver dans l'application son indice de réparabilité (ou chacun calcule son indice)
     - demander à chaque joueur l'âge de son téléphone
