@@ -19,11 +19,11 @@ event_type:
   valign: middle
 
 event_text:
-  font: Montserrat weight=600 10
+  markup: true
+  font: Montserrat weight=600 9
   spacing: 2
-  x: 10mm
+  x: 12mm
   y: 25mm
-  width: 47mm
-  height: 57mm
-  align: center
+  width: 45mm
+  height: 60mm
   valign: middle
