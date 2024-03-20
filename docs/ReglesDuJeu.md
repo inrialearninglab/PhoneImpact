@@ -56,6 +56,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
     > ce qui vous permet d'obtenir 1 carte ressource
     > Pas de malus mais à savoir que dans cette pioche il n'y a ni terres rares, ni métaux
     rares.
+    > vous ne pourrez pas perdre cette carte durant la partie
 
     Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n'importe quelle 
     carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
@@ -72,6 +73,7 @@ En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 **Qui commence ?**
 
 Pour déterminer qui commence :
+
 - Celui ou celle qui a le smartphone le plus vieux commence.
 - Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux.
 - Celui qui n'a pas de smartphone commence !
