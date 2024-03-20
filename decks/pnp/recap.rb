@@ -7,6 +7,9 @@ images << 'data/images/recap/recyclage_recap.png'
 images << 'data/images/recap/pollumoins_recap.png'
 images << 'data/images/recap/polluplus_recap.png'
 
+# first player card
+images << ''
+
 index = images.size
 
 if index < cards_per_sheet
@@ -21,10 +24,15 @@ if index < cards_per_sheet
   end
 end
 
+first_player_text = '<span>1<sup>er</sup> Joueur</span>\n :logo:'.gsub('\n', "\n")
+
 Squib::Deck.new cards: images.size, layout: ['layouts/common.yml'] do
   background color: 'white'
 
   png file: images, layout: 'background_pnp'
+  text(str: ['', '', '', first_player_text], layout: 'recap_text') do |embed|
+    embed.png key: ':logo:', file: 'data/images/icons/logo.png', width: 600, height: 450
+  end
 
   save_pdf file: 'recap.pdf', dir: '_output/pnp', sprue: 'sprues/pnp.yml'
 end
