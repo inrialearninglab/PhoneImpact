@@ -22,3 +22,13 @@ background_pnp:
   y: 5mm
   width: 57mm
   height: 83mm
+
+recap_text:
+    x: 5mm
+    y: 5mm
+    width: 57mm
+    height: 63mm
+    font: Montserrat bold 15
+    align: center
+    valign: middle
+    markup: true
