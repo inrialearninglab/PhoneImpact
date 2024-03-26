@@ -87,9 +87,9 @@ Après **chaque tour de table** :
 
 **Conditions de fin de partie :** La partie s'arrête quand :
 
-- un des joueurs a construit son smartphone en entier,
-- la carte événement "Fin de partie" est tirée,
-- il n'y a plus de cartes malus. Dans ce cas, on ne peut plus acheter de cartes PolluPlus ou PolluMoins.
+- un des joueurs a construit son smartphone en entier.
+- la carte événement "Fin de partie" est tirée.
+- il n'y a plus de cartes malus.
 
 **Décompte des points**: le gagnant est celui qui a le plus de points. On compte les points en fonction :  
 
