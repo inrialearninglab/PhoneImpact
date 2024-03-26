@@ -13,8 +13,8 @@ malus_text:
   y: 18mm
   width: 47mm
   height: 65mm
-  align: 'center'
   valign: 'middle'
+  markup: true
 
 malus_illu:
   x: 10mm

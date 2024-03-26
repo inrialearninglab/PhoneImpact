@@ -1,11 +1,10 @@
 nav:
     - index.md
     - InstructionsAnimateur.md
-    - PreparationJeu.md
     - PreparationJeu_V2.md
     - Histoire.md
     - Briefing.md
-    - PitchReglesDuJeu.md
+    - ReglesDuJeu.md
     - Debriefing.md
     - Materiel.md
     - Fiche_metaux.md

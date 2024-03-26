@@ -1,11 +1,8 @@
-# Préparation du jeu V2 (Version Print&Play)
+# Préparation du jeu (Version Print&Play)
 Pour cette version, vous pouvez utiliser : 
-- soit la version Print&Play du jeu 
-- soit la boite de jeu hormis les cartes Événements qui doivent être imprimées ([lien vers le fichier](./PrintAndPlay.md)).
 
-Pour les cartes Malus:
-- Si vous utilisez les cartes Malus de la boite, il faut enlever pour cette version les 2 cartes Alerte (texte écrit en rouge) du jeu.
-- Sinon de nouvelles cartes malus (avec texte ou illustrations) peuvent être à imprimées ([lien vers le fichier](pdf/pnp/malus.pdf)).
+- soit la version Print&Play du jeu 
+- soit la boite de jeu
 
 ## Plateau de jeu à construire
 Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
@@ -27,28 +24,21 @@ Les cartes ressources doivent être bien mélangées puis rassemblées en pioche
     - 1 carte ressource est placée face visible à droite de la pioche
     - la carte recap de Recyclage qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche (A noter que cette pile ne contient pas de terres rares, ni de métaux rares)
 
-### Cartes Malus
-Les cartes Malus sont mélangées et déposées en une pioche, face cachée :
+## Cartes Malus
+Préparation de la pioche des cartes malus:
 
-Le nombre de cartes Malus est : nombre de joueurs*12.
-Enlever les cartes inutiles selon le nombre de joueurs.
-Les cartes Malus sont mélangées et déposées en un tas, face cachée :
+- placer au début de la pioche les cartes malus de type "Définition"
+- mélanger les autres cartes et les placer en dessous de la pioche
 
-- cartes Malus : 36 pour 3 joueurs, 48 pour 4 joueurs, 60 pour 5 joueurs
+Le nombre de cartes Malus est : nombre de joueurs*12, c'est à dire :
 
-### Cartes Événements (pdf Print&Play et pas les cartes événements)
+- 36 pour 3 joueurs, 
+- 48 pour 4 joueurs, 
+- 60 pour 5 joueurs.
 
-15 cartes Événements dont l'ordre est défini par un numéro sur celles-ci.
-Les 15 cartes Événements sont classées dans l'ordre de numéro indiqué sur celles-ci et déposées en une pioche, face cachée :
+Enlever les cartes inutiles selon le nombre de joueurs. La pioche est déposée face cachée.
+
+## Cartes Événements
+
+Il y a 14 cartes Événement classées dans l'ordre de numéro indiqué sur celles-ci et déposées en une pioche, face cachée.
 Ces cartes Événements déclencheront des actions particulières à chaque tour de jeu.
-
-Certains Événements désignent le joueur qui a le moins de malus (ex: action xxx commençant par celui qui a le moins de malus) :
-
-- En cas d'égalité sur le nombre de malus, on regarde celui qui a le plus de cartes Recyclage.
-- En cas d'égalité, on prend celui qui a le smartphone ayant l'indice de réparabilité le plus haut
-- En cas d'égalité, on prend celui qui a le smartphone ayant le smartphone le plus vieux
-
-Selon le nombre de joueurs et le temps qu'on a pour jouer, on peut enlever certains événements. Par exemple :
-
-- on enlève les 2 derniers Événements (#12 et #13) à 5 joueurs
-- on enlève le  dernier Événement (#13) à 4 joueurs
