@@ -1,6 +1,6 @@
 # Règles du jeu
 
-## Règles pour une partie en 45'
+## Règles du jeu pour une partie en 45'
 ### Présentation du jeu
 Dans ce jeu, vous incarnez un fabricant de smartphones et votre objectif
 est de construire un smartphone tout en minimisant votre impact
@@ -36,7 +36,7 @@ Les textes des cartes malus sont lues quand elles sont tirées, éventuellement 
 
 [Detail du matériel si besoin](./Materiel.md)
 
-## Déroulement du jeu
+### Déroulement du jeu
 
 Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sens des aiguilles d'une montre.
 
@@ -70,7 +70,7 @@ En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
 ![Recap des règles](img/AideDeJeu.jpeg){ width="300" }
 
-**Qui commence ?**
+### Qui commence ?
 
 Pour déterminer qui commence :
 
@@ -80,36 +80,30 @@ Pour déterminer qui commence :
 
 Le premier joueur désigné prend la carte "premier joueur"
 
-Après **chaque tour de table** :
+### Après chaque tour de table, on tire une carte événement
 
-- on tire une carte événement valable pour tous les joueurs
-- on lit la carte et on fait l'action écrite sur la carte
-- Certaines actions nécessitent de départager les joueurs. En cas d'égalité, on privilégie celui qui a le plus de cartes recyclage, puis le moins de cartes malus, puis celui qui répond juste au Quiz ([Lien vers les questions](Questions.md)).
-- le joueur suivant devient le premier joueur du tour suivant (sens des aiguilles d'une montre) et récupère la carte "Premier joueur"
+- Elle est valable pour tous les joueurs.
+- On lit le contenu de la carte et on fait l'action qui est décrite.
+- Le joueur suivant devient le premier joueur du tour suivant (sens des aiguilles d'une montre). Il récupère la carte "Premier joueur"
 
-**Conditions de fin de partie :** La partie s'arrête quand :
+### Qui commence à faire l'action désignée par la carte événement
+- Certains événements désignés par le signe '*' nécessitent de départager les joueurs pour savoir qui commence.
+- Dans ce cas, on privilégie celui qui a le plus de cartes recyclage, puis le moins de cartes malus, puis celui qui répond juste au Quiz ([Lien vers les questions](Questions.md)).
+
+### Conditions de fin de partie 
+La partie s'arrête quand :
 
 - un des joueurs a construit son smartphone en entier,
 - la carte événement "Fin de partie" est tirée,
 - il n'y a plus de cartes malus. Dans ce cas, on ne peut plus acheter de cartes PolluPlus ou PolluMoins.
 
-**Décompte des points**: le gagnant est celui qui a le plus de points. On compte les points en fonction :  
+### Décompte des points
+Le gagnant est celui qui a le plus de points. On compte les points en fonction :  
 
 - des composants construits de votre téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
 
 En cas d'égalité, le gagnant est celui qui a le plus de cartes recyclées, puis le moins de cartes PolluPlus, puis le moins de cartes PolluMoins.
 
-## Adaptations des règles pour une partie en 20'      (à modifier)                                                
-- On ne garde que les événements :
-    - pour la V1 (cartes de la boite de jeu) : 1 ; 2 ; 8 ; 10 ; 15  ;
-    - pour la V2 (cartes de la boite de jeu) : 2 ; 4 ; 6 ; 9 ; 15  ;
-- Position des malus de type "événement" (uniquement pour la V1)
-    - 3 ou 4 joueurs
-        - 9e place pour la première alerte
-        - 14e place pour la deuxième alerte
-    - 5 joueurs
-        - 12e place pour la première alerte
-        - 17e place pour la deuxième alerte
-- On ne lit les textes des malus que durant un tour
-- Tour de jeu : l'action "échange entre joueurs est annulée"
+## Adaptation des règles pour une partie en 20'                                      
+- On ne garde que les événements : 1 ; 5 ; 6 ; 7 ; 13 ;

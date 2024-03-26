@@ -35,28 +35,26 @@ Il existe 3 types de ressources qui correspondent à 3 tas de cartes :
 
 **Précision importante** : le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
 
-### 16 Cartes *Événement*
+### 14 Cartes *Événement*
 Les cartes **Événement** sont numérotées et doivent être classées dans l'ordre croissant à chaque début de partie.
 
 Elles peuvent être de type :
 
-- Pour la V1 (carte de la boite)
-    - Bonus
-    - Pillage
-    - Règlementation
-    - Événement majeur
-- Pour la V2
-    - Bonus
-    - Le saviez-vous ?
-    - La loi change
-    - Événement majeur
+- Quiz
+- Coup de pouce
+- La loi change
+- Événement majeur
+- Taxe
+- Information
 
-### 37 Cartes *Malus* (V1)
-Les cartes **Malus** doivent être mélangées à chaque début de partie. À chaque malus correspond un texte qui doit être lu par les joueurs quand ils tirent une de ces cartes. Ces textes sont des chiffres, des informations, des faits en relations avec les impacts environnementaux du numérique. À la fin du texte, un numéro entre crochets permet de retrouver la source du texte.
+### 60 Cartes *Malus*
+Elles peuvent être de type :
 
-2 cartes Malus de type "Alertes" doivent être introduites dans le jeu selon le nombre de joueurs.
+- Définition
+- Information
+- Chiffre
+- Catastrophe
+- Conflit
+- Pollution
 
-### 60 Cartes *Malus* (V2)
-- Les cartes **Malus** doivent être mélangées à chaque début de partie. 
-- À chaque malus correspond une illustration ou un texte qui doit être lu par les joueurs quand ils tirent une de ces cartes.
-- À la fin du texte, une référence permet de retrouver la source du texte.
+À chaque malus correspond une illustration ou un texte qui doit être lus par les joueurs quand ils tirent une de ces cartes. À la fin du texte, une référence permet de retrouver la source du texte.
