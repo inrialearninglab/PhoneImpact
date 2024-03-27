@@ -27,10 +27,10 @@ Les cartes ressources doivent être bien mélangées puis rassemblées en pioche
 ## Cartes Malus
 Préparation de la pioche des cartes malus:
 
-- placer au début de la pioche les cartes malus de type "Définition"
+- placer au début de la pioche les cartes malus de numéroté de 1 à 5
 - mélanger les autres cartes et les placer en dessous de la pioche
 
-Le nombre de cartes Malus est : nombre de joueurs*12, c'est à dire :
+Le nombre de cartes Malus est : nombre de joueurs*12, c'est-à-dire :
 
 - 36 pour 3 joueurs, 
 - 48 pour 4 joueurs, 

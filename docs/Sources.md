@@ -7,6 +7,8 @@ Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impacts
 - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
 
 ## Sources des textes des malus
+**Mise à jour des sources à venir**
+
 - [1] [L'empreinte environnementale du numérique. Arcep. Juillet 2023](https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique.html)
 - [2] [Impact environnemental du numérique : tendances à 5 ans et gouvernance de 5G. TheShiftProject. 2021](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie1/FichesActivite/Capsule_Partie1_3Mesurer.pdf)
 - [3] [Mooc "Impact environnementaux du numérique". activité 03 Les impacts environnementaux d’un smartphone](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_2_Comprendre/story.html)
