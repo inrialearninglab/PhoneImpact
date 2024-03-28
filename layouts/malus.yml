@@ -2,7 +2,7 @@ malus_type:
   font: Montserrat Bold 15
   x: 10mm
   y: 10mm
-  width: 47mm
+  width: 48mm
   height: 8mm
   align: 'center'
   valign: 'middle'
@@ -11,7 +11,7 @@ malus_text:
   font: Montserrat weight=600 11
   x: 10mm
   y: 18mm
-  width: 47mm
+  width: 48mm
   height: 65mm
   valign: 'middle'
   markup: true
