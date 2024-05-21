@@ -4,7 +4,7 @@ text,type,image
 "On appelle <b>résidus miniers</b> les déchets (solides ou liquides) produits lors du traitement du minerai, par exemple pour fabriquer le métal.",3,"empty"
 " ",4,"Antamina_Mine_Tailings_Pond"
 "Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues. Les <b>ruptures de digues</b> sont une des causes de catastrophes environnementales liées aux mines.",5,"empty"
-"<b>Ressources</b> vs <b>réserves</b>\n\n- On appelle <b>ressources</b> la quantité estimée d'un métal (ou autre minéral et combustible) dans la croûte terrestre.\n\n- On appelle <b>réserves</b> les ressources qui sont actuellement exploitables.",Définition,"empty"
+<b>Ressources</b> vs <b>réserves</b>\n\n- On appelle <b>ressources</b> la quantité estimée d'un métal (ou autre minéral et combustible) dans la croûte terrestre.\n\n- On appelle <b>réserves</b> les ressources qui sont actuellement exploitables.,Définition,"empty"
 "La <b>teneur en métal d’un minerai</b> est la proportion de métal contenue dans ce minerai.",Définition,"empty"
 "Un <b>métal</b> est soit l’un des éléments du système périodique, soit un alliage de plusieurs éléments. Par contre, tous les éléments chimiques ne sont pas des métaux (ex. l'oxygène).",Définition,"empty"
 "Un <b>minéral</b> est une substance inorganique (par opposition au végétal) caractérisée par sa composition chimique et une structure cristalline.",Définition,"empty"

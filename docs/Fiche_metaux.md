@@ -16,11 +16,11 @@ Cependant, les méthodes d'extraction et de séparation des métaux en général
 
 ## Des métaux précieux
 
-Ce sont des métaux rares, c'est-à-dire peu abondants dans la croûte terrestre, et de grande valeur monétaire. La notion de métal précieux a varié au cours de l'histoire, essentiellement en fonction de l'offre et de la demande. Aujourd'hui *l'or, l'argent, le platine et le palladium * sont considérés comme précieux; ils entrent dans la compostion d'un smartphone, mais en très petite quantité : environ 0,5 % de la totalité des métaux.
+Ce sont des métaux rares, c'est-à-dire peu abondants dans la croûte terrestre, et de grande valeur monétaire. La notion de métal précieux a varié au cours de l'histoire, essentiellement en fonction de l'offre et de la demande. Aujourd'hui *l'or, l'argent, le platine et le palladium* sont considérés comme précieux; ils entrent dans la compostion d'un smartphone, mais en très petite quantité : environ 0,5 % de la totalité des métaux.
 
 Dans le monde de l’électronique, l’or est utilisé principalement pour les propriétés anti-oxydantes (ne rouille pas), de conductibilité de l’électricité sur les cartes électroniques et parce qu’il est très facile à travailler (on dit qu’il est ductile). Le palladium protège les circuits électroniques contre la corrosion.
 
-Aujourd’hui,  il y a plus d’or dans une tonne de déchets de cartes électroniques que dans une tonne de minerai d’or ! Une tonne de minerais d’or contient entre 1 g et 10 g d’or selon la mine. Comme les métaux communs, les métaux précieux ont pour la plupart un bon taux de recyclage : environ 50%.
+Aujourd’hui, il y a plus d’or dans une tonne de déchets de cartes électroniques que dans une tonne de minerai d’or ! Une tonne de minerais d’or contient entre 1 g et 10 g d’or selon la mine. Comme les métaux communs, les métaux précieux ont pour la plupart un bon taux de recyclage : environ 50%.
 
 ## D'autres métaux rares  
 

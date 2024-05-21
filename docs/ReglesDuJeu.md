@@ -86,6 +86,8 @@ Le premier joueur désigné prend la carte "premier joueur"
 - On lit le contenu de la carte et on fait l'action qui est décrite.
 - Le joueur suivant devient le premier joueur du tour suivant (sens des aiguilles d'une montre). Il récupère la carte "Premier joueur"
 
+Règle facultative : suite à l'action décrite dans l'événement, s'il y a au moins 4 cartes ressources identiques parmi les cartes visibles, les joueurs ont la possibilité de toutes les remplacer (les anciennes sont mises de côté). Mais en contrepartie, on enlève 3 cartes malus de la pioche. Tous les joueurs doivent être d'accord (attention, quand il n'y a plus de cartes malus, la partie s'arrête !). S'il y a à nouveau 4 cartes ressource identiques, tant pis, la partie continue.  
+
 ### Qui commence à faire l'action désignée par la carte événement
 - Certains événements désignés par le signe '*' nécessitent de départager les joueurs pour savoir qui commence.
 - Dans ce cas, on privilégie celui qui a le plus de cartes recyclage, puis le moins de cartes malus, puis celui qui répond juste au Quiz ([Lien vers les questions](Questions.md)).
@@ -101,6 +103,7 @@ La partie s'arrête quand :
 Le gagnant est celui qui a le plus de points. On compte les points en fonction :  
 
 - des composants construits de votre téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
+- +2 points pour celui qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées). En cas d'égalité, +2 points pour tous.
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
 
 En cas d'égalité, le gagnant est celui qui a le plus de cartes recyclées, puis le moins de cartes PolluPlus, puis le moins de cartes PolluMoins.
