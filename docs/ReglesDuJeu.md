@@ -32,7 +32,7 @@ suivants dans le jeu :
 Le but du jeu est de rassembler assez de ressources pour construire tous les composants de votre smartphone.
 
 Cependant, l'acquisition des ressources peut s'accompagner de malus qui auront des conséquences dans la suite du jeu.
-Les textes des cartes malus sont lues quand elles sont tirées, éventuellement une sur deux si c'est trop long. À la fin de ces textes, un numéro indique la source à consulter pour en savoir plus ([Lien vers les sources](Sources.md)).
+Les textes des cartes malus sont lues quand elles sont tirées. À la fin de ces textes, un numéro indique la source à consulter pour en savoir plus ([Lien vers les sources](Sources.md)).
 
 [Detail du matériel si besoin](./Materiel.md)
 
