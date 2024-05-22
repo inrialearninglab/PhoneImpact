@@ -85,7 +85,8 @@ Le premier joueur désigné prend la carte "premier joueur"
 - Elle est valable pour tous les joueurs.
 - On lit le contenu de la carte et on fait l'action qui est décrite.
 - Le joueur suivant devient le premier joueur du tour suivant (sens des aiguilles d'une montre). Il récupère la carte "Premier joueur"
-- Quand il y a au moins 4 cartes ressources identiques parmi les cartes visibles, les joueurs ont la possibilité de toutes les remplacer contre 3 malus à défausser.
+
+Règle facultative : suite à l'action décrite dans l'événement, s'il y a au moins 4 cartes ressources identiques parmi les cartes visibles, les joueurs ont la possibilité de toutes les remplacer (les anciennes sont mises de côté). Mais en contrepartie, on enlève 3 cartes malus de la pioche. Tous les joueurs doivent être d'accord (attention, quand il n'y a plus de cartes malus, la partie s'arrête !). S'il y a à nouveau 4 cartes ressource identiques, tant pis, la partie continue.  
 
 ### Qui commence à faire l'action désignée par la carte événement
 - Certains événements désignés par le signe '*' nécessitent de départager les joueurs pour savoir qui commence.
