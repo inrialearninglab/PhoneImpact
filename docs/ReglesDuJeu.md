@@ -32,7 +32,7 @@ suivants dans le jeu :
 Le but du jeu est de rassembler assez de ressources pour construire tous les composants de votre smartphone.
 
 Cependant, l'acquisition des ressources peut s'accompagner de malus qui auront des conséquences dans la suite du jeu.
-Les textes des cartes malus sont lues quand elles sont tirées. À la fin de ces textes, un numéro indique la source à consulter pour en savoir plus ([Lien vers les sources](Sources.md)).
+Les textes des cartes malus sont lues quand elles sont tirées.
 
 [Detail du matériel si besoin](./Materiel.md)
 
@@ -45,26 +45,25 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
 - Vous approvisionner : choisir un fournisseur et prendre le nombre de cartes ressources (visibles ou en haut du tas) et malus correspondant :
 
     - **PolluPlus** qui fait du minage classique polluant non responsable
-    > ce qui vous permet d'obtenir 3 cartes ressources
-    > mais par contre 2 malus
+    > ce qui vous permet d'obtenir 3 cartes ressources.
+    > mais par contre 2 cartes malus.
 
     - **PolluMoins** qui fait du minage avec des efforts
-    > ce qui vous permet d'obtenir 2 cartes ressources
-    > mais par contre 1 malus
+    > ce qui vous permet d'obtenir 2 cartes ressources.
+    > mais par contre 1 carte malus.
 
     - **Recyclage** spécialisé dans le recyclage (comme son nom l'indique),
-    > ce qui vous permet d'obtenir 1 carte ressource
+    > ce qui vous permet d'obtenir 1 carte ressource.
     > Pas de malus mais à savoir que dans cette pioche il n'y a ni terres rares, ni métaux
     rares.
-    > vous ne pourrez pas perdre cette carte durant la partie
+    > vous ne pourrez pas perdre cette carte durant la partie.
 
-    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n'importe quelle 
-    carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
+    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n'importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour.
+    Dans le cas où il y a 5 cartes ressources identiques parmis les cartes visibles alors defausser les 6 cartes ressources visibles et 3 malus de la pioche qui sont lues.
 
 - Fabriquer un composant : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué.
 
 - Dépolluer : se défausser de 1 à 2 cartes malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
-
 
 En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
@@ -74,23 +73,18 @@ En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
 Pour déterminer qui commence :
 
-- Celui ou celle qui a le smartphone le plus vieux commence.
-- Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux.
 - Celui qui n'a pas de smartphone commence !
-
-Le premier joueur désigné prend la carte "premier joueur"
+- Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux.
+- Celui ou celle qui a le smartphone le plus vieux commence.
 
 ### Après chaque tour de table, on tire une carte événement
 
 - Elle est valable pour tous les joueurs.
 - On lit le contenu de la carte et on fait l'action qui est décrite.
-- Le joueur suivant devient le premier joueur du tour suivant (sens des aiguilles d'une montre). Il récupère la carte "Premier joueur"
-
-Règle facultative : suite à l'action décrite dans l'événement, s'il y a au moins 4 cartes ressources identiques parmi les cartes visibles, les joueurs ont la possibilité de toutes les remplacer (les anciennes sont mises de côté). Mais en contrepartie, on enlève 3 cartes malus de la pioche. Tous les joueurs doivent être d'accord (attention, quand il n'y a plus de cartes malus, la partie s'arrête !). S'il y a à nouveau 4 cartes ressource identiques, tant pis, la partie continue.  
 
 ### Qui commence à faire l'action désignée par la carte événement
 - Certains événements désignés par le signe '*' nécessitent de départager les joueurs pour savoir qui commence.
-- Dans ce cas, on privilégie celui qui a le plus de cartes recyclage, puis le moins de cartes malus, puis celui qui répond juste au Quiz ([Lien vers les questions](Questions.md)).
+- Dans ce cas, on privilégie celui qui a le plus de cartes Recyclage, puis le moins de cartes malus.
 
 ### Conditions de fin de partie 
 La partie s'arrête quand :
@@ -105,8 +99,6 @@ Le gagnant est celui qui a le plus de points. On compte les points en fonction :
 - des composants construits de votre téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - +2 points pour celui qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées). En cas d'égalité, +2 points pour tous.
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
-
-En cas d'égalité, le gagnant est celui qui a le plus de cartes recyclées, puis le moins de cartes PolluPlus, puis le moins de cartes PolluMoins.
 
 ## Adaptation des règles pour une partie en 20'                                      
 - On ne garde que les événements : 1 ; 5 ; 6 ; 7 ; 13 ;
