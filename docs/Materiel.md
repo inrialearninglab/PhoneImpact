@@ -56,5 +56,3 @@ Elles peuvent être de type :
 - Catastrophe
 - Conflit
 - Pollution
-
-À chaque malus correspond une illustration ou un texte qui doit être lus par les joueurs quand ils tirent une de ces cartes. À la fin du texte, une référence permet de retrouver la source du texte.
