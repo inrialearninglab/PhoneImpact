@@ -7,6 +7,7 @@ cards = {
   'color' => [],
   'illu' => [],
   'nb_players' => [],
+  'index' => []
 }
 
 index = 0
@@ -24,6 +25,7 @@ CSV.foreach('data/csv/malus.csv', headers: true) do |row|
       cards['color'] << black
       cards['illu'] << 'data/images/malus_img/empty.png'
       cards['nb_players'] << ''
+      cards['index'] << ''
     end
 
     index = 0
@@ -35,7 +37,7 @@ CSV.foreach('data/csv/malus.csv', headers: true) do |row|
   if row['index'] == 'nil'
     nb_players = ''
   elsif row['index'].to_i <= ordered_cards
-    nb_players = row['index'].concat('/').concat(ordered_cards.to_s)
+    nb_players = row['index'] + '/' + ordered_cards.to_s
   elsif row['index'].to_i <= 36
     nb_players = '3+'
   elsif row['index'].to_i <= 48
@@ -45,6 +47,7 @@ CSV.foreach('data/csv/malus.csv', headers: true) do |row|
   end
 
 
+  id = row['index'] != 'nil' ? row['index'] : ''
 
   cards['type'] << row['type']
   cards['text'] << row['text'].gsub('\n', "\n")
@@ -52,6 +55,7 @@ CSV.foreach('data/csv/malus.csv', headers: true) do |row|
   cards['color'] << black
   cards['illu'] << 'data/images/malus_img/' + row['image'] + '.png'
   cards['nb_players'] << nb_players
+  cards['index'] << id
 
   index += 1
 end
@@ -65,6 +69,7 @@ if index > 0
     cards['image'] << 'data/images/back/empty.png'
     cards['illu'] << 'data/images/malus_img/empty.png'
     cards['nb_players'] << ''
+    cards['index'] << ''
   end
 
   index.times do
@@ -72,6 +77,7 @@ if index > 0
     cards['image'] << 'data/images/back/malus_back.png'
     cards['illu'] << 'data/images/malus_img/empty.png'
     cards['nb_players'] << ''
+    cards['index'] << ''
   end
 end
 
@@ -86,6 +92,7 @@ Squib::Deck.new cards: cards['text'].size, layout: ['layouts/malus.yml', 'layout
   png file: cards['illu'], layout: 'malus_illu'
 
   text str: cards['nb_players'], layout: 'malus_nb_players'
+  text str: cards['index'], layout: 'malus_index'
 
   save_pdf file: 'malus.pdf', dir: '_output/pnp', sprue: 'sprues/pnp.yml'
 end

@@ -30,3 +30,9 @@ malus_nb_players:
   y: 80mm
   width: 47mm
   align: 'right'
+
+malus_index:
+  extends: malus_nb_players
+  align: 'left'
+  font: Montserrat weight=400 7
+  y: 82mm
