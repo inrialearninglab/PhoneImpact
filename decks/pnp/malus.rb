@@ -29,10 +29,13 @@ CSV.foreach('data/csv/malus.csv', headers: true) do |row|
     index = 0
   end
 
-  type = (row['index'] != 'nil' ) ? row['index'].concat('. ').concat(row['type']) : row['type']
+  # Number of ordered cards at the top of the malus deck
+  ordered_cards = 6
 
   if row['index'] == 'nil'
     nb_players = ''
+  elsif row['index'].to_i <= ordered_cards
+    nb_players = row['index'].concat('/').concat(ordered_cards.to_s)
   elsif row['index'].to_i <= 36
     nb_players = '3+'
   elsif row['index'].to_i <= 48
@@ -43,7 +46,7 @@ CSV.foreach('data/csv/malus.csv', headers: true) do |row|
 
 
 
-  cards['type'] << type
+  cards['type'] << row['type']
   cards['text'] << row['text'].gsub('\n', "\n")
   cards['image'] << 'data/images/border/malus_border.png'
   cards['color'] << black
