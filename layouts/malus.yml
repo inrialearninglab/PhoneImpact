@@ -23,3 +23,10 @@ malus_illu:
   height: :scale
   align: 'center'
   valign: 'middle'
+
+malus_nb_players:
+  font: Montserrat weight=600 11
+  x: 10mm
+  y: 80mm
+  width: 47mm
+  align: 'right'
