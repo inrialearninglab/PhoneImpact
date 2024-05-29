@@ -80,7 +80,8 @@ Pour déterminer qui commence :
 ### Après chaque tour de table, on tire une carte événement
 
 - Elle est valable pour tous les joueurs.
-- On lit le contenu de la carte et on fait l'action qui est décrite.
+- On lit le contenu de la carte et on effectue l'action qui est décrite, en commençant par le premier joueur puis dans le sens horaire, sauf contre-indication.
+- Si des cartes ressources visibles sont piochées, elles sont remplacées à la fin de l'événement, une fois que tous les joueurs ont effectué leur action.
 
 ### Qui commence à faire l'action désignée par la carte événement
 - Certains événements désignés par le signe '*' nécessitent de départager les joueurs pour savoir qui commence.

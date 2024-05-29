@@ -2,7 +2,7 @@ text,type,image,index
 "-<b>Pollution</b> (4/5/6)\n\n-<b>Catastrophe</b> (3/4/5)\n\n-<b>Tensions</b> (1/1/2)\n\n-<b>Conflits</b> (4/5/5)\n\n-<b>En France</b> (1/2/4)\n\n-<b>Géographie</b> (4/7/8)",Catégories,"empty",nil
 "-<b>Définition</b> (1/2/3)\n\n-<b>Pour info</b> (3/5/8)\n\n-<b>Traitement</b> (2/2/2)\n\n-<b>En image</b> (4/4/4)\n\n-<b>Recyclage</b> (3/5/7)\n\n-<b>Dépollution</b> (1/1/1)",Catégories,"empty",nil
 "Un <b>minerai</b> est une roche qu’on extrait pour obtenir, après plusieurs étapes de traitement, des métaux ou d’autres minéraux utiles.",Définition,"empty",1
-"On appelle <b>stériles miniers</b> les roches qu'on n'exploite pas mais qu’il faut extraire pour accéder au minerai.",!!!Définition,"empty",2
+"On appelle <b>stériles miniers</b> les roches qu’il faut extraire pour accéder au minerai.",!!!Définition,"empty",2
 "On appelle <b>résidus miniers</b> les déchets (solides ou liquides) produits lors du traitement du minerai.",Définition,"empty",3
 " ",En image,"Antamina_Mine_Tailings_Pond",4
 "Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues. \n\nLes <b>ruptures de digues</b> sont une des causes de catastrophes liées aux mines.",Pour info,"empty",5
@@ -33,14 +33,14 @@ text,type,image,index
 "Rupture du barrage de Brumadinho, Brésil, 2019, TV NBR, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",En image,"Resumo_da_agenda_do_Presidente",30
 "Une fois le minerai extrait, il est concassé, broyé puis trié pour isoler les minéraux recherchés.\n\nC'est une étape qui consomme beaucoup d'énergie et d'eau.",Traitement,"empty",31
 "Une fois réduit en poudre, le minerai subit différents traitements physiques et chimiques pour produire le métal.",Traitement,"empty",32
-"A VOIR SOPHIE Les métaux communs (cuivre, plomb, fer, aluminium...) et les métaux précieux (or, argent, platine...) sont recyclés à plus de 50%.",Recyclage,"empty",33
+"A VOIR SOPHIE Les métaux communs (cuivre, plomb, fer, aluminium...) et les métaux précieux (or, argent, platine...) sont recyclés à plus de 50%.",!!!Recyclage,"empty",33
 "Le recyclage des cartes électroniques nécessite des technologies de pointe et des infrastructures très coûteuses.",Recyclage,"empty",34
 "Les métaux rares non précieux et les terres rares ne sont quasiment pas recyclés.",Recyclage,"empty",35
-"A VOIR SOPHIE Pour stopper (ou éviter) la pollution aux métaux lourds causée par le drainage minier acide, il faut empêcher l’oxydation des déchets miniers (stériles et résidus).",Dépollution,"empty",36
+"A VOIR SOPHIE Pour stopper (ou éviter) la pollution aux métaux lourds causée par le drainage minier acide, il faut empêcher l’oxydation des déchets miniers (stériles et résidus).",!!!Dépollution,"empty",36
 "<b>Belgique, 2020</b>. À cause des poussières émises par une usine de recyclage de métaux, les enfants de ce quartier présentent des taux de plomb dans le sang considérés comme dangereux.",Pollution,"empty",37
 "<b>Brésil, 2019</b>. Rupture d'un barrage de résidus d’une mine de fer, causant 243 morts, 27 disparus et des centaines de blessés.\n\nL'exploitant versera près de 6 milliards d’euros de dommages.",Catastrophe,"empty",38
-"L’industrie minière est la première cause dans le monde de <b>conflits environnementaux</b>.\n\nEn 2019, 50 défenseurs de l'environnement ont été assassinés dans des conflits liés à l'industrie minière.",!!!Conflits,"empty",39
-"Plusieurs projets d'ouverture de mines sont actuellement à l'étude ou en cours en France, pour exploiter lithium, or, cuivre, argent, zinc, étain...",!!!En France,"empty",40
+"L’industrie minière est la première cause dans le monde de <b>conflits environnementaux</b>.\n\nEn 2019, 50 défenseurs de l'environnement ont été assassinés dans des conflits liés à l'industrie minière.",Conflits,"empty",39
+"Plusieurs projets d'ouverture de mines sont actuellement à l'étude ou en cours en France, pour exploiter or, cuivre, étain...",!!!En France,"empty",40
 "En 2022, la <b>République du Congo</b> représentait 68% de la production mondiale de <b>cobalt</b>.\n\nOn trouve du cobalt dans la carte mère et la batterie des smartphones.",Géographie,"empty",41
 "En 2022, l'<b>Afrique du Sud</b> représentait 74% de la production mondiale de <b>platine</b>.\n\nOn trouve du platine dans la carte mère des smartphones.",Géographie,"empty",42
 "En 2022, la <b>Chine</b> assurait 70% de la production mondiale de <b>terres rares</b>, contre 98% en 2010.\n\nOn trouve des terres rares dans la carte mère et l'écran des smartphones.",Géographie,"empty",43
