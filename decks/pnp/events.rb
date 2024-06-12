@@ -1,4 +1,5 @@
 require 'squib'
+require_relative '../utils/pos_map'
 
 cards = {
   'type' => [],
@@ -38,11 +39,15 @@ if index > 0
     cards['image'] << 'data/images/back/empty.png'
   end
 
-  index.times do
+  (1..cards_per_sheet).each { |i|
     cards['type'] << ''
     cards['text'] << ''
-    cards['image'] << 'data/images/back/event_back.png'
-  end
+    if PosMap.map[i] > index
+      cards['image'] << 'data/images/back/empty.png'
+    else
+      cards['image'] << 'data/images/back/event_back.png'
+    end
+  }
 end
 
 Squib::Deck.new cards: cards['type'].size, layout: ['layouts/events.yml', 'layouts/common.yml'] do

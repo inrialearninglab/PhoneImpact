@@ -1,4 +1,5 @@
 require 'squib'
+require_relative '../utils/pos_map'
 
 resources_text = []
 CSV.foreach('data/csv/resources_text.csv', headers: true) do |row|
@@ -76,13 +77,18 @@ if index > 0
     pollumoins['icon'] << 'data/images/icons/empty.png'
   end
 
-  index.times do
+  (1..cards_per_sheet).each { |i|
     pollumoins['type'] << ''
     pollumoins['name'] << ''
     pollumoins['examples'] << ''
-    pollumoins['image'] << 'data/images/back/pollumoins_back.png'
     pollumoins['icon'] << 'data/images/icons/empty.png'
-  end
+
+    if PosMap.map[i] > index
+      pollumoins['image'] << 'data/images/back/empty.png'
+    else
+      pollumoins['image'] << 'data/images/back/pollumoins_back.png'
+    end
+  }
 end
 
 Squib::Deck.new(cards: pollumoins['name'].size, layout: ['layouts/resources.yml', 'layouts/common.yml']) do
