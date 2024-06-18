@@ -58,7 +58,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
     rares.
     > vous ne pourrez pas perdre cette carte durant la partie.
 
-    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n'importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour.
+    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n'importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Les cartes ressources sont à garder en main et à cacher des autres joueurs. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
     Dans le cas où il y a 5 cartes ressources identiques parmis les cartes visibles alors defausser les 6 cartes ressources visibles et 3 malus de la pioche qui sont lues.
 
 - Fabriquer un composant : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué.
