@@ -10,8 +10,8 @@ attention, ces choix auront des conséquences.
 Vous avez chacun un plateau smartphone composé de : l'écran tactile
 (dalle et vitre), la batterie, la coque, la carte mère.
 
-Chaque composant est constitué de ressources qui apparaissent sur la
-carte. Ces ressources sont désignées par des types de ressources qui sont les
+Chaque composant est constitué de ressources qui apparaissent sur le
+plateau. Ces ressources sont désignées par des types de ressources qui sont les
 suivants dans le jeu :
 
 -   **Métal précieux** mais aussi rare, stratégique donc cher comme l'Or, l'argent, le platine, le palladium...
