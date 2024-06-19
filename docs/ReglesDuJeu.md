@@ -8,7 +8,8 @@ environnemental. Vous aurez des choix à faire tout au long du jeu mais
 attention, ces choix auront des conséquences.
 
 Vous avez chacun un plateau smartphone composé de : l'écran tactile
-(dalle et vitre), la batterie, la coque, la carte mère.
+(dalle et vitre), la batterie, la coque (et ses connectiques), la carte mère.
+**Par soucis de simplification, la carte mère désigne l'ensemble des composants électroniques associés : processeur, mémoire vive, disque dur, haut-parleur, microphone, caméras, antenne...**
 
 Chaque composant est constitué de ressources qui apparaissent sur le
 plateau. Ces ressources sont désignées par des types de ressources qui sont les
