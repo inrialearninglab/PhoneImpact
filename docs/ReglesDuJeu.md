@@ -69,14 +69,6 @@ En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
 ![Recap des règles](img/AideDeJeu.jpeg){ width="300" }
 
-### Qui commence ?
-
-Pour déterminer qui commence :
-
-- Celui qui n'a pas de smartphone commence !
-- Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux.
-- Celui ou celle qui a le smartphone le plus vieux commence.
-
 ### Après chaque tour de table, on tire une carte événement
 
 - Elle est valable pour tous les joueurs.
@@ -101,6 +93,14 @@ Le gagnant est celui qui a le plus de points. On compte les points en fonction :
 - des composants construits de votre téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - +2 points pour celui qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées). En cas d'égalité, +2 points pour tous.
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
+
+### Qui commence ?
+
+Pour déterminer qui commence :
+
+- Celui qui n'a pas de smartphone commence !
+- Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux.
+- Celui ou celle qui a le smartphone le plus vieux commence.
 
 ## Adaptation des règles pour une partie en 20'                                      
 - On ne garde que les événements : 1 ; 5 ; 6 ; 7 ; 13 ;
