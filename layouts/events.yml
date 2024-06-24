@@ -13,7 +13,14 @@ event_text:
   font: Montserrat weight=600 9
   spacing: 2
   x: 10mm
-  y: 20mm
+  y: 23mm
   width: 48mm
   height: 65mm
-  valign: middle
+
+event_illu:
+  x: 18.5mm
+  y: 50mm
+  height: 30mm
+  width: 30mm
+  align: center
+  valign: end
