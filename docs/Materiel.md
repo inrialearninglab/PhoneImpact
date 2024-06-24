@@ -20,17 +20,17 @@ Les **ressources** sont désignées par des types de ressources qui sont les sui
 - Autre matière : Plastique, verre, céramique, matières synthétiques, etc... (40 à 70% du poids)
 
 
-### 141 Cartes *Ressources*
+### 138 Cartes *Ressources*
 Il existe 3 types de ressources qui correspondent à 3 tas de cartes :
 
-| Type de resssources| PollusPlus | PolluMoins | Recyclage |
-| -------- | -------- | -------- | -------- |
-| Métaux communs | 26     | 15     | 6 |
-| Métaux rares | 16     | 10     | 0 |
-| Autres Matières | 22     |  17   | 9 |
-| Métaux précieux | 3     |   2   | 2 |
-| Terres rares | 8     |    5  | 0 |
-| **Somme** | 75 |   49   | 17 |
+| Type de resssources| PollusPlus | PolluMoins | Recyclage | Total |
+| -------- |------------|------------|-----------|-----------|
+| Métaux communs | 20         | 10         | 6         |36|
+| Métaux rares | 20         | 10         | 0         |30|
+| Terres rares | 8          | 4          | 0         |12|
+| Métaux précieux | 6          | 4          | 2         |12|
+| Autres Matières | 27         | 14         | 7         |48|
+| **Somme** | 81         | 42         | 15        |138|
 
 
 **Précision importante** : le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
