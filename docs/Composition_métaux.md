@@ -2,6 +2,7 @@
 
 ## Rappel : abstration nécessaire au jeu
 Par soucis de simplification et pour fluidifier le jeu, le smartphone a été décomposé en 4 élements : 
+
 - l'écran tactile (dalle et vitre)
 - la batterie
 - la coque et l'ensemble de ses boutons et connectiques)
