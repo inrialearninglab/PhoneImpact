@@ -1,61 +1,63 @@
-text,type,image
-"Un <b>minerai</b> est une roche qu’on extrait pour en obtenir des métaux ou d’autres ressources minérales (ex. sel, soufre...) ou énergétiques (ex. charbon...) utiles.",1,"empty"
-"On appelle <b>stériles miniers</b> les matériaux (terre, sable, roche...) qu’il faut extraire pour accéder au minerai (c'est-à-dire à la roche économiquement exploitable).",2,"empty"
-"On appelle <b>résidus miniers</b> les déchets (solides ou liquides) produits lors du traitement du minerai, par exemple pour fabriquer le métal.",3,"empty"
-" ",4,"Antamina_Mine_Tailings_Pond"
-"Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues. Les <b>ruptures de digues</b> sont une des causes de catastrophes environnementales liées aux mines.",5,"empty"
-<b>Ressources</b> vs <b>réserves</b>\n\n- On appelle <b>ressources</b> la quantité estimée d'un métal (ou autre minéral et combustible) dans la croûte terrestre.\n\n- On appelle <b>réserves</b> les ressources qui sont actuellement exploitables.,Définition,"empty"
-"La <b>teneur en métal d’un minerai</b> est la proportion de métal contenue dans ce minerai.",Définition,"empty"
-"Un <b>métal</b> est soit l’un des éléments du système périodique, soit un alliage de plusieurs éléments. Par contre, tous les éléments chimiques ne sont pas des métaux (ex. l'oxygène).",Définition,"empty"
-"Un <b>minéral</b> est une substance inorganique (par opposition au végétal) caractérisée par sa composition chimique et une structure cristalline.",Définition,"empty"
-"On exploite souvent plusieurs métaux dans une mine (ex. cuivre et zinc). Si tous ont une valeur économique similaire, on parle de <b>co-produits</b>.",Définition,"empty"
-"De nombreux métaux du numérique sont des <b>sous</b>-<b>produits</b>, c'est-à-dire qu'ils sont récupérés lors du traitement d'autres métaux. Par exemple, le gallium est un sous-produit de l'aluminium.",Pour info,"empty"
-"Un <b>terril</b> est une colline artificielle formée par l'accumulation de stériles ou de résidus issus de l’exploitation d'une mine.",Définition,"empty"
-"Les <b>terres rares</b> (à ne pas confondre avec les métaux rares !) sont des métaux qui, contrairement à ce que suggère leur nom, sont assez abondants dans la croûte terrestre mais généralement en très faible concentration.",Pour info,"empty"
-"La <b>bauxite</b> est le principal minerai qui permet de produire l’<b>aluminium</b> et le <b>gallium</b>. Les trois plus gros pays producteurs sont l'<b>Australie</b>, la <b>Chine</b> et la <b>Guinée</b>.",Pour info,"empty"
-"Le <b>coltan</b> est un minerai qui permet de produire le niobium et le tantale.",Pour info,"empty"
-"Même s'il existe de nombreuses mines <b>sous-terraines</b>, la majorité des mines actuelles sont exploitées à <b>ciel ouvert</b>.",Pour info,"empty"
-"L’extraction minière est une activité qui nécessite de grandes quantités d’eau, principalement pour les phases de broyage et de concentration du minerai.",Pour info,"empty"
-"En France, c'est le <b>code minier</b> qui définit la distinction entre mines et carrières, selon la nature plus ou moins stratégique et précieuse du matériau extrait.",Pour info,"empty"
-"<b>El Estor, Guatemala</b>. Depuis des décennies, les populations locales luttent contre la réouverture d'une mine de nickel qu'ils accusent de pollution des eaux et des sols à cause des poussières de la mine, mais aussi d'accaparement du territoire.",Conflit,"empty"
-"<b>Panguna, Papouasie Nouvelle-Guinée</b>. En 1989, le conflit environnemental et social autour de cette mine de cuivre et d'or se transforme en une guerre civile qui fera environ 20.000 morts en une décennie.",Conflit,"empty"
-"Les <b>besoins en eau</b> pour la production de cuivre au Pérou et de lithium en Argentine, au Chili et en Bolivie entrent en conflit avec les besoins des populations locales.",Conflits,"empty"
-"Étain, tantale, or et tungstène sont appelés <b>minerais de conflits</b>, ou <b>minerais de sang</b>, car leur exploitation est au coeur de conflits, comme en République Démocratique du Congo.",Conflits,"empty"
-"L’industrie minière est la première cause de <b>conflits environnementaux</b> dans le monde, c'est-à-dire de conflits sociaux qui émergent face à une menace pour l'environnement.",Conflits,"empty"
-"Environ 70% des exploitations minières des six plus grandes compagnies se situent dans des pays en situation de <b>stress hydrique</b>, où les besoins en eau dépassent les ressources disponibles.",Tensions,"empty"
-"En 2022, la Chine est le principal producteur de terres rares (70%) et d'autres métaux comme le tungstène (85%), le gallium (98%)... Cela représente des enjeux géopolitiques majeurs.",Tensions,"empty"
-"Les déchets miniers (stériles et résidus) contiennent souvent des métaux lourds naturellement présents dans les gisements mais non exploités: plomb, mercure, cadmium, arsenic...",Pollution,"empty"
-"Les mines d’or contiennent souvent naturellement du mercure et de l’arsenic.",Pollution,"empty"
-"Les mines de zinc contiennent souvent naturellement du mercure, de l’arsenic et du plomb.",Pollution,"empty"
-"Les déchets miniers (stériles et résidus) contiennent souvent du soufre, qui réagit chimiquement à l’air et à l’eau. La solution acide produite draine en s'écoulant d'autres polluants (plomb, arsenic...) présents dans les résidus.",Pollution,"empty"
-"Les produits chimiques utilisés pendant la phase de concentration du minerai (par exemple le cyanure pour l’or, ou l’acide sulfurique pour le cuivre) se retrouvent dans les résidus miniers.",Pollution,"empty"
-"<b>Hoboken, Belgique, 2020</b>. À cause des particules fines émises par une usine de recyclage de métaux, les enfants du quartier présentent des taux de plomb dans le sang qui dépassent le seuil de dangerosité.",Pollution,"empty"
-"<b>Baia Mare, Roumanie, 2000</b>. Rupture de digue près d'une usine de traitement des stériles. Les polluants (dont 115 tonnes de cyanure) détruisent la quasi-totalité de la faune et de la flore de la rivière Tisza sur près de 600 km.",Catastrophe,"empty"
-"<b>Ajka, Hongrie, 2010</b>. Rupture de digue près d'une usine d'aluminium. Une boue rouge fortement alcaline inonde plusieurs villages, causant 10 morts et 286 blessés. Il s'agit de la pire catastrophe industrielle qu’ait connue la Hongrie.",Catastrophe,"empty"
-"<b>Mariana, Brésil, 2015</b>. Rupture d'un barrage de résidus près d’une mine de fer, qualifiée par le gouvernement de 'plus grande catastrophe environnementale de ce pays'. La pollution s’étend durablement jusqu’à l’océan Atlantique à 650 km.",Catastrophe,"empty"
-"<b>Mount Polley, Canada, 2014</b>. Rupture de barrage près d’une mine de cuivre et d’or. Des résidus miniers, contenant entre autres des centaines de tonnes de plomb et d'arsenic, se déversent dans les lacs Polley et Quesnel.",Catastrophe,"empty"
-"<b>Brumadinho, Brésil, 2019</b>. Rupture d'un barrage de résidus d’une mine de fer, causant 243 morts, 27 disparus et des centaines de blessés. L’exploitant versera près de 6 milliards d’euros de dommages sociaux et environnementaux.",Catastrophe,"empty"
-"Pour stopper (ou éviter) la pollution aux métaux lourds causée par le drainage minier acide, il faut empêcher l’oxydation des déchets miniers (stériles et résidus).",Dépollution,"empty"
- ,En image,"MineCuivreRoumanie"
-" ",En image,"MineColtanRDC"
-"Camions dans la mine de cuivre de Kennecott aux États-Unis, https://commons.wikimedia.org/w/index.php?curid=28685742",En image,"trucks-cropped"
-"Rupture du barrage de Brumadinho, Brésil, 2019, TV NBR, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",Catastrophe,"Resumo_da_agenda_do_Presidente"
-"Actuellement en France, plusieurs projets d'ouverture de mines sont à l'étude ou en cours.",En France,"empty"
-"L’activité extractive en France a débuté dès le Néolithique et s’est développée au cours de l’Antiquité.",En France,"empty"
-"La France a par le passé occupé une place significative dans la production mondiale de tungstène (Salau et Échassières), d’antimoine (Lucette et Brioude-Massiac), et d’or (Salsigne).",En France,"empty"
-"L'ouverture d'une mine de lithium est prévue d'ici 2027 dans le Massif central. Ce sera l'une des plus grandes d'Europe.",En France,"empty"
-"En 2022, le <b>Brésil</b> représentait 90% de la production mondiale de <b>niobium</b>.",Géographie,"empty"
-"En 2022, la <b>Chine</b> représentait 98% de la production mondiale de <b>gallium</b>.",Géographie,"empty"
-"En 2022, l'<b>Australie</b> représentait 47% de la production mondiale de <b>lithium</b>.",Géographie,"empty"
-"En 2022, l'<b>Indonésie</b> représentait 48% de la production mondiale de <b>nickel</b>.",Géographie,"empty"
-"En 2022, la <b>Russie</b>  représentait 42% de la production mondiale de <b>palladium</b>.",Géographie,"empty"
-"En 2022, l'<b>Afrique du Sud</b> représentait 74% de la production mondiale de <b>platine</b>.",Géographie,"empty"
-"En 2022, la <b>République Démocratique du Congo</b> représentait 68% de la production mondiale de <b>cobalt</b>, et 43% de celle de <b>tantale</b>.",Géographie,"empty"
-"En 2022, la <b>Chine</b> assurait 70% de la production mondiale de <b>terres rares</b>, contre 98% en 2010.",Géographie,"empty"
-"Il existe très peu d'usines capables de recycler une grande diversité des métaux contenus dans une carte électronique, et aucune en France.",Recyclage,"empty"
-"Les principales difficultés techniques liées au recyclage des métaux du numérique sont l’<b>identification</b> de ces métaux par les industriels du recyclage, et leur <b>séparation</b> des autres métaux.",Recyclage,"empty"
-"En France, le recyclage des métaux du numérique est intégré à la gestion des DEEE, les Déchets d'Équipements Électriques et Électroniques.",Recyclage,"empty"
-"Le recyclage des cartes électroniques nécessite des technologies de pointe et des infrastructures très coûteuses (un milliard de dollars par exemple pour l’usine d’Umicore en Belgique).",Recyclage,"empty"
-"Les métaux communs (cuivre, plomb, fer, aluminium...) et les métaux précieux (or, argent, platine...) sont recyclés à plus de 50%.",Recyclage,"empty"
-"Les métaux rares non précieux et les terres rares ne sont quasiment pas recyclés : moins de 1% par exemple pour l’indium, le néodyme, le tantale et le gallium.",Recyclage,"empty"
-"On parle de <b>décyclage</b> lorsque les métaux recyclés ne sont pas suffisamment purs pour être réutilisés pour le même usage, par exemple dans des appareils numériques.",Recyclage,"empty"
+text,type,image,index
+"-<b>Pollution</b> (4/5/6)\n\n-<b>Catastrophe</b> (3/4/5)\n\n-<b>Tensions</b> (1/1/2)\n\n-<b>Conflits</b> (4/5/5)\n\n-<b>En France</b> (1/2/4)\n\n-<b>Géographie</b> (4/7/8)",Catégories,"empty",nil
+"-<b>Définition</b> (1/2/3)\n\n-<b>Pour info</b> (3/5/8)\n\n-<b>Traitement</b> (2/2/2)\n\n-<b>En image</b> (4/4/4)\n\n-<b>Recyclage</b> (3/5/7)\n\n-<b>Dépollution</b> (1/1/1)",Catégories,"empty",nil
+"Un <b>minerai</b> est une roche qu’on extrait pour obtenir, après plusieurs étapes de traitement, des métaux ou d’autres minéraux utiles.",Définition,"empty",1
+"On appelle <b>stériles miniers</b> les roches qu’il faut extraire pour accéder au minerai.",Définition,"empty",2
+"On appelle <b>résidus miniers</b> les déchets (solides ou liquides) produits lors du traitement du minerai.",Définition,"empty",3
+" ",En image,"Antamina_Mine_Tailings_Pond",4
+"Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues. \n\nLes <b>ruptures de digues</b> sont une des causes de catastrophes liées aux mines.",Pour info,"empty",5
+"Une fois le minerai extrait, il est concassé, broyé puis trié pour isoler les minéraux recherchés.\n\nC'est une étape qui consomme beaucoup d'énergie et d'eau, et qui génère des résidus.",Traitement,"empty",6
+"Une fois réduit en poudre, le minerai subit différents traitements physiques et chimiques pour éliminer les impuretés jusqu'à obtenir le métal recherché.", Traitement,"empty",7
+"Les déchets miniers (stériles et résidus) contiennent souvent des métaux lourds naturellement présents dans la mine et qui sont dangereux pour la santé et l'environnement : plomb, mercure, arsenic...",Pour info,"empty",8
+"Les résidus miniers contiennent des produits chimiques dangereux utilisés pendant le traitement du minerai.\n\nOn utilise par exemple du cyanure pour le traitement de l'or.",Pour info,"empty",9
+"L'extraction et les premières étapes de traitement du minerai (concassage et broyage) génèrent des poussières, sources de pollutions majeures des eaux et des sols.",Pollution,"empty",10
+"Les déchets miniers (stériles et résidus) contiennent souvent du soufre, qui réagit chimiquement à l’air et à l’eau, puis avec d'autres polluants (plomb, arsenic...), causant de graves pollutions des eaux.",Pollution,"empty",11
+"<b>Brésil, 2015</b>. Rupture d'un barrage de résidus près d’une mine de fer, qualifiée par le gouvernement de « <i>plus grande catastrophe environnementale de ce pays</i> ». La pollution s'étend durablement jusqu'à l'océan Atlantique à 650 km.",Catastrophe,"empty",12
+"<b>Roumanie, 2000</b>. Rupture de digue près d'une usine de traitement des stériles.\n\nLes polluants (dont 115 tonnes de cyanure) détruisent la quasi-totalité de la faune et de la flore d'une rivière sur près de 600 km.",Catastrophe,"empty",13
+"<b>Canada, 2014</b>. Rupture de barrage près d'une mine de cuivre et d'or.\n\nDes résidus miniers, contenant entre autres des centaines de tonnes de plomb et d'arsenic, se déversent dans les deux lacs.",Catastrophe,"empty",14
+"En 2022, la Chine était le principal producteur de terres rares et d'autres métaux comme le gallium ou le magnésium.\n\nCela représente un enjeu géopolitique majeur.",Tensions,"empty",15
+"Étain, tantale, or et tungstène sont appelés <b>minerais de conflits</b>, ou <b>minerais de sang</b>, car leur exploitation est au coeur de conflits armés, comme en République Démocratique du Congo.",Conflits,"empty",16
+"<b>Guatemala, depuis 2014</b>. Les populations locales luttent contre la réouverture d'une mine de nickel qu'ils accusent de pollutions et d'accaparement du territoire sur lequel elles vivent.", Conflit,"empty",17
+"<b>Papouasie Nouvelle-Guinée, 1989</b>. Le conflit environnemental et social autour d'une mine de cuivre et d'or se transforme en une guerre civile qui fera environ 20.000 morts en 10 ans.",Conflit,"empty",18
+"Les <b>besoins en eau</b> pour la production de cuivre au Pérou et au Chili entrent en conflit avec les besoins des populations locales.\n\nC'est le cas aussi du lithium en Argentine, au Chili et en Bolivie.",Conflits,"empty",19
+"Il y a encore des mines en activité en France : on exploite de l'or en Guyane, du nickel en Nouvelle-Calédonie (6% de la production mondiale en 2022) et de la bauxite vers Montpellier.",En France,"empty",10
+"L'ouverture d'une mine de lithium est prévue d'ici 2027 dans le Massif central. Ce sera l'une des plus grandes d'Europe.",En France,"empty",21
+"En France, des centaines d'anciennes mines n'ont pas été dépolluées lors de leur fermeture.\n\nCertaines causent aujourd'hui encore des pollutions majeures.",L'après-mine,"empty",22
+"Dépolluer est extrêmement long, difficile et coûteux, voire impossible.",L'après-mine,"empty",23
+"La <b>teneur</b> en métal d’un minerai est la proportion de métal contenue dans ce minerai.\n\nPar exemple, la teneur en cuivre d'un minerai est en moyenne autour de 0,6% (6g de cuivre pour 100g de minerai).",Définition,"empty",24
+"Pour satisfaire la demande en métaux on extrait des minerais avec des teneurs de plus en plus faibles.\n\nIl faut donc extraire beaucoup plus de matière pour produire la même quantité de métal.",Pour info,"empty",25
+"Même s'il existe de nombreuses mines <b>sous-terraines</b>, la majorité des mines actuelles sont exploitées à <b>ciel ouvert</b>.",Pour info,"empty",26
+"Les <b>terres rares</b> (à ne pas confondre avec les métaux rares !) sont des métaux assez abondants dans la croûte terrestre mais avec une teneur très faible.",Pour info,"empty",27
+"En 2022, la <b>République du Congo</b> représentait 68% de la production mondiale de <b>cobalt</b>.\n\nOn trouve du cobalt dans la carte mère et la batterie des smartphones.",Géographie,"empty",28
+"En 2022, l'<b>Indonésie</b> représentait 48% de la production mondiale de <b>nickel</b>.\n\nOn trouve du nickel dans la batterie, la carte mère et la coque des smartphones.",Géographie,"empty",29
+"Le recyclage des cartes électroniques nécessite des technologies de pointe et des infrastructures très coûteuses.",Recyclage,"empty",30
+"Les métaux communs (cuivre, plomb, fer, aluminium...) et les métaux précieux (or, argent, platine...) sont recyclés à plus de 50%.",Recyclage,"empty",31
+"Les métaux rares non précieux et les terres rares ne sont quasiment pas recyclés.",Recyclage,"empty",32
+" ",En image,"MineCuivreRoumanie",33
+" ",En image,"MineColtanRDC",34
+"Camions dans la mine de cuivre de Kennecott aux États-Unis, https://commons.wikimedia.org/w/index.php?curid=28685742",En image,"trucks-cropped",35
+"Rupture du barrage de Brumadinho, Brésil, 2019, TV NBR, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",En image,"Resumo_da_agenda_do_Presidente",36
+"On exploite souvent plusieurs métaux dans une mine.\n\nIl existe par exemple de nombreuses mines produisant à la fois du cuivre et du zinc.",Pour info,"empty",37
+"Les mines d’or contiennent souvent naturellement du mercure et de l’arsenic, dangereux pour la santé et l'environnement.",Pour info,"empty",38
+"L’industrie minière est la première cause dans le monde de <b>conflits environnementaux</b>.\n\nEn 2019, 50 défenseurs de l'environnement ont été assassinés dans des conflits liés à l'industrie minière.",Conflits,"empty",39
+"<b>Brésil, 2019</b>. Rupture d'un barrage de résidus d’une mine de fer, causant 243 morts, 27 disparus et des centaines de blessés.\n\nL'exploitant versera près de 6 milliards d’euros de dommages.",Catastrophe,"empty",40
+"<b>Hongrie, 2010</b>. Rupture de digue près d'une usine d'aluminium. Une boue rouge inonde plusieurs villages, causant 10 morts et 286 blessés.\n\nIl s'agit de la pire catastrophe industrielle qu’ait connue la Hongrie.",Catastrophe,"empty",41
+"Il existe très peu d'usines capables de recycler une grande diversité des métaux contenus dans une carte électronique, et aucune en France.",Recyclage,"empty",42
+"Les principales difficultés techniques liées au recyclage des métaux contenus dans les smartphones sont :\n\n1) d'identifier ces métaux\n\n2) de les séparer des autres métaux.",Recyclage,"empty",43
+"<b>Belgique, 2020</b>. À cause des poussières émises par une usine de recyclage de métaux, les enfants de ce quartier présentent des taux de plomb dans le sang considérés comme dangereux.",Recyclage,"empty",44
+"Une ancienne mine d'or vers Carcassonne cause d'importants problèmes de pollution à l'arsenic.\n\nIl est entre autres interdit de vendre des légumes produits dans la région.",En France,"empty",45
+"Plusieurs projets d'ouverture de mines sont actuellement à l'étude ou en cours en France, pour exploiter or, cuivre, étain...",En France,"empty",46
+"En 2022, la <b>Russie</b>  représentait 42% de la production mondiale de <b>palladium</b>.\n\nOn trouve du palladium dans la carte mère des smartphones.",Géographie,"empty",47
+"En 2022, l'<b>Australie</b> représentait 47% de la production mondiale de <b>lithium</b>.\n\nOn trouve du lithium dans la batterie des smartphones.",Géographie,"empty",48
+"Les mines de zinc contiennent souvent naturellement du mercure, de l’arsenic et du plomb, dangereux pour la santé et l'environnement.",Pollution,"empty",49
+"Une grande partie des exploitations minières se situent dans des pays en situation de <b>stress hydrique</b>, où les besoins en eau douce dépassent les ressources disponibles.",Tensions,"empty",50
+"On appelle <b>réserves</b> mondiales d'un métal (par ex. de cuivre) la quantité actuellement exploitable de ce métal dans la croûte terrestre.",Définition,"empty",51
+"Un <b>terril</b> est une colline artificielle formée par l'accumulation de stériles ou de résidus issus de l’exploitation d'une mine.",Définition,"empty",52
+"En France, le <b>code minier</b> définit la distinction entre mines et carrières. On parle de mine lorsque le matériau extrait est considéré comme stratégique, et de carrière sinon.",Pour info,"empty",53
+"De nombreux métaux du numérique sont des <b>sous</b>-<b>produits</b>, c'est-à-dire qu'ils sont récupérés lors du traitement d'autres métaux.\n\nPar exemple, le gallium est un sous-produit de l'aluminium.",Pour info,"empty",54
+"La <b>bauxite</b> est le principal minerai qui permet de produire l’<b>aluminium</b> et le <b>gallium</b>.\n\nLes trois plus gros pays producteurs sont l'<b>Australie</b>, la <b>Chine</b> et la <b>Guinée</b>.",Pour info,"empty",55
+"Le <b>coltan</b> est un minerai qui permet de produire le tantale.\n\nLa <b>République Démocratique du Congo</b>, premier producteur de coltan, est sujet à des conflits armés.",Pour info,"empty",56
+"En 2022, la <b>Chine</b> assurait 70% de la production mondiale de <b>terres rares</b>, contre 98% en 2010.\n\nOn trouve des terres rares dans la carte mère et l'écran des smartphones.",Géographie,"empty",57
+"En 2022, la <b>République du Congo</b> représentait 43% de la production mondiale de <b>tantale</b>.\n\nOn trouve du tantale dans la carte mère des smartphones.",Géographie,"empty",58
+"En 2022, la <b>Chine</b> représentait 98% de la production mondiale de <b>gallium</b>.\n\nOn trouve du gallium dans les cartes mères et les écrans des smartphones.",Géographie,empty,59
+"En 2022, l'<b>Afrique du Sud</b> représentait 74% de la production mondiale de <b>platine</b>.\n\nOn trouve du platine dans la carte mère des smartphones.",Géographie,"empty",60

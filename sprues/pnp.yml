@@ -5,21 +5,21 @@ card_width: 67.0mm
 card_height: 93.0mm
 cards:
 - x: 14.5mm
-  "y": 3.0mm
+  "y": 12.0mm
 - x: 81.5mm
-  "y": 3.0mm
+  "y": 12.0mm
 - x: 148.5mm
-  "y": 3.0mm
+  "y": 12.0mm
 - x: 215.5mm
-  "y": 3.0mm
+  "y": 12.0mm
 - x: 14.5mm
-  "y": 96.0mm
+  "y": 105.0mm
 - x: 81.5mm
-  "y": 96.0mm
+  "y": 105.0mm
 - x: 148.5mm
-  "y": 96.0mm
+  "y": 105.0mm
 - x: 215.5mm
-  "y": 96.0mm
+  "y": 105.0mm
 crop_line:
   style: :dashed
   overlay: :overlay_on_cards
@@ -35,8 +35,8 @@ crop_line:
   - type: :vertical
     position: 282.5mm
   - type: :horizontal
-    position: 3.0mm
+    position: 12.0mm
   - type: :horizontal
-    position: 96.0mm
+    position: 105.0mm
   - type: :horizontal
-    position: 189.0mm
+    position: 198.0mm

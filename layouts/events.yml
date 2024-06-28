@@ -1,18 +1,8 @@
-event_number:
-  font: Montserrat Bold 15
-  color: '#7f99e6'
-  x: 10mm
-  y: 10mm
-  width: 47mm
-  height: 5mm
-  align: center
-  valign: middle
-
 event_type:
-  font: Montserrat Bold 15
+  font: Montserrat Bold 14
   color: '#7f99e6'
   x: 10mm
-  y: 15mm
+  y: 6mm
   width: 48mm
   height: 18mm
   align: center
@@ -22,8 +12,15 @@ event_text:
   markup: true
   font: Montserrat weight=600 9
   spacing: 2
-  x: 12mm
-  y: 25mm
-  width: 45mm
-  height: 60mm
-  valign: middle
+  x: 10mm
+  y: 23mm
+  width: 48mm
+  height: 65mm
+
+event_illu:
+  x: 18.5mm
+  y: 50mm
+  height: 30mm
+  width: 30mm
+  align: center
+  valign: end

@@ -8,10 +8,11 @@ environnemental. Vous aurez des choix à faire tout au long du jeu mais
 attention, ces choix auront des conséquences.
 
 Vous avez chacun un plateau smartphone composé de : l'écran tactile
-(dalle et vitre), la batterie, la coque, la carte mère.
+(dalle et vitre), la batterie, la coque (et ses connectiques), la carte mère.
+**Par soucis de simplification, la carte mère désigne l'ensemble des composants électroniques associés : processeur, mémoire vive, disque dur, haut-parleur, microphone, caméras, antenne...**
 
-Chaque composant est constitué de ressources qui apparaissent sur la
-carte. Ces ressources sont désignées par des types de ressources qui sont les
+Chaque composant est constitué de ressources qui apparaissent sur le
+plateau. Ces ressources sont désignées par des types de ressources qui sont les
 suivants dans le jeu :
 
 -   **Métal précieux** mais aussi rare, stratégique donc cher comme l'Or, l'argent, le platine, le palladium...
@@ -58,7 +59,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
     rares.
     > vous ne pourrez pas perdre cette carte durant la partie.
 
-    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n'importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour.
+    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n'importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Les cartes ressources sont à garder en main et à cacher des autres joueurs. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
     Dans le cas où il y a 5 cartes ressources identiques parmis les cartes visibles alors defausser les 6 cartes ressources visibles et 3 malus de la pioche qui sont lues.
 
 - Fabriquer un composant : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué.
@@ -69,18 +70,12 @@ En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
 ![Recap des règles](img/AideDeJeu.jpeg){ width="300" }
 
-### Qui commence ?
-
-Pour déterminer qui commence :
-
-- Celui qui n'a pas de smartphone commence !
-- Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux.
-- Celui ou celle qui a le smartphone le plus vieux commence.
-
 ### Après chaque tour de table, on tire une carte événement
 
 - Elle est valable pour tous les joueurs.
-- On lit le contenu de la carte et on fait l'action qui est décrite.
+- On lit le contenu de la carte et on effectue l'action qui est décrite, en commençant par le premier joueur puis dans le sens horaire, sauf contre-indication.
+- Si des cartes ressources visibles sont piochées, elles sont remplacées à la fin de l'événement, une fois que tous les joueurs ont effectué leur action.
+- Les cartes ressources ou malus défaussés sont placés dans un tas à part et non remis dans les pioches.
 
 ### Qui commence à faire l'action désignée par la carte événement
 - Certains événements désignés par le signe '*' nécessitent de départager les joueurs pour savoir qui commence.
@@ -99,6 +94,14 @@ Le gagnant est celui qui a le plus de points. On compte les points en fonction :
 - des composants construits de votre téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - +2 points pour celui qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées). En cas d'égalité, +2 points pour tous.
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
+
+### Qui commence ?
+
+Pour déterminer qui commence :
+
+- Celui qui n'a pas de smartphone commence !
+- Si un joueur a un smartphone reconditionné ou a récupéré un vieux smartphone, c'est mieux.
+- Celui ou celle qui a le smartphone le plus vieux commence.
 
 ## Adaptation des règles pour une partie en 20'                                      
 - On ne garde que les événements : 1 ; 5 ; 6 ; 7 ; 13 ;
