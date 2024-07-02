@@ -33,7 +33,7 @@ CSV.foreach('data/csv/malus.csv', headers: true) do |row|
   end
 
   # Number of ordered cards at the top of the malus deck
-  ordered_cards = 5
+  ordered_cards = 6
 
   if row['index'] == 'nil'
     nb_players = ''
