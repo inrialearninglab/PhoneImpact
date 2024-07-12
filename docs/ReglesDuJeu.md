@@ -104,4 +104,4 @@ Pour déterminer qui commence :
 - Celui ou celle qui a le smartphone le plus vieux commence.
 
 ## Adaptation des règles pour une partie en 20'                                      
-- On ne garde que les événements : 1 ; 5 ; 6 ; 7 ; 13 ;
+- On ne garde que les événements : 1 ; 2 ; 6 ; 7 ; 10 ; 13 ;
