@@ -1,152 +1,4 @@
----
-title: PhoneImpact (Sophie)
-tags: PhoneImpact, enseignement
----
-
-[TOC] 
-
-# PhoneImpact
-
-Sur le site : https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/index.html
-- [ ] Présentation
-- [ ] Instructions animateur
-- [ ] Préparation du jeu (Version Print&Play)
-- [ ] Histoire à raconter au début
-- [ ] Brief: avant de jouer
-- [ ] Règles du jeu
-- [ ] Debrief: après la partie
-- [ ] Détail du matériel
-- [ ] Fiche métaux
-- [ ] Print and play
-- [ ] Sources du jeu
-
-
-À réfléchir, le pitch : Pourquoi on s'intéresse aux métaux du smartphone ?
-Dans le kakemono de brief, remplacer les deux dernières figures par les proportions d'usage des métaux (cf fiche métaux) + les types d'usage
-
-TODO : Chiffres sur le plateau (+ refs biblio)
-
-# Règles du jeu
-- [ ] Rajouter des malus au moment de la fabrication et expliquer les impacts
-- [ ] Annoncer dès le départ que le nombre de malus est limité : on ne peut pas polluer à l'infini !
-Fin de partie
-- [ ] Annoncer dès le départ que le nombre de malus et de certaines ressources est limité : on ne peut pas extraire ou polluer à l'infini ! Quand il n'y a plus de cartes malus (ou ressources, mais ça c'est logique), on ne peut plus miner, mais on peut continuer à jouer jusqu'à être bloqué. Du coup on peut enlever les deux cartes malus rouges et transformer la deuxième en carte événement.
-- [ ] ~~Plutôt que fin de partie, annoncer le dernier tour sur la carte 15.~~
-- [ ] La partie s'arrête si : 1. Un joueur a construit son smartphone en entier ; 2. Plus personne ne peut jouer ; 3. On est à la fin du 15e tour de jeu
-- [ ] Le gagnant est celui qui a le plus de points. On gagne des points 1. en construisant des composants 2. +10 pour le smartphone complet 3. +2 pour celui qui a le plus de cartes recyclées 4. -2 pour celui qui a le plus de PolluePlus 5. Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
-
-- [ ] Mettre les infos sur les smartphones quelque part
-
-**Cartes ressources**
-- [ ] 3 cartes résumé - nombre de cartes de chaque type dans les trois tas : quel lien avec la réalité ?
-
-**Cartes composants**
-- [ ] Nb de ressources nécessaires pour chaque composant : quel lien avec la réalité ?
-- [ ] Composants du smartphone : mettre en avant la carte mère et l'écran, puis la batterie et en dernier la coque
-
-# Séquence pédagogique
-https://notes.inria.fr/KUepmQCwQOKSrkTWwtqG4w#
-
-## Objectifs pédagogiques
-
-### Principes généraux
-* Éviter de donner des chiffres qui ne permettent pas de comprendre une réalité matérielle ou de comparer
-
-### Classification des objectifs pédagogiques en fonction des disciplines scolaires
-
-## Répartition des objectifs pédagogiques pendant le jeu
-
-## Dans le brief
-- [ ] Les principaux composants d'un smartphone
-- [ ] Les matières premières qui constituent ces composants
-- [ ] La grande diversité de métaux dans un smartphone et de leurs usages
-- [ ] La classification des métaux
-- [ ] Les grandes étapes de l'extraction minière
-- [ ] Où est produit quoi
-
-
-- La grande diversité de métaux dans un smartphone Refs : EuChems, Orange dans le rapport du Sénat, aller chercher du côté du Fraunhofer https://www.youtube.com/watch?v=9-2b-Xrmzgc&list=PLWMNQf5APHgKSwbX6RYvqHpKRzn2T3LvU&index=16
-	* Question subsidiaire : usage diffus ou pas ? cf usage ci-dessous
-- La classification des métaux : TODO, demander à Antoine Boubault et Florian Fizaine
-
-
-## Pendant le jeu
-- [ ] Les différents types d'impacts environnementaux
-- [ ] Les pollutions, risques, conflits et accidents liés à l'industrie minière
-- [ ] Les différences dans les méthodes d'extraction
-
-
-## Dans le débrief
-
-* Cacher le kakemono au départ ?
-* Couper la vidéo à 3'30''
-* Prévoir de quoi occuper les tables qui ont fini avant les autres : peut-être prévoir un document à remplir avec des questions
-* Leur demander ce qu'ils pensent du lien entre leur comportement dans le jeu et la réalité
-* En plus des pays et des pollutions, leur demander qui est impacté et comment
-
-
-**Récapituler**
-- [ ] les différentes formes de pollutions : particules...
-
-**Remettre en perspective**
-- [ ] Quel pourcentage des volumes extraits des mines / de l'énergie nécessaire à l'extraction minière est due au numérique ? Idem pour les pollutions
-- [ ] Au-delà de la fabrication
-- [ ] Le cycle de vie d'un smarphone
-- [ ] Quelques infos et ordres de grandeur sur les usages (nombre des smartphones dans le monde etc.)
-- [ ] Au-delà des smartphones : le numérique
-
-Globalement et relativement au volume total de métaux produits pour l'ensemble des secteurs les besoins pour les technologies du numérique ne représentent pas une grande proportion, hormis pour certains métaux dont le volume produit est faible par rapport aux grands métaux stratégiques comme le Tantale, l'Indium, le Germanium, certaines terres rares mais qui sont par contre hautement stratégiques.
-
-Il y a tous les messages plus subtils auxquels il faut que je réfléchisse, du genre : la stratégie gagnante dépend directement de la législation, les impacts environnementaux et la contrainte sur les ressources disponibles sont des enjeux collectifs même si chacun joue dans son intérêt propre (on n'est pas loin de parler des équilibres de Nash, haaaaaaa !) etc. 
-
-Attention à bien remettre en perspective
-* Beaucoup ça n'est pas une information très intéressante, les ordres de grandeur c'est mieux
-* Les limites de l'ACV
-* L'industrie des mines ça dépasse largement le numérique
-* Le numérique ça n'est pas que les smartphones !
-* Les impacts des smartphones ça n'est pas que la fabrication des métaux
-* L'économie circulaire ça ne résoudra pas tout...
-* Les DEEE c'est compté en poids et ça n'est pas que le numérique
-* Certains enjeux sont globaux (GES), d'autres plus locaux (eau, même s'il y a aussi des enjeux globaux via le cycle de l'eau)
-* Attention à la différence entre les chiffres français et mondiaux
-* Les usages du numérique ne sont pas tous drivés par les individus
-* Le cycle de vie du smartphone
-* Travail sur les parties prenantes
-
-## Remarques générales
-* Supprimer la redondance dans les règles du jeu : But du jeu, Préparation du jeu, Pour commencer, Méthode du jeu, Comptage de points
-* Séparer la production des usages
-* Pour toutes les cartes, vérifier le lien avec le numérique
-* Bien remettre en perspective : les mines c'est pas que le numérique !
-* Où est-ce qu'on parle de la fabrication ?
-* Expliquer que les cartes malus correspondent à des dégradations environnementales auxquelles on va s'intéresser dans le jeu
-
-- [ ] Montrer à quoi ressemblent en vrai les composants
-- [ ] Expliquer à quoi servent les différents types de ressources + la classification des métaux (cf. cartes ressources)
-- [ ] Détailler le lien avec la réalité
-- [ ] Rappeler quelque part que les smartphones génèrent des pollutions et des impacts ailleurs que dans les mines
-
-- Montrer à quoi ressemblent en vrai les composants, peut-être avec une photo plus explicite sur le kakemono
-- Avec la biblio, préciser le lien avec la réalité de certains paramètres du jeu, par ex. le nombre de cartes ressources de chaque type dans les trois tas, le nombre de ressources nécessaires pour chaque composant (je peux donner quelques refs pour faire un peu mieux que dire que c'est illustratif)
-- Faire peut-être une liste des points d'attention pour les profs : les messages qu'il ne faut *pas* retenir : par ex. il y a plein d'autres pollutions que celles dues au smartphone, et elle ne sont pas toutes liées au mines, les mines ne servent pas qu'au numérique etc.
-- Expliquer les impacts au moment de la fabrication des composants, voire rajouter des malus (eh oui, la fabrication en elle-même pollue aussi) 
-
-# Cartes événements
-- [ ] Mettre en italique la première partie des cartes événements et pas la seconde
-
-- [ ] Question générale : à quelles conditions miser sur le recyclage est-il une stratégie gagnante ?
-    * Si l'État subventionne
-    * Si les consommateurs favorisent les entreprises vertueuses
-    * Si on finit par pénaliser les gros pollueurs 
-    * Si les mines urbaines deviennent un secteur véritablement intéressant : parce que miner est de plus en plus difficile, parce que recycler devient plus facile
-
-- Ajouter une carte : La loi change ! On ne peut plus polluer autant, PolluePlus doit se mettre aux normes environnementales et se comporte désormais comme PollueMoins
-- Ajouter une carte : Coup de pouce : Le joueur qui a le plus de cartes Recyclage prend une carte ressources à celui qui a le plus de PolluePlus (il faut gérer les égalités)
-
-- [ ] Nouvel événement : interdiction de produire des smartphones avec des métaux issus de mines PolluePlus (un peu comme les minerais de sang) --> à partir de maintenant PolluePlus se comporte comme PollueMoins
-- [ ] Nouvel événement : on force à dépolluer ceux qui ont plus de xxx malus 
-- [x] Nouvel événement : Remplacer l'action optionnelle à chaque tour par l'introduction d'un événement "Mise en place d'un marché de quotas pollutions minières similaire à celui pour le carbone" 
-- [x] Systématiquement remplacer "voler" par "prendre" !
+# Sources
 
 # Cartes malus
 
@@ -484,14 +336,6 @@ https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-resso
     * causant 10 morts et 286 blessés
     * https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/A39047_ips39047_003.pdf
 
-- [x] Mariana, Brésil, 2015 : Rupture de digue près d'une mine de fer, la pire catastrophe écologique de l'histoire du Brésil. Chaque année depuis, à la saison des pluies, le fleuve retrouve des niveaux de pollution comparables à ceux de 2015.
-
-    * "Downstream and close to the river mouth, when the river level rises after the rainy season, turbidity increases and metal levels in the water column return to the same level as in November 2015." 
-    * La pollution s’étend jusqu’à l’océan atlantique à 650 km.  
-    * En mai 2016, le ministère public demande 43 milliards de dollar aux propriétaires de l’ouvrage. Cette action judiciaire vise à réparer “intégralement” les dommages humains, économiques et environnementaux provoqués par la tragédie.
-    * L’embouchure du fleuve, réputée pour son écotourisme et zone de reproduction d’une espèce de tortue marine géante, est touchée. 280 000 personnes sont privées d’eau potable.
-    * https://www.aria.developpement-durable.gouv.fr/accident/47369/
-
 - [x] Brumadinho, Brésil, 2019 : Rupture de digue près d'une mine de fer, qui cause 243 morts, 27 disparus et des centaines de blessés. L’exploitant versera près de 6 milliards d’euros de dommages “sociaux et environnementaux”.
     * https://www.aria.developpement-durable.gouv.fr/accident/53027/
     * Safety is no accident
@@ -582,15 +426,146 @@ Notions économiques
 "Les métaux rares non précieux et les terres rares ne sont quasiment pas recyclés : moins de 1% par exemple pour l’indium, le néodyme, le tantale et le gallium.",Recyclage,"empty"
 
 
+# PhoneImpact
+
+Sur le site : https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/index.html
+- [ ] Présentation
+- [ ] Instructions animateur
+- [ ] Préparation du jeu (Version Print&Play)
+- [ ] Histoire à raconter au début
+- [ ] Brief: avant de jouer
+- [ ] Règles du jeu
+- [ ] Debrief: après la partie
+- [ ] Détail du matériel
+- [ ] Fiche métaux
+- [ ] Print and play
+- [ ] Sources du jeu
 
 
+À réfléchir, le pitch : Pourquoi on s'intéresse aux métaux du smartphone ?
+TODO : Chiffres sur le plateau (+ refs biblio)
+
+# Règles du jeu
+- [ ] Rajouter des malus au moment de la fabrication et expliquer les impacts
+- [ ] Annoncer dès le départ que le nombre de malus est limité : on ne peut pas polluer à l'infini !
+Fin de partie
+- [ ] Annoncer dès le départ que le nombre de malus et de certaines ressources est limité : on ne peut pas extraire ou polluer à l'infini ! Quand il n'y a plus de cartes malus (ou ressources, mais ça c'est logique), on ne peut plus miner, mais on peut continuer à jouer jusqu'à être bloqué. Du coup on peut enlever les deux cartes malus rouges et transformer la deuxième en carte événement.
+- [ ] ~~Plutôt que fin de partie, annoncer le dernier tour sur la carte 15.~~
+- [ ] La partie s'arrête si : 1. Un joueur a construit son smartphone en entier ; 2. Plus personne ne peut jouer ; 3. On est à la fin du 15e tour de jeu
+- [ ] Le gagnant est celui qui a le plus de points. On gagne des points 1. en construisant des composants 2. +10 pour le smartphone complet 3. +2 pour celui qui a le plus de cartes recyclées 4. -2 pour celui qui a le plus de PolluePlus 5. Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
+
+- [ ] Mettre les infos sur les smartphones quelque part
+
+**Cartes ressources**
+- [ ] 3 cartes résumé - nombre de cartes de chaque type dans les trois tas : quel lien avec la réalité ?
+
+**Cartes composants**
+- [ ] Nb de ressources nécessaires pour chaque composant : quel lien avec la réalité ?
+- [ ] Composants du smartphone : mettre en avant la carte mère et l'écran, puis la batterie et en dernier la coque
+
+# Séquence pédagogique
+https://notes.inria.fr/KUepmQCwQOKSrkTWwtqG4w#
+
+## Objectifs pédagogiques
+
+### Principes généraux
+* Éviter de donner des chiffres qui ne permettent pas de comprendre une réalité matérielle ou de comparer
+
+### Classification des objectifs pédagogiques en fonction des disciplines scolaires
+
+## Répartition des objectifs pédagogiques pendant le jeu
+
+## Dans le brief
+- [ ] Les principaux composants d'un smartphone
+- [ ] Les matières premières qui constituent ces composants
+- [ ] La grande diversité de métaux dans un smartphone et de leurs usages
+- [ ] La classification des métaux
+- [ ] Les grandes étapes de l'extraction minière
+- [ ] Où est produit quoi
 
 
+- La grande diversité de métaux dans un smartphone Refs : EuChems, Orange dans le rapport du Sénat, aller chercher du côté du Fraunhofer https://www.youtube.com/watch?v=9-2b-Xrmzgc&list=PLWMNQf5APHgKSwbX6RYvqHpKRzn2T3LvU&index=16
+	* Question subsidiaire : usage diffus ou pas ? cf usage ci-dessous
+- La classification des métaux : TODO, demander à Antoine Boubault et Florian Fizaine
 
 
+## Pendant le jeu
+- [ ] Les différents types d'impacts environnementaux
+- [ ] Les pollutions, risques, conflits et accidents liés à l'industrie minière
+- [ ] Les différences dans les méthodes d'extraction
 
 
+## Dans le débrief
 
+* Cacher le kakemono au départ ?
+* Couper la vidéo à 3'30''
+* Prévoir de quoi occuper les tables qui ont fini avant les autres : peut-être prévoir un document à remplir avec des questions
+* Leur demander ce qu'ils pensent du lien entre leur comportement dans le jeu et la réalité
+* En plus des pays et des pollutions, leur demander qui est impacté et comment
+
+
+**Récapituler**
+- [ ] les différentes formes de pollutions : particules...
+
+**Remettre en perspective**
+- [ ] Quel pourcentage des volumes extraits des mines / de l'énergie nécessaire à l'extraction minière est due au numérique ? Idem pour les pollutions
+- [ ] Au-delà de la fabrication
+- [ ] Le cycle de vie d'un smarphone
+- [ ] Quelques infos et ordres de grandeur sur les usages (nombre des smartphones dans le monde etc.)
+- [ ] Au-delà des smartphones : le numérique
+
+Globalement et relativement au volume total de métaux produits pour l'ensemble des secteurs les besoins pour les technologies du numérique ne représentent pas une grande proportion, hormis pour certains métaux dont le volume produit est faible par rapport aux grands métaux stratégiques comme le Tantale, l'Indium, le Germanium, certaines terres rares mais qui sont par contre hautement stratégiques.
+
+Il y a tous les messages plus subtils auxquels il faut que je réfléchisse, du genre : la stratégie gagnante dépend directement de la législation, les impacts environnementaux et la contrainte sur les ressources disponibles sont des enjeux collectifs même si chacun joue dans son intérêt propre (on n'est pas loin de parler des équilibres de Nash, haaaaaaa !) etc. 
+
+Attention à bien remettre en perspective
+* Beaucoup ça n'est pas une information très intéressante, les ordres de grandeur c'est mieux
+* Les limites de l'ACV
+* L'industrie des mines ça dépasse largement le numérique
+* Le numérique ça n'est pas que les smartphones !
+* Les impacts des smartphones ça n'est pas que la fabrication des métaux
+* L'économie circulaire ça ne résoudra pas tout...
+* Les DEEE c'est compté en poids et ça n'est pas que le numérique
+* Certains enjeux sont globaux (GES), d'autres plus locaux (eau, même s'il y a aussi des enjeux globaux via le cycle de l'eau)
+* Attention à la différence entre les chiffres français et mondiaux
+* Les usages du numérique ne sont pas tous drivés par les individus
+* Le cycle de vie du smartphone
+* Travail sur les parties prenantes
+
+## Remarques générales
+* Supprimer la redondance dans les règles du jeu : But du jeu, Préparation du jeu, Pour commencer, Méthode du jeu, Comptage de points
+* Séparer la production des usages
+* Pour toutes les cartes, vérifier le lien avec le numérique
+* Bien remettre en perspective : les mines c'est pas que le numérique !
+* Où est-ce qu'on parle de la fabrication ?
+* Expliquer que les cartes malus correspondent à des dégradations environnementales auxquelles on va s'intéresser dans le jeu
+
+- [ ] Montrer à quoi ressemblent en vrai les composants
+- [ ] Expliquer à quoi servent les différents types de ressources + la classification des métaux (cf. cartes ressources)
+- [ ] Détailler le lien avec la réalité
+- [ ] Rappeler quelque part que les smartphones génèrent des pollutions et des impacts ailleurs que dans les mines
+
+- Montrer à quoi ressemblent en vrai les composants, peut-être avec une photo plus explicite sur le kakemono
+- Avec la biblio, préciser le lien avec la réalité de certains paramètres du jeu, par ex. le nombre de cartes ressources de chaque type dans les trois tas, le nombre de ressources nécessaires pour chaque composant (je peux donner quelques refs pour faire un peu mieux que dire que c'est illustratif)
+- Faire peut-être une liste des points d'attention pour les profs : les messages qu'il ne faut *pas* retenir : par ex. il y a plein d'autres pollutions que celles dues au smartphone, et elle ne sont pas toutes liées au mines, les mines ne servent pas qu'au numérique etc.
+- Expliquer les impacts au moment de la fabrication des composants, voire rajouter des malus (eh oui, la fabrication en elle-même pollue aussi) 
+
+# Cartes événements
+- [ ] Mettre en italique la première partie des cartes événements et pas la seconde
+
+- [ ] Question générale : à quelles conditions miser sur le recyclage est-il une stratégie gagnante ?
+    * Si l'État subventionne
+    * Si les consommateurs favorisent les entreprises vertueuses
+    * Si on finit par pénaliser les gros pollueurs 
+    * Si les mines urbaines deviennent un secteur véritablement intéressant : parce que miner est de plus en plus difficile, parce que recycler devient plus facile
+
+- Ajouter une carte : La loi change ! On ne peut plus polluer autant, PolluePlus doit se mettre aux normes environnementales et se comporte désormais comme PollueMoins
+- Ajouter une carte : Coup de pouce : Le joueur qui a le plus de cartes Recyclage prend une carte ressources à celui qui a le plus de PolluePlus (il faut gérer les égalités)
+
+- [ ] Nouvel événement : interdiction de produire des smartphones avec des métaux issus de mines PolluePlus (un peu comme les minerais de sang) --> à partir de maintenant PolluePlus se comporte comme PollueMoins
+- [ ] Nouvel événement : on force à dépolluer ceux qui ont plus de xxx malus 
+- [x] Nouvel événement : Remplacer l'action optionnelle à chaque tour par l'introduction d'un événement "Mise en place d'un marché de quotas pollutions minières similaire à celui pour le carbone" 
+- [x] Systématiquement remplacer "voler" par "prendre" !
 
 # Archives
 
@@ -633,9 +608,6 @@ https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-resso
 - [x] On appelle **résidus miniers** les déchets solides ou liquides restant après l'extraction et le traitement des minéraux. Ces résidus contiennent souvent des substances chimiques et des minéraux non valorisables.
 
 - [x] Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues. Les **ruptures de digues** sont une des causes principales de catastrophes environnementales liées aux mines.
-
-- [x] https://en.wikipedia.org/wiki/Antamina_Tailings_Dam Un lac de résidus miniers près de la mine de cuivre-zinc d'Antamina, au Pérou.
-Xtremizta, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
 
 - [x] Un **terril** est un monticule de stériles ou de résidus miniers issus de l'exploitation minière.
 
@@ -707,8 +679,6 @@ https://commons.wikimedia.org/wiki/File:SRSG_visits_coltan_mine_in_Rubaya_(13406
 	* "Cet accident est la plus grave catastrophe industrielle qu’ait connue la Hongrie." https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/A39047_ips39047_003.pdf
 
 À ajouter
-* Mine de fer près de Mariana / Brésil / 2015 / Rupture de digue / La pire catastrophe écologique du Brésil
-	* "Downstream and close to the river mouth, when the river level rises after the rainy season, turbidity increases and metal levels in the water column return to the same level as in November 2015."
 * Mine de cuivre et or de Mount Polley / Canada / 2014 / 
 	* "4,5 millions de mètres cubes de boues hautement polluées se [déversent] dans le lac Polley, puis dans le lac Quesnel en contrebas [...], répandant 134 tonnes de plomb dans la nature." / 
 	* https://ici.radio-canada.ca/ohdio/premiere/emissions/boulevard-du-pacifique/segments/entrevue/191642/catastrophe-mount-polley-deversement-minier-quesnel

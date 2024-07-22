@@ -6,6 +6,117 @@ Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impacts
 - [Portail de ressources du Mooc](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html)
 - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
 
+## Mise à jour des compléments sur les malus
+Format de la page source :
+- Commencer par un paragraphe de présentation des sources
+
+- Les cartes "Définition" renvoient au glossaire
+- Les cartes "En image" renvoient à la page wikipedia
+- Les cartes "Géographie" viennent toutes du même tableau du rapport 2023 de l'USGS
+- Les cartes "Catastrophe" et "Conflits" viennent principalement de la presse + de la base de données aria
+
+- Lister toutes les cartes malus avec le copier/coller du texte de la carte
+
+
+### Cartes "Catastrophe"
+[12] https://www.aria.developpement-durable.gouv.fr/accident/47369/
+* Mine de fer près de Mariana / Brésil / 2015 / Bento Rodrigues
+"Downstream and close to the river mouth, when the river level rises after the rainy season, turbidity increases and metal levels in the water column return to the same level as in November 2015."
+
+[13]
+[14]
+[40]
+[41]
+
+### Cartes "Tensions"
+[15]
+[50]
+
+### Cartes "Conflits"
+[16]
+[17]
+[18]
+[19]
+[39]
+
+### Cartes "En France"
+[20]
+[21]
+[45]
+[46]
+
+### Cartes "Géographie"
+[28]
+[29]
+[47]
+[48]
+[57]
+[58]
+[59]
+[60]
+
+### Cartes "Définition"
+[1] 
+[2] 
+[3]
+[24]
+[51]
+[52]
+
+### Cartes "Traitement"
+[7]
+[36]
+
+### Cartes "Pour info"
+[5]
+[8]
+[9]
+[25]
+[26]
+[27]
+[37]
+[38]
+[53]
+[54]
+[55]
+[56]
+
+### Cartes "Pollution"
+[10]
+[11]
+[49]
+
+### Cartes "En image"
+[4]
+[6]
+[33]
+[34]
+[35]
+
+### Cartes "Recyclage"
+[30]
+[31]
+[32]
+[42]
+[43]
+[44]
+
+### Cartes "L'après-mine"
+[22]
+[23]
+
+
+
+[1] **minerai** à mettre dans le glossaire ; nb : Le minerai de lithium peut aussi se trouver sous forme de saumûre (donc pas toujours une roche) ; nb : La notion de minerai est économique
+[2] **stériles miniers** à mettre dans le glossaire ; nb : La distinction stérile/minerai est économique
+[3] **résidus miniers** à mettre dans le glossaire
+[4] [https://en.wikipedia.org/wiki/Antamina\_Tailings\_Dam](https://en.wikipedia.org/wiki/Antamina_Tailings_Dam) Un lac de résidus miniers près de la mine de cuivre-zinc d’Antamina, au Pérou. Xtremizta, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0, via Wikimedia Commons
+[5] Rapport "Safety is no accident"
+[6] Photo + cf [...] Rupture du barrage de Brumadinho, Brésil, 2019, TV NBR, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+[7] ? Document qui décrit le traitement du minerai
+[8] ? Métaux lourds naturellement présents dans les sols
+
+
 ## Sources des textes des malus
 **Mise à jour des sources à venir**
 
