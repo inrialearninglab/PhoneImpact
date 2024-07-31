@@ -46,7 +46,6 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Antimoine (Sb) 
 - Cobalt (Co) 
 - Lithium (Li) 
-
 - Tantale (Ta) 
 - Tungstène (W) 
 - Gallium (Ga) 
