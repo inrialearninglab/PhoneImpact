@@ -87,15 +87,16 @@ Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (
 ### Coque (et connectiques)
 #### Terre Rare (x0)
 #### Métaux Précieux (x0)
-#### Métaux commun (x4)
+#### Métaux commun (x5)
 - Aluminium (Al ) : Autres petites pièces. Manhard, et al. (2016)
 - Cuivre (Cu) : Conduite d’évacuation de la chaleur, Placages, Vis. Manhard, et al. (2016)
 - Etain (Sn) : Soudures. Manhard, et al. (2016)
 - Zinc (Zn) : Vis. Bookhagen, et al. (2020)
-
-#### Métaux Rare (x2)
-- Silicium (Si) : Adhésifs en caoutchouc. Bookhagen, et al. (2020)
 - Magnesium (Mg) : transfert et la dissipation de la chaleur, protection contre interférences electromagnetiques. International Magnesium Association, 2023
+
+#### Métaux Rare (x1)
+- Silicium (Si) : Adhésifs en caoutchouc. Bookhagen, et al. (2020)
+
 
 ## Références bibliographiques :
 - BRGM (2016), Fiche de criticité – Dysprosium, URL : https://www.mineralinfo.fr/sites/default/files/2023-03/fiche_criticite_dysprosium_publique_160913.pdf 
