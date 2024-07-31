@@ -1,6 +1,6 @@
-#Explication sur les plateaux de jeu
+# Explication sur les plateaux de jeu
 
-##Décomposition
+## Décomposition
 Le plateau de jeu représente un smartphone composé de : 
 - l'écran tactile (dalle et vitre)
 - la batterie
@@ -22,6 +22,6 @@ Le nombre de points attribués pour la construction de chaque partie provient du
 
 Pour plus d'information sur les catégorisations de métaux, voir le fichier sources_métaux.md
 
-##Composition métallique des différents plateaux et références bilbiographiques
+## Composition métallique des différents plateaux et références bilbiographiques
 D'après l'étude ADEME sur les métaux critiques du numérique 
 
