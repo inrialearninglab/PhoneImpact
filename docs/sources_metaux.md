@@ -1,0 +1,55 @@
+# Répartition des métaux en différentes catégories
+
+## Rappel : abstration nécessaire au jeu
+Par soucis de simplification et pour fluidifier le jeu, il nous a semblé pertinent de répartir les métaux en différentes catégories, dont certaines sont plus ou moins communément admise et utilisée par l'industrie.
+
+Voici notre définition des différentes catégories utilisées dans le jeu, basée sur celle de l'IFPEN (IFP Energies nouvelles (IFPEN), anciennement l'Institut Français du Pétrole) : https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/climat-environnement-et-economie-circulaire/les-metaux-transition-energetique#:~:text=Les%20métaux%20abondants%20sont%20ceux,molybdène%2C%20tungstène%2C%20etc.) .
+
+Les métaux ne font pas l’objet d’une classification géologique parfaitement définie, mais ils peuvent néanmoins être catégorisés dans des grandes familles industrielles. 
+
+## Métaux communs 
+Aussi appellés "Métaux de base", il s'agit de  métaux utilisés communément dans l'industrie. On les trouve en plus grande quantité dans la croûte terrestre que les autres métaux.
+
+Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux communs pris en compte :
+- Aluminium (Al ) : Ecran, Coque
+- Cuivre (Cu) : Carte mère, Coque (connectiques)
+- Etain (Sn) : Carte mère, Batterie, Ecrans, Coque
+- Nickel (Ni) : Batterie, Carte mère
+- Zinc (Zn) : Coque, Carte mère
+
+## Métaux précieux
+La notion de préciosité n'est pas une notion chimique, c'est une notion stratégique qui a vocation a évoluer au cours du temps. Il ne faut pas confondre préciosité et rareté. La rareté d’un métal peut impliquer sa préciosité, mais c'est surtout son prix, et donc la demande et les stocks disponibles, qui détermine sa préciosité.
+
+Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux précieux pris en compte :
+- Or (Au) 
+- Argent (Ag) 
+- Palladium (Pd) 
+- Platine (Pt) 
+- Ruthenium (Ru)
+
+## Terres Rares
+Improprement appelées terres rares, il s'agit en fait de la famille des lanthanides, un ensemble de métaux aux propriété voisines. Ces métaux ne sont pas à proprement parlé rare mais sont difficiles à extraire. 
+On retrouve ces métaux sous forme de traces dans la plupart des environnements naturels. Leurs propriétés électroniques, magnétiques, optiques ou encore catalytiques, en font des éléments particulièrement recherchés par l'industrie.
+
+Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des terres rares prises en compte :
+- Dysprosium (Dy)
+- Néodyme (Nd) 
+- Yttrium 
+- Praséodyme (Pr) 
+
+## Métaux Rare
+Autrement appellé "métaux de spécialités", il s'agit de tous les autres métaux, plus rares ou peu abondants, ils sont les plus nombreux.
+
+Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux rares pris en compte :
+- Antimoine (Sb) 
+- Cobalt (Co) 
+- Lithium (Li) 
+- Magnesium (Mg) 
+- Tantale (Ta) 
+- Tungstène (W) 
+- Gallium (Ga) 
+- Germanium (Ge) 
+- Manganèse (Mn) 
+- Silicium (Si) 
+- Indium (In)
+
