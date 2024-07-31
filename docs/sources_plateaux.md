@@ -20,7 +20,7 @@ Les quantités de métaux nécessaires à la fabrication des composants sur les 
 
 Le nombre de points attribués pour la construction de chaque partie provient du game design, il est lié à la difficulté en terme de jeu à rassembler les éléments constitutifs pour chacun des composants, en lien avec la rareté de chaque type de carte.
 
-Pour plus d'information sur les catégorisations de métaux, voir le fichier sources_métaux.md
+Pour plus d'information sur les catégorisations de métaux, voir le fichier sources_metaux.md
 
 ## Composition métallique des différents plateaux et références bilbiographiques
 La liste des compositions qui suit n'a pas vocation a être exhaustive, c'est une liste constituée à partir de la liste de 25 métaux considérés comme critiques et faisant l'objet d'une étude ADEME sur la criticité des métaux nécessaires à l'industrie du numérique (bientôt publiée à date 07/2024) : 
