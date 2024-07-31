@@ -54,9 +54,8 @@ Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (
 - Silicium (Si) : Circuits intégrés (Substrat, transistors Isolant). Bookhagen, et al. (2020)
 
 ### Ecran Tactile
-#### Terre Rare (x2)
+#### Terre Rare (x1)
 - Yttrium : LED, Rétro-éclairage d’écran LCD. Manhard, et al. (2016)
-- Indium (In) : LED, couches ITO (Indium Tin Oxide). Sander, et al. (2019)
 
 #### Métaux Précieux (x2)
 - Argent (Ag) : The Silver Institute, 2023b . Abubakr & al. 2020
@@ -66,9 +65,10 @@ Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (
 - Aluminium (Al ) : Autres petites pièces. Manhard, et al. (2016)
 - Etain (Sn) : Couches d’ITO (Indium Tin Oxide). Manhard, et al. (2016)
 
-#### Métaux Rare (x2) 
+#### Métaux Rare (x3) 
 - Gallium (Ga) : Rétro-éclairage d’écran LCD. (Manhard, Blepp, Fischer, & Graulich, Resource Efficiency in the ICT Sector, Final Report, 2016)
 - Silicium (Si) : Rétro-éclairage Ecran LCD. Bookhagen, et al. (2020)
+- Indium (In) : LED, couches ITO (Indium Tin Oxide). Sander, et al. (2019)
 
 ### Batterie
 #### Terre Rare (x0)
