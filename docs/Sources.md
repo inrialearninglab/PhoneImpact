@@ -13,24 +13,58 @@ Format de la page source :
 - Les cartes "Définition" renvoient au glossaire
 - Les cartes "En image" renvoient à la page wikipedia
 - Les cartes "Géographie" viennent toutes du même tableau du rapport 2023 de l'USGS
-- Les cartes "Catastrophe" et "Conflits" viennent principalement de la presse + de la base de données aria
-
-- Lister toutes les cartes malus avec le copier/coller du texte de la carte
-
+- Les cartes "Catastrophe" viennent de la base de données aria et du rapport de l'UNEP
+- Les cartes "Conflits" viennent principalement de la presse
 
 ### Cartes "Catastrophe"
-[12] https://www.aria.developpement-durable.gouv.fr/accident/47369/
-* Mine de fer près de Mariana / Brésil / 2015 / Bento Rodrigues
-"Downstream and close to the river mouth, when the river level rises after the rainy season, turbidity increases and metal levels in the water column return to the same level as in November 2015."
+[12] <b>Brésil, 2015</b>. Rupture d'un barrage de résidus près d’une mine de fer, qualifiée par le gouvernement de « <i>plus grande catastrophe environnementale de ce pays</i> ». La pollution s'étend durablement jusqu'à l'océan Atlantique à 650 km.
 
-[13]
-[14]
-[40]
-[41]
+Rupture du barrage de résidus miniers d'une mine de fer près du village de Bento Rodrigues à proximité de la ville de Mariana au Brésil, le 5 novembre 2015.
+
+https://www.aria.developpement-durable.gouv.fr/accident/47369/
+Rapport de l'UNEP (en anglais) : Safety is no accident
+
+_Complément : "Downstream and close to the river mouth, when the river level rises after the rainy season, turbidity increases and metal levels in the water column return to the same level as in November 2015."_
+
+[13] <b>Roumanie, 2000</b>. Rupture de digue près d'une usine de traitement des stériles.\n\nLes polluants (dont 115 tonnes de cyanure) détruisent la quasi-totalité de la faune et de la flore d'une rivière sur près de 600 km.
+
+Rupture de digue près d'une usine de traitement des stériles à Baia Mare en Roumanie, le 30 janvier 2000.
+https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/FD_17265_baia_mare_2000_fr.pdf
+
+[14] <b>Canada, 2014</b>. Rupture de barrage près d'une mine de cuivre et d'or.\n\nDes résidus miniers, contenant entre autres des centaines de tonnes de plomb et d'arsenic, se déversent dans deux lacs.
+
+Rupture de barrage près de la mine de cuivre et d'or de Mount Polley au Canada, le 4 août 2014.
+
+Rapport de l'UNEP (en anglais) : Safety is no accident
+https://www.aria.developpement-durable.gouv.fr/accident/45566/
+
+ [40] <b>Brésil, 2019</b>. Rupture d'un barrage de résidus d’une mine de fer, causant 243 morts, 27 disparus et des centaines de blessés.\n\nL'exploitant versera près de 6 milliards d’euros de dommages.
+
+Rupture d'un barrage de résidus d’une mine de fer près de Brumadinho au Brésil, le 25 janvier 2019.
+https://www.aria.developpement-durable.gouv.fr/accident/53027/   
+
+[41] <b>Hongrie, 2010</b>. Rupture de digue près d'une usine d'aluminium. Une boue rouge inonde plusieurs villages, causant 10 morts et 286 blessés.\n\nIl s'agit de la pire catastrophe industrielle qu’ait connue la Hongrie.
+
+Rupture de digue près d'une usine d'aluminium à proximité de la ville d'Ajka en Hongrie, le 4 octobre 2010.
+https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/A39047_ips39047_003.pdf
+
 
 ### Cartes "Tensions"
-[15]
-[50]
+[15] En 2022, la Chine était le principal producteur de terres rares et d'autres métaux comme le gallium ou le magnésium.\n\nCela représente un enjeu géopolitique majeur.
+
+https://www.usgs.gov/publications/mineral-commodity-summaries-2023
+
+Voir la table 5 pour la liste des métaux critiques dont la Chine est le principal producteur.
+
+TODO : enjeu géopolitique majeur
+
+[50] Une grande partie des exploitations minières se situent dans des pays en situation de <b>stress hydrique</b>, où les besoins en eau douce dépassent les ressources disponibles.
+
+https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise
+
+Voir la section 1.3.2
+
+TODO : faire le lien avec les cartes [18]
 
 ### Cartes "Conflits"
 [16]
@@ -105,7 +139,7 @@ Format de la page source :
 [22]
 [23]
 
-
+mineralinfo
 
 [1] **minerai** à mettre dans le glossaire ; nb : Le minerai de lithium peut aussi se trouver sous forme de saumûre (donc pas toujours une roche) ; nb : La notion de minerai est économique
 [2] **stériles miniers** à mettre dans le glossaire ; nb : La distinction stérile/minerai est économique
