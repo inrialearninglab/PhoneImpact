@@ -2,5 +2,5 @@ type,name,description,examples
 AM,Autres matières,"Plastique, Verre, céramique, matières synthétiques, etc...\n(40 à 70% du poids)","Plastique, Verre, Céramique, Matières synthétiques"
 MC,Métaux communs,"Aluminium, cuivre, nickel, etc...\n(L'extraction nécessite beaucoup de ressources et d'énergie)","Aluminium (Al), Cuivre (Cu), Nickel (Ni), Étain (Sn), Fer (Fe), Zinc (Zn), Magnésium (Mg)"
 MR,Métaux rares,"Lithium, tantale, indium, etc...\n(Non précieux mais peu fréquent dans le sol)","Lithium (Li), Cobalt (Co), Tantale (Ta), Indium (In), Antimoine (Sb), Tungstène (W), Gallium (Ga), Germanium (Ge), Manganèse (Mn), Silicium (Si)"
-TR,Terres rares,"Yttrium, néodyme, gadolinium, etc...\n(Pas si rare mais difficile à extraire)","Yttrium (Y), Néodyme (Nd), Dyprosium (Dy), Praséodyme (Pr), Europium (Eu), Gadolinium (Gd), Terbium (Tb) "
+TR,Terres rares,"Yttrium, néodyme, gadolinium, etc...\n(Pas si rare mais difficile à extraire)","Yttrium (Y), Néodyme (Nd), Dyprosium (Dy), Praséodyme (Pr)"
 MP,Métaux précieux,"Or, argent, platine, palladium, etc...\n(Précieux mais aussi rare, stratégique donc cher)","Or (Au), Argent (Ag), Platine (Pt), Palladium (Pd), Ruthenium (Ru)"
