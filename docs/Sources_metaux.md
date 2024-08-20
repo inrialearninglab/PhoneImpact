@@ -32,7 +32,7 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Ruthenium (Ru)
 
 ## Terres Rares
-Improprement appelées terres rares, il s'agit en fait principalement de la famille des lanthanides à laquelle on ajoute communément le scandium et l'yttrium. Ces 17 métaux forment ainsi un ensemble aux propriété voisines. Ils ne sont pas à proprement parlé rare mais sont difficiles à extraire. 
+Improprement appelées terres rares, il s'agit en fait principalement de la famille des lanthanides à laquelle on ajoute communément le scandium et l'yttrium. Ces 17 métaux forment ainsi un ensemble aux propriété voisines (https://www.ifpenergiesnouvelles.fr/article/les-terres-rares-transition-energetique-quelles-menaces-les-vitamines-lere-moderne). Ils ne sont pas à proprement parlé rare mais sont difficiles à extraire. 
 On retrouve ces métaux sous forme de traces dans la plupart des environnements naturels. Leurs propriétés électroniques, magnétiques, optiques ou encore catalytiques, en font des éléments particulièrement recherchés par l'industrie.
 
 Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des terres rares prises en compte :
