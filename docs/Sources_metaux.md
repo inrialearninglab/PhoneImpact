@@ -116,4 +116,5 @@ A noter qu'on retrouve également dans cette catégorie :
 - Bohrium (Bb)
 - Hassium (Hs)
 - Copernicium (Cn)
-- La famille des Actinides
+
+A noter que la famille des Actinides (AC, Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr) sont catégorisés à part par l'IFPEN, comme étant les métaux de l'énergie nuclaire.
