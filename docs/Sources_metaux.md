@@ -71,7 +71,7 @@ A noter que l'IFPEN liste également dans cette catégorie :
 - Scandium (Sc)
 - Prométhium (Pm)
 
-## Métaux Rare
+## Métaux Rare (de spécialité)
 Autrement appellé "métaux de spécialités", il s'agit de tous les autres métaux, plus rares ou peu abondants, ils sont les plus nombreux.
 
 Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux rares pris en compte :
@@ -87,3 +87,33 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Silicium (Si) 
 - Indium (In)
 
+A noter qu'on retrouve également dans cette catégorie :
+- Béryllium (Be)
+- Sodium (Na)
+- Potassium (K)
+- Calcium (Ca)
+- Vanadium (V)
+- Rubidium (Rb)
+- Strontium (Sr)
+- Zirconium (Zr)
+- Nobium (Nb)
+- Molybdène (Mo)
+- Technétium (Tc)
+- Cadmium (Cd)
+- Cézium (Cs)
+- Baryum (Ba)
+- Hafnium (Hf)
+- Rhénium (Re)
+- Mercure (Hg)
+- Thallium (Tl)
+- Bismuth (Bi)
+- Polonium (Po)
+- Francium (Fr)
+- Radium (Ra)
+- Rutherfordium (Rf)
+- Dubnium (Db)
+- Seaborgium (Sg)
+- Bohrium (Bb)
+- Hassium (Hs)
+- Copernicium (Cn)
+- La famille des Actinides
