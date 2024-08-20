@@ -11,6 +11,7 @@ Les métaux ne font pas l’objet d’une classification géologique parfaitemen
 Aussi appellés "Métaux de base", il s'agit de  métaux utilisés communément dans l'industrie. On les trouve en plus grande quantité dans la croûte terrestre que les autres métaux.
 
 Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux communs pris en compte :
+
 - Fer (Fe)
 - Aluminium (Al ) 
 - Cuivre (Cu) 
@@ -23,6 +24,7 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 La notion de préciosité n'est pas une notion chimique, c'est une notion stratégique qui a vocation a évoluer au cours du temps. Il ne faut pas confondre préciosité et rareté. La rareté d’un métal peut impliquer sa préciosité, mais c'est surtout son prix, et donc la demande et les stocks disponibles, qui détermine sa préciosité.
 
 Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux précieux pris en compte :
+
 - Or (Au) 
 - Argent (Ag) 
 - Palladium (Pd) 
@@ -30,10 +32,11 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Ruthenium (Ru)
 
 ## Terres Rares
-Improprement appelées terres rares, il s'agit en fait de la famille des lanthanides, un ensemble de métaux aux propriété voisines. Ces métaux ne sont pas à proprement parlé rare mais sont difficiles à extraire. 
+Improprement appelées terres rares, il s'agit en fait principalement de la famille des lanthanides à laquelle on ajoute communément le scandium et l'yttrium. Ces 17 métaux forment ainsi un ensemble aux propriété voisines (https://www.ifpenergiesnouvelles.fr/article/les-terres-rares-transition-energetique-quelles-menaces-les-vitamines-lere-moderne). Ils ne sont pas à proprement parlé rare mais sont difficiles à extraire. 
 On retrouve ces métaux sous forme de traces dans la plupart des environnements naturels. Leurs propriétés électroniques, magnétiques, optiques ou encore catalytiques, en font des éléments particulièrement recherchés par l'industrie.
 
 Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des terres rares prises en compte :
+
 - Dysprosium (Dy)
 - Néodyme (Nd) 
 - Yttrium (Y)
@@ -43,6 +46,7 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 Autrement appellé "métaux de spécialités", il s'agit de tous les autres métaux, plus rares ou peu abondants, ils sont les plus nombreux.
 
 Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux rares pris en compte :
+
 - Antimoine (Sb) 
 - Cobalt (Co) 
 - Lithium (Li) 

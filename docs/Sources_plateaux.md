@@ -1,7 +1,8 @@
-# Explication sur les plateaux de jeu
+# Composition métallique des plateaux de jeu
 
 ## Décomposition
 Le plateau de jeu représente un smartphone composé de : 
+
 - l'écran tactile (dalle et vitre)
 - la batterie
 - la coque (et ses connectiques)
@@ -10,6 +11,7 @@ Le plateau de jeu représente un smartphone composé de :
 Ce choix de décomposition correspond à la réalité de la séparation des principaux composant lors du démontage d'un smartphone.
 
 La composition en terme de catégorie d'élements (Métal précieux, Métal rare, Métal commun, Terre rare, Autre matière) a été déterminé en tenant compte de plusieurs facteurs :
+
 - la présence reputé ou non de ces types d'éléments dans les composants (ex: présence de terre rare dans l'écran tactile mais pas dans la batterie), en se basant sur les sources décrites plus bas, a permis de décider si la catégorie d'éléménts serait nécessaire à la fabrication du composant
 - la quantité de la catégorie d'élements à rassembler pour fabriquer un composant (ex : 2 métaux commun et 1 métal rare pour la batterie) a été arbitrairement décidé à partir de plusieurs critères:
     - le nombre d'élements appartenant à cette catégorie réputé présent dans le composant, à partir des sources bilbiographiques décrites plus bas
@@ -24,6 +26,7 @@ Pour plus d'information sur les catégorisations de métaux, voir le fichier sou
 
 ## Composition métallique des différents plateaux et références bilbiographiques
 La liste des compositions qui suit n'a pas vocation a être exhaustive, c'est une liste constituée à partir de la liste de 25 métaux considérés comme critiques et faisant l'objet d'une étude ADEME sur la criticité des métaux nécessaires à l'industrie du numérique (bientôt publiée à date 07/2024) : 
+
 Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (Au), Argent (Ag), Palladium (Pd), Platine (Pt), Ruthenium (Ru), Aluminium (Al ), Cuivre (Cu), Etain (Sn), Nickel (Ni), Zinc (Zn), Antimoine (Sb), Cobalt (Co), Lithium (Li), Magnesium (Mg), Tantale (Ta), Tungstène (W), Gallium (Ga), Germanium (Ge), Manganèse (Mn), Silicium (Si)
 
 ### Carte mère (et composants associés : disque dur, caméra, système audio...)
