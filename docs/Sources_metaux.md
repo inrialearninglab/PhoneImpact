@@ -20,6 +20,13 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Nickel (Ni) 
 - Zinc (Zn) 
 
+A noter que l'IFPEN liste également dans cette catégorie :
+
+- Titane (Ti)
+- Manganèse (Mn)
+- Chrome (Cr)
+- Plomb (Pb)
+
 ## Métaux précieux
 La notion de préciosité n'est pas une notion chimique, c'est une notion stratégique qui a vocation a évoluer au cours du temps. Il ne faut pas confondre préciosité et rareté. La rareté d’un métal peut impliquer sa préciosité, mais c'est surtout son prix, et donc la demande et les stocks disponibles, qui détermine sa préciosité.
 
@@ -30,6 +37,12 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Palladium (Pd) 
 - Platine (Pt) 
 - Ruthenium (Ru)
+
+A noter que l'IFPEN liste également dans cette catégorie :
+
+- Iridium (Ir)
+- Osmium (Os)
+- Rhodium (Rh)
 
 ## Terres Rares
 Improprement appelées terres rares, il s'agit en fait principalement de la famille des lanthanides à laquelle on ajoute communément le scandium et l'yttrium. Ces 17 métaux forment ainsi un ensemble aux propriété voisines (https://www.ifpenergiesnouvelles.fr/article/les-terres-rares-transition-energetique-quelles-menaces-les-vitamines-lere-moderne). Ils ne sont pas à proprement parlé rare mais sont difficiles à extraire. 
@@ -42,7 +55,23 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Yttrium (Y)
 - Praséodyme (Pr) 
 
-## Métaux Rare
+A noter que l'IFPEN liste également dans cette catégorie :
+
+- Lanthane (La)
+- Cérium (Ce)
+- Samarium (Sm)
+- Europium (Eu)
+- Gadolinium (Gd)
+- Terbium (Tb)
+- Erbium (Er)
+- Holmium (Ho)
+- Thulium (Tm)
+- Ytterbium (Yb)
+- Lutécium (Lu)
+- Scandium (Sc)
+- Prométhium (Pm)
+
+## Métaux Rare (de spécialité)
 Autrement appellé "métaux de spécialités", il s'agit de tous les autres métaux, plus rares ou peu abondants, ils sont les plus nombreux.
 
 Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux rares pris en compte :
@@ -58,3 +87,34 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Silicium (Si) 
 - Indium (In)
 
+A noter qu'on retrouve également dans cette catégorie :
+- Béryllium (Be)
+- Sodium (Na)
+- Potassium (K)
+- Calcium (Ca)
+- Vanadium (V)
+- Rubidium (Rb)
+- Strontium (Sr)
+- Zirconium (Zr)
+- Nobium (Nb)
+- Molybdène (Mo)
+- Technétium (Tc)
+- Cadmium (Cd)
+- Cézium (Cs)
+- Baryum (Ba)
+- Hafnium (Hf)
+- Rhénium (Re)
+- Mercure (Hg)
+- Thallium (Tl)
+- Bismuth (Bi)
+- Polonium (Po)
+- Francium (Fr)
+- Radium (Ra)
+- Rutherfordium (Rf)
+- Dubnium (Db)
+- Seaborgium (Sg)
+- Bohrium (Bb)
+- Hassium (Hs)
+- Copernicium (Cn)
+
+A noter que la famille des Actinides (AC, Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr) sont catégorisés à part par l'IFPEN, comme étant les métaux de l'énergie nuclaire.
