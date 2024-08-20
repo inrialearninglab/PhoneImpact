@@ -20,6 +20,13 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Nickel (Ni) 
 - Zinc (Zn) 
 
+A noter que l'IFPEN liste également dans cette catégorie :
+
+- Titane (Ti)
+- Manganèse (Mn)
+- Chrome (Cr)
+- Plomb (Pb)
+
 ## Métaux précieux
 La notion de préciosité n'est pas une notion chimique, c'est une notion stratégique qui a vocation a évoluer au cours du temps. Il ne faut pas confondre préciosité et rareté. La rareté d’un métal peut impliquer sa préciosité, mais c'est surtout son prix, et donc la demande et les stocks disponibles, qui détermine sa préciosité.
 
@@ -31,6 +38,12 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Platine (Pt) 
 - Ruthenium (Ru)
 
+A noter que l'IFPEN liste également dans cette catégorie :
+
+- Iridium (Ir)
+- Osmium (Os)
+- Rhodium (Rh)
+
 ## Terres Rares
 Improprement appelées terres rares, il s'agit en fait principalement de la famille des lanthanides à laquelle on ajoute communément le scandium et l'yttrium. Ces 17 métaux forment ainsi un ensemble aux propriété voisines (https://www.ifpenergiesnouvelles.fr/article/les-terres-rares-transition-energetique-quelles-menaces-les-vitamines-lere-moderne). Ils ne sont pas à proprement parlé rare mais sont difficiles à extraire. 
 On retrouve ces métaux sous forme de traces dans la plupart des environnements naturels. Leurs propriétés électroniques, magnétiques, optiques ou encore catalytiques, en font des éléments particulièrement recherchés par l'industrie.
@@ -41,6 +54,22 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Néodyme (Nd) 
 - Yttrium (Y)
 - Praséodyme (Pr) 
+
+A noter que l'IFPEN liste également dans cette catégorie :
+
+- Lanthane (La)
+- Cérium (Ce)
+- Samarium (Sm)
+- Europium (Eu)
+- Gadolinium (Gd)
+- Terbium (Tb)
+- Erbium (Er)
+- Holmium (Ho)
+- Thulium (Tm)
+- Ytterbium (Yb)
+- Lutécium (Lu)
+- Scandium (Sc)
+- Prométhium (Pm)
 
 ## Métaux Rare
 Autrement appellé "métaux de spécialités", il s'agit de tous les autres métaux, plus rares ou peu abondants, ils sont les plus nombreux.
