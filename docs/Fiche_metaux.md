@@ -165,6 +165,7 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 
     Le silicium métal utilisé dans les équipements numériques est du polysilicium affiné à un niveau de pureté extrême de 10N à 13N . Il est apprécié dans la microélectronique pour ses propriétés semi-conductrices utiles au fonctionnement des circuits intégrés, au stockage et à la transmission d’information.
 - Indium (In)
+
     La principale application de l'indium est la production de films minces d’oxyde d’indium-étain (ITO). Lorsqu'il est déposé sous forme de film mince sur du verre ou du plastique transparent, il fonctionne comme une électrode transparente. Doté d’un point de fusion bas, il est utilisé dans les soudures, en tant que matériau d’interface thermique ou encore dans des alliages. 
 
 On retrouve également dans cette catégorie :
