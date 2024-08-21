@@ -1,4 +1,6 @@
-# Répartition des métaux en différentes catégories
+# Répartition des métaux en différentes catégories 
+
+Attention : fichier plus utile depuis la fusion avec la fiche métaux, contient juste en + le calcul des % métaux à la fin sur les données de la fiche concept
 
 ## Rappel : abstration nécessaire au jeu
 Par soucis de simplification et pour fluidifier le jeu, il nous a semblé pertinent de répartir les métaux en différentes catégories, dont certaines sont plus ou moins communément admise et utilisée par l'industrie.
