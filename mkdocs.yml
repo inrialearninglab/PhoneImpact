@@ -8,6 +8,7 @@ theme:
   custom_dir: custom/
   features:
     - navigation.tabs
+    - navigation.footer
   palette:
     primary: teal
     accent: amber
