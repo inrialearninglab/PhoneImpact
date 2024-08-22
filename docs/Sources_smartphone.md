@@ -99,6 +99,7 @@ Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (
 
 #### Métaux Rare (x1)
 - Silicium (Si) : Adhésifs en caoutchouc. Bookhagen, et al. (2020)
+- Antoine (Sb) : plastiques
 
 
 ## Références bibliographiques :
