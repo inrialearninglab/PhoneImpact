@@ -15,7 +15,7 @@ Même si les métaux ne font pas l’objet d’une classification géologique pa
 Voici notre définition des différentes catégories utilisées dans le jeu, basée sur celle de l'[IFPEN][IFPEN] (IFP Energies nouvelles, anciennement l'Institut Français du Pétrole).
 
 ## Des métaux communs
-Aussi appellés "Métaux de base", il s'agit de  métaux utilisés communément dans l'industrie. On les trouve en concentration généralement plus élevée que les autres métaux dans la croûte terrestre.
+Il s'agit principalement des "Métaux de base", des métaux utilisés communément dans l'industrie. On les trouve en concentration généralement plus élevée que les autres métaux dans la croûte terrestre. Pour cette raison, à la liste classique des métaux de base on a ajouté le Silicium, également très abondant dans la croûte terrestre.
 
 Les métaux communs composent la majorité des métaux d'un smartphone.
 
@@ -36,7 +36,11 @@ Parmis les métaux considérés dans la préparation de ce jeu, voici la liste d
     Le magnésium est utilisé majoritairement dans le secteur de l’automobile car il permet de réduire le poids total des véhicules. De nombreuses grandes entreprises automobiles ont déjà remplacé l'acier et l'aluminium par du magnésium dans diverses parties de leurs produits (boîte de vitesses, colonne de direction, boîtiers des airbags du conducteur, etc.) 
 - Manganèse (Mn)
 
-    Le manganèse est principalement utilisé dans les processus métallurgiques, comme additif désoxydant et désulfurant et comme constituant d'alliage. Dans le secteur du bâtiment et de la construction, le manganèse est principalement utilisé pour la production d'acier. Il s'agit d'un élément d’alliage qui confère résistance, dureté et formabilité aux aciers à haute résistance et aux aciers spéciaux. Il est également utilisé dans la production de batteries, dans la fabrication de produits chimiques, dans la fabrication de verre, dans les industries du cuir et du textile, et comme engrais 
+    Le manganèse est principalement utilisé dans les processus métallurgiques, comme additif désoxydant et désulfurant et comme constituant d'alliage. Dans le secteur du bâtiment et de la construction, le manganèse est principalement utilisé pour la production d'acier. Il s'agit d'un élément d’alliage qui confère résistance, dureté et formabilité aux aciers à haute résistance et aux aciers spéciaux. Il est également utilisé dans la production de batteries, dans la fabrication de produits chimiques, dans la fabrication de verre, dans les industries du cuir et du textile, et comme engrais.
+- Silicium (Si) 
+
+    Le silicium métal utilisé dans les équipements numériques est du polysilicium affiné à un niveau de pureté extrême de 10N à 13N . Il est apprécié dans la microélectronique pour ses propriétés semi-conductrices utiles au fonctionnement des circuits intégrés, au stockage et à la transmission d’information.
+
 - Nickel (Ni) 
 
     Le nickel est souvent allié à d’autres métaux, dont le chrome, pour composer des aciers spéciaux tels que l’acier inoxydable. En 2022, celui-ci représente le premier secteur de consommation du nickel avec 2/3 de la consommation totale. Le nickel est également utilisé à 15% dans les batteries rechargeables à destination notamment des véhicules électriques. Il est très apprécié dans la fabrication des équipements numériques, notamment pour sa résistance à la corrosion et l’usure, son point de fusion élevé, sa ductilité, sa malléabilité et pour ses propriétés magnétiques.
@@ -161,9 +165,6 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Germanium (Ge) 
 
     Le germanium est apprécié dans les équipements numériques pour ses propriétés semi-conductrices et optiques. 
-- Silicium (Si) 
-
-    Le silicium métal utilisé dans les équipements numériques est du polysilicium affiné à un niveau de pureté extrême de 10N à 13N . Il est apprécié dans la microélectronique pour ses propriétés semi-conductrices utiles au fonctionnement des circuits intégrés, au stockage et à la transmission d’information.
 - Indium (In)
 
     La principale application de l'indium est la production de films minces d’oxyde d’indium-étain (ITO). Lorsqu'il est déposé sous forme de film mince sur du verre ou du plastique transparent, il fonctionne comme une électrode transparente. Doté d’un point de fusion bas, il est utilisé dans les soudures, en tant que matériau d’interface thermique ou encore dans des alliages. 
