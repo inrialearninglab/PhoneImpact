@@ -6,6 +6,8 @@ use_directory_urls: false
 theme:
   name: material
   custom_dir: custom/
+  features:
+    - navigation.tabs
   palette:
     primary: teal
     accent: amber
