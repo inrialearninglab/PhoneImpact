@@ -49,7 +49,7 @@ Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (
 - Nickel (Ni) : Finitions de circuits imprimés, Bobine d’acier inoxydable. Bookhagen, et al. (2020)
 - Zinc (Zn) :  Vis. Bookhagen, et al. (2020)
 
-#### Métaux Rare (x5)
+#### Autres Métaux (x5)
 - Cobalt (Co) : Aimants, HDD et SDD, circuits intégrés (JRC, 2023)
 - Tantale (Ta) : Condensateurs, Filtres. Manhard, et al. (2016)
 - Tungstène (W) :  Vibrateur. Manhard, et al. (2016)
@@ -68,7 +68,7 @@ Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (
 - Aluminium (Al ) : Autres petites pièces. Manhard, et al. (2016)
 - Etain (Sn) : Couches d’ITO (Indium Tin Oxide). Manhard, et al. (2016)
 
-#### Métaux Rare (x3) 
+#### Autres Métaux (x3) 
 - Gallium (Ga) : Rétro-éclairage d’écran LCD. (Manhard, Blepp, Fischer, & Graulich, Resource Efficiency in the ICT Sector, Final Report, 2016)
 - Silicium (Si) : Rétro-éclairage Ecran LCD. Bookhagen, et al. (2020)
 - Indium (In) : LED, couches ITO (Indium Tin Oxide). Sander, et al. (2019)
@@ -82,7 +82,7 @@ Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (
 - Nickel (Ni) : Batterie NiMH. COREPILE, 2023
 - Cuivre (Cu) : Collecteur anodique. Manhard, et al. (2016)
 
-#### Métaux Rare (x3)
+#### Autres Métaux (x3)
 - Cobalt (Co) : Cathode. Manhard, et al. (2016)
 - Lithium (Li) : Cathode/Anode. IRIS, 2021
 - Manganèse (Mn) : Bookhagen, et al. (2020)
@@ -97,7 +97,7 @@ Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (
 - Zinc (Zn) : Vis. Bookhagen, et al. (2020)
 - Magnesium (Mg) : transfert et la dissipation de la chaleur, protection contre interférences electromagnetiques. International Magnesium Association, 2023
 
-#### Métaux Rare (x1)
+#### Autres Métaux (x1)
 - Silicium (Si) : Adhésifs en caoutchouc. Bookhagen, et al. (2020)
 - Antoine (Sb) : plastiques
 

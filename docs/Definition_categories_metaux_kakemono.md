@@ -14,7 +14,7 @@ Rares  mais surtout de grande valeur économique, ils sont utilisés majoritaire
 Les terres rares, à ne pas confondre avec les métaux rares, ne le sont pas tant du fait de leur rareté mais parce qu’elles sont difficiles à extraire. Leur extraction génère des déchets radioactifs. Les extraire nécessite des procédés complexes et très polluants. Elles sont
 recherchées pour leurs propriétés électroniques, magnétiques et optiques.
 
-## D'autres métaux rares (~15%*)
+## D'autres métaux (~15%*)
 Catégorie rassemblant principalement des "métaux de spécialités", il s'agit de tous les autres métaux, plus rares ou peu abondants sans pour autant avoir à ce jour une valeur économique qui les rend précieux. Leurs propriétés physico-chimiques permettent l'implémentation de nombreuses fonctionnalités d’un smartphone.
 
 
