@@ -4,8 +4,12 @@ repo_url: https://gitlab.inria.fr/learninglab/serious-game/smartphone
 repo_name: Source
 use_directory_urls: false
 theme:
+  logo: img/logo.png
   name: material
   custom_dir: custom/
+  features:
+    - navigation.tabs
+    - navigation.footer
   palette:
     primary: teal
     accent: amber
