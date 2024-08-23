@@ -1,4 +1,4 @@
-# Proportions métaux
+# Proportions des métaux dans un smartphone
 
 ## Calcul proportions métaux d'après les données de l'étude du sénat utilisé sur la fiche concept 
 
