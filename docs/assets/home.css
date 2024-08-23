@@ -33,6 +33,7 @@
 .home-img {
     aspect-ratio: 3/1;
     border-radius: 4px;
+    width: 100%;
 }
 
 .cards-title {
