@@ -1,6 +1,6 @@
 type,name,description,examples
-AM,Autres matières,"Plastique, Verre, céramique, matières synthétiques, etc...\n(40 à 70% du poids)","Plastique, Verre, Céramique, Matières synthétiques"
-MC,Métaux communs,"Aluminium, cuivre, nickel, etc...\n(L'extraction nécessite beaucoup de ressources et d'énergie)","Aluminium (Al), Cuivre (Cu), Nickel (Ni), Étain (Sn), Fer (Fe), Zinc (Zn), Magnésium (Mg), Manganèse (Mn)"
-MR,Autres métaux,"Lithium, tantale, indium, etc...\n(Non précieux mais peu fréquent dans le sol)","Lithium (Li), Cobalt (Co), Tantale (Ta), Indium (In), Antimoine (Sb), Tungstène (W), Gallium (Ga), Germanium (Ge), Silicium (Si)"
-TR,Terres rares,"Yttrium, néodyme, gadolinium, etc...\n(Pas si rare mais difficile à extraire)","Yttrium (Y), Néodyme (Nd), Dyprosium (Dy), Praséodyme (Pr)"
-MP,Métaux précieux,"Or, argent, platine, palladium, etc...\n(Précieux mais aussi rare, stratégique donc cher)","Or (Au), Argent (Ag), Platine (Pt), Palladium (Pd), Ruthenium (Ru)"
+MetauxCommuns,Métaux communs,"Abondants dans la croute terrestre, la plupart sont utilisés communément dans l'industrie. Certains peuvent demander une grande quantité d’énergie pour être extraits et raffinés","Aluminium (Al), Cuivre (Cu), Nickel (Ni), Étain (Sn), Fer (Fe), Zinc (Zn), Magnésium (Mg), Manganèse (Mn)"
+MetauxPrecieux,Métaux précieux,"Rares mais surtout de grande valeur économique, ils sont utilisés majoritairement dans les circuits imprimés","Or (Au), Argent (Ag), Platine (Pt), Palladium (Pd), Ruthenium (Ru)"
+TerresRares,Terres rares,"Les terres rares, à ne pas confondre avec les métaux rares, ne le sont pas tant du fait de leur rareté mais parce qu’elles sont difficiles à extraire","Yttrium (Y), Néodyme (Nd), Dyprosium (Dy), Praséodyme (Pr)"
+AutresMetaux,Autres métaux,"Catégorie rassemblant principalement des 'métaux de spécialités', il s'agit de tous les autres métaux, plus rares ou peu abondants sans pour autant avoir à ce jour une valeur économique qui les rend précieux","Lithium (Li), Cobalt (Co), Tantale (Ta), Indium (In), Antimoine (Sb), Tungstène (W), Gallium (Ga), Germanium (Ge), Silicium (Si)"
+AutresMatieres,Autres matières,"40 à 70% du poids du smartphone","Plastique, Verre, Céramique, Matières synthétiques"
