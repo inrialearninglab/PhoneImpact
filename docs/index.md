@@ -12,7 +12,7 @@ Pour nous contacter: phoneimpact@inria.fr.
 
     - **But du jeu :** Sensibiliser à l'impact environnemental des composants d'un smartphone
     - **Joueurs :** 3 à 5
-    - **Âge :** Dès 12 ans
+    - **Âge :** Dès 14 ans
     - **Durée :** 40 min
 
 ![Aperçu du jeu sur une table](img/LS-PhoneImpactTableDeJeu.jpg){ width="300" }
