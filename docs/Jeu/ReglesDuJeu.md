@@ -35,7 +35,7 @@ Le but du jeu est de rassembler assez de ressources pour construire tous les com
 Cependant, l'acquisition des ressources peut s'accompagner de malus qui auront des conséquences dans la suite du jeu.
 Les textes des cartes malus sont lues quand elles sont tirées.
 
-[Detail du matériel si besoin](./Materiel.md)
+[Detail du matériel si besoin](Materiel.md)
 
 ### Déroulement du jeu
 
@@ -68,7 +68,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
 
 En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
-![Recap des règles](img/AideDeJeu.jpeg){ width="300" }
+![Recap des règles](../img/AideDeJeu.jpeg){ width="300" }
 
 ### Après chaque tour de table, on tire une carte événement
 

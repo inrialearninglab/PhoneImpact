@@ -1,4 +1,4 @@
-# Sources du jeu
+# Sources des Malus du jeu
 ## Références
 Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impacts environnementaux du numérique" ainsi que sur la formation mobile ePoc "Smartphone et planète":
 

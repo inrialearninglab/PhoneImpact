@@ -15,22 +15,18 @@ Pour nous contacter: phoneimpact@inria.fr.
     - **Âge :** Dès 14 ans
     - **Durée :** 40 min
 
-![Aperçu du jeu sur une table](img/LS-PhoneImpactTableDeJeu.jpg){ width="300" }
+![Aperçu du jeu sur une table](../img/LS-PhoneImpactTableDeJeu.jpg){ width="300" }
 
 **Intérêt pédagogique :** Acquérir une compréhension globale de l'impact environnemental des composants d'un smartphone.
 
 **Objectifs pédagogiques :**
 
-- Calculer l'indice de réparabilité de son smartphone
-- Identifier les différents types de ressources nécessaires à la fabrication d’un smartphone
-- Identifier qu’il existe des filières de minage plus ou moins polluantes
-- Reconnaître qu'utiliser des métaux issus du recyclage est moins polluant mais pas toujours possible
-- Prendre conscience que les réserves minières sont limitées
-- S'interroger sur le fait que la pollution passée a des répercussions sur le présent
-- Déduire qu'il est possible de modifier le comportement d'un constructeur en ajoutant des pénalités s'il pollue
-- Prendre conscience que la pollution pour le recyclage n’est pas nulle (à mentionner dans le débrief)
-- Prendre conscience que la pollution des autres nous impacte aussi
-- Prendre conscience que ralentir/stopper la production est un moyen de dépolluer (quand on défausse les 2 cartes malus)
+- Identifier les différents types de métaux nécessaires à la fabrication d’un smartphone
+- Identifier les filières de minage plus ou moins polluantes
+- Connaître les grandes étapes de l'extraction minière
+- Lister les différents types de pollution liée à l'extraction des métaux
+- Prendre conscience qu'il existe des limites à l'extraction minière (teneur qui diminue, coût environnemental et énergétique qui augmente)
+- Avoir des pistes d'action pour limiter les impacts environnementaux
 
 **Expérience de jeu :**
 
@@ -47,14 +43,14 @@ Validation scientifique par des experts, garant de l’aspect “sérieux” du 
 
 ## Instructions pour l'animateur (matériel, règles, brief/debrief...)
 
-[Instructions pour animer le jeu](./InstructionsAnimateur.md)
+[Instructions pour animer le jeu](InstructionsAnimateur.md)
 
 ## License
 Le jeu PhoneImpact est sous license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International
 
 ## Print and play
 
-[Imprimer les cartes et le plateau](./PrintAndPlay.md)
+[Imprimer les cartes et le plateau](../PrintAndPlay/PrintAndPlay.md)
 
 ## Sources
-Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](Sources.md))
+Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](../Formation/Sources_malus.md))

@@ -1,18 +1,8 @@
 nav:
     - index.md
-    - Presentation.md
-    - InstructionsAnimateur.md
-    - PreparationJeu_V2.md
-    - Histoire.md
-    - Briefing.md
-    - ReglesDuJeu.md
-    - Debriefing.md
-    - Materiel.md
-    - Fiche_metaux.md
-    - PrintAndPlay.md
-    - Sources.md
-    - Calcul_proportions_metaux.md
-    - Sources_smartphone.md
-    - Evolutions_reglementaires.md
-    - Partie1
-    - Partie2
+    - Jeu
+    - PrintAndPlay
+    - Formation
+    - APropos
+    - Contacts.md
+

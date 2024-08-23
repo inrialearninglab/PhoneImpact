@@ -7,7 +7,7 @@
 }
 
 .hero-container {
-    background: linear-gradient(to bottom, #009485, #53dcec);
+    background: linear-gradient(to bottom, #7F86E8, #cd84f0);
     padding-bottom: .5rem;
 }
 
@@ -26,7 +26,7 @@
 
 .hero > p {
     color: white;
-    font-size: 1rem;
+    font-size: 1.5em;
     margin: 0;
 }
 
@@ -75,4 +75,8 @@
 
 .card-button:hover {
     opacity: 0.8;
+}
+.md-header, .md-tabs,.card-button {
+    background: #7F86E8;
+
 }
