@@ -11,7 +11,7 @@ theme:
     - navigation.tabs
     - navigation.footer
   palette:
-    primary: teal
+    primary: custom
     accent: amber
 extra_css:
   - assets/extra.css

@@ -7,7 +7,7 @@
 }
 
 .hero-container {
-    background: linear-gradient(to bottom, #7F86E8, #cd84f0);
+    background: linear-gradient(to bottom, var(--md-primary-fg-color), #cd84f0);
     padding-bottom: .5rem;
 }
 
@@ -65,7 +65,7 @@
 }
 
 .card-button {
-    background: #26a699;
+    background: #7F86E8;
     color: white !important;
     border: none;
     border-radius: 4px;
@@ -75,8 +75,4 @@
 
 .card-button:hover {
     opacity: 0.8;
-}
-.md-header, .md-tabs,.card-button {
-    background: #7F86E8;
-
 }
