@@ -65,7 +65,7 @@
 }
 
 .card-button {
-    background: #7F86E8;
+    background: var(--md-primary-fg-color);
     color: white !important;
     border: none;
     border-radius: 4px;
@@ -75,4 +75,8 @@
 
 .card-button:hover {
     opacity: 0.8;
+}
+.md-header, .md-tabs,.card-button {
+    background: #7F86E8;
+
 }
