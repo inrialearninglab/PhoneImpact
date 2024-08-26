@@ -9,9 +9,8 @@ Un smartphone est principalement constitué de métaux, de matières plastiques 
 Cependant, les méthodes d'extraction et de séparation des métaux en général font appel à des procédés complexes, énergivores et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. En plus, ces processus requièrent générallement de grandes quantités d'eau.
 
 ## Avertissement : abstration nécessaire au jeu
-Par soucis de simplification et pour fluidifier le jeu, il nous a semblé pertinent de répartir les métaux en différentes catégories. 
-Même si les métaux ne font pas l’objet d’une classification géologique parfaitement définie, mais ils peuvent néanmoins être catégorisés, de manière communément admise, dans des grandes familles industrielles.  
- 
+Par souci de simplification et pour fluidifier le jeu, il nous a semblé pertinent de répartir les métaux en différentes catégories. Cela correspond à une réalité industrielle mais pas à une classification géologique.
+
 Voici notre définition des différentes catégories utilisées dans le jeu, basée sur celle de l'[IFPEN][IFPEN] (IFP Energies nouvelles, anciennement l'Institut Français du Pétrole).
 
 ## Des métaux communs
