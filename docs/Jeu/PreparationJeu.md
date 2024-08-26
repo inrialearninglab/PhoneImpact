@@ -40,5 +40,6 @@ Enlever les cartes inutiles selon le nombre de joueurs. La pioche est déposée 
 
 ## Cartes Événements
 
-Il y a 14 cartes Événement classées dans l'ordre de numéro indiqué sur celles-ci et déposées en une pioche, face cachée.
-Ces cartes Événements déclencheront des actions particulières à chaque tour de jeu.
+Les cartes Évènements sont numérotées de 1 à 14, incluant une carte spéciale 1bis. 
+
+Chaque carte contient **un fait** qui se déroule à TechCity et **une action** à lire au début de chaque tour, applicable à tous les joueur·euse·s. Ces évènements introduisent des éléments imprévus et des défis supplémentaires, influençant le cours de la partie de manière significative.
