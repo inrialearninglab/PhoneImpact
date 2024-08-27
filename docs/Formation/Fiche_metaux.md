@@ -8,17 +8,16 @@ Un smartphone est principalement constitué de métaux, de matières plastiques 
 
 Cependant, les méthodes d'extraction et de séparation des métaux en général font appel à des procédés complexes, énergivores et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. En plus, ces processus requièrent générallement de grandes quantités d'eau.
 
-## Avertissement : abstration nécessaire au jeu
+## Avertissement : abstraction nécessaire au jeu
 Par souci de simplification et pour fluidifier le jeu, il nous a semblé pertinent de répartir les métaux en différentes catégories. Cela correspond à une réalité industrielle mais pas à une classification géologique.
 
 Voici notre définition des différentes catégories utilisées dans le jeu, basée sur celle de l'[IFPEN][IFPEN] (IFP Energies nouvelles, anciennement l'Institut Français du Pétrole).
 
 ## Des métaux communs
-Il s'agit des "Métaux de base", des métaux utilisés communément dans l'industrie. On les trouve en concentration généralement plus élevée que les autres métaux dans la croûte terrestre. 
-
+Aussi appelés "métaux de base", ces métaux sont utilisés communément dans l'industrie. Certains peuvent demander une grande quantité d’énergie pour être extraits et raffinés.
 Les métaux communs composent la majorité des métaux d'un smartphone.
 
-Parmis les métaux considérés dans la préparation de ce jeu, voici la liste des métaux communs pris en compte :
+Parmi les métaux considérés dans la préparation de ce jeu, voici la liste des métaux communs pris en compte :
 
 - Fer (Fe)
 - Aluminium (Al ) 
@@ -52,7 +51,7 @@ A noter que l'IFPEN liste également dans cette catégorie :
 
 ## Des métaux précieux
 
-La notion de préciosité n'est pas une notion chimique, c'est une notion stratégique qui a vocation a évoluer au cours du temps. Il ne faut pas confondre préciosité et rareté. La rareté d’un métal peut impliquer sa préciosité, mais c'est surtout son prix, et donc la demande et les stocks disponibles, qui détermine sa préciosité.
+La notion de préciosité n'est pas une notion chimique, c'est une notion stratégique qui a vocation à évoluer au cours du temps. Il ne faut pas confondre préciosité et rareté. La rareté d’un métal peut impliquer sa préciosité, mais c'est surtout son prix, et donc la demande et les stocks disponibles, qui détermine sa préciosité.
 
 La notion de métal précieux a varié au cours de l'histoire, essentiellement en fonction de l'offre et de la demande. Certains métaux précieux sont aujourd'hui essentiels au fonctionnement des smartphones, mais sont présents en très petite quantité : environ 0,5 % (en poids) de la totalité des métaux.
 
@@ -86,7 +85,7 @@ A noter que l'IFPEN liste également dans cette catégorie :
 
 ## Des terres rares
 
-Les terres rares, à ne pas confondre avec les métaux rares, ne le sont pas tant du fait de leur rareté mais parce qu’elles sont difficiles à extraire. Leur extraction génère des déchets radioactifs. 
+Malgré leur nom, les terres rares sont assez abondantes dans la croûte terrestre mais difficiles à extraire. Leur extraction génère des déchets radioactifs. Les extraire nécessite des procédés complexes et très polluants. 
 
 Il s'agit en fait principalement de la famille des lanthanides à laquelle on ajoute communément le scandium et l'yttrium. Ces 17 métaux forment ainsi un [ensemble aux propriété voisines][terres_rares].
 
@@ -127,8 +126,8 @@ A noter que l'IFPEN liste également dans cette catégorie :
 - Prométhium (Pm)
 
 ## D'autres métaux
+Un smartphone contient également de nombreux autres métaux qui ne sont ni communs, ni précieux ni des terres rares. Ils sont les plus nombreux.
 
-Autrement appellé "métaux de spécialités", il s'agit de tous les autres métaux, généralement plus rares ou peu abondants sans pour autant avoir à ce jour une valeur économique qui les rend précieux. Ils sont les plus nombreux.
 A noter que le Silicium se retrouve dans cette catégorie bien qu'il soit très abondant dans la croûte terrestre, sachant qu'il n'est de toute façon pas extrait en mine. 
 
 Ce sont des métaux spéciaux dont les propriétés physico-chimiques permettent l'implémentation de nombreuses fonctionnalités d’un smartphone. Le tantale, par exemple est extrêmement résistant et permet la miniaturisation. On les retrouve en seconde position dans la composition du smartphone (autour de 16% en poids des métaux).
