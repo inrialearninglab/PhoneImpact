@@ -1,6 +1,6 @@
 # Instructions animateur
 
-Tout d'abord, il est nécessaire de bien lire les règles du jeu avant de démarrer l'activité (Cf [Règles du jeu](ReglesDuJeu.md) et [matériel](Materiel.md)).
+Tout d'abord, il est nécessaire de bien lire les règles du jeu avant de démarrer l'activité (Cf [Règles du jeu](../Jeu/ReglesDuJeu.md) et [matériel](../Jeu/Materiel.md)).
 
 Préparez des tables avec 3 à 5 chaises selon le nombre de joueurs.
 Éventuellement, avoir un écran de grande taille ou video-projecteur OU poster/kakemono pour les concepts et les règles. Les préparer selon le support.

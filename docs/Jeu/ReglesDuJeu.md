@@ -1,4 +1,4 @@
-# Règles du jeu
+# Déroulement du jeu
 
 ## Règles du jeu pour une partie en 45'
 ### Présentation du jeu

@@ -1,15 +1,17 @@
-# Préparation du jeu (Version Print&Play)
-Pour cette version, vous pouvez utiliser : 
+# Mise en place
 
+Pour cette version, vous pouvez utiliser :
 - soit la version Print&Play du jeu 
 - soit la boite de jeu
 
-## Plateau de jeu à construire
+## Exemple d'une mise en place à 4 joueur.euse.s
+
+### Plateau de jeu à construire
 Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
 
 ![Disposition des cartes et des plateaux](../img/materiel.jpeg)
 
-## 3 pioches de cartes ressources
+### Cartes ressources
 Les cartes ressources doivent être bien mélangées puis rassemblées en pioche, chacune représentant des ressources vendues par un fournisseur:
 
 - PolluPlus
@@ -24,7 +26,7 @@ Les cartes ressources doivent être bien mélangées puis rassemblées en pioche
     - 1 carte ressource est placée face visible à droite de la pioche
     - la carte recap de Recyclage qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche (A noter que cette pile ne contient pas de terres rares, ni de métaux rares)
 
-## Cartes Malus
+### Cartes Malus
 Préparation de la pioche des cartes malus:
 
 - placer au début de la pioche les cartes malus de numéroté de 1 à 5
@@ -38,7 +40,7 @@ Le nombre de cartes Malus est : nombre de joueurs*12, c'est-à-dire :
 
 Enlever les cartes inutiles selon le nombre de joueurs. La pioche est déposée face cachée.
 
-## Cartes Événements
+### Cartes Événements
 
 Les cartes Évènements sont numérotées de 1 à 14, incluant une carte spéciale 1bis. 
 

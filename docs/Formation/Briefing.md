@@ -17,4 +17,4 @@
 
 
 ## Histoire
-- Histoire à raconter au début: "[Dans la ville de Techcity...](Histoire.md)"
+- Histoire à raconter au début: "[Dans la ville de Techcity...](../Jeu/Histoire.md)"

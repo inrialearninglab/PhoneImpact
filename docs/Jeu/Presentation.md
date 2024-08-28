@@ -43,7 +43,7 @@ Validation scientifique par des experts, garant de l’aspect “sérieux” du 
 
 ## Instructions pour l'animateur (matériel, règles, brief/debrief...)
 
-[Instructions pour animer le jeu](InstructionsAnimateur.md)
+[Instructions pour animer le jeu](../Formation/InstructionsAnimateur.md)
 
 ## License
 Le jeu PhoneImpact est sous license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International

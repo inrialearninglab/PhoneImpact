@@ -1,6 +1,6 @@
-# Détail du matériel
-
-## Matériel
+# Éléments de jeu
+## Inventaire du matériel
+## Description des éléments
 
 ![Boite](../img/Boite.png)
 
