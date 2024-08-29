@@ -4,17 +4,6 @@
     <img alt="InventaireMateriel.png" src="../img/InventaireMateriel.png" width="450" />
 </center>
 
-### *Composition des cartes ressources en détail*
-
-| Type de resssources| PolluPlus | PolluMoins | Recyclage | Total |
-| -------- |-----------|------------|-----------|-----------|
-| Métaux communs | 20        | 10         | 6         |36|
-| Métaux rares | 20        | 10         | 0         |30|
-| Terres rares | 8         | 4          | 0         |12|
-| Métaux précieux | 6         | 4          | 2         |12|
-| Autres Matières | 27        | 14         | 7         |48|
-| **Somme** | 81        | 42         | 15        |138|  
-
 ## Description des éléments   
 
 ### Plateau Smartphone  
