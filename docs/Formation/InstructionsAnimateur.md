@@ -9,6 +9,6 @@ Sur chaque table, préparer les jeux : [Préparation du jeu ](PreparationJeu)
 
 Une fois que les élèves sont arrivés :
 
-- [Briefing: expliquer les concepts en s'appuyant sur les kakemonos](Briefing.md)
+- [Briefing: expliquer les concepts en s'appuyant sur les kakemonos](../Animation/Briefing.md)
 - Expliquer les [règles du jeu](ReglesDuJeu)
-- [Debriefing](Debriefing.md)
+- [Debriefing](../Animation/Debriefing.md)

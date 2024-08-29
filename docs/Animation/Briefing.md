@@ -2,7 +2,7 @@
 
 ## Les concepts : plus de 50 éléments chimiques dans mon smartphone ?!
 - [kakemono](../pdf/docCommuns/Kakemono_PhoneImpact.pdf)
-- [les différents types de métaux](./Fiche_metaux.md)
+- [les différents types de métaux](../Formation/Fiche_metaux.md)
     - En 1950, on dénombrait une douzaine de métaux dans nos bons vieux téléphones fixes. Le smartphone d'aujourd'hui, beaucoup plus petit et fin, contient plus de 50 métaux : une condition pour avoir toutes les fonctionnalités de nos équipements !
     - Les métaux représentent 40 à 60 % des matériaux dans la composition d'un smartphone. Parmi ces métaux, 80 à 85 % sont des métaux dits communs comme *le cuivre, l'aluminium, l'étain, le fer, le zinc ou le nickel*... Ces métaux sont utilisés dans l'industrie depuis longtemps et sont abondants dans la croûte terrestre.
     - Cependant, les méthodes d'extraction et de séparation des métaux en général font appel à des procédés complexes, énergivores et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. En plus, ces processus requièrent de grandes quantités d'eau.
