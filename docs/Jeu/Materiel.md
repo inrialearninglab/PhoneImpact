@@ -4,7 +4,7 @@
     <img alt="InventaireMateriel.png" src="../img/InventaireMateriel.png" width="450" />
 </center>
 
-### *Composition des cartes ressources en détails*
+### *Composition des cartes ressources en détail*
 
 | Type de resssources| PolluPlus | PolluMoins | Recyclage | Total |
 | -------- |-----------|------------|-----------|-----------|
