@@ -30,9 +30,8 @@ CSV.foreach('data/csv/resources_distribution.csv', headers: true) do |row|
     resources['examples'] << (-> {
       if tmp_examples == '' then tmp_examples = examples end
 
-      res = tmp_examples.split(',').sample
+      res = tmp_examples.split(',').shift
 
-      # search & remove res from tmp_examples
       tmp_examples = tmp_examples.split(',').reject { |e| e == res }.join(',')
 
       res

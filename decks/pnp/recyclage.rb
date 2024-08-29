@@ -17,12 +17,6 @@ recyclage = {
 index = 0
 cards_per_sheet = 8
 
-# Return a random example from the list
-
-def get_example(examples)
-  res = examples.split(',').sample
-end
-
 CSV.foreach('data/csv/resources_distribution.csv', headers: true) do |row|
   type = row['type']
   deck = row['deck']
@@ -52,7 +46,8 @@ CSV.foreach('data/csv/resources_distribution.csv', headers: true) do |row|
     recyclage['examples'] << (-> {
       if tmp_examples == '' then tmp_examples = examples end
 
-      res = get_example(tmp_examples)
+      # res = get_example(tmp_examples)
+      res = tmp_examples.split(',').shift
 
       # search & remove res from tmp_examples
       tmp_examples = tmp_examples.split(',').reject { |e| e == res }.join(',')
