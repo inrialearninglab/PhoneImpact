@@ -1,47 +1,40 @@
 # Mise en place
+## Plateau de jeu à construire
+<center>
+<img alt="TableDeJeu.png" src="../img/TableDeJeu.png" width="550"/>  
+_Exemple d'une mise en place à 4 joueur.euses_
+</center>
 
-Pour cette version, vous pouvez utiliser :
-- soit la version Print&Play du jeu 
-- soit la boite de jeu
+### Etape 1
 
-## Exemple d'une mise en place à 4 joueur.euse.s
+Mélangez les cartes **Ressources** de chaque fournisseur (**PolluPlus**, **PolluMoins**, **Recycl’**) pour former 3 pioches, faces cachées :material-numeric-1-circle-outline: .   
+Les 3 pioches sont disposées en colonne au centre de la table : **PolluPlus** en haut, **PolluMoins** au centre, **Recycl’** en bas :material-numeric-1-circle-outline: .   
+  
+À droite de chaque pioche, retournez face visible : 3 cartes chez **PolluPlus** :material-numeric-2-circle-outline: , 2 cartes chez **PolluMoins** :material-numeric-3-circle-outline:, 1 carte chez **Recycl’** :material-numeric-4-circle-outline:.  
+  
+À gauche de chaque pioche, :material-numeric-5-circle-outline: disposez les cartes **Synthèse des ressources** pour chaque fournisseur.
+  
+### Etape 2
 
-### Plateau de jeu à construire
-Chaque joueur possède un smartphone à construire en assemblant les 4 composants : Coque, Carte Mère, Batterie, Ecran Tactile.
+Constituez votre pioche de cartes **Malus** :material-numeric-6-circle-outline: en fonction du nombre de joueur·euses.  
+Pour cela, placez **les cartes  1/6 à 6/6** par ordre croissant et mettez-les de côté. 
 
-![Disposition des cartes et des plateaux](../img/materiel.jpeg)
+Selon **le nombre de joueur·euses**, sélectionnez les cartes **Malus** de la manière suivante :
 
-### Cartes ressources
-Les cartes ressources doivent être bien mélangées puis rassemblées en pioche, chacune représentant des ressources vendues par un fournisseur:
+- dans une partie à 3, **les cartes 3+** sont utilisées. Les cartes 4+ et 5+ sont remises dans la boîte 
+- dans une partie à 4, **les cartes 3+ et 4+** sont utilisées. Les cartes 5+ sont remises dans la boîte 
+- dans une partie à 5, **toutes les cartes** sont utilisées.    
 
-- PolluPlus
-    - 3 cartes ressources sont placées face visible à droite de la pioche
-    - la carte recap de PolluPlus qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche
+Mélangez la pile constituée et ajoutez les 6 premières cartes malus au-dessus de la pioche.
 
-- PolluMoins
-    - 2 cartes ressources sont placées face visible à droite de la pioche
-    - la carte recap de PolluMoins qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche
+!!! note "Remarque"
+    | Nombres de joueur·euses          | 3 joueur·euses | 4 joueur·euses | 5 joueur·euses |
+    |-----------|-----------|-----------|-----------|
+    | **Nombres de cartes Malus** | 36 cartes Malus          |  48 cartes Malus         |  60 cartes Malus         |
+    | **Composition de la pioche malus** |   Cartes 1/6 à 6/6 et cartes Malus 3+        |    Cartes 1/6 à 6/6 et cartes Malus 3+ et cartes 4+       |    Cartes 1/6 à 6/6 et le reste des cartes       |
 
-- Recyclage
-    - 1 carte ressource est placée face visible à droite de la pioche
-    - la carte recap de Recyclage qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche (A noter que cette pile ne contient pas de terres rares, ni de métaux rares)
+### Etape 3
 
-### Cartes Malus
-Préparation de la pioche des cartes malus:
-
-- placer au début de la pioche les cartes malus de numéroté de 1 à 5
-- mélanger les autres cartes et les placer en dessous de la pioche
-
-Le nombre de cartes Malus est : nombre de joueurs*12, c'est-à-dire :
-
-- 36 pour 3 joueurs, 
-- 48 pour 4 joueurs, 
-- 60 pour 5 joueurs.
-
-Enlever les cartes inutiles selon le nombre de joueurs. La pioche est déposée face cachée.
-
-### Cartes Événements
-
-Les cartes Évènements sont numérotées de 1 à 14, incluant une carte spéciale 1bis. 
-
-Chaque carte contient **un fait** qui se déroule à TechCity et **une action** à lire au début de chaque tour, applicable à tous les joueur·euse·s. Ces évènements introduisent des éléments imprévus et des défis supplémentaires, influençant le cours de la partie de manière significative.
+Chaque joueur·euse reçoit un **plateau Smartphone** :material-numeric-7-circle-outline: individuel.  
+Placez la pioche **Événements** :material-numeric-8-circle-outline: , face cachée, sur la table. Les cartes Événements sont classées par ordre croissant au début de la partie (1, 1 bis, 2, ... 14) , avec la carte n°1 en haut de la pile.  
+Une **Aide de jeu** est à disposition de tous les joueur·euses  :material-numeric-9-circle-outline:     .  
