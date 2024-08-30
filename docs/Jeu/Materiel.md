@@ -11,8 +11,8 @@
 
 Chaque plateau smartphone est constitué de 4 composants : **Coque**, **Carte mère**, **Batterie** et **Écran tactile**.    
 La fabrication d'un composant rapporte des points, indiqués sur le plateau à côté du nom du composant. 
-Chaque composant est constitué de **ressources** représentées sous forme de **type de ressources** (Métaux communs, Métaux précieux, Terres rares, Autres métaux et Autres matières).
-Les carrés disposés sur chaque ressource indiquent le nombre de ressources nécessaires pour **fabriquer** chaque composant.
+Chaque composant est constitué de **ressources** représentées sous forme de **type de ressources** (Métaux communs, Métaux précieux, Terres rares, Autres métaux et Autres matières).  
+Les carrés disposés sur chaque ressource indiquent le **nombre** de ressources nécessaires pour **fabriquer** chaque composant.
 
 !!! note "Remarque"
     - Par souci de simplification, la **carte mère** désigne l'ensemble des composants électroniques associés : processeur, mémoire vive, disque dur, haut-parleur, microphone, caméras, antenne...  
@@ -107,7 +107,6 @@ Chaque carte Malus apporte une information sur la production des métaux, en par
 
 !!! note "Remarque"
     Le numéro en bas à gauche indique le numéro de la carte Malus, utile pour retrouver les sources associées sur la page "source Malus".
-Le chiffre en bas à droite indique dans quelles **configurations -nombres de joueur·euses** - le malus est utilisé.  
-**Exemple :** dans une partie à 3 joueur·euses, les cartes 3+ sont utilisées et les cartes 4+ et 5+ sont remises dans la boîte.
-
+Le chiffre en bas à droite indique dans quelles **configurations -nombres de joueur·euses** - le malus est utilisé.
 <br clear="left"/>
+**Exemple :** dans une partie à 3 joueur·euses, les cartes 3+ sont utilisées et les cartes 4+ et 5+ sont remises dans la boîte.

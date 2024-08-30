@@ -30,20 +30,7 @@ Le jeu PhoneImpact est sous license [CC BY-NC-SA 4.0](https://creativecommons.or
 ## Sources
 Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](../Formation/Sources_malus.md))
 
-## Materiel 
-### Plateau *Smartphones*
-Il y a dans le jeux 5 **plateaux Smartphones** de 4 composants chacun : Coque, Carte Mère, Batterie, Ecran Tactile (chaque composant est une carte épaisse). Les 4 cartes "composants" assemblées représentent un smartphone au format A4.
-
-Chaque **composant** est constitué de ressources qui apparaissent sur la carte.
-
-Les **ressources** sont désignées par des types de ressources qui sont les suivants dans le jeu :
-
-- Métal précieux : Or, argent, platine, palladium, etc... (Précieux mais aussi rare, stratégique donc cher)
-- Métal rare : Lithium, tantale, indium, etc... (Non précieux mais peu fréquent dans le sol)
-- Métal commun (et non rares): Aluminium, cuivre, nickel, etc... (L'extraction nécessite beaucoup de ressources et d'énergie)
-- Terre rare : Yttrium, néodyme, gadolinium, etc... (Pas si rare mais difficile à extraire)
-- Autre matière : Plastique, verre, céramique, matières synthétiques, etc... (40 à 70% du poids)
-
+## Materiel
 
 ### 138 Cartes *Ressources*
 Il existe 3 types de ressources qui correspondent à 3 tas de cartes :
@@ -72,12 +59,33 @@ Elles peuvent être de type :
 - Taxe
 - Information
 
-### 60 Cartes *Malus*
-Elles peuvent être de type :
 
-- Définition
-- Information
-- Chiffre
-- Catastrophe
-- Conflit
-- Pollution
+
+### Cartes ressources
+Les cartes ressources doivent être bien mélangées puis rassemblées en pioche, chacune représentant des ressources vendues par un fournisseur:
+
+- PolluPlus
+    - 3 cartes ressources sont placées face visible à droite de la pioche
+    - la carte recap de PolluPlus qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche
+
+- PolluMoins
+    - 2 cartes ressources sont placées face visible à droite de la pioche
+    - la carte recap de PolluMoins qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche
+
+- Recyclage
+    - 1 carte ressource est placée face visible à droite de la pioche
+    - la carte recap de Recyclage qui détaille le nombre de ressources disponibles pour cette pile est placée à gauche de la pioche (A noter que cette pile ne contient pas de terres rares, ni de métaux rares)
+
+### Cartes Malus
+Préparation de la pioche des cartes malus:
+
+- placer au début de la pioche les cartes malus de numéroté de 1 à 5
+- mélanger les autres cartes et les placer en dessous de la pioche
+
+Le nombre de cartes Malus est : nombre de joueurs*12, c'est-à-dire :
+
+- 36 pour 3 joueurs,
+- 48 pour 4 joueurs,
+- 60 pour 5 joueurs.
+
+Enlever les cartes inutiles selon le nombre de joueurs. La pioche est déposée face cachée.
