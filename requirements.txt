@@ -1,6 +1,5 @@
 mkdocs
 mkdocs-material
-mkdocs-jupyter
 mkdocs-macros-plugin
 mkdocs-exclude
 mkdocs-awesome-pages-plugin
