@@ -57,7 +57,7 @@ Il existe **5 types de ressources** :
 
 <br clear="left"/>
 
-<img alt="MetalRare.png" src="../img/MetalRare.png" width="100" align="left"/>
+<img alt="MetalAutre.png" src="../img/MetalAutre.png" width="100" align="left"/>
 
 **Autres métaux :** Catégorie rassemblant principalement des "métaux de spécialité", il s'agit de tous les autres métaux, plus rares ou peu abondants, sans pour autant avoir à ce jour une valeur économique qui les rend précieux (ex. Cobalt, Lithium, Tantale).
 

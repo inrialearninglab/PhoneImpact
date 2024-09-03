@@ -48,7 +48,7 @@ Les cartes Ressources sont à **garder en main** et à **cacher** des autres jou
 
 L'approvisionnement en ressources chez **PolluPlus** et **PolluMoins** entraîne l’obtention de cartes Malus (cf tableau).  
   
-Les cartes **Malus** piochées sont lues à haute voix aux autres et posées devant soi. Attention, le nombre de cartes Malus en sa possession peut avoir des conséquences sur la progression du jeu !
+Les cartes **Malus** piochées sont lues à haute voix (titre et texte) aux autres et posées devant soi. Attention, le nombre de cartes Malus en sa possession peut avoir des conséquences sur la progression du jeu !
 
 ### - Action : fabriquer 
 
