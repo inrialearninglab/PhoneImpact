@@ -27,6 +27,8 @@ Ce règlement de l’[Union européenne](http://eur-lex.europa.eu/summary/glossa
 
 [9] "2037 : Une loi est votée pour lutter contre l'accaparement des métaux par quelques fabricants."
 
-Est-ce que j'essaie de sourcer pourquoi ça n'est pas dé
+Est-ce que j'essaie de sourcer pourquoi ça n'est pas débile
+
+BMW ?
 
 [12] "Dans la réalité, dépolluer est extrêmement long, difficile et coûteux, voire impossible. Les anciens sites miniers restent pollués."

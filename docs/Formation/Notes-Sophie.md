@@ -28,6 +28,9 @@ La catégorisation des malus sert pour :
 
 # Cartes malus
 
+"La <b>bauxite</b> est le principal minerai qui permet de produire l’<b>aluminium</b> et le <b>gallium</b>.\n\nLes trois plus gros pays producteurs sont l'<b>Australie</b>, la <b>Chine</b> et la <b>Guinée</b>.",Pour info,"empty",59
+"Le <b>coltan</b> est un minerai qui permet de produire le tantale.\n\nLa <b>République Démocratique du Congo</b>, premier producteur de coltan, est sujet à des conflits armés.",Pour info,"empty",60
+
 Après mine : État depuis 1999
 
 Les métaux en volume total
@@ -120,9 +123,11 @@ https://elements.visualcapitalist.com/ranked-the-worlds-top-cobalt-producing-cou
 
 ## Conflits
 
+https://fr.euronews.com/green/2022/02/04/les-champs-de-lithium-d-amerique-du-sud-loin-d-etre-anodins
+
 Conflits sur l'eau, territoire, pollution, richesses
 
-Ogoni
+Ogoni : sur le pétrole
 
 * néocolonialisme / impérialisme
 
