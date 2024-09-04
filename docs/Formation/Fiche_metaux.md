@@ -1,4 +1,4 @@
-# Fiche métaux
+# Fiche de description des métaux utilisés dans un smartphone
 Ces fiches métaux accompagnent les jeux :
 
 - jeu sérieux **PhoneImpact**

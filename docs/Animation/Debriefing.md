@@ -2,7 +2,7 @@
 Une fois le jeu terminé, il est débriefé.
 
 ## Kakemono et précision
-Le [kakémono](../pdf/docCommuns/Kakemono_PhoneImpact.pdf) est expliqué si ça n'a pas été fait lors du Brief
+Le [kakémono](Kakemonos/kakemonoBrief_PhoneImpact.pdf) est expliqué si ça n'a pas été fait lors du Brief
 
 **Précision importante** : le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
 

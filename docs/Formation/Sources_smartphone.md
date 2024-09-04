@@ -10,11 +10,11 @@ Le plateau de jeu représente un smartphone composé de :
 
 Ce choix de décomposition correspond à la réalité de la séparation des principaux composant lors du démontage d'un smartphone.
 
-La composition en terme de catégorie d'élements (Métal précieux, Métal rare, Métal commun, Terre rare, Autre matière) a été déterminé en tenant compte de plusieurs facteurs :
+La composition en terme de catégorie d'éléments (Métal précieux, Métal rare, Métal commun, Terre rare, Autre matière) a été déterminé en tenant compte de plusieurs facteurs :
 
-- la présence reputé ou non de ces types d'éléments dans les composants (ex: présence de terre rare dans l'écran tactile mais pas dans la batterie), en se basant sur les sources décrites plus bas, a permis de décider si la catégorie d'éléménts serait nécessaire à la fabrication du composant
-- la quantité de la catégorie d'élements à rassembler pour fabriquer un composant (ex : 2 métaux commun et 1 métal rare pour la batterie) a été arbitrairement décidé à partir de plusieurs critères:
-    - le nombre d'élements appartenant à cette catégorie réputé présent dans le composant, à partir des sources bilbiographiques décrites plus bas
+- la présence reputé ou non de ces types d'éléments dans les composants (ex: présence de terre rare dans l'écran tactile mais pas dans la batterie), en se basant sur les sources décrites plus bas, a permis de décider si la catégorie d'éléments serait nécessaire à la fabrication du composant
+- la quantité de la catégorie d'éléments à rassembler pour fabriquer un composant (ex : 2 métaux commun et 1 métal rare pour la batterie) a été arbitrairement décidé à partir de plusieurs critères:
+    - le nombre d'éléments appartenant à cette catégorie réputé présent dans le composant, à partir des sources bilbiographiques décrites plus bas
     - la masse relative de ces éléments réputés présents dans le composant, à partir des sources bilbiographiques décrites plus bas
     - les contraintes de game design et la jouabilité : un trop grand déséquilibre entre les composants aurait forcer certaines stratégies de construction, il apparaissait important de permettre différentes stratégies gagnantes en limitant les écarts de difficulté de construction entre les composants.
 
@@ -24,7 +24,7 @@ Le nombre de points attribués pour la construction de chaque partie provient du
 
 Pour plus d'information sur les catégorisations de métaux, voir le fichier Fiche_metaux.md
 
-## Composition métallique des différents plateaux et références bilbiographiques
+## Composition métallique des différents plateaux et références bibliographiques
 La liste des compositions qui suit n'a pas vocation a être exhaustive, c'est une liste constituée à partir de la liste de 25 métaux considérés comme critiques et faisant l'objet d'une étude ADEME sur la criticité des métaux nécessaires à l'industrie du numérique (bientôt publiée à date 07/2024) : 
 
 Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (Au), Argent (Ag), Palladium (Pd), Platine (Pt), Ruthenium (Ru), Aluminium (Al ), Cuivre (Cu), Etain (Sn), Nickel (Ni), Zinc (Zn), Antimoine (Sb), Cobalt (Co), Lithium (Li), Magnesium (Mg), Tantale (Ta), Tungstène (W), Gallium (Ga), Germanium (Ge), Manganèse (Mn), Silicium (Si)
