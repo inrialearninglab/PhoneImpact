@@ -18,14 +18,14 @@ Se mettre à la place d'un fabricant de smartphones, tiraillé par l'envie de d�
 
 ## Instructions pour l'animateur (matériel, règles, brief/debrief...)
 
-[Instructions pour animer le jeu](../Formation/InstructionsAnimateur.md)
+[Instructions pour animer le jeu](../Animation/InstructionsAnimateur.md)
 
 ## License
 Le jeu PhoneImpact est sous license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International
 
 ## Print and play
 
-[Imprimer les cartes et le plateau](../PrintAndPlay/PrintAndPlay.md)
+[Imprimer les cartes et le plateau](../PrintAndPlay/index)
 
 ## Sources
 Un feuillet présent dans la boite de jeu permet de retrouver toutes les sources du jeux ([lien](../Formation/Sources_malus.md))

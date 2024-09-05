@@ -1,5 +1,6 @@
 title: Animation du jeu
 nav:
+    - InstructionsAnimateur.md
     - Briefing.md
     - PendantLaPartie.md
     - Debriefing.md
