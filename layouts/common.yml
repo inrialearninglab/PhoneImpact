@@ -1,21 +1,21 @@
 cut:
-  x: 2mm
-  y: 2mm
-  width: 63mm
-  height: 89mm
+  x: 3mm
+  y: 3mm
+  width: 59mm
+  height: 91mm
 
 safe:
-  x: 5mm
-  y: 5mm
-  width: 57mm
-  height: 83mm
+  x: 6mm
+  y: 6mm
+  width: 53mm
+  height: 85mm
   stroke_color: neon_pink
 
 background:
-  x: 5mm
-  y: 5mm
-  width: 57mm
-  height: 83mm
+  x: 6mm
+  y: 6mm
+  width: 53mm
+  height: 85mm
 
 background_pnp:
   x: 5mm

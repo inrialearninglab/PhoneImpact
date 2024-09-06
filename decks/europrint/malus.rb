@@ -52,15 +52,18 @@ end
 Squib::Deck.new cards: cards['text'].size, layout: ['layouts/malus.yml', 'layouts/common.yml'] do
     background color: 'white'
 
-    png file: cards['image'], layout: 'background_pnp'
+    # rect layout: 'cut'
+    # rect layout: 'safe'
 
-    text str: cards['type'], layout: 'malus_type'
-    text str: cards['text'], layout: 'malus_text'
+    png file: cards['image'], layout: 'background'
 
-    png file: cards['illu'], layout: 'malus_illu'
+    text str: cards['type'], layout: 'malus_type_print'
+    text str: cards['text'], layout: 'malus_text_print'
 
-    text str: cards['nb_players'], layout: 'malus_nb_players'
-    text str: cards['index'], layout: 'malus_index'
+    png file: cards['illu'], layout: 'malus_illu_print'
+
+    text str: cards['nb_players'], layout: 'malus_nb_players_print'
+    text str: cards['index'], layout: 'malus_index_print'
 
     save_pdf file: 'malus.pdf', dir: '_output/europrint', sprue: 'sprues/europrint.yml'
 end

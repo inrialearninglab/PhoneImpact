@@ -8,19 +8,24 @@ event_type:
   align: center
   valign: middle
 
+event_type_print:
+    extends: event_type
+    font: Montserrat Bold 12
+    width: 44mm
+
 event_text:
   markup: true
   font: Montserrat weight=600 9
   spacing: 2
   x: 10mm
-  y: 23mm
+  y: 21mm
   width: 48mm
   height: 65mm
+  valign: middle
+  # stroke_color: red
 
-event_illu:
-  x: 18.5mm
-  y: 50mm
-  height: 30mm
-  width: 30mm
-  align: center
-  valign: end
+event_text_print:
+    extends: event_text
+    y: 20mm
+    width: 46mm
+    height: 67mm

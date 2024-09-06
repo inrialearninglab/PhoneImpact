@@ -31,10 +31,11 @@ Squib::Deck.new cards: cards['type'].size, layout: ['layouts/events.yml', 'layou
 
   png file: cards['image'], layout: 'background'
 
-  text str: cards['type'], layout: 'event_type'
-  text str: cards['text'], layout: 'event_text'
+  # rect layout: 'cut'
+  # rect layout: 'safe'
 
-  png file: cards['illu'], layout: 'event_illu'
+  text str: cards['type'], layout: 'event_type_print'
+  text str: cards['text'], layout: 'event_text_print'
 
   save_pdf file: 'events.pdf', dir: '_output/europrint', sprue: 'sprues/europrint.yml'
 end

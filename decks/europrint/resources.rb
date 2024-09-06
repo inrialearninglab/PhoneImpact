@@ -54,10 +54,13 @@ Squib::Deck.new(cards: resources['name'].size, layout: ['layouts/resources.yml',
 
   png file: resources['image'], layout: 'background'
 
-  png file: resources['icon'], layout: 'illustration'
+  png file: resources['icon'], layout: 'illustration_print'
 
-  text str: resources['name'], layout: 'title'
-  text str: resources['examples'], layout: 'examples'
+  # rect layout: 'cut'
+  # rect layout: 'safe'
+
+  text str: resources['name'], layout: 'title_print'
+  text str: resources['examples'], layout: 'examples_print'
 
   save_pdf file: 'resources.pdf', dir: '_output/europrint', sprue: 'sprues/europrint.yml'
 end
