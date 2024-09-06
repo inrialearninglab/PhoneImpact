@@ -29,13 +29,13 @@ docker run -v .:/app --entrypoint sh -it phone-impact
 ```shell
 ruby decks/pnp/events.rb
 ```
-The file `_output_/events.pdf` is generated. Copy it in docs/pdf/pnp/events.pdf if it's ok.
+The file `_output_/events.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/events.pdf if it's ok.
 
 #### Generate the malus cards
 ```shell
 ruby decks/pnp/malus.rb
 ```
-The file `_output_/malus.pdf` is generated. Copy it in docs/pdf/pnp/malus.pdf if it's ok.
+The file `_output_/malus.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/malus.pdf if it's ok.
 
 [//]: # (## Generating cards)
 
@@ -43,7 +43,7 @@ The file `_output_/malus.pdf` is generated. Copy it in docs/pdf/pnp/malus.pdf if
 
 [//]: # (```shell)
 
-[//]: # (mv _output/*.pdf pdf/)
+[//]: # (mv _output/*.pdf PrintAndPlay/)
 
 [//]: # (```)
 

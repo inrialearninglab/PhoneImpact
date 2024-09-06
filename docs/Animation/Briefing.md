@@ -97,7 +97,7 @@ Nous vous proposons un pitch pour expliquer les règles du jeu que vous pouvez b
 
 !!! abstract "Ressources utiles pour vous former"
     - [Onglet Jeu de ce portail](../Jeu/Presentation.html).
-    - [Livret de règles](../pdf/docCommuns/LivretDeRegles.pdf)
+    - [Livret de règles](../PrintAndPlay/docCommuns/LivretDeRegles.pdf)
 
 ### Annoncer le debrief
 Pour qu'ils soient plus attentifs lors de la lecture des malus, vous pouvez annoncer au joueurs en fin de brief que :  
