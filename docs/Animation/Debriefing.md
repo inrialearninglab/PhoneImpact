@@ -1,4 +1,4 @@
-# Debrief: après la partie
+# Débriefer l'activité
 Une fois le jeu terminé, il est débriefé.
 
 ## Kakemono et précision

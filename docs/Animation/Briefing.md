@@ -1,9 +1,14 @@
 # Brief : introduire l’activité
 
+!!! example "Ceci est une proposition de brief !" 
+    Dans cette partie, nous vous proposons un déroulé pour introduire l'activité avec le jeu PhoneImpact.
+    Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
+    
+     Libre à vous d'adapter le Brief en fonction de votre public.
 
 ## Matériels pédagogiques
 
-Elles sont mises à votre disposition pour animer une session du jeu PhoneImpact
+Des ressources sont mises à votre disposition pour animer une session du jeu PhoneImpact
 
 - Un [kakemono](./Kakemonos/kakemonoBrief_PhoneImpact.pdf)
 - Des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
@@ -13,7 +18,7 @@ Elles sont mises à votre disposition pour animer une session du jeu PhoneImpact
       - [Définition simplifiée des catégories métaux](./Definition_simple_categories_metaux)
 
 ## Déroulé du brief
-Nous vous proposons le déroulé suivant pour introduire le jeu PhoneImpact
+
 
 ### Activité de découverte : de quoi est constitué un smartphone ?
 Si vous possédez des anciens smartphones qui ne marchent plus, vous pouvez inviter les joueurs à les démonter (un smartphone par table de jeu dans l'idéal). Sinon, vous pouvez utiliser le matériel décrit ci-dessus.
@@ -37,7 +42,7 @@ Vous pouvez ensuite poser les questions suivantes (avec le smartphone démonté 
     Vous trouverez pleins d'exemples dans le matériel fourni.
 
 !!! abstract "Ressources utiles pour vous former"
-    - [Fiche de description des métaux utilisés dans un smartphone](../Formation/Fiche_metaux.md)
+    - [Fiche de description des métaux utilisés dans un smartphone](../Ressources/Fiche_metaux.md)
     - [Fiche concept "Quels métaux dans les smartphones ?" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html)
     - [Activité pédagogique "Les impacts environnementaux d'un smartphone" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_2_Comprendre/story.html)
 
@@ -56,7 +61,7 @@ Pour les besoins du jeu, les métaux ont été classés selon 4 catégories :
 Il y aussi en plus de ces métaux les **autres matières** qui représentent de 40 à 70% du poids du smartphone (ex. céramique, plastique, matières synthétiques, verre).
 
 !!! abstract "Ressources utiles pour vous former"
-    [Fiche de description des métaux utilisés dans un smartphone](../Formation/Fiche_metaux.md).
+    [Fiche de description des métaux utilisés dans un smartphone](../Ressources/Fiche_metaux.md).
 
 ### Exposé : les différentes étapes de l'extraction minière
 Les méthodes d'extraction et de séparation des métaux en général font appel à des procédés complexes, énergivores et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. En plus, ces processus requièrent de grandes quantités d'eau.
@@ -93,7 +98,7 @@ Histoire à raconter au début: "[Dans la ville de TechCity...](../Jeu/Histoire.
 ### Expliquer les règles du jeu
 Il faut maintenant expliquer les règles du jeu. 
 
-Nous vous proposons un pitch pour expliquer les règles du jeu que vous pouvez bien sûr adapter selon votre public ([lien vers les règles "pitchées"](./ReglesDuJeu.pdf)).
+Nous vous proposons un pitch pour expliquer les règles du jeu que vous pouvez bien sûr adapter selon votre public ([lien vers les règles "pitchées"](./PitchReglesDuJeu.md)).
 
 !!! abstract "Ressources utiles pour vous former"
     - [Onglet Jeu de ce portail](../Jeu/Presentation.html).
