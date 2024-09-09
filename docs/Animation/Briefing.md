@@ -1,14 +1,14 @@
 # Brief : introduire l’activité
 
 !!! example "Ceci est une proposition de brief !" 
-    Dans cette partie, nous vous proposons un déroulé pour introduire l'activité avec le jeu PhoneImpact.
+    Dans cette partie, nous vous proposons un déroulé pour **introduire l'activité** avec le jeu PhoneImpact.
     Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
     
      Libre à vous d'adapter le Brief en fonction de votre public.
 
 ## Matériels pédagogiques
 
-Des ressources sont mises à votre disposition pour animer une session du jeu PhoneImpact
+Des ressources sont mises à votre disposition pour démarrer une session du jeu PhoneImpact
 
 - Un [kakemono](./Kakemonos/kakemonoBrief_PhoneImpact.pdf)
 - Des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
@@ -59,6 +59,9 @@ Pour les besoins du jeu, les métaux ont été classés selon 4 catégories :
 - D'**autres métaux**: un smartphone contient également de nombreux autres métaux qui ne sont ni communs, ni précieux ni des terres rares. Leurs propriétés physico-chimiques permettent l'implémentation de fonctionnalités spécifiques (ex. cobalt, lithium, tantale).
 
 Il y aussi en plus de ces métaux les **autres matières** qui représentent de 40 à 70% du poids du smartphone (ex. céramique, plastique, matières synthétiques, verre).
+
+!!! warning "Précision importante"
+    Dans le jeu PhoneImpact, le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
 
 !!! abstract "Ressources utiles pour vous former"
     [Fiche de description des métaux utilisés dans un smartphone](../Ressources/Fiche_metaux.md).

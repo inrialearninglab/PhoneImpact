@@ -21,7 +21,7 @@ Ce dernier point a été l'occasion de débuter un travail de standardisation m�
 
 D'autres sont à venir ou déjà en cours de constructions.
 
-##  Feuille de route « Numérique et Environnement »
+##  Feuille de route « Numérique et Environnement »
 En septembre 2020, l'ADEME et l'ARCEP reçoivent une lettre de mission pour travailler sur l'évaluation de l'empreinte environnementale du numérique en France. Suite à ces premiers travaux, en février 2021 une feuille de route gouvernementale "Numérique et Environnement" voit le jour : https://www.ecologie.gouv.fr/sites/default/files/Feuille_de_route_Numerique_Environnement.pdf
 
 Elle prévoit notamment la réalisation d'un baromètre environnemental des acteurs du numérique, ainsi que la création d'un haut comité national Ecoresponsable qui a vu le jour fin 2022, dont la mission est d'établir et suivre une feuille de route de décarbonation du secteur numérique en France.

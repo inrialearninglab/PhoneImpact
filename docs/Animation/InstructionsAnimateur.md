@@ -27,6 +27,6 @@ Pour jouer, vous avez le choix entre :
 Voici les 3 phases d'une séquence de jeu sérieux :
 
 - [Introduire l’activité / **Brief**](Briefing.md) : environ 20 minutes
-- [Animer l'activité](PendantLaPartie.md) : environ 40 minutes
+- [Animer l'activité](AnimationDeLaPartie) : environ 40 minutes
 - [Débriefer l'activité / **Debrief**](Debriefing.md) : environ 30 minutes
 

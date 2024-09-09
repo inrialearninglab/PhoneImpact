@@ -1,5 +1,6 @@
 # Animer l'activité
-Voici quelques conseils pour faciliter le déroulement de la partie.
+!!! tip "Conseils"
+    Voici quelques conseils pour faciliter le **déroulement de la partie**. Vous aurez sûrement d'autres astuces ou propositions, n'hésitez pas à les partager avec les autres animateurs du jeu (Cf [Contacts](../Contacts.md)).
 
 ## Choix du 1er joueur
 Selon la règle, le **Premier joueur** est celui qui a le smartphone le plus "eco-responsable" (["Qui commence ?](../Jeu/ReglesDuJeu.html#qui-commence)). Durant la partie, c'est celui qui lit les carte Événements à la fin du tour de table. Assurez-vous que le Premier joueur sait lire le français correctement sinon la lecture des événements risque d'être assez compliquée. 

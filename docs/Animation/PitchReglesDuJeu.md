@@ -1,9 +1,9 @@
 # Pitcher les règles du jeu
 
 !!! example "Ceci est une proposition de pitch !"
-    Dans cette partie, nous vous proposons un texte pour expliquer simplement les règles du jeu aux joueurs. Nous l'avons testé sur différents publics mais ayant déjà joué à un jeu de société.
+    Dans cette partie, nous vous proposons un texte pour **expliquer simplement les règles du jeu aux joueurs**. Nous l'avons testé sur différents publics.
 
-     Libre à vous de l'adapter en fonction de votre public.
+     Libre à vous de l'adapter en fonction de votre public. Par exemple, il faudra peut-être décrire différemment les règles avec des personnes qui n'ont pas l'habitude de jouer à des jeux de société.
 
 ## Présentation du jeu
 Dans ce jeu, vous incarnez un fabricant de smartphones et votre objectif est de fabriquer un smartphone tout en minimisant votre impact environnemental. Vous aurez des choix à faire tout au long du jeu mais attention, ces choix auront des conséquences.
@@ -32,7 +32,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
     – **PolluMoins** qui fait du minage avec des efforts > ce qui vous permet d’obtenir 2 cartes ressources. > mais par contre 1 carte malus.
     – **Recycl'** spécialisé dans le recyclage (comme son nom l’indique), > ce qui vous permet d’obtenir 1 carte ressource. > Pas de malus mais à savoir que dans cette pioche il n’y a ni terres rares, ni métaux rares. > vous ne pourrez pas perdre cette carte durant la partie.
 
-    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n’importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Les cartes ressources sont à garder en main et à cacher des autres joueurs. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. Dans le cas où il y a 5 cartes ressources identiques parmis les cartes visibles alors defausser les 6 cartes ressources visibles et 3 malus de la pioche qui sont lues.
+    Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n’importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur. Les cartes ressources sont à garder en main et à cacher des autres joueurs. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. Dans le cas où il y a 5 cartes ressources identiques parmi les cartes visibles alors défausser les 6 cartes ressources visibles et 3 malus de la pioche qui sont lues.
 
 - **Fabriquer un composant** : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué.
 - **Dépolluer** : se défausser de 1 à 2 cartes malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
