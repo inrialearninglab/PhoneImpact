@@ -41,12 +41,14 @@ Certaines notions peuvent être approfondies en partant de ce qu'ils ont retenus
 !!! note "Réponse"
     Partout ! Vous pouvez vous appuyer sur la carte du monde des ressources proposées sur le kakemono ou sur le schéma correspondant
 
+- Quels sont les impacts environnementaux et sociaux liés à la fabrication du smartphone ?
+!!! note "Réponse"
+    Pollution des sols, de l'eau, conflits, accaparement des territoires... 
+
 - Et en France, y a t'il des mines ? 
 !!! note "Réponse"
     - Parler des mines fermées, des mines en Guyane et en Nouvelle Calédonie.
     - Bientôt des mines seront ouvertes en France (ex: la France prévoit d'ouvrir l'une des plus grandes mines de Lithium d'Europe, dans le Massif central, en 2027)
-
-- Est-ce que vous pouvez faire des rapprochements entre le jeu et la réalité ?
 
 - Quelles sont les alternatives et les actions possibles pour réduire notre empreinte environnementale ?
 
@@ -73,7 +75,7 @@ Pour conclure : différents enjeux environnementaux et sociétaux liés à l'ind
 - Les conflits liés à l'eau, qu'ils se situent à Taïwan (avec TSMC) ou à Grenoble, illustrent les enjeux locaux et globaux de cette exploitation.
 
 
-## Activité : calcul de l'indice de réparabilité de son smartphoe
+## Activité : calcul de l'indice de réparabilité de son smartphone
 Si vous avez le temps, vous pouvez proposer aux participants de calculer l'[Indice de reparabilité de leur smartphone (sur le site www.indicereparabilite.fr)](https://www.indicereparabilite.fr/) et d'en discuter.
 C'est l'occasion de parler du reconditionnement des smartphones (garantie légale de conformité de 6 mois qui couvre les pannes, dysfonctionnements mais aussi le caractère limité des performances).
 
