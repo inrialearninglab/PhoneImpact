@@ -6,7 +6,7 @@
      Libre à vous de l'adapter en fonction de votre public. Par exemple, il faudra peut-être décrire différemment les règles avec des personnes qui n'ont pas l'habitude de jouer à des jeux de société.
 
 ## Présentation du jeu
-Dans ce jeu, vous incarnez un fabricant de smartphones et votre objectif est de fabriquer un smartphone tout en minimisant votre impact environnemental. Vous aurez des choix à faire tout au long du jeu mais attention, ces choix auront des conséquences.
+Dans ce jeu, vous habitez la ville TechCity et vous incarnez un fabricant de smartphones et votre objectif est de fabriquer un smartphone tout en minimisant votre impact environnemental. Vous aurez des choix à faire tout au long du jeu mais attention, ces choix auront des conséquences.
 
 Vous avez chacun un plateau smartphone composé de : l’écran tactile (dalle et vitre), la batterie, la coque, la carte mère.
 
@@ -72,10 +72,10 @@ La partie s’arrête quand :
 - Il n’y a plus de cartes Malus. On termine le tour de table. Si les joueur·ses choisissent l’action S’approvisionner, ils pourront le faire seulement chez Recycl’ (la pioche Malus étant vide).
 
 # Décompte des points
-Le gagnant est celui qui a le plus de points. On compte les points en fonction :
+Le gagnant est celui qui a le plus de points. On compte les points en :
 
-- des composants construits de votre téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
-- +2 points pour celui qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées).
+- additionnant les points des composants construits de son téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
+- bonus de 2 points pour celui qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées).
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
 
 - # Adaptation des règles pour une partie en 20’
