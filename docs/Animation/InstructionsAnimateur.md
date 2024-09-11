@@ -1,12 +1,9 @@
 # Vous souhaitez animer une activité avec PhoneImpact ?
 ## Se familiariser avec les impacts environnements du smartphone 
-Nous vous conseillons vivement si vous débutez dans ce sujet de suivre le [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/). Si vous manquez de temps, la Partie 2 du Mooc ("Des équipements non renouvelables") concerne plus précisément le matériel avec un focus sur le smartphone, ce qui vous permettra de :
-
-- Découvrir la matérialité du numérique, la notion de cycle de vie, les impacts sur l’environnement des équipements numériques, la diversité des métaux mobilisés,
-- Adopter quelques bonnes pratiques pour réduire ces impacts.
+Pour commencer, si ce n'est pas déjà le cas, il est nécessaire de vous familiariser sur le sujet. Pour ce faire, nous vous conseiller d'aller sur la page ["Prérequis théoriques"](../Ressources/Prerequis.md).
 
 ## Découvrir le jeu PhoneImpact
-Pour animer une session de PhoneImpact, il est nécessaire de bien comprendre le jeu, ses objectifs pédagogiques, les éléments du jeu, le matériel... Tous ces aspects sont développés dans la [Partie "Jeu" de ce portail](../Jeu/Presentation.md)).
+Pour animer une session de PhoneImpact, il est ensuite nécessaire de bien comprendre le jeu, ses objectifs pédagogiques, les éléments du jeu, le matériel... Tous ces aspects sont développés dans la [Partie "Jeu" de ce portail](../Jeu/Presentation.md)).
 
 !!! tip "Un conseil"
     Faites une partie avec vos proches, vos collègues,.... C'est préférable pour bien comprendre les règles du jeu et les différentes stratégies qu'on peut adopter !
