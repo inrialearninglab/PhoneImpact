@@ -1,9 +1,9 @@
 # Histoire à raconter au début
 Dans la ville de TechCity, vous incarnez un fabricant de smartphones. Alors que la compétition fait rage pour produire les téléphones les plus innovants, une question cruciale émerge : l'impact environnemental de ces appareils.
 
-Au fil des tours de jeu et des événements, **vous découvrirez les réalités souvent méconnues de l'industrie des smartphones**, depuis l'extraction des ressources jusqu'à la production des composants clés.
+Au fil des tours de jeu et des événements, **vous découvrirez les réalités souvent méconnues de l'industrie des smartphones**, depuis l'extraction des ressources jusqu'à la fabrication des composants clés.
 
-Pour obtenir les ressources nécessaires à la production de vos smartphones, vous avez le choix entre trois fournisseurs :
+Pour obtenir les ressources nécessaires à la fabrication de vos smartphones, vous avez le choix entre trois fournisseurs :
 
 - **"PolluPlus"** qui pratique un minage classique polluant et non responsable, avec une extraction agressive des ressources naturelles.
 - **"PolluMoins"** qui adopte des pratiques de minage moins polluantes et plus durables, en prenant en considération les conditions de travail dans les exploitations minières. 
