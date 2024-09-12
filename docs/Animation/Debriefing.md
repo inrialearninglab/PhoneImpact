@@ -43,7 +43,12 @@ Certaines notions peuvent être approfondies en partant de ce qu'ils ont retenus
 
 - Quels sont les impacts environnementaux et sociaux liés à la fabrication du smartphone ?
 !!! note "Réponse"
-    Pollution des sols, de l'eau, conflits, accaparement des territoires... 
+    - ressources fossiles difficiles à extraire dans des mines
+    - nécessite beaucoup d'eau et d'énergie pour l'extraction
+    - génère beaucoup de pollution des sols, de l'eau...
+    - impacts sociaux/conflits/travail des enfants
+    - ressources finies qui s'épuisent
+    - accaparement des territoires 
 
 - Et en France, y a t'il des mines ? 
 !!! note "Réponse"
