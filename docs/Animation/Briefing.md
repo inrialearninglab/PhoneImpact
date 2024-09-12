@@ -75,9 +75,13 @@ Sinon, vous pouvez montrer et commenter le **schéma qui explique toutes les ét
 
 <span style="color:RED;">Lien vers le schéma à insérer</span>
 
+### Montrer un exemple de mine à ciel ouvert
+
 Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Sud** : la plus grande mine à ciel ouvert et le plus grand trou artificiel au monde avec 2 000 mètres de diamètre et 762 mètres de profondeur. On devine des installations industrielles à gauche et à l'arrière de l'entonnoir. On devine aussi un éboulement sur la gauche de la cavité.
 
-<a href="./Illustrations/MineCuivrePalabora.jpg"> "<img src="./Illustrations/MineCuivrePalabora.jpg" width="200"/></a>
+<a href="./Illustrations/MineCuivrePalabora.jpg"> "<img src="./Illustrations/MineCuivrePalabora.jpg" width="400"/></a>
+
+*Mine de cuivre de Palabora, Afrique du Sud ; à gauche : représentation imagée de la quantité de cuivre métal produite par la mine jusqu’à environ 2007 (© Dillon Marsh · Mise à disposition par le photographe · dillonmarsh.com) : à droite : Vue satellitaire de la mine et mise en évidence de l’emprise en surface des déchets miniers (© Google 2021) | Création : SystExt · Septembre 2021*
 
 !!! abstract "Ressources utiles pour vous former"
     - biblio, ressources 
