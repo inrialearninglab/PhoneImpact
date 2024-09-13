@@ -15,7 +15,7 @@ Des ressources sont mises à votre disposition pour démarrer une session du jeu
       - Schéma avec un smartphone démonté et les éléments qui le constituent
       - Schéma qui explique toutes les étapes de l'extraction minière et du recyclage
       - [Photo de la mine de Cuivre Palabora en Afrique du Sud](./Illustrations/MineCuivrePalabora.pdf)
-      - [Définition simplifiée des catégories métaux](./Definition_simple_categories_metaux)
+      - [Définition simplifiée des catégories métaux](AutresDocuments/Definition_simple_categories_metaux.md)
 
 ## Déroulé du brief
 
