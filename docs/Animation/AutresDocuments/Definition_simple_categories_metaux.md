@@ -1,6 +1,6 @@
 # Définition simplifiée des catégories de métaux
 
-Cette fiche est une version simplifiée de la description des catégories métaux contenue dans Fiche_metaux.md
+Cette fiche est une version simplifiée de la description des catégories de métaux contenue dans la [Fiche de description des métaux utilisés dans un smartphone](../../Ressources/Fiche_metaux.md)
 
 ## Des métaux communs (~85%*)
 Aussi appelés "métaux de base", ils sont utilisés communément dans l'industrie. Les métaux communs représentent la majeure partie des métaux d'un smartphone (ex. aluminium, cuivre, fer).
