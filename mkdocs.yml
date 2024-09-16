@@ -15,7 +15,7 @@ theme:
     accent: amber
 extra_css:
   - assets/extra.css
-  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
 extra_javascript:
   - assets/extra.js
 extra:
