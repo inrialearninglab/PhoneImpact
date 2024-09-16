@@ -30,7 +30,7 @@ text,type,image,index
 "Le recyclage des cartes électroniques nécessite des technologies de pointe et des infrastructures très coûteuses.",Recyclage,"empty",27
 "Les métaux communs (cuivre, plomb, fer, aluminium...) et les métaux précieux (or, argent, platine...) sont recyclés à plus de 50%.",Recyclage,"empty",28
 "De nombreux métaux, dont les terres rares, ne sont quasiment pas recyclés.",Recyclage,"empty",29
-"La <b>teneur</b> en métal d’un minerai est la proportion de métal contenue dans ce minerai.\n\nPar exemple, la teneur en cuivre d'un minerai est en moyenne autour de 0,6% (6g de cuivre pour 100g de minerai).",Définition,"empty",30
+"La <b>teneur</b> en métal d’un minerai est la proportion de métal contenue dans ce minerai.\n\nPar exemple, la teneur en cuivre d'un minerai est en moyenne autour de 0,6% (6g de cuivre pour 1kg de minerai).",Définition,"empty",30
 "Pour satisfaire la demande en métaux on extrait des minerais avec des teneurs de plus en plus faibles.\n\nIl faut donc extraire beaucoup plus de matière pour produire la même quantité de métal.",Pour info,"empty",31
 "Les <b>terres rares</b> (à ne pas confondre avec les métaux rares !) sont des métaux assez abondants dans la croûte terrestre mais avec une teneur très faible.",Pour info,"empty",32
 "Même s'il existe de nombreuses mines <b>sous-terraines</b>, la majorité des mines actuelles sont exploitées à <b>ciel ouvert</b>.",Pour info,"empty",33
