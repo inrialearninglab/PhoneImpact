@@ -39,4 +39,4 @@ Mais attention à ne pas trop polluer !
     - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)  
       
     Validation scientifique par des experts, garant de l’aspect “sérieux” du jeu.  
-    Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont accompagnés pour le contenu du kakemono présenté lors du brief du jeu.
+    Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont accompagnés pour le contenu des kakemono présentés lors du [brief](Animation/Briefing.html) et du [debrief](Animation/Debriefing.html) du jeu.
