@@ -1,4 +1,4 @@
-# Débriefer l'activité
+# Débrief : terminer l'activité
 Une fois la phase de jeu terminée, il est important de débriefer, sur les ressentis comme sur les enseignements, de faire le bilan, et de remettre en perspective ce qu'ils ont appris.
 
 !!! example "Ceci est une proposition de debrief !"
@@ -69,16 +69,23 @@ Certaines notions peuvent être approfondies en partant de ce qu'ils ont retenus
     - [Fiche concept "Où en est-on du recyclage ?" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.3-Recyclage-MoocImpactNum.html)
 
 ### Remise en perspective
-Pour conclure : différents enjeux environnementaux et sociétaux liés à l'industrie numérique :
+#### Pour conclure
 
 - Les ressources minières ne se limitent pas à l'industrie numérique (ex: fer, cuivre...).
 - L'extraction des métaux n'est pas la seule pollution du numérique.
-- Leur utilisation engendre des tensions et des pollutions tout au long du processus, de la fabrication à la phase d'utilisation, en passant par la gestion en fin de vie.
 - Le numérique ne se résume pas aux smartphones.
 - Les pollutions qu'il génère ont un impact à l'échelle planétaire en termes d'émissions de gaz à effet de serre.
-- Les conflits liés à l'eau sont davantage ancrés dans des réalités locales. La gravité de ces problèmes dépend du contexte géographique et temporel)
-- Les conflits liés à l'eau, qu'ils se situent à Taïwan (avec TSMC) ou à Grenoble, illustrent les enjeux locaux et globaux de cette exploitation.
+- Les conflits liés à l'eau sont davantage ancrés dans des réalités locales. La gravité de ces problèmes dépend du contexte géographique et temporel.
 
+#### Evolutions réglementaires en France
+Ces dernières années, plusieurs évolutions réglementaires ont vu le jour en France allant dans le sens de la réduction des impacts environnementaux du numérique :
+
+- Loi AGEC 2020-115 pour "Anti-Gaspillage pour une Economie Circulaire" (ex: affichage d'un indice de réparabilité sur certains équipements numériques)
+- Feuille de route « Numérique et Environnement », 2020
+- Loi REEN : Réduction de l'Empreinte Environnementale du Numérique, 2021
+
+!!! abstract "Ressources utiles pour vous former"
+    - [Ressource "Evolutions réglementaires en France"](../Ressources/Evolutions_reglementaires.md).
 
 ## Activité : calcul de l'indice de réparabilité de son smartphone
 Si vous avez le temps, vous pouvez proposer aux participants de calculer l'[Indice de reparabilité de leur smartphone (sur le site www.indicereparabilite.fr)](https://www.indicereparabilite.fr/) et d'en discuter.
@@ -89,6 +96,10 @@ C'est l'occasion de parler du reconditionnement des smartphones (garantie légal
   ![QRCode www.indicereparabilite.fr](../img/qrcode_indiceReparabilite.png){ width="200" }
   <figcaption>Site indicereparabilite.fr pour calculer son indice de reparabilité</figcaption>
 </figure>
+
+## Quelques chiffres
+
+<a href="Illustrations/ADEME-smartphone_Illu_infographie.png"><img src="Illustrations/ADEME-smartphone_Illu_infographie.png" width="300"/></a>
 
 ## Un retour d'expérience
 Vous pouvez  mettre à la disposition des participants des post-it/une feuille pour qu'ils puissent faire un retour sur ce qu'ils ont appris et de donner un avis sur le jeu.

@@ -4,7 +4,7 @@ Ces dernières années, plusieurs évolutions réglementaires ont vu le jour en 
 Bien qu'encore insuffisantes pour infléchir la tendance à l'augmentation des impacts environnementaux du numérique lié à nos usages (https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique/etude-ademe-arcep-empreinte-environnemental-numerique-2020-2030-2050.html), elles montrent que des évolutions réglementaires sont possibles.
 
 ## Loi AGEC 2020-115
-La loi AGEC pour "Anti-Gaspillage pour une Economie Circulaire" ( https://www.ecologie.gouv.fr/loi-anti-gaspillage-economie-circulaire) date de févroer 2020, et contient plusieurs clauses concernant le numérique :
+La loi AGEC pour "Anti-Gaspillage pour une Economie Circulaire" ( https://www.ecologie.gouv.fr/loi-anti-gaspillage-economie-circulaire) date de février 2020, et contient plusieurs clauses concernant le numérique :
 
 - l'affichage d'un indice de réparabilité sur certains équipements numériques 
 - l'affichage d'indice de durabilité était initialement prévu en 2024, mais a été repoussé en raisons de réglementations en cours de développement au niveau de l'Union Européenne (le passport numérique des produits) sur un périmètre se recouvrant partiellement avec cet indice
