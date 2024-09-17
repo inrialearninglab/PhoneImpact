@@ -77,6 +77,6 @@
     opacity: 0.8;
 }
 .md-header, .md-tabs,.card-button {
-    background: #7F86E8;
+    background: linear-gradient(to right, var(--md-primary-fg-color), #cd84f0);
 
 }
