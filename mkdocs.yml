@@ -20,6 +20,7 @@ extra_javascript:
   - assets/extra.js
 extra:
   generator: true
+copyright: CC-BY-SA
 markdown_extensions:
   - admonition
   - abbr
