@@ -23,3 +23,7 @@
 .footer > h2 {
     margin: 0;
 }
+
+.md-social {
+    align-items: center;
+}

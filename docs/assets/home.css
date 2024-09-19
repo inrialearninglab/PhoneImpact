@@ -65,6 +65,10 @@
     font-weight: 500 !important;
 }
 
+.card > p {
+    flex: 1;
+}
+
 .card-button {
     background: var(--md-primary-fg-color);
     color: white !important;
