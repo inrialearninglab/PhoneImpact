@@ -5,4 +5,4 @@ hide:
 - toc
 ---
 # Contacts
- A faire
+Vous pouvez contacter notre équipe à l'adresse : <a href="mailto:phoneimpact@inria.fr">phoneimpact@inria.fr</a>

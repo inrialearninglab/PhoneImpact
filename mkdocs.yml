@@ -13,6 +13,7 @@ theme:
   palette:
     primary: custom
     accent: amber
+    scheme: default
 extra_css:
   - assets/extra.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
