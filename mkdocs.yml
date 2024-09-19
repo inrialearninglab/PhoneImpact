@@ -11,9 +11,20 @@ theme:
     - navigation.tabs
     - navigation.footer
   palette:
-    primary: custom
-    accent: amber
-    scheme: default
+    - media: "(prefers-color-scheme:light)"
+      scheme: default
+      primary: custom
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme:dark)"
+      scheme: slate
+      primary: custom
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
 extra_css:
   - assets/extra.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
@@ -21,16 +32,16 @@ extra_javascript:
   - assets/extra.js
 extra:
   social:
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/InriaLearnLab
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/inrialearninglab/
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@inrialearninglab
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/inrialearninglab/
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/InriaLearnLab
   generator: true
-copyright: CC-BY-SA
+copyright: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC-BY-SA</a>
 markdown_extensions:
   - admonition
   - abbr
@@ -78,4 +89,3 @@ plugins:
                         <span class="pageNumber"></span>/<span class="totalPages"></span>
                       </span>
                     </footer>'
-

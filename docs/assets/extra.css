@@ -1,9 +1,16 @@
 :root {
     --md-primary-fg-color: #7F86E8;
 
-    /* No dark mode implementation yet */
     --md-primary-fg-color--dark: #7F86E8;
     --md-primary-fg-color--light: #7F86E8;
+}
+
+[data-md-color-scheme="default"] {
+    --card-bg-color: var(--md-default-bg-color);
+}
+
+[data-md-color-scheme="slate"] {
+    --card-bg-color: var(--md-default-fg-color--lightest);
 }
 
 .footer {
@@ -16,4 +23,3 @@
 .footer > h2 {
     margin: 0;
 }
-
