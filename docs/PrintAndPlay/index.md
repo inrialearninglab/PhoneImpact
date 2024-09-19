@@ -1,5 +1,5 @@
 ---
-title: Print and play
+title: 🖨️ Print and play
 ---
 # Print and play
 

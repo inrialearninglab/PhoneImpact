@@ -19,6 +19,15 @@ extra_css:
 extra_javascript:
   - assets/extra.js
 extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/InriaLearnLab
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/inrialearninglab/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@inrialearninglab
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/inrialearninglab/
   generator: true
 copyright: CC-BY-SA
 markdown_extensions:

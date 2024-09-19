@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: 🏠 Accueil
 template: home.html
 hide:
 - title
