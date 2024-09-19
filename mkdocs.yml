@@ -19,7 +19,7 @@ extra_css:
 extra_javascript:
   - assets/extra.js
 extra:
-  generator: false
+  generator: true
 markdown_extensions:
   - admonition
   - abbr
