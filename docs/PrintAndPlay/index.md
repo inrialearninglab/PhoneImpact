@@ -1,6 +1,9 @@
 ---
-title: 🖨️ Print and play
+hide:
+  - navigation
+  - toc
 ---
+
 # Print and play
 
 Ci-dessous les liens de téléchargement pour imprimer votre propre version du jeu :
@@ -16,5 +19,3 @@ Ci-dessous les liens de téléchargement pour imprimer votre propre version du j
 - [Aide de jeu](docCommuns/AideDeJeu.pdf)
 - [Livret de règles](docCommuns/LivretDeRegles.pdf)
 - [Fascicule de présentation du jeu](docCommuns/depliant.pdf)
-
-

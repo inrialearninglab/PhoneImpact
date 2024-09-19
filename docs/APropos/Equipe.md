@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Découvrez l'équipe qui a réalisé ce jeu
 **A faire**
 
