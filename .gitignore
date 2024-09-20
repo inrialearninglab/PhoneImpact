@@ -1,5 +1,7 @@
 _output/*.png
 _output/pnp/*.pdf
+_output/europrint/*.pdf
 ~$*
 .DS_Store
 .idea
+/_output

@@ -7,6 +7,11 @@ malus_type:
   align: 'center'
   valign: 'middle'
 
+malus_type_print:
+    extends: malus_type
+    width: 44mm
+
+
 malus_text:
   font: Montserrat weight=600 11
   x: 10mm
@@ -16,6 +21,12 @@ malus_text:
   valign: 'middle'
   markup: true
 
+malus_text_print:
+    extends: malus_text
+    font: Montserrat weight=600 10
+    width: 45mm
+    height: 67mm
+
 malus_illu:
   x: 10mm
   y: 18mm
@@ -23,6 +34,11 @@ malus_illu:
   height: :scale
   align: 'center'
   valign: 'middle'
+
+malus_illu_print:
+    extends: malus_illu
+    width: 44mm
+    height: :scale
 
 malus_nb_players:
   font: Montserrat weight=600 11
@@ -33,6 +49,15 @@ malus_nb_players:
   valign: 'middle'
   height: 5mm
 
+malus_nb_players_print:
+    extends: malus_nb_players
+    width: 41mm
+    y: 83mm
+
+malus_index_print:
+    extends: malus_nb_players_print
+    align: 'left'
+    font: Montserrat weight=400 7
 
 malus_index:
   extends: malus_nb_players

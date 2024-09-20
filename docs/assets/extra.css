@@ -1,10 +1,33 @@
+:root {
+    --md-primary-fg-color: #7F86E8;
+
+    --md-primary-fg-color--dark: #7F86E8;
+    --md-primary-fg-color--light: #7F86E8;
+}
+
+[data-md-color-scheme="default"] {
+    --card-bg-color: var(--md-default-bg-color);
+}
+
+[data-md-color-scheme="slate"] {
+    --card-bg-color: var(--md-default-fg-color--lightest);
+}
+
 .footer {
     text-align: center;
-    padding: 2rem 1rem 2rem 1rem;
-    margin-top: 2rem;
+    padding: 1rem 0.5rem 1rem 0.5rem;
+    margin-top: 1rem;
     background: #f5f5f5;
 }
 
 .footer > h2 {
     margin: 0;
+}
+
+.md-social {
+    align-items: center;
+}
+
+.md-header, .md-tabs,.card-button {
+    background: linear-gradient(to right, var(--md-primary-fg-color), #cd84f0);
 }

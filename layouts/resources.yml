@@ -7,11 +7,26 @@ title:
   align: 'center'
   valign: 'middle'
 
+title_print:
+    extends: title
+    font: Montserrat weight=600 10
+    width: 33.7mm
+    height: 10mm
+    y: 11mm
+
 illustration:
   x: 11.8mm
   y: 24.5mm
   width: 45mm
   height: 45mm
+
+illustration_print:
+  extends: illustration
+  x: 12.8mm
+  y: 26.5mm
+  width: 41mm
+  height: 45mm
+
 
 description:
   font: Montserrat weight=500 8
@@ -22,6 +37,10 @@ description:
   align: 'center'
   valign: 'middle'
 
+description_print:
+    extends: description
+    width: 48.1mm
+
 examples:
   font: Montserrat weight=600 11
   x: 7.5mm
@@ -30,3 +49,10 @@ examples:
   height: 12.2mm
   align: 'center'
   valign: 'middle'
+
+examples_print:
+    extends: examples
+    font: Montserrat weight=600 10
+    width: 48.1mm
+    x: 8.5mm
+    y: 76.5mm

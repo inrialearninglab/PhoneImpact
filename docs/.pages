@@ -1,13 +1,9 @@
 nav:
     - index.md
-    - InstructionsAnimateur.md
-    - PreparationJeu_V2.md
-    - Histoire.md
-    - Briefing.md
-    - ReglesDuJeu.md
-    - Debriefing.md
-    - Materiel.md
-    - Fiche_metaux.md
-    - PrintAndPlay.md
-    - Sources.md
-    - Composition_métaux.md
+    - Jeu
+    - PrintAndPlay
+    - Animation
+    - Ressources
+    - APropos
+    - Contacts.md
+
