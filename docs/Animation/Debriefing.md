@@ -1,6 +1,9 @@
 # Débrief : terminer l'activité
 Une fois la phase de jeu terminée, il est important de débriefer, sur les ressentis comme sur les enseignements, de faire le bilan, et de remettre en perspective ce qu'ils ont appris.
 
+!!! Warning
+    Attention, cette fiche est en cours de rédaction
+
 !!! example "Ceci est une proposition de debrief !"
       Dans cette partie, nous vous proposons un déroulé pour **terminer l'activité** avec le jeu PhoneImpact.
       Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.

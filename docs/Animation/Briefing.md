@@ -1,5 +1,8 @@
 # Brief : introduire l’activité
 
+!!! Warning
+    Attention, cette fiche est en cours de rédaction
+
 !!! example "Ceci est une proposition de brief !" 
     Dans cette partie, nous vous proposons un déroulé pour **introduire l'activité** avec le jeu PhoneImpact.
     Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.

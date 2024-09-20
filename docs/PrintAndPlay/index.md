@@ -39,14 +39,12 @@ Il faut imprimer 5 plateaux pour avoir un plateau par joueur
 [Lien vers les cartes Synthèse des ressources, à imprimer recto-verso](pnp/recap.pdf)
 
 ## Les cartes Événements
-<img alt="carteEvenement.png" src="../img/carteEvenement.png" width="140" align="left"/>
-
+<img alt="carteEvenement.png" src="../img/carteEvenement.png" width="140" align="center"/>
 [Lien vers les cartes Événements, à imprimer recto-verso](pnp/events.pdf)
 <br clear="left"/>
 
 ## Les cartes Malus
-<img alt="carteMalusVerso.png" src="../img/carteMalusVerso.png" width="130" align="left"/>
-
+<img alt="carteMalusVerso.png" src="../img/carteMalusVerso.png" width="140" align="center"/>
 [Lien vers les cartes Malus, à imprimer recto-verso](pnp/malus.pdf)
 <br clear="left"/>
 
