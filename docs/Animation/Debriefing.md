@@ -1,4 +1,4 @@
-# Débrief : terminer l'activité
+# 🚧 Débrief : terminer l'activité
 Une fois la phase de jeu terminée, il est important de débriefer, sur les ressentis comme sur les enseignements, de faire le bilan, et de remettre en perspective ce qu'ils ont appris.
 
 !!! Warning
@@ -94,11 +94,6 @@ Ces dernières années, plusieurs évolutions réglementaires ont vu le jour en 
 Si vous avez le temps, vous pouvez proposer aux participants de calculer l'[Indice de reparabilité de leur smartphone (sur le site www.indicereparabilite.fr)](https://www.indicereparabilite.fr/) et d'en discuter.
 C'est l'occasion de parler du reconditionnement des smartphones (garantie légale de conformité de 6 mois qui couvre les pannes, dysfonctionnements mais aussi le caractère limité des performances).
 
-
-<figure markdown>
-  ![QRCode www.indicereparabilite.fr](../img/qrcode_indiceReparabilite.png){ width="200" }
-  <figcaption>Site indicereparabilite.fr pour calculer son indice de reparabilité</figcaption>
-</figure>
 
 ## Quelques chiffres
 

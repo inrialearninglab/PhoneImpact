@@ -1,4 +1,4 @@
-# Brief : introduire l’activité
+# 🚧 Brief : introduire l’activité
 
 !!! Warning
     Attention, cette fiche est en cours de rédaction
@@ -90,7 +90,7 @@ Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Su
     - biblio, ressources 
 
 ### Exposé : et le recyclage dans tout ça ?
-<span style="color:RED;">Texte à reprendre par Sophie</span>
+<span style="color:RED;">Texte à reprendre</span>
 
 Les moyennes mondiales des taux de recyclage sont :
 

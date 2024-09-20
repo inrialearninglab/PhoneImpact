@@ -1,4 +1,4 @@
-# Glossaire
+# 🚧Glossaire
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 

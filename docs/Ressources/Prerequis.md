@@ -1,4 +1,7 @@
-# Prérequis théoriques
+# 🚧 Prérequis théoriques
+
+!!! Warning
+    Attention, cette fiche est en cours de rédaction
 
 ## Se familiariser avec les impacts environnements du smartphone
 Nous vous conseillons vivement si vous débutez sur ce sujet de suivre le [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/), qui est accessible gratuitement sur la plateforme FUN. 
