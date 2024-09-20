@@ -38,7 +38,7 @@ extra:
       link: https://www.instagram.com/inrialearninglab/
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/InriaLearnLab
-  generator: false
+  generator: true
 markdown_extensions:
   - admonition
   - abbr
