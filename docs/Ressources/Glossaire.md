@@ -1,4 +1,6 @@
 # Glossaire
+!!! Warning
+    Attention, cette fiche est en cours de rédaction
 
 # Lexique
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [I](#i) [M](#m) [N](#n) [P](#p) [R](#r) [S](#s) [T](#t) [V](#v)

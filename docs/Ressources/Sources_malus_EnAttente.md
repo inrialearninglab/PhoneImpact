@@ -2,8 +2,6 @@
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
-- Commencer par un paragraphe de présentation des sources
-
 Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impacts environnementaux du numérique" ainsi que sur la formation mobile ePoc "Smartphone et planète":
 
 - [lien pour s'inscrire au Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
@@ -11,23 +9,7 @@ Le jeu s'appuie principalement sur les ressources pédagogiques du Mooc "Impacts
 
 ## Catégories de malus
 
-Catégorie (nb version 3+ / nb version 4+ / nb version 5+)
 
-- Définition (4/4/6) : 1, 2, 3, 30, 55, 56 / renvoient au glossaire
-- Traitement (2/2/2) : 7, 8 / ~~7 et 8 à revoir~~ 
-- Recyclage (3/6/6) : 27, 28, 29, 41, 42, 43 / ~~reprendre 29~~
-- Risques (3/4/5) : 5, 9, 10, 37, 49 / à vérifier mais pas trop d'inquiétudes
-- Pollutions (3/3/3) : 11, 12, 13 / ~~reprendre la 13 (dépollution)~~
-- Catastrophe (3/5/5) : 14, 15, 16, 39, 40 / viennent de la base de données aria et du rapport de l'UNEP
-- Tensions (1/1/2) : 17, 50 / viennent principalement de la presse
-- Conflits (4/5/5) : 18, 19, 20, 21, 38 / **reprendre la 21**
-- En France (3/5/5) : 22, 23, 24, 44, 45 / **vérifier la 45 (projets d'ouverture)**
-- Géographie (2/4/8) : 25, 26, 46, 47, 51, 52, 53, 54 / ~~revoir 26, 53, 54~~
-    * 26 : Les batteries NiMh c'est vieux
-    * 53 : Pas clair à quoi exactement sert le gallium dans les écrans et surtout ça n'a pas l'air d'être généralisé à tous les smartphones, donc j'assure le coup
-    * 54 : Idem pour le platine, on pourra toujours ajouter un commentaire 
-- Pour info (3/4/8) : 31, 32, 33, 48, 57, 58, 59, 60 / **reprendre 59 et 60**
-- En image (5/5/5): 4, 6, 34, 35, 36 / renvoient à la page wikipedia / **vérifier la mise à jour**
 
 ## Les métaux cités dans les malus
 Les métaux cités dans les malus : aluminium, cuivre, cobalt, étain, fer, gallium, lithium, magnesium, nickel, or, palladium, platine, plomb, tantale, terres rares, tungstène, zinc. 
