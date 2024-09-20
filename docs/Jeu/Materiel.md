@@ -9,21 +9,19 @@
 
 ### Plateau Smartphone  
 
-Chaque plateau smartphone est constitué de 4 composants : **Coque**, **Carte mère**, **Batterie** et **Écran tactile**.    
-La fabrication d'un composant rapporte des points, indiqués sur le plateau à côté du nom du composant. 
-Chaque composant est constitué de **ressources** représentées sous forme de **type de ressources** (Métaux communs, Métaux précieux, Terres rares, Autres métaux et Autres matières).  
-Les carrés disposés sur chaque ressource indiquent le **nombre** de ressources nécessaires pour **fabriquer** chaque composant.
+Votre smartphone à fabriquer est représenté par un Plateau Smartphone constitué de 4 composants : **Coque**, **Carte mère**, **Batterie** et **Écran tactile**. La fabrication d'un composant rapporte des points, indiqués sur le plateau à côté du nom du composant.
+
+Chaque composant est fabriqué à partir de **ressources** qui correspondent à différents **types de ressources** (Métaux communs, Métaux précieux, Terres rares, Autres métaux et Autres matières). Les chiffres associés à chaque ressource indiquent le **nombre** de ressources nécessaires pour **fabriquer** chaque composant.
 
 !!! note "Remarque"
-    - Par souci de simplification, la **carte mère** désigne l'ensemble des composants électroniques associés : processeur, mémoire vive, disque dur, haut-parleur, microphone, caméras, antenne...  
-    - Le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière, mais permet de symboliser la variété des ressources nécessaires.
+    - Par souci de simplification, la **carte mère** désigne aussi l'ensemble des composants électroniques associés : processeur, mémoire vive, etc. mais aussi haut-parleurs, caméras, antenne...  
+    - Le nombre de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière, mais symbolise la variété des ressources nécessaires.
 <center>
 <img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="250"/>
 </center>
 
 ### Cartes Ressources 
-Les **ressources** permettent de fabriquer les composants du smartphone.
-Vous pouvez vous approvisionner chez **3 fournisseurs** différenciés par leur couleur et leur logo :    
+Pour fabriquer les composants de votre smartphone, vous aurez besoin de **ressources**. Vous pouvez vous approvisionner chez **3 fournisseurs** différenciés par leur couleur et leur logo :    
   <center>
 <img alt="cartePlluPlus.jpg" src="../img/cartePlluPlus.jpg" width="100" align="center"/>
 <img alt="cartePolluMoins.jpg" src="../img/cartePolluMoins.jpg" width="100" align="center"/>
@@ -35,53 +33,53 @@ qui pratique un minage classique, polluant et non responsable.
 - **Orange : PolluMoins**
 qui pratique un minage plus responsable et essaie de prendre en compte les aspects environnementaux et sociaux.      
 - **Vert : Recycl’**
-spécialisé dans le recyclage mais avec un niveau de pollution non négligeable.  
-  
-Il existe **5 types de ressources** :  
+  spécialisé dans le recyclage, avec un niveau de pollution qui est beaucoup moins élevé.  
+
+On distingue **5 types de ressources** nécessaires à la fabrication des composants d'un smartphone :  
 
 <img alt="MetalCommun.png" src="../img/MetalCommun.png" width="100" align="left"/>
 
-**Métaux communs :** Abondants dans la croûte terrestre, la plupart sont utilisés communément dans l'industrie. Certains peuvent demander une grande quantité d’énergie pour être extraits et raffinés. Les métaux communs composent la majorité des métaux d'un smartphone (ex. Aluminium, Cuivre, Fer).
+**Métaux communs (ex. aluminium, cuivre, fer)** : aussi appelés "métaux de base", ils sont utilisés communément dans l'industrie. Les métaux communs représentent la majeure partie du poids des métaux dans un smartphone.
 
 <br clear="left"/>
 
 <img alt="MetalPrecieux.png" src="../img/MetalPrecieux.png" width="100" align="left"/>
 
-**Métaux précieux :** Rares mais surtout de grande valeur économique, ils sont utilisés majoritairement dans les circuits imprimés (ex. Or, Argent, Platine, Palladium).
+**Métaux précieux (ex. argent, or, palladium, platine)** : rares (très peu abondants dans la croûte terrestre) mais surtout de grande valeur économique, ils sont utilisés principalement pour leur conductivité et leur résistance à la corrosion.
 
 <br clear="left"/>
 
 <img alt="TerreRare.png" src="../img/TerreRare.png" width="100" align="left"/>
 
-**Terres rares :** Les terres rares, à ne pas confondre avec les métaux rares, ne le sont pas tant du fait de leur rareté mais parce qu’elles sont difficiles à extraire (ex. Yttrium, Néodyme).
+**Terres rares (ex. néodyme, yttrium)** : malgré leur nom, les terres rares sont en fait assez abondantes dans la croûte terrestre, mais en faible teneur et difficiles à extraire. Elles servent entre autres à fabriquer les aimants pour les vibreurs des smartphones et à colorer les LED des écrans.
 
 <br clear="left"/>
 
 <img alt="MetalAutre.png" src="../img/AutresMetaux.png" width="100" align="left"/>
 
-**Autres métaux :** Catégorie rassemblant principalement des "métaux de spécialité", il s'agit de tous les autres métaux, plus rares ou peu abondants, sans pour autant avoir à ce jour une valeur économique qui les rend précieux (ex. Cobalt, Lithium, Tantale).
+**Autres métaux (ex. cobalt, lithium, tantale)** : un smartphone contient également de nombreux autres métaux qui ne sont ni communs, ni précieux ni des terres rares. On compte plus d'une cinquantaine de métaux dans un smartphone, qui permettent l'implémentation de fonctionnalités spécifiques.
 
 <br clear="left"/>
 
 <img alt="AutreMateriel.png" src="../img/AutreMateriel.png" width="100" align="left"/>
 
-**Autres matières :** 40 à 70% du poids du smartphone (ex. plastique, verre, céramique, matières synthétiques).
+**Autres matières (ex. céramique, plastique, matières synthétiques, verre)** : en plus des métaux, les smartphones contiennent d'autres matières comme du verre et du plastique pour l'écran, la coque, les circuits imprimés contenus dans la carte mère...
 
 <br clear="left"/>
 
 ### Cartes Synthèse des ressources  
-
 <center>
-<img alt="carteSynthesePolluPlus.png" src="../img/carteSynthesePolluPlus.png" width="120" align="center"/>
-<img alt="carteSynthesePolluMoins.png" src="../img/carteSynthesePolluMoins.png" width="120" align="center"/>
-<img alt="carteSyntheseRecycl.png" src="../img/carteSyntheseRecycl.png" width="120" align="center"/>
+
+<img alt="Cartes Synthèse PolluPlus" src="../img/SynthesePolluPlus.jpeg" width="120" align="center"/>
+<img alt="Cartes Synthèse PolluMoins" src="../img/SynthesePolluMoins.jpeg" width="120" align="center"/>
+<img alt="Cartes Synthèse Recycl'" src="../img/SyntheseRecycl.jpeg" width="120" align="center"/>
 </center>
 
 Pour chaque fournisseur, ces cartes donnent la répartition des différents types de ressources présents dans les pioches. Le **nombre de cartes Ressources** et de **cartes Malus** à piocher sont indiqués à côté du nom du fournisseur.
 
 !!! note "Remarque"
-    - le fabricant **Recycl**’ (en vert) ne fournit pas de ressource de type **Autres métaux** ou **Terres rares** qui sont des ressources non recyclables. 
-    - les chiffres ne reflètent pas le poids réel des ressources d'un smartphone ni la quantité de matière, mais illustrent la diversité des ressources nécessaires.
+    - Le fabricant Recycl’ (en vert) ne fournit pas de ressource de type **Autres métaux** ou **Terres rares** qui sont des ressources non recyclables.
+    - Les chiffres sont choisis pour favoriser la dynamique de jeu mais ne sont pas représentatifs de la réalité de la production..
 
 ### Cartes Événement
 <center>
@@ -90,23 +88,27 @@ Pour chaque fournisseur, ces cartes donnent la répartition des différents type
 
 Les cartes **Événements** sont numérotées de **1 à 14**, incluant une carte spéciale **1bis**. 
 
-Chaque carte contient un **fait** qui se déroule à TechCity et une **action** à lire au début de chaque tour, applicable à tous les joueur·euses. Ces événements introduisent des éléments imprévus et des défis supplémentaires, influençant le cours de la partie de manière significative.
+Chaque carte décrit **un fait** (en partie fictifs mais ancrés dans la réalité) qui se produit à TechCity et **une action** à lire au début de chaque tour, applicable à tous les joueur·euses. Ces événements introduisent des éléments imprévus et des défis supplémentaires, influençant le cours de la partie de manière significative.
 
 ### Carte Malus
 
 <img alt="carteMalusVerso.png" src="../img/carteMalusVerso.png" width="130" align="left"/>
 
-L'acquisition de ressources peut s'accompagner de malus matérialisant votre niveau de pollution.
+Produire les ressources nécessaires à la fabrication des composants d'un smartphone engendre des impacts environnementaux et sociaux. Ces impacts sont matérialisés par les cartes Malus qui accompagnent l'acquisition de ressources PolluPlus et PolluMoins.
 
-Chaque carte Malus apporte une information sur la production des métaux, en particulier sur son **fonctionnement** (par exemple le Traitement des minerais ou le Recyclage des métaux) et sur ses **impacts environnementaux** (malus de type Pollution, Catastrophe) et **sociaux** (malus Tensions, Conflits).
+Chaque carte Malus apporte une information sur la production des métaux, en particulier sur son **fonctionnement** (par exemple le Traitement des minerais ou le Recyclage des métaux) et sur ses **impacts environnementaux** (malus de type Pollutions, Catastrophe) et sociaux (malus Tensions, Conflits).
 
 <br clear="left"/>
+
+!!! note "Remarque"
+    Les cartes Malus se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
 
 <img alt="carteMalusRecto.png" src="../img/carteMalusRecto.png" width="132" align="left"/>
 
 
 !!! note "Remarque"
-    Le numéro en bas à gauche indique le numéro de la carte Malus, utile pour retrouver les sources associées sur la page "source Malus".
-Le chiffre en bas à droite indique dans quelles **configurations -nombres de joueur·euses** - le malus est utilisé.
-<br clear="left"/>
-**Exemple :** dans une partie à 3 joueur·euses, les cartes 3+ sont utilisées et les cartes 4+ et 5+ sont remises dans la boîte.
+    Le numéro en bas à gauche sert à retrouver les sources associées sur le portail web du jeu.
+
+    Le chiffre en bas à droite indique dans quelles **configurations - nombres de joueur·euses -** le malus est utilisé.
+
+    **Exemple** : dans une partie à 4 joueur·euses, les cartes 3+ et 4+ sont utilisées et les cartes 5+ sont remises dans la boîte.
