@@ -11,9 +11,9 @@ task :pnp do
   load 'decks/pnp/polluplus.rb'
 end
 
-task :europrint do
-  load 'decks/europrint/malus.rb'
-  load 'decks/europrint/recap.rb'
-  load 'decks/europrint/resources.rb'
-  load 'decks/europrint/events.rb'
+task :boiteDeJeu do
+  load 'decks/boiteDeJeu/malus.rb'
+  load 'decks/boiteDeJeu/recap.rb'
+  load 'decks/boiteDeJeu/resources.rb'
+  load 'decks/boiteDeJeu/events.rb'
 end

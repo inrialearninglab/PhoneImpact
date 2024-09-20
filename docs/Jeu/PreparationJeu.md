@@ -17,7 +17,7 @@ Les 3 pioches sont disposées en colonne au centre de la table : **PolluPlus** e
 ### Etape 2
 
 Constituez votre pioche de cartes **Malus** :material-numeric-6-circle-outline: en fonction du nombre de joueur·euses.  
-Pour cela, placez **les cartes  1/6 à 6/6** par ordre croissant et mettez-les de côté. 
+Pour cela, mettez **les cartes  `1/6` à `6/6`** de côté. 
 
 Selon **le nombre de joueur·euses**, sélectionnez les cartes **Malus** de la manière suivante :
 
@@ -25,13 +25,13 @@ Selon **le nombre de joueur·euses**, sélectionnez les cartes **Malus** de la m
 - dans une partie à 4, **les cartes 3+ et 4+** sont utilisées. Les cartes 5+ sont remises dans la boîte 
 - dans une partie à 5, **toutes les cartes** sont utilisées.    
 
-Mélangez la pile constituée et ajoutez les 6 premières cartes malus au-dessus de la pioche.
+Mélangez la pile constituée puis ajoutez les cartes `1/6` à `6/6` mises de côté par ordre décroissant, de façon à ce que la carte 1/6 soit en haut de la pile.
 
-!!! note "Remarque"
+!!! note "Récapitulatif"
     | Nombres de joueur·euses          | 3 joueur·euses | 4 joueur·euses | 5 joueur·euses |
     |-----------|-----------|-----------|-----------|
     | **Nombres de cartes Malus** | 36 cartes Malus          |  48 cartes Malus         |  60 cartes Malus         |
-    | **Composition de la pioche malus** |   Cartes 1/6 à 6/6 et cartes Malus 3+        |    Cartes 1/6 à 6/6 et cartes Malus 3+ et cartes 4+       |    Cartes 1/6 à 6/6 et le reste des cartes       |
+    | **Composition de la pioche malus** |   Cartes `1/6` à `6/6` et cartes 3+        |    Toutes les cartes Malus sauf les cartes 5+       |    Toutes les cartes Malus       |
 
 ### Etape 3
 

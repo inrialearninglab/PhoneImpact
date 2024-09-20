@@ -4,3 +4,4 @@ _output/europrint/*.pdf
 ~$*
 .DS_Store
 .idea
+/_output

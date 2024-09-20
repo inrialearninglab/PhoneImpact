@@ -75,7 +75,7 @@ On distingue **5 types de ressources** nécessaires à la fabrication des compos
 <img alt="Cartes Synthèse Recycl'" src="../img/SyntheseRecycl.jpeg" width="120" align="center"/>
 </center>
 
-Pour chaque fournisseur, ces cartes donnent la répartition des différents types de ressources présents dans les pioches. Le **nombre de cartes Ressources** et de **cartes Malus** à piocher sont indiqués à côté du nom du fournisseur.
+Pour chaque fournisseur, ces cartes indiquent la répartition des différents types de ressources présents dans les pioches. Le **nombre de cartes Ressources** et de **cartes Malus** à piocher sont indiqués à côté du nom du fournisseur.
 
 !!! note "Remarque"
     - Le fabricant Recycl’ (en vert) ne fournit pas de ressource de type **Autres métaux** ou **Terres rares** qui sont des ressources non recyclables.
@@ -83,7 +83,7 @@ Pour chaque fournisseur, ces cartes donnent la répartition des différents type
 
 ### Cartes Événement
 <center>
-<img alt="carteEvenement.png" src="../img/carteEvenement.png" width="140"/>
+<img alt="carteEvenement.png" src="../img/carteEvenement.png" width="150" align="left"/>
 </center>
 
 Les cartes **Événements** sont numérotées de **1 à 14**, incluant une carte spéciale **1bis**. 
@@ -92,7 +92,7 @@ Chaque carte décrit **un fait** (en partie fictifs mais ancrés dans la réalit
 
 ### Carte Malus
 
-<img alt="carteMalusVerso.png" src="../img/carteMalusVerso.png" width="130" align="left"/>
+<img alt="carteMalusVerso.png" src="../img/carteMalusVerso.png" width="150" align="left"/>
 
 Produire les ressources nécessaires à la fabrication des composants d'un smartphone engendre des impacts environnementaux et sociaux. Ces impacts sont matérialisés par les cartes Malus qui accompagnent l'acquisition de ressources PolluPlus et PolluMoins.
 
@@ -103,12 +103,12 @@ Chaque carte Malus apporte une information sur la production des métaux, en par
 !!! note "Remarque"
     Les cartes Malus se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
 
-<img alt="carteMalusRecto.png" src="../img/carteMalusRecto.png" width="132" align="left"/>
+<img alt="carteMalusRecto.png" src="../img/carteMalusRecto.png" width="150" align="left"/>
 
+Le chiffre en bas à droite indique dans quelles **configurations - nombres de joueur·euses -** le malus est utilisé.
 
-!!! note "Remarque"
+!!! tip "Exemple"
+    Dans une partie à 4 joueur·euses, les cartes 3+ et 4+ sont utilisées et les cartes 5+ sont remises dans la boîte.
+
+!!! note "Pour info"
     Le numéro en bas à gauche sert à retrouver les sources associées sur le portail web du jeu.
-
-    Le chiffre en bas à droite indique dans quelles **configurations - nombres de joueur·euses -** le malus est utilisé.
-
-    **Exemple** : dans une partie à 4 joueur·euses, les cartes 3+ et 4+ sont utilisées et les cartes 5+ sont remises dans la boîte.
