@@ -57,3 +57,19 @@
 .card-button:hover {
     opacity: 0.8;
 }
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.row {
+   list-style: none;
+}
+
+h1 {
+    color: var(--md-typeset-color) !important;
+    font-size: 1rem !important;
+    text-align: center;
+    margin-top: 1rem !important;
+}
