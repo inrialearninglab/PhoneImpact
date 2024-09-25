@@ -48,10 +48,10 @@ En cas d’oubli, vous pouvez vous référer à l’aide de jeu :
 ## Qui commence ?
 Pour déterminer qui commence :
 
-- Celui qui n’a pas de smartphone commence !
-- Sinon, celui ou celle qui a le smartphone le plus vieux commence.
-- En cas d'égalité, si un joueur a un smartphone reconditionné ou a récupéré un smartphone usagé,
-c’est mieux.
+1. Si une personne **n'a pas de smartphone**, c'est elle qui commence
+2. Sinon, c'est la personne avec **le smartphone le plus vieux** qui commence
+3. Si vous ne connaissez pas l'âge de vos smartphones, favorisez la personne qui a **un smartphone reconditionné**, ou qui a **récupéré un vieux smartphone**.
+4. Si aucun de ces critères ne vous a permis de vous départager, c'est la personne la **plus jeune** qui commence.
 
 ## Après chaque tour de table, on tire une carte événement
 
