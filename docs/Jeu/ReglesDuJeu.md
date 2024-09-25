@@ -2,14 +2,14 @@
 
 ## Qui commence ?
 <img alt="illustration2.png" src="../img/illustration2.png" width="170" align="right"/>
-Le **titre de Premier joueur** est donné à la personne ayant le smartphone le plus "**écoresponsable**”, d’après l’ordre suivant : 
+Le titre de **Joueur·euse 1** est donné à la personne ayant le smartphone le plus "écoresponsable”, d’après l’ordre suivant :
 
-1. La personne qui n'a **pas de smartphone** commence 
-2. La personne qui a le **smartphone le plus vieux** 
-3. La personne qui a un **smartphone reconditionné**  
-4. La personne qui a **récupéré un vieux smartphone**
+1. Si une personne **n'a pas de smartphone**, c'est elle qui commence
+2. Sinon, c'est la personne avec **le smartphone le plus vieux** qui commence
+3. Si vous ne connaissez pas l'âge de vos smartphones, favorisez la personne qui a **un smartphone reconditionné**, ou qui a **récupéré un vieux smartphone**.
+4. Si aucun de ces critères ne vous a permis de vous départager, c'est la personne la **plus jeune** qui commence.
 
-La pile des **cartes Événements** est placée devant le Premier joueur.
+La pile des **cartes Événements** est placée devant le ou la **Joueur·euse 1**.
 
 <br clear="left"/>
 
@@ -68,6 +68,6 @@ Défaussez **1 à 2 cartes Malus** de votre main. Ces cartes défaussées sont m
 
 ## Fin de tour de jeu 
 
-À la fin de chaque tour de jeu, le **Premier joueur** tire une **carte Événements** qui affectera l’ensemble des joueur·euses. Lire son contenu et suivre les instructions.
+À la fin de chaque tour de jeu, le ou la **Joueur·euse 1** tire une **carte Événements** qui affectera l’ensemble des joueur·euses. Lire son contenu et suivre les instructions.
 
 Si un **événement** impacte les **cartes Ressources visibles**, alors elles seront remplacées avant le début du nouveau tour de jeu.

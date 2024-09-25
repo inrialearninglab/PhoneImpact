@@ -9,7 +9,7 @@
 
 ### Plateau Smartphone  
 
-Votre smartphone à fabriquer est représenté par un Plateau Smartphone constitué de 4 composants : **Coque**, **Carte mère**, **Batterie** et **Écran tactile**. La fabrication d'un composant rapporte des points, indiqués sur le plateau à côté du nom du composant.
+Votre smartphone à fabriquer est représenté par un Plateau Smartphone constitué de 4 composants : **Coque**, **Carte mère**, **Batterie** et **Écran tactile**. La fabrication d'un composant rapporte des points, indiqués sur le plateau à côté de son nom.
 
 Chaque composant est fabriqué à partir de **ressources** qui correspondent à différents **types de ressources** (Métaux communs, Métaux précieux, Terres rares, Autres métaux et Autres matières). Les chiffres associés à chaque ressource indiquent le **nombre** de ressources nécessaires pour **fabriquer** chaque composant.
 
@@ -43,9 +43,9 @@ On distingue **5 types de ressources** nécessaires à la fabrication des compos
 
 <br clear="left"/>
 
-<img alt="MetalPrecieux.png" src="../img/MetalPrecieux.png" width="100" align="left"/>
+<img alt="MetalPrecieux.png" src="../img/MetalPrecieux.png" width="110" align="left"/>
 
-**Métaux précieux (ex. argent, or, palladium, platine)** : rares (très peu abondants dans la croûte terrestre) mais surtout de grande valeur économique, ils sont utilisés principalement pour leur conductivité et leur résistance à la corrosion.
+**Métaux précieux (ex. argent, or, palladium, platine)** : rares (très peu abondants dans la croûte terrestre) mais surtout de grande valeur économique. Dans les smartphones, ils sont utilisés principalement pour leur conductivité et leur résistance à la corrosion. Dans le reste du monde, l'or sert en grande majorité pour les bijoux.
 
 <br clear="left"/>
 
@@ -64,6 +64,32 @@ On distingue **5 types de ressources** nécessaires à la fabrication des compos
 <img alt="AutreMateriel.png" src="../img/AutreMateriel.png" width="100" align="left"/>
 
 **Autres matières (ex. céramique, plastique, matières synthétiques, verre)** : en plus des métaux, les smartphones contiennent d'autres matières comme du verre et du plastique pour l'écran, la coque, les circuits imprimés contenus dans la carte mère...
+
+<br clear="left"/>
+
+### Carte Malus
+
+<img alt="carteMalusVerso.png" src="../img/carteMalusVerso.png" width="150" align="left"/>
+
+Produire les ressources nécessaires à la fabrication des composants d'un smartphone engendre des impacts environnementaux et sociaux. Ces impacts sont matérialisés par les cartes Malus qui accompagnent l'acquisition de ressources PolluPlus et PolluMoins.
+
+Chaque carte Malus apporte une information sur la production des métaux, en particulier sur son **fonctionnement** (par exemple le Traitement des minerais ou le Recyclage des métaux) et sur ses **impacts environnementaux** (malus de type Pollutions, Catastrophe) et sociaux (malus Tensions, Conflits).
+
+<br clear="left"/>
+
+!!! note "Remarque"
+Les cartes Malus se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
+
+Le chiffre en bas à droite indique dans quelles **configurations - nombres de joueur·euses -** le malus est utilisé.
+
+<img alt="carteMalusRecto.png" src="../img/carteMalusRecto.png" width="170" align="left"/>
+
+
+!!! example "Exemple"
+Dans une partie à 4 joueur·euses, les cartes 3+ et 4+ sont utilisées et les cartes 5+ sont remises dans la boîte.
+
+!!! note "Pour info"
+Le numéro en bas à gauche sert à retrouver les sources associées sur le portail web du jeu.
 
 <br clear="left"/>
 
@@ -90,26 +116,3 @@ Les cartes **Événements** sont numérotées de **1 à 14**, incluant une carte
 
 Chaque carte décrit **un fait** (en partie fictifs mais ancrés dans la réalité) qui se produit à TechCity et **une action** à lire au début de chaque tour, applicable à tous les joueur·euses. Ces événements introduisent des éléments imprévus et des défis supplémentaires, influençant le cours de la partie de manière significative.
 
-### Carte Malus
-
-<img alt="carteMalusVerso.png" src="../img/carteMalusVerso.png" width="150" align="left"/>
-
-Produire les ressources nécessaires à la fabrication des composants d'un smartphone engendre des impacts environnementaux et sociaux. Ces impacts sont matérialisés par les cartes Malus qui accompagnent l'acquisition de ressources PolluPlus et PolluMoins.
-
-Chaque carte Malus apporte une information sur la production des métaux, en particulier sur son **fonctionnement** (par exemple le Traitement des minerais ou le Recyclage des métaux) et sur ses **impacts environnementaux** (malus de type Pollutions, Catastrophe) et sociaux (malus Tensions, Conflits).
-
-<br clear="left"/>
-
-!!! note "Remarque"
-    Les cartes Malus se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
-
-Le chiffre en bas à droite indique dans quelles **configurations - nombres de joueur·euses -** le malus est utilisé.
-
-<img alt="carteMalusRecto.png" src="../img/carteMalusRecto.png" width="170" align="left"/>
-
-
-!!! example "Exemple"
-    Dans une partie à 4 joueur·euses, les cartes 3+ et 4+ sont utilisées et les cartes 5+ sont remises dans la boîte.
-
-!!! note "Pour info"
-    Le numéro en bas à gauche sert à retrouver les sources associées sur le portail web du jeu.
