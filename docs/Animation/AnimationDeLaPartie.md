@@ -3,7 +3,7 @@
     Voici quelques conseils pour faciliter le **déroulement de la partie**. Vous aurez sûrement d'autres astuces ou propositions, n'hésitez pas à les partager avec les autres animateurs du jeu (Cf [Contacts](../Contacts.md)).
 
 ## Choix du 1er joueur
-Selon la règle, le **Premier joueur** est celui qui a le smartphone le plus "eco-responsable" (["Qui commence ?](../Jeu/ReglesDuJeu.html#qui-commence)). Durant la partie, c'est celui qui lit les carte Événements à la fin du tour de table. Assurez-vous que le Premier joueur sait lire le français correctement sinon la lecture des événements risque d'être assez compliquée. 
+Selon la règle, le **Premier joueur** est celui qui possède le smartphone le plus "eco-responsable" (cf. partie ["Qui commence ?](../Jeu/ReglesDuJeu.html#qui-commence)). Durant la partie, c'est celui qui lit les carte Événements à la fin du tour de table. Assurez-vous que le Premier joueur sait lire le français correctement sinon la lecture des événements risque d'être assez compliquée. 
 
 S'il n'y a qu'une table, vous pouvez par exemple prendre en charge la lecture des cartes si besoin. Ou désigner une autre personne pour lire les événements. 
 
@@ -29,7 +29,7 @@ Vous pouvez aussi abréger la partie des autres joueurs (Cf. paragraphe suivant)
 Il est important de garder du temps pour la phase de débrief. Du coup, nous vous conseillons d'abréger la partie si vous jugez qu'elle ne sera pas terminée en 40 mn. Pour cela, vous avez plusieurs possibilités :
 
 - Quand les joueurs piochent des cartes Malus en acquérant des ressources PolluPlus ou PolluMoins, ils doivent lire les textes écrits sur toutes les cartes. Vous pouvez leur demander de **ne lire que la première carte Malus** en fin de partie. Cela accélère le tour de jeu.
-- Vous pouvez **supprimer quelques événements** en passant directement à l'Événement 13 qui termine la partie. Nous vous conseillons tout de même d'aller au moins jusqu'à l'Évenement 9, de faire un tour de jeu puis de passer à l'événement 13. Faites autant d'événements que possible, l'expérience en sera plus intéressante.
+- Vous pouvez **supprimer quelques événements** en passant directement à l'Événement 13 qui termine la partie. Nous vous conseillons tout de même d'aller au moins jusqu'à l'Événement 9, de faire un tour de jeu puis de passer à l'événement 13. Faites autant d'événements que possible, l'expérience en sera plus intéressante.
 
 ## Faire une partie en 20 mn
 Si vous n'avez que 20 minutes, vous pouvez jouer avec les mêmes règles du jeu mais en ne conservant que les cartes Événements numéro : 1 et 1 bis; 5; 6; 7; 13;

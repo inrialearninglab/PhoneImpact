@@ -35,7 +35,7 @@ Vous pouvez commencer la séance de debrief par des questions aux joueurs sur l'
 
 - Quelles sont les informations que vous avez retenues de ce jeu ? Qu'est-ce qui vous a le plus marqué ?
 - Avez-vous des questions sur des textes lus dans les cartes Malus ou Événement ?
-- Quelles sont les informations lues dans les cartes qui vous ont les plus marqués ("je ne le savais pas" ou "ça m'a choqué/étonné" ...)
+- Quelles sont les informations lues dans les cartes qui vous ont le plus marqué ("je ne le savais pas" ou "ça m'a choqué/étonné" ...)
 
 ### Approfondissement 
 Certaines notions peuvent être approfondies en partant de ce qu'ils ont retenus/compris.
