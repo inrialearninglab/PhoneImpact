@@ -15,10 +15,10 @@ Des ressources sont mises à votre disposition pour démarrer une session du jeu
 
 - Un [kakemono](./Kakemonos/kakemonoBrief_PhoneImpact.pdf)
 - Des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
-      - Schéma avec un smartphone démonté et les éléments qui le constituent
-      - Schéma qui explique toutes les étapes de l'extraction minière et du recyclage
+      - Schéma d'un smartphone démonté avec les éléments qui le composent
+      - Schéma expliquant toutes les étapes de l'extraction minière et du recyclage
       - [Photo de la mine de Cuivre Palabora en Afrique du Sud](./Illustrations/MineCuivrePalabora.pdf)
-      - [Définition simplifiée des catégories métaux](AutresDocuments/Definition_simple_categories_metaux.md)
+      - [Définition simplifiée des catégories de métaux](AutresDocuments/Definition_simple_categories_metaux.md)
 
 ## Déroulé du brief
 
@@ -36,7 +36,7 @@ Vous pouvez ensuite poser les questions suivantes (avec le smartphone démonté 
 
 *Où est la batterie ? La carte mère ? la caméra ? le disque dur ? ...*
 
-*A votre avis, combien de métaux y a t'il dans un smartphone ?*
+*À votre avis, combien de métaux y a t'il dans un smartphone ?*
 !!! note "Réponse"
     En 1950, on dénombrait une douzaine de métaux dans nos bons vieux téléphones fixes. Le smartphone d'aujourd'hui, beaucoup plus petit et fin, contient plus de 50 métaux : une condition pour avoir toutes les fonctionnalités de nos équipements !
 
@@ -115,8 +115,8 @@ Nous vous proposons un pitch pour expliquer les règles du jeu que vous pouvez b
     - [Livret de règles](../PrintAndPlay/docCommuns/LivretDeRegles.pdf)
 
 ### Annoncer le debrief
-Pour qu'ils soient plus attentifs lors de la lecture des malus, vous pouvez annoncer au joueurs en fin de brief que :  
+Pour qu'ils soient plus attentifs lors de la lecture des malus, vous pouvez annoncer aux joueurs en fin de brief que :  
 
-- Après la partie, on reviendra sur les cartes Malus à la fin et/ou qu'on leur posera des questions sur les textes lus à haute voix.
-- Leur proposer de noter les numéros des malus (ou les mettre de côté) qui les ont les plus marqués ("je ne le savais pas" ou "ça m'a choqué/étonné" ...).
+- Après la partie, on reviendra sur les cartes Malus et/ou on leur posera des questions sur les textes lus à haute voix.
+- Leur proposer de noter les numéros des malus (ou les mettre de côté) qui les ont le plus marqués ("je ne le savais pas" ou "ça m'a choqué/étonné" ...).
 - Leur proposer de noter les numéros des malus (ou les mettre de côté) s'ils ont des questions à poser lors du debrief.
