@@ -1,9 +1,9 @@
 # Vous souhaitez animer une activité avec PhoneImpact ?
 ## Se familiariser avec les impacts environnements du smartphone 
-Pour commencer, si ce n'est pas déjà le cas, il est nécessaire de vous familiariser sur le sujet. Pour ce faire, nous vous conseiller d'aller sur la page ["Prérequis théoriques"](../Ressources/Prerequis.md).
+Pour commencer, si ce n'est pas déjà le cas, il est nécessaire de vous familiariser avec le sujet. Pour ce faire, nous vous conseillons d'aller sur la page ["Prérequis théoriques"](../Ressources/Prerequis.md).
 
 ## Découvrir le jeu PhoneImpact
-Pour animer une session de PhoneImpact, il est ensuite nécessaire de bien comprendre le jeu, ses objectifs pédagogiques, les éléments du jeu, le matériel... Tous ces aspects sont développés dans la [Partie "Jeu" de ce portail](../Jeu/Presentation.md)).
+Pour animer une session de PhoneImpact, il est essentiel de bien comprendre le jeu, ses objectifs pédagogiques, les éléments du jeu, le matériel... Tous ces aspects sont développés dans la [Partie "Jeu" de ce portail](../Jeu/Presentation.md)).
 
 !!! tip "Un conseil"
     Faites une partie avec vos proches, vos collègues,.... C'est préférable pour bien comprendre les règles du jeu et les différentes stratégies qu'on peut adopter !
@@ -13,7 +13,7 @@ Il faut des tables rondes ou carrées de préférence, avec 3 à 5 chaises selon
 
 Vous pouvez prévoir des feuilles ou des post-its et des crayons à poser sur les tables pour que les joueurs puissent noter des questions pendant la partie. 
 
-Les matériels pédagogiques nécessaires à chaque étape de l'animation du jeu sont listés dans chaque partie correspondante.
+Le matériel pédagogique nécessaire à chaque étape de l'animation du jeu est listé dans chaque partie correspondante.
 
 Pour jouer, vous avez le choix entre :
 
