@@ -26,7 +26,7 @@ Des ressources sont mises à votre disposition pour démarrer une session du jeu
 ### Activité de découverte : de quoi est constitué un smartphone ?
 Si vous possédez des anciens smartphones qui ne marchent plus, vous pouvez inviter les joueurs à les démonter (un smartphone par table de jeu dans l'idéal). Sinon, vous pouvez utiliser le matériel décrit ci-dessus.
 
-<span style="color:RED;">Lien vers le schéma du smartphone avec les éléments à insérer</span>
+<a href="./Illustrations/smartphone_demonte.png"> "<img src="./Illustrations/smartphone_demonte.png" width="400"/></a>
  
 Vous pouvez ensuite poser les questions suivantes (avec le smartphone démonté ou avec le matériel imprimé ou projeté). Ci-dessous quelques exemples de questions.
 
@@ -76,7 +76,9 @@ Si vous avez un projecteur, vous pouvez projeter la vidéo explicative sur le pr
 
 Sinon, vous pouvez montrer et commenter le **schéma qui explique toutes les étapes de l'extraction minière et du recyclage**.
 
-<span style="color:RED;">Lien vers le schéma à insérer</span>
+<a href="./Illustrations/etapes_extraction_mine.png"> "<img src="./Illustrations/etapes_extraction_mine.png" width="400"/></a>
+
+*Source : Galin, Rémi & URIEN, Pol & CHARLES, Nicolas & Bailly, Laurent. (2017). Tome 3 - Projet minier et parties-prenantes.*
 
 ### Montrer un exemple de mine à ciel ouvert
 
