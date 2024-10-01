@@ -1,9 +1,9 @@
 nav:
     - index.md
     - Jeu
-    - PrintAndPlay
     - Animation
     - Ressources
+    - PrintAndPlay
     - APropos
     - Contacts.md
 

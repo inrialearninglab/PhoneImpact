@@ -20,4 +20,4 @@ Ce jeu est une oeuvre collective. De nombreuses personnes ont participé à ce p
 
 Nous remercions Suzon Beaussant (Serious Game Designer) qui nous accompagné dans la phase de conception du jeu ainsi que le Service STIP Inria Grenoble qui nous a soutenu tout le long du projet.
 
-PhoneImpact a été soutenu par le **Ministère de la Culture** qui a financé des boîtes de jeu à destination des bibliothèques.
+PhoneImpact a été soutenu par le **Ministère de la Culture** qui a financé des boîtes de jeu à destination des bibliothèques et médiathèques.

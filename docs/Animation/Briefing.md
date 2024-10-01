@@ -13,12 +13,12 @@
 
 Des ressources sont mises à votre disposition pour démarrer une session du jeu PhoneImpact
 
-- Un [kakemono](./Kakemonos/kakemonoBrief_PhoneImpact.pdf)
+- Un [kakemono](MaterielPedagogique/Kakemonos/kakemonoBrief_PhoneImpact.pdf)
 - Des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
       - Schéma d'un smartphone démonté avec les éléments qui le composent
       - Schéma expliquant toutes les étapes de l'extraction minière et du recyclage
-      - [Photo de la mine de Cuivre Palabora en Afrique du Sud](./Illustrations/MineCuivrePalabora.pdf)
-      - [Définition simplifiée des catégories de métaux](AutresDocuments/Definition_simple_categories_metaux.md)
+      - [Photo de la mine de Cuivre Palabora en Afrique du Sud](MaterielPedagogique/Illustrations/MineCuivrePalabora.pdf)
+      - [Définition simplifiée des catégories de métaux](MaterielPedagogique/AutresDocuments/Definition_simple_categories_metaux.md)
 
 ## Déroulé du brief
 
@@ -26,7 +26,7 @@ Des ressources sont mises à votre disposition pour démarrer une session du jeu
 ### Activité de découverte : de quoi est constitué un smartphone ?
 Si vous possédez des anciens smartphones qui ne marchent plus, vous pouvez inviter les joueurs à les démonter (un smartphone par table de jeu dans l'idéal). Sinon, vous pouvez utiliser le matériel décrit ci-dessus.
 
-<a href="./Illustrations/smartphone_demonte.png"> "<img src="./Illustrations/smartphone_demonte.png" width="400"/></a>
+<a href="./MaterielPedagogique/Illustrations/smartphone_demonte.png"> "<img src="./MaterielPedagogique/Illustrations/smartphone_demonte.png" width="400"/></a>
  
 Vous pouvez ensuite poser les questions suivantes (avec le smartphone démonté ou avec le matériel imprimé ou projeté). Ci-dessous quelques exemples de questions.
 
@@ -47,7 +47,7 @@ Vous pouvez ensuite poser les questions suivantes (avec le smartphone démonté 
 !!! abstract "Ressources utiles pour vous former"
     - [Fiche de description des métaux utilisés dans un smartphone](../Ressources/Fiche_metaux.md)
     - [Fiche concept "Quels métaux dans les smartphones ?" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html)
-    - [Activité pédagogique "Les impacts environnementaux d'un smartphone" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_2_Comprendre/story.html)
+    - [Activité pédagogique "Autopsie d'un smartphone" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_3_Mesurer2/story.html)
 
 
 ### Exposé : les différents types de ressources pour fabriquer un smartphone
@@ -76,7 +76,7 @@ Si vous avez un projecteur, vous pouvez projeter la vidéo explicative sur le pr
 
 Sinon, vous pouvez montrer et commenter le **schéma qui explique toutes les étapes de l'extraction minière et du recyclage**.
 
-<a href="./Illustrations/etapes_extraction_mine.png"> "<img src="./Illustrations/etapes_extraction_mine.png" width="400"/></a>
+<a href="./MaterielPedagogique/Illustrations/etapes_extraction_mine.png"> "<img src="./MaterielPedagogique/Illustrations/etapes_extraction_mine.png" width="400"/></a>
 
 *Source : Galin, Rémi & URIEN, Pol & CHARLES, Nicolas & Bailly, Laurent. (2017). Tome 3 - Projet minier et parties-prenantes.*
 
@@ -84,7 +84,7 @@ Sinon, vous pouvez montrer et commenter le **schéma qui explique toutes les ét
 
 Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Sud** : la plus grande mine à ciel ouvert et le plus grand trou artificiel au monde avec 2 000 mètres de diamètre et 762 mètres de profondeur. On devine des installations industrielles à gauche et à l'arrière de l'entonnoir. On devine aussi un éboulement sur la gauche de la cavité.
 
-<a href="./Illustrations/MineCuivrePalabora.jpg"> "<img src="./Illustrations/MineCuivrePalabora.jpg" width="400"/></a>
+<a href="./MaterielPedagogique/Illustrations/MineCuivrePalabora.jpg"> "<img src="./MaterielPedagogique/Illustrations/MineCuivrePalabora.jpg" width="400"/></a>
 
 *Mine de cuivre de Palabora, Afrique du Sud ; à gauche : représentation imagée de la quantité de cuivre métal produite par la mine jusqu’à environ 2007 (© Dillon Marsh · Mise à disposition par le photographe · dillonmarsh.com) : à droite : Vue satellitaire de la mine et mise en évidence de l’emprise en surface des déchets miniers (© Google 2021) | Création : SystExt · Septembre 2021*
 

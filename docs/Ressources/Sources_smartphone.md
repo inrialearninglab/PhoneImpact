@@ -1,4 +1,4 @@
-# Composition métallique des plateaux de jeu
+# Les métaux dans un smartphone
 
 ## Décomposition
 Le plateau de jeu représente un smartphone composé de : 
