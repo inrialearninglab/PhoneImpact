@@ -31,3 +31,7 @@
 .md-header, .md-tabs,.card-button {
     background: linear-gradient(to right, var(--md-primary-fg-color), #cd84f0);
 }
+
+.md-nav__list {
+    margin-left: .6rem;
+}
