@@ -14,7 +14,7 @@ Une fois la phase de jeu terminée, il est important de débriefer, sur les ress
 
 Des ressources sont mises à votre disposition pour terminer une session du jeu PhoneImpact
 
-- Un [kakemono](MaterielPedagogique/Kakemonos/kakemonoDebriefPhoneImpact.pdf)
+- Un [kakemono](MaterielPedagogique/Kakemonos/kakemonoDebrief_PhoneImpact.pdf)
 - Des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
     - Carte du monde des métaux et des impacts environnementaux
     - Remise en perspective sur l'industrie minière

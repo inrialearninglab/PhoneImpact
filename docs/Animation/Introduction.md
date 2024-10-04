@@ -1,4 +1,7 @@
-# Introduction
+---
+title: "Introduction"
+---
+# Animation du jeu
 ## Se familiariser avec les impacts environnements du smartphone 
 Pour commencer, si ce n'est pas déjà le cas, il est nécessaire de vous familiariser avec le sujet. Pour ce faire, nous vous conseillons d'aller sur la Partie ["Ressources"](../Ressources/Introduction.md).
 
