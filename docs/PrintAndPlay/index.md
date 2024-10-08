@@ -8,13 +8,10 @@ hide:
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
 
 ## Le plateau Smartphone
-<img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" align="left"/>
+<a href="docCommuns/Plateau.pdf">"<img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
 
-Il faut imprimer 5 plateaux pour avoir un plateau par joueur
 
 [Lien vers le plateau Smartphone à imprimer en 5 exemplaires, recto](docCommuns/Plateau.pdf) 
-
-<br clear="left"/>
 
 ## Les cartes Ressources
 
@@ -25,9 +22,11 @@ Il faut imprimer 5 plateaux pour avoir un plateau par joueur
 
 
 ## Les cartes Cartes Synthèse des ressources
+<a href="pnp/recap.pdf">
 <img alt="Cartes Synthèse PolluPlus" src="../img/SynthesePolluPlus.jpeg" width="100" align="center"/>
 <img alt="Cartes Synthèse PolluMoins" src="../img/SynthesePolluMoins.jpeg" width="100" align="center"/>
-<img alt="Cartes Synthèse Recycl'" src="../img/SyntheseRecycl.jpeg" width="100" align="center"/>
+<img alt="Cartes Synthèse Recycl'" src="../img/SyntheseRecycl.jpeg" width="100" align="center"/></a>
+
 [Lien vers les cartes Synthèse des ressources, à imprimer recto-verso](pnp/recap.pdf)
 
 ## Les cartes Événements et Malus

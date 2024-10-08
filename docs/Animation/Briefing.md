@@ -15,7 +15,7 @@ Des ressources sont mises à votre disposition pour démarrer une session du jeu
 
 - Un [kakemono](MaterielPedagogique/Kakemonos/kakemonoBrief_PhoneImpact.pdf)
 - Des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
-      - Schéma d'un smartphone démonté avec les éléments qui le composent
+      - [Schéma d'un smartphone démonté avec les éléments qui le composent](MaterielPedagogique/Illustrations/smartphone_demonte.png)
       - Schéma expliquant toutes les étapes de l'extraction minière et du recyclage
       - [Photo de la mine de Cuivre Palabora en Afrique du Sud](MaterielPedagogique/Illustrations/MineCuivrePalabora.pdf)
       - [Définition simplifiée des catégories de métaux](MaterielPedagogique/AutresDocuments/Definition_simple_categories_metaux.md)
