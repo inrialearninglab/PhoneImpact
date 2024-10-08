@@ -43,7 +43,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
 
 En cas d’oubli, vous pouvez vous référer à l’aide de jeu :
 
-<img src="../img/AideDeJeu.jpeg" width="200"/>
+<img src="../img/AideDeJeu.png" width="200"/>
 
 ## Qui commence ?
 Pour déterminer qui commence :

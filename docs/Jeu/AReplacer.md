@@ -87,7 +87,7 @@ Les textes des cartes malus sont lues quand elles sont tirées.
 
 En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
-![Recap des règles](../img/AideDeJeu.jpeg){ width="300" }
+![Recap des règles](../img/AideDeJeu.png){ width="300" }
 
 
 ### Qui commence à faire l'action désignée par la carte événement
