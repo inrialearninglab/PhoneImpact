@@ -14,7 +14,7 @@ Une fois la phase de jeu terminée, il est important de débriefer, sur les ress
 
 Des ressources sont mises à votre disposition pour terminer une session du jeu PhoneImpact
 
-- Un [kakemono](./Kakemonos/kakemonoDebriefPhoneImpact.pdf)
+- Un [kakemono](MaterielPedagogique/Kakemonos/kakemonoDebrief_PhoneImpact.pdf)
 - Des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
     - Carte du monde des métaux et des impacts environnementaux
     - Remise en perspective sur l'industrie minière
@@ -35,7 +35,7 @@ Vous pouvez commencer la séance de debrief par des questions aux joueurs sur l'
 
 - Quelles sont les informations que vous avez retenues de ce jeu ? Qu'est-ce qui vous a le plus marqué ?
 - Avez-vous des questions sur des textes lus dans les cartes Malus ou Événement ?
-- Quelles sont les informations lues dans les cartes qui vous ont les plus marqués ("je ne le savais pas" ou "ça m'a choqué/étonné" ...)
+- Quelles sont les informations lues dans les cartes qui vous ont le plus marqué ("je ne le savais pas" ou "ça m'a choqué/étonné" ...)
 
 ### Approfondissement 
 Certaines notions peuvent être approfondies en partant de ce qu'ils ont retenus/compris.
@@ -97,7 +97,7 @@ C'est l'occasion de parler du reconditionnement des smartphones (garantie légal
 
 ## Quelques chiffres
 
-<a href="Illustrations/ADEME-smartphone_Illu_infographie.png"><img src="Illustrations/ADEME-smartphone_Illu_infographie.png" width="300"/></a>
+<a href="MaterielPedagogique/Illustrations/ADEME-smartphone_Illu_infographie.png"><img src="MaterielPedagogique/Illustrations/ADEME-smartphone_Illu_infographie.png" width="300"/></a>
 
 ## Un retour d'expérience
 Vous pouvez  mettre à la disposition des participants des post-it/une feuille pour qu'ils puissent faire un retour sur ce qu'ils ont appris et de donner un avis sur le jeu.

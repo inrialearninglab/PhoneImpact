@@ -18,7 +18,7 @@ Se mettre à la place d'un fabricant de smartphones, tiraillé par l'envie de d�
 
 ## Instructions pour l'animateur (matériel, règles, brief/debrief...)
 
-[Instructions pour animer le jeu](../Animation/InstructionsAnimateur.md)
+[Instructions pour animer le jeu](../Animation/Introduction)
 
 ## License
 Le jeu PhoneImpact est sous license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International
@@ -87,7 +87,7 @@ Les textes des cartes malus sont lues quand elles sont tirées.
 
 En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
-![Recap des règles](../img/AideDeJeu.jpeg){ width="300" }
+![Recap des règles](../img/AideDeJeu.png){ width="300" }
 
 
 ### Qui commence à faire l'action désignée par la carte événement
