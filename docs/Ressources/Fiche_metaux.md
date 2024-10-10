@@ -23,21 +23,27 @@ Parmi les métaux considérés dans la préparation de ce jeu, voici la liste de
 - Aluminium (Al ) 
 
     Métal léger et durable, offrant une protection efficace aux composants internes des appareils, même en cas de chocs. Sa capacité à contrôler la chaleur est essentielle pour maintenir les appareils électroniques au frais lors d'une utilisation prolongée. 
+
 - Cuivre (Cu) 
 
     Le cuivre est le second meilleur conducteur électrique après l'argent. Il est utilisé dans la production de circuits électriques à haut rendement énergétique. Également résistant à la corrosion, ductile et malléable, il trouve sa principale application dans tous les types de câblage 
+
 - Etain (Sn) 
 
     L’étain étant trop malléable à l’état pur, il est souvent utilisé sous forme d’alliage. La moitié de l’étain raffiné est utilisé dans les alliages de brasures, à destination à 80% des composants électroniques. La deuxième application principale de l’étain est l’industrie de la chimie, notamment comme catalyseurs pour la production de polyuréthane et de silicone.  L’étain est également présent dans les batteries au plomb utilisées dans la production automobile, les moteurs, et les équipements fixes pour les télécommunications. 
+
 - Magnesium (Mg)
 
     Le magnésium est utilisé majoritairement dans le secteur de l’automobile car il permet de réduire le poids total des véhicules. De nombreuses grandes entreprises automobiles ont déjà remplacé l'acier et l'aluminium par du magnésium dans diverses parties de leurs produits (boîte de vitesses, colonne de direction, boîtiers des airbags du conducteur, etc.) 
+
 - Manganèse (Mn)
 
     Le manganèse est principalement utilisé dans les processus métallurgiques, comme additif désoxydant et désulfurant et comme constituant d'alliage. Dans le secteur du bâtiment et de la construction, le manganèse est principalement utilisé pour la production d'acier. Il s'agit d'un élément d’alliage qui confère résistance, dureté et formabilité aux aciers à haute résistance et aux aciers spéciaux. Il est également utilisé dans la production de batteries, dans la fabrication de produits chimiques, dans la fabrication de verre, dans les industries du cuir et du textile, et comme engrais.
+
 - Nickel (Ni) 
 
     Le nickel est souvent allié à d’autres métaux, dont le chrome, pour composer des aciers spéciaux tels que l’acier inoxydable. En 2022, celui-ci représente le premier secteur de consommation du nickel avec 2/3 de la consommation totale. Le nickel est également utilisé à 15% dans les batteries rechargeables à destination notamment des véhicules électriques. Il est très apprécié dans la fabrication des équipements numériques, notamment pour sa résistance à la corrosion et l’usure, son point de fusion élevé, sa ductilité, sa malléabilité et pour ses propriétés magnétiques.
+
 - Zinc (Zn) 
 
     Le zinc est apprécié dans le secteur de l’électronique pour sa résistance à la corrosion et à l’usure. On le retrouve dans les réseaux de transmission et de stockage de données.
@@ -64,15 +70,19 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Or (Au) 
 
     L’or est apprécié dans le secteur du numérique pour sa conductivité et sa résistance à la corrosion qui en font un matériau de choix pour de nombreux composants de haute spécification et de haute qualité. 
+
 - Argent (Ag) 
 
     L’argent est le le métal possédant les meilleures conductivités thermique et électrique. Il est également apprécié dans le secteur du numérique pour sa résistance à la corrosion et à l’usure. 
+
 - Palladium (Pd) 
 
     Le palladium est apprécié dans le secteur de l’électronique pour son point de fusion élevé, sa résistance à l’oxydation dans l’air et à la corrosion chimique et ses propriétés catalytiques exceptionnelles.
+
 - Platine (Pt) 
 
     Le platine est apprécié dans le secteur de l’électronique pour sa résistance à la corrosion et son point de fusion élevé.
+
 - Ruthenium (Ru)
 
     Le ruthénium est apprécié dans le secteur de l’électronique pour son point de fusion élevé, sa résistance à l’oxydation à l’air et à la corrosion chimique et ses propriétés catalytiques exceptionnelles.
@@ -98,9 +108,11 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Dysprosium (Dy)
 
     Les propriétés magnétiques du dysprosium sont recherchées dans la fabrication des aimants permanents Nd-Fe-B car son ajout augmente la résistance à la démagnétisation aux hautes températures (températures d’utilisation passant de 80°C à 200°C). Cette application constitue 98% des usages du dysprosium.
+
 - Néodyme (Nd) 
 
     Une grande majorité du néodyme est utilisée dans la fabrication d’aimants permanents. Il est également apprécié pour ses propriétés chimiques et optiques dans d'autres applications telles que les alliages métallurgiques, les céramiques ou comme dopant laser.
+
 - Yttrium (Y)
 
     L'yttrium est fréquemment utilisé dans les luminophores , notamment dans les écrans à cristaux liquides (LCD) et les lampes à LED. Les éléments utilisés dans le luminophore affectent directement la lumière émise par celui-ci. En raison de l'émission rouge stable, étroite et efficace de l'yttrium, le Y2O3 (oxyde d’yttrium) est utilisé dans les luminophores pour les télévisions couleur, les écrans d'ordinateur, les diodes électroluminescentes (LED) et les écrans intensifiés aux rayons X.
@@ -145,24 +157,31 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 - Cobalt (Co) 
 
     Le cobalt est apprécié dans la fabrication des équipements numériques pour son point de fusion élevé (1495°C) et ses propriétés magnétiques se conservant jusqu’à des températures élevées. 
+
 - Lithium (Li) 
 
     Le lithium est très apprécié dans la fabrication des batteries des équipements numériques car de tous les métaux, c’est celui qui possède le potentiel électrochimique le plus élevé et qui est le moins dense à l’état solide.
+
 - Tantale (Ta) 
 
     Le tantale est apprécié dans le secteur du numérique pour son point de fusion élevé, sa résistance à la corrosion et sa grande permittivité. Le tantale peut être utilisé dans les condensateurs de certains équipements électroniques tels que les smartphones ou disques durs. Une partie du tantale est également utilisée dans les cibles de pulvérisation  pour la production de supports de stockage, de circuits électroniques et d’écrans plats 
+
 - Tungstène (W) 
 
     Le tungstène est apprécié dans la fabrication des équipements numériques pour sa robustesse et son point de fusion qui est le plus élevé de tous les éléments. C’est le seul matériau utilisé pour les émetteurs d’électrons car il est un bon conducteur d’électricité mais surtout car il possède une pression de vapeur très faible même à haute température. Cette propriété est très importante pour les matériaux de contact électrique, il est ainsi également utilisé dans les circuits intégrés et les dissipateurs thermiques tungstène-cuivre pour évacuer la chaleur des appareils microélectroniques. Le tungstène est aussi utilisé dans le vibreur des smartphones.
+
 - Gallium (Ga) 
 
     Le gallium utilisé dans la fabrication des équipements numériques se présente notamment sous la forme d’arséniure de gallium (GaAs), apprécié pour sa vitesse de circulation des électrons élevée, et sous forme de nitrure de gallium (GaN). Le gallium est un semi-conducteur. 
+
 - Germanium (Ge) 
 
     Le germanium est apprécié dans les équipements numériques pour ses propriétés semi-conductrices et optiques. 
+
 - Indium (In)
 
     La principale application de l'indium est la production de films minces d’oxyde d’indium-étain (ITO). Lorsqu'il est déposé sous forme de film mince sur du verre ou du plastique transparent, il fonctionne comme une électrode transparente. Doté d’un point de fusion bas, il est utilisé dans les soudures, en tant que matériau d’interface thermique ou encore dans des alliages. 
+
 - Silicium (Si) 
 
     Le silicium métal utilisé dans les équipements numériques est du polysilicium affiné à un niveau de pureté extrême de 10N à 13N . Il est apprécié dans la microélectronique pour ses propriétés semi-conductrices utiles au fonctionnement des circuits intégrés, au stockage et à la transmission d’information.
