@@ -1,7 +1,7 @@
 # Jeu sérieux Phone Impact
 
 [Portail du jeu avec tous les documents nécessaires](https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/index.html)
-
+test laurence
 Sommaire:
 
 - [Génération automatique des cartes en local](#génération_automatique_des_cartes_en_local)
