@@ -1,4 +1,4 @@
-# 🚧Fiche sur le recyclage des smartphones
+# 🚧 Fiche sur le recyclage des smartphones
 
 Le recyclage des smartphones se déroule en plusieurs étapes :
 1. Collecte:
