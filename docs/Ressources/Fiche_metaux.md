@@ -220,6 +220,7 @@ On retrouve également dans cette catégorie :
 A noter que la famille des Actinides (AC, Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr) sont catégorisés à part par l'IFPEN, comme étant les métaux de l'énergie nuclaire.
 
 ## Ressources
+- [ADEME Etude numérique et métaux : Impacts environnementaux du numérique et besoins en métaux](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html)
 - [Ifp énergies nouvelles : métaux transition énergétique](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/climat-environnement-et-economie-circulaire/les-metaux-transition-energetique#Les%20m%C3%A9taux%20:%20quelques%20d%C3%A9finitions)
 - [Fiche concept 2.2.1, chapitre "La production des métaux"](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.2.1-EmpreinteEnvironnementaleTerminal-MoocImpactNum.html?lang=fr#la-production-des-metaux)
 - [Fiche concept 2.3.1 Quels métaux dans les smartphones ?](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html?lang=fr)

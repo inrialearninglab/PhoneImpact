@@ -103,6 +103,7 @@ Dysprosium (Dy), Néodyme (Nd), Yttrium (Y), Indium (In), Praséodyme (Pr), Or (
 
 
 ## Références bibliographiques :
+- ADEME (2024) Etude numérique et métaux - Impacts environnementaux du numérique et besoins en métaux, URL : https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html
 - BRGM (2016), Fiche de criticité – Dysprosium, URL : https://www.mineralinfo.fr/sites/default/files/2023-03/fiche_criticite_dysprosium_publique_160913.pdf 
 - BRGM (2016), Fiche de criticité - Gallium, URL : https://www.mineralinfo.fr/sites/default/files/documents/2020-12/fichecriticitegallium-publique160912.pdf
 - Ericsson Research (2018), A high-level estimate of the material, EPiC Series in Computing, pages 168-186, URL : https://easychair.org/publications/paper/XvgV 
