@@ -127,6 +127,933 @@ Je suis joignable jusqu'à 18h aujourd'hui sinon, à partir du 5 février car no
 - 1 dec 2023: Julyan Arbel (chercheur Inria) propose de contacter Brigitte Bidegaray qui cherche à recenser les actions de diffusion de maths, "création/animation de serious games" entre dedan
 
 ## Réunions/visio
+
+### REX fête du centre à Sophia du 28/06/24
+Aurelie, Shérazade, Martine Olivi pour le débrief
+
+2 parties (Sherazade):
+    - Une partie complète de 5 joueurs / Sherazade   
+        - Public : RH + Com
+    - Une partie flash de 4 joueurs / Sherazade à l'animation + Martine au debrief
+        - Public : doctorants de la meme équipe
+
+- Cartes flash à mettre à jour
+- [x] Evt 9 : à reformuler 
+- Evt 13 de fin de partie : indiquer sur la carte que le tour de jeu a quand meme lieu.
+- Evt 12 "interdit de défausser" : a frustré pas mal de joueurs, car on a obligé des personnes à s'approvisionner en ressources et donc à prendre des malus alors qu'ils n'en avaient pas envie. Pour notre test à 5 joueurs, ça a épuisé la pile malus avant la fin du tour et la partie s'est arrêté.
+    - soit autoriser de passer son tour pour ce tour de jeu
+    - soit autoriser comme 4ème action "passer son tour"
+    - soit indiquer dans un des evenements que passer son tour est désormais autorisé
+
+### Remarques au 19 juin
+> [name=Sherazade]
+ 
+**Cartes Malus :** 
+- Le fait qu'il y ait 2 numérotations en bas de carte porte à confusion. 
+Proposition : garder la numérotation des cartes en bas à gauche, mais remplacer la numérotation des catégories par un code couleur. Chaque catégorie une couleur, à marquer avec un point en bas à droite de la carte. Ça facilitera aussi la disposition des cartes
+- Vu qu'il n'y a plus d'exposants aux malus, comment vérifier les sources de chaque carte à l'heure actuelle ? 
+
+**Événements :** 
+- 👍 événements très clairs avec les cas d'égalité et les exemples
+- Evt 14 : on pourrait rajouter le QR code du site ? ou l'adresse url ?
+
+**Plateau de jeu :** assembler tous les composants sur une feuille A4
+
+**Portail:** 
+- une fois qu'on a finalisé les malus il faudra mettre à jour la page "détail du materiel"
+- Page "regles du jeu" : 
+    - typo : "Les textes des cartes malus sont **lus** lorsqu'elles sont tirées."
+    - "il y a 5 cartes ressources identiques parmis les cartes visibles " il faudrait préciser "identiques" par "de même type" car on parle de type de ressources juste avant pour désigner "metal commun", "metal rare" etc.
+    - "ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises **de côté**." À rediscuter mais je pense qu'on devrait donner un nom à cette pile qui représente la pollution du collectif.
+    - "+2 points pour celui qui a construit le smartphone le plus vertueux (**le plus de cartes recyclées parmi les cartes posées**)" --> pour préciser, je remplacerai la fin par : "c'est-à-dire celui qui a utilisé le plus de cartes recyclage pour fabriquer ses composants"
+
+### Réunion de travail avec les experts 19 juin 2024
+
+Points à aborder
+- à sophie : dispo le 1er juillet pour l'atelier MathC2+
+Sophie sera présente
+    - 1h de pres le matin dont matérialité
+    - présente aussi dans l'atelier
+    
+- REX Insa
+    - erreur d'impression --> OK, corrigé par Nathan
+    - pb événemernt 1 quiz, la réponse figure maintenant sur une autre carte --> OK, corrigé 
+    - carte événement 5 -> retour INSA
+        - dans le fait ... Techcity ou.. 
+        - Pour chaque ressource piochée
+    - type "recyclage" des cartes malus -> retour INSA, à rediscuter
+        - dans les cartes evts, on remplace carte Recyclage/PolluPlus/PolluMoins par ressource Recyclage/PolluPlus/PolluMoins
+    - règle comptage des cartes -> voir événement 10
+        - compter systematiquement
+- REX lycée stendhal
+    - revoir l'ordre des cartes
+    - cartes à poser sur le composant fabriqué (cf. règles)
+    - cartes géo à passer en 5+
+    - événement 11 : à rediscuter (est-ce que Gabin a comptabilisé les cartes sur son plateau?)
+    - rediscuter de la fin de jeu (il reste un tour)
+    - déf terril à replacer en 3ème déf ?
+    - déf teneur à replacer ailleurs qu'en début ?
+    - malus 33 à revoir (enlever les exemples de métaux communs et métaux précieux)
+    - malus 44 à supprimer ? le terme réserve n'est pas utilisé ailleurs
+    - rapatrier 58, 59, 60 en 3+ ou 4+
+
+- Vérifier si présence de métal précieux dans la baterie
+    - ok, recalcul des ressources 
+- Finaliser événements / Malus + Se mettre d'accord sur les règles de manière DEFINITIVE
+    - une phrase à revoir evt 5
+    - Ajouter un libellé : Evenement, Malus
+- règles
+    - le 1er joueur tire la carte evt après le tour de jeu
+- Finaliser les objectifs pédagogique du jeu
+
+**Objectifs pédagogiques**:
+- identifier les principaux composants d'un smartphone 
+    - brief
+    - plateau du jeu
+- identifier les matières premières qui constituent ces composants
+    - brief
+    - plateau du jeu
+- prendre conscience de la grande diversité des métaux dans un smartphone
+    - brief
+    - cartes ressources
+- prendre conscience de la grande diversité de leurs usages (à quoi ça sert, par ex conductibilité, qqs exemples)
+    - brief
+- identifier la classification des métaux (rares, précieux,...)s
+    - brief
+    - plateau, cartes ressource
+- connaitre les grandes étapes de l'extraction minière
+    - brief
+    - cartes malus
+- Lister les différents types de pollution liée à l'extraction des métaux
+    - cartes malus
+    - debrief (recherche parmi les cartes malus)
+- découvrir où sont les mines
+    - cartes malus
+    - debrief (recherche parmi les cartes malus)
+    - debrief, carte du monde
+- Prendre conscience qu'il y a des pollutions liées au minage dans le monde entier
+    - cartes malus
+    - debrief (recherche parmi les cartes malus)
+    - debrief, carte du monde
+- Connaitre quelques ordres de grandeurs 
+    -  Evt1
+    -  Débriefs
+- Identifier qu’il existe des filières de minage plus ou moins polluantes
+    - cartes ressources, à vérifier
+    - règles (fabricants)
+- Reconnaître que tous les métaux ne sont pas recyclés (métaux rares et terres rares)
+    - carte Recyclage 
+- prendre conscience de l'impact des règlementations sur les comportements/Avoir des pistes d'actions pour limiter les impacts environnementaux
+    - carte événement
+    - débrief avec les joueurs à la fin
+- Prendre conscience qu'il existe des limites à l'extraction minière (teneur qui diminue, cout environnemental et énergétique qui augmente)
+    - carte Malus
+    - carte Evt
+    - débrief
+- S'interroger sur le fait que la pollution passée a des répercussions sur le présent
+    - evt où on change les règles
+- Prendre conscience que le recyclage n'est pas la solution miracle (c'est important mais ça a des limites)
+    - malus
+    - débrief
+- Prendre conscience que la pollution des uns impacte les autres
+    - malus (conflits environnementaux, pollution)
+    - mécanique du jeu (plus de malus-> fin de la partie pour tous)
+    - débrief
+- Prendre conscience de la difficulté à dépolluer
+    - débrief
+    - règle : quand on dépollue, on ne fait rien d'autre
+
+A voir en plus
+- ~~Calculer l'indice de réparabilité de son smartphone~~
+
+
+- lister les contenus à fournir pour le brief :
+    - [ ] smartphones à manipuler 
+    - [ ] kakémono brief
+        - [ ] schéma de Sophie sur les traitements métallurgiques/extraction minière --> S
+        - [ ] schéma/photo/illustration avec un smartphone démonté --> LM
+        - [ ] schéma pour lister les principaux composants d'un smartphone, les métaux de ces composants avec code couleur, usages --> S
+        - [ ] classification des métaux
+        - [ ] Mine de Cuivre Palabora
+        - [ ] recyclage, c'est quoi le principe
+    - [ ] vidéo des camions
+    - [ ] règles du jeu --> LM
+
+- lister les éléments du debrief: 
+    - Débat/discussion avec les joueurs
+        - Qu’avez-vous ressenti ?
+        - Quelle stratégie avez-vous mise en œuvre ? Pollueur ou écolo ?
+        - Avez-vous modifié votre stratégie à un moment de la partie ? Pourquoi ? 
+        - Quelles sont les informations que vous avez retenues de ce jeu ?
+        - Dans quels pays trouvent-on des mines ? --> partout
+        - Quelles sont les types de pollution que vous avez rencontrés via les cartes Malus ? Quelles sont les conséquences ? Pour qui ?
+         - Quels ont les moyens d'actions / les leviers ? (recyclage, règlementation, sobriété)
+       - Que pensez-vous du recyclage ? Est-ce la solution miracle ?
+
+    - [ ] kakémono debrief
+        - [ ] carte du monde des mines, des catastrophes et des pollutions (carte du kakemono 2 à compléter)
+            - [ ] recap des pollutions / conséquences / impacts humains
+        - [ ] les limites dans le temps
+            - [ ] recyclage, c'est pas la solution miracle (chiffres du kakemono initial avec les limites)
+            - [ ] les limites de l'extration minière (épuisement, cout environnemental et énergétique qui augmente...)
+            - [ ] Prendre conscience de la difficulté à dépolluer
+        - [ ] ordres de grandeur/dézoom (qqs chiffres sur la production minière, les mines c'est pas que le numérique, )
+            - Quel pourcentage des volumes extraits des mines / de l'énergie nécessaire à l'extraction minière est due au numérique ? Idem pour les pollutions
+            - Au-delà de la fabrication
+            - Le cycle de vie d'un smarphone
+            - Quelques infos et ordres de grandeur sur les usages (nombre des smartphones dans le monde etc.)
+            - Au-delà des smartphones : le numérique
+
+    - activités / questions pour le debrief (ex.quels pays il y a des mines ? quels types de pollution génèrent les mines ?)
+
+- Contenus supplémentaires à faire par les experts :
+- [ ] biblio
+- [ ] glossaire
+- [ ] les auteurs/contributeurs -> LM
+
+- Objectifs pédagogiques de la formation pour médiateur
+
+    - Pour animer un atelier avec PhoneImpact, l'animateur doit être capable de:
+        - installer le jeu (photo d'une partie en cours)
+        - énoncer clairement les règles du jeu et répondre aux questions des joueurs
+        - Maitriser les objectifs pédagogiques
+        - expliquer le brief pour répondre aux objectifs pédagogiques
+        - expliquer le debrief pour répondre aux objectifs pédagogiques
+        - comprendre les malus et être capable de répondre à des questions sur les malus
+            - prérequis Module 2 du Mooc ImpactNum
+            - biblio (séparer prérequis // et pour aller plus loin)
+        - pour les événements, comprendre la logique entre le fait et l'action
+    
+- interdisciplinarité ?
+
+Checklist
+- [x] création de phoneimpact.inria.fr avec redirection -> Laurence
+    - [x] ticket le 20/06 à la DSI
+- [ ] demander à Sabrina les sources des kakemonos -> Laurence
+    - [x] mail envoyé à Sabrina le 20/06
+- [ ] rechercher image lithium atacama libre de droit -> Laurence et Madeline
+- [x] voir si on a le droit d'utiliser la photo https://www.edwardburtynsky.com/projects/photographs/anthropocene -> Madeline
+    - [x] mail envoyé à Burtynsky Studio le 20/06
+- [ ] Sophie contacte Benjamin pour le partage des tâches
+- [x] mise à jour du plateau avec metal précieux dans l'écran tactile -> Madeline
+- [x] Plateau de jeu : assembler tous les composants sur une feuille A4 -> Madeline
+- [x] generation des pdf des ressources avec les nouvelles valeurs -> Laurence
+- [x] mise à jour des images des malus -> Madeline
+- [ ] réordonnancement des malus -> Sophie
+- [x] relecture des événements dont l'évt 5 -> ~~Sophie~~Laurence, modif de la marge pour que ça passe
+- [ ] Dos des cartes : Malus et événements -> LM 
+- [ ] Livret avec : Règle du jeu/installation/materiel  -> Sherazade et Aurélie
+- [ ] Image d'une partie en cours -> LM pendant mathC2+
+- [ ] Evt 14 : on pourrait rajouter le QR code du site ou l'adresse url -> Nathan + Laurence pour avoir phoneimpact.inria.fr
+- [x] Définition : la teneur en minerai à retirer 6/6 et ajouter 3+ -> Nathan et Sophie
+- [x] modif cartes synthèse des ressources (cf tableau ) -> Madeline voit avec Donovann
+- [ ] mise en page événements, comme malus mettre le numéro en bas à droite
+- [ ] 6/6 rupture de digue
+- [x] Ne gardez que deux ressources maximum de chaque type (précieux, communs ect) en excluant les cartes Recyclage + revoir l'exemple
+- [x] mettre une ligne enlever la parenthèse
+
+| Type de resssources| PollusPlus | PolluMoins | Recyclage | Total |
+| -------- |------------|------------|-----------|-----------|
+| Métaux communs | 20         | 10         | 6         |36|
+| Métaux rares | 20         | 10         | 0         |30|
+| Terres rares | 8          | 4          | 0         |12|
+| Métaux précieux | 6          | 4          | 2         |12|
+| Autres Matières | 27         | 14         | 7         |48|
+| **Somme** | 81         | 42         | 15        |138|
+- [ ] Réflexion autour de la ré-organisation du portail -> Laurence, Madeline, Sherazade
+- [ ] veille à faire sur les portails existants de jeux sérieux : Madeline et Sherazade ?
+- [ ] licence à aborder avec Sophie + Benjamin vendredi 
+
+Dates : boites (malus, evt, livret) : 8 juillet
+Kakemono : mi-aout au retour des vacances
+Auto-formation : début septembre
+
+Financement possible : [VerIT (Ensimag/INP)](https://ensimag.grenoble-inp.fr/fr/l-ecole/projet-verit)
+
+### Atelier Benjamin avec l'INSA le 03/06/2024
+Je sais que je vous dois relectures/réponses, mais en attendant à chaud quelques retours de mon test à l'INSA ce matin, avec des cartes imprimées il y a 2 semaines.
+Ils sont arrivés avec tout le matériel en vrac pour 3 jeux...comme à science po,  on a perdu 30 min à tout reséparer en 2 jeux. Il y avait des erreurs d'impression sur les métaux précieux de la pile pollue moins (qui n'avaient pas de dos) et 1 métal précieux de la carte pollue + qui n'avaient pas de dos mais je crois avoir vu passer des mails à ce sujet et que ça a été corrigé ?
+
+Le public : 80% d'enseignants checheurs de l'INSA, 20% d'ingénieurs pédagogiques
+Tous contribue au projet Esos https://esos.insa-rennes.fr/ Electronique Soutenable, Ouverte, et Souveraine (ils y font notamment des ACV d'équipement elec)
+Leur besoin initial est qu'ils organisent une intervention avec des lycéens (secondes) et ils voulaient savoir si c'était pertinent d'utiliser ce jeu.
+
+Globalement : ils ont tous kiffés. J'arrivais plus à les décrocher, ils ont insistés pour finir leurs partie même en ayant débordé le créneau de 20 min à cause du temps passé à construire les decks.
+Ils vont définitivement utiliser le jeu, ils m'ont demandé les modalité de mise à disposition des boites plus tard pour les établissements scolaires, pour savoir quoi dire aux lycées qui seraient intéressés ?
+Et au final ils veulent l'utiliser aussi avec des étudiants de l'INSA comme module complémentaire.
+
+J'étais seul animateur, il ont vite commencé à jouer après mon explication et 2 tables sur 3 ont lu le premier évènement alors que je lisais celui d'une 3ème table (et donc ont faussé le quizz) : un message au dos de ce premier évènement indiquant d'attendre un animateur pour le lire ça serait top quand on anime seul plusieurs tables !
+
+Sinon sur le contenu, 3 points majeurs
+
+- L'évènement 5 n'est pas compris. Quelle est l'explication/la logique à enlever de la pioche 1 carte Malus  par carte piochée ? Puisque l'évènement est systématique (tout le monde pioche une carte), pourquoi ne pas juste mettre 1 carte Malus de moins par joueur dans la pioche ? J'ai pas su répondre, et moi non plus je ne comprends pas
+
+- La notion de carte "Recyclage" porte à confusion. Ils ont tous crus (les 3 tables) qu'il s'agissait des cartes "Malus" avec le titre "Recyclage", et non pas des cartes métaux. Il faut clarifier ça, en reprenant l'iconographie peut-être, ou en changeant le titre "recyclage" des cartes malus.
+
+-Il faut aussi clarifier dans les règles au début que quand on compte les cartes recyclages ou pollue+ lors des évènements, on compte aussi celles posées sur les composants, pas juste celles de la main (sinon pour ceux qui ont recyclés au début se retrouvent défavorisés si ils ont déjà utilisés les métaux recyclés pour construire).
+
+### Atelier au lycée Stendhal à Grenoble animé par Sophie 30/05/2024
+Quelques retours à chaud (vous n'avez rien de particulier à faire, je
+partage juste) :
+
+- Il n'y avait qu'une table (c'était sur la pause du midi des élèves)
+donc on était à la cool et c'était bien.
+
+- Faut que je revoie l'ordre des cartes, ils ont joué à 4 et à mon avis il manquait certaines cartes. C'est important parce que pour pouvoir jouer en classe, Marie me disait qu'elle les mettra par 3 ou 4 pour gagner du temps.
+
+- À part quelques petites choses, ils ont pu jouer en autonomie. En classe, je pense que ça peut le faire si toute la classe regarde une table faire son premier tour sous la supervision de la prof.
+
+- J'ai refait le brief avec smartphone mais sans la vidéo, ça déjà bien. Pas eu le temps pour le débrief par contre (on avait moins d'une heure).
+
+- C'est pas évident de préparer la table au début, y a plein de trucs à poser, certains dans l'ordre d'autres pas, faudra y penser.
+
+- Les élèves ont eu du mal à savoir comment manipuler le plateau : Par exemple on fait quoi des cartes quand on fabrique un composant ?
+
+- Idem, ils n'ont pas le réflexe de poser les malus sur la table et de prendre les ressources dans leurs mains.
+
+- Le fait que les malus aient des titres c'est chouette, il y a un côté un peu "chance" quand on tire des malus. Là c'est le même gamin qui a tiré toutes les catastrophes et on s'en est bien tous rendu compte.
+
+- Les cartes Géographie sont mieux mais c'est pas méga-percutant quand même. Je les passerai peut-être en 5+ (à discuter).
+
+- Événement 11 : Gabin (il était là la dernière fois, il aime vraiment bien le jeu) a un peu râlé sur cette règle parce qu'il n'avais quasiment pas de malus ni de ressources. Si tu es décroissant tu perds tes 2 ressources et c'est pas juste. Je suis d'accord avec lui.
+
+- D'ailleurs, à un moment Gabin a décidé d'arrêter de produire et donc de jouer : ils ne pouvait pas dépolluer et il n'y avait plus de recyclage. Je l'ai laissé ne rien faire, mais techniquement ça n'est pas autorisé par la règle de l'événement 12.
+
+- Ils ont été un peu perplexes que la fin arrive un tour plus tôt que prévu, je ne sais pas si c'était utile de les surprendre là-dessus.
+
+- Si on part dans l'idée que le prof est là pour le premier tour c'est mieux, parce que ça permet d'expliquer les premières définitions dans les malus. Ça serait bien que le terril soit en trois, juste après la déf de stérile.
+
+- Je pense que la définition de teneur n'a pas besoin d'être au début.
+
+- Les photos sont déformées je crois (en tout cas la mine de coltan).
+
+- Carte 33 : Peut-être enlever les noms de métaux ?
+
+- Carte 44 : Pas très utile si on n'utilise pas la notion de réserve par ailleurs.
+
+- Rapatrier 58, 59 et 60 dans 3+ ou 4+
+
+- Pour le quizz de débrief, je pense qu'on peut demander dans quel pays il y a des mines. Il y a plein de pays cités dans le jeu, ça leur permet de relire les cartes. La deuxième question, ça serait quelles pollutions génèrent les mines.
+
+- J'ai eu des problèmes à l'impression, mais mineurs cette fois :
+  - certaines cartes n'avaient pas de revers (cf dernière page du fichier malus).
+### Réunion avec STIP 30/05/24
+Présents: Madeline, Myriam, Hélène (Nancy), Laurence, Valérie
+
+Editeur de jeux sur Nancy:
+Blue Orange : https://blueorangegames.eu/fr/
+Iello : https://www.ludifolie.com/5_iello
+
+JSM: de 10 à 15k€
+
+Qu à poser à J.Costa:
+- quand payer les 70% restants ?
+- facturation annuelle
+- jusqu'à quand il stocke ?
+- Que se passe t'il si on n'a pas tout vendu ?
+
+réponses :
+
+Les 70% restants sont à payer à 30 jours après la fin de la production
+Non la facture est soldé après les 30 jours de la finalité des travaux
+Je peux les stocker sur une durée de 9 mois environ
+Si non vente de l'intégralité, Il faudra soit qu'on les stocker avec un cout de stockage de 5 euros / mois ou te les réenvoyer
+
+Belle soirée
+
+Marge de 5€ qui peut se justifier pour payer les boites non vendues
+Production en une seule fois
+Le STIP peut avoir une ligne budgetaire ou ligne budgétaire gérée par Isabelle
+
+Opla+gameflow : env 15000€ pour 1000 boites + frais pour le stockage=en 60€/mois + frais livraison (=STIP)
+15k€=Fond de roulement+des boites qu'on va donner
+Vente à 20€
+Question à poser à Gameflow: quid de la vente ? comment les gens peuvent-ils acheter des boites ? 
+Combien coute le transfert Lyon/gameflow
+Qui gère la vente ?
+
+Licence: NC ne bloque pas le fait de faire des traductions
+protéger les illustrations
+
+Une entreprise qui récupère le jeu si CC-BY-NC-SA peut venir nous voir (Total)--> accord consenti
+
+### Réunion Événements Malus 24/05/24
+Présents : Benjamin, Sophie, Laurence, Madeline
+
+Institut du Numérique Responsable pour développer une boite à outils : répertorier le MOOC, ePoc et PhoneImpact
+lien : https://lesbases.anct.gouv.fr/bases/institut-du-numerique-responsable
+
+- numérotation des cartes malus à garder en plus petit, pour une future évolution du jeu et vérification que la boite est complète
+- mettre les crédits sur le côté des images
+
+- Malus :
+reprendre 7,8,9
+1- après de multiples étapes de traitement
+4- "près d'une mine de" ... ~~Antamina~~ et mettre "au Pérou"
+6- poussières**,** 
+7- métaux lourds, dangereux pour la santé et l'environnement. enlever la suite de la phrase ~~naturellement présents...~~
+31- ~~permettre d'~~
+10- modif ' en " + mettre en italique, essayer d'aller à la ligne "la pollution s'étend"
+12- dans 2 lacs, enlever Polley et Quesnel
+13- gallium et ~~tungstène~~ magnésium
+14- (prononcer: tungstène en alphabet phonétique), conflits armés
+15- accaparement sur lequel ils vivent
+16- à reprendre par sophie "en dix ans"
+17-au Pérou et au chili entrent en conflit avec les besoins des pop locales. C'est le cas aussi pour la production de lithium en Argentine, au Chili et en Bolivie.
+19- On en trouve dans la batterie, la coque et la carte mère
+36- Sophie doit repasser dessus
+22- remplacer niobium par cobalt revalider avec Sophie
+2022, la RDC représente 68% de la production de cobalt, on en trouve dans la batterie et la carte mère
+20-carte mère
+21-la batterie
+23- 0,9% ou arrondir à 1% (en moy 0,6%)
+26-enlever et le niobium. en fin de phrase : sujet à des conflits armés
+27-en roumanie 
+28- en RDC (déplacer la source sur le côté)
+29- aux états-unis (déplacer la source sur le côté)
+30- de digue au Brésil (déplacer la source sur le côté)
+31 et 32- à revoir par Sophie et Benj
+33- dans les D3E (déchets d'équipements électriques et électroniques) parmi lesquels sont mélangés les smartphones
+on n'a pas de données précises sur les smartphones
+34- des processus complexes de séparation des composants, ainsi que (reprendre la phrase) des technologies de pointe...
+37-les enfants de ce quartier. un taux de plomb dans le sang considéré comme dangereux
+38- dire digue à la place de barrage ?? cf. image 30 à demander à Sophie
+39- centaines à milliers ? à revoir avec Sophie
+41- à séparer en 2 cartes ? + où on en trouve cf. carte malus 22
+42- carte mère
+42-
+45- produisant à la fois du cuivre et du zinc.
+46- qui dangereux pour la santé et l'environnement
+48- sont de les identifier et de les séparer des autres métaux
+49- dangereux pour la santé et l'environnement
+51- préciser: besoins en eau douce. la mettre avant?
+52- est-elle indispensable??
+53-est-elle indispensable??
+54- carte mère et écran
+56- le code minier définit la distinction entre mines et carrière. On parle de... et de carrière sinon.
+58- dont les déchets sont utilisés pour produire le gallium
+59- trouver un exemple de décyclage
+60-supprimer cf.33
+
+à ajouter:
+manque l'évolution de la teneur des minerais (ex.cuivre)
+rien sur la différence entre la production et les réserves 
+conditions de travail, impacts sociaux
+réserves inégalement réparties
+Carte supp en France : Nouvelle Calédonie 7% de nickel + Guyane
+Tantale: RDC 43% 2022 on l'utilise dans la carte mère
+pour info, plus de 200 ruptures de digues ont été référencées depuis 1900.
+
+événement 8
+un pays a interdit l'exportation d'un x métal ou métaux stratégiques et que du coup les fabricants se tournent vers des pays où la teneur en minerais est bcp plus faible
+
+pour sécuriser ses propres approvisionnements, 
+
+### Réunion ILL 21/05/24
+Présentes : Laurence, Sherazade, Madeline, Aurélie
+Le matin : Madeline et Laurence travaille sur les actions liées aux événements.
+
+Pad formation: https://notes.inria.fr/miSuIcpkRhO1vP9CFjWfkQ
+
+Regles : revoir But du jeu
+Attention quand on parle des "cartes" bien préciser cartes ressources, cartes malus, cartes événements --> tout en minuscule
+Quand on parle des cartes POLLUPLUS - MOINS - RESSOURCES --> cartes + majuscules
+
+A SUPPRIMELes textes des cartes malus sont lues quand elles sont tirées, éventuellement une sur deux si c'est trop long. À la fin de ces textes, un numéro indique la source à consulter pour en savoir plus 
+
+### Point PhoneImpact/Malus 15/05/24
+Présentes : Laurence, Sophie, Madeline
+Idée débrief : Ils gardent leurs cartes malus et à la fin, on leur demande "qui a des cartes pollutions?" "Qui a un exemple de rupture de digue".
+- [ ] cartes événement pour la formulation --> Madeline et Laurence retravaillent ces evts  --> les envoyer à Sophie qui reformulera si besoin le fait
+    - carte/malus choisir dans les termes Malus ou cartes Malus
+    - homogénéiser les termes (ressources, matériaux)
+    - échanges : dire que c'est à son tour seulement et en plus des actions (aide de jeu)
+- [ ] Sophie vérifie l'ACV : qu'est-ce qu'il y a dans une batterie? Question : est-ce qu'il y a des métaux précieux dans la baterie ? --> Sophie demande à Benjamin
+- [ ] Madeline: Les règles dans la boite
+- Le reste dans le portail
+- Biblio 
+    - [ ] Sophie avec une petite phrase explicative, 
+    - [ ] Laurence mettra en forme
+- [ ] Sophie A verifier que chaque malus a sa source
+- [ ] Sophie: faire un schéma pour compléter les définitions+traitements metallurgiques 
+    - le schéma pourra être montré pendant le brief
+- [ ] Sophie: mise à jour des malus [csv du gitlab](https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/data/csv/malus.csv?ref_type=heads)
+    - ne mettre que les pays et non les villes qui sont compliquées à lire
+    - les cartes définition permettra d'en rajouter une couche sur le vocabulaire
+    - 1,2,3: simplifier Cartes à simplifier : 1,2,3, 
+    - 4,5: ok
+    - 6: reserve uniquement, pas besoin de définir ressources
+    - 7: ajouter un exemple (ex: teneur en cuivre)
+    - 8: à supprimer -> glossaire
+    - 9: à supprimer -> glossaire
+    - 10: supprimer la phrase sur "co-produits" -> ajouter "co-produits" dans le glosaire
+    - 11: à reformuler sont récupérés lors du traitement de .... On parle de sous-produit
+    - 12: avoir une photo pour illustrer le terril
+    - 13: à raccourcir, supprimer "contrairement à ce que suggère leur nom"
+    - 14, 15: dire en quoi c'est utile pour le smartphone
+    - 15: tantale puis niobium. Ajouter où c'est produit
+    - 16: ok
+    - 17: ajouter "pendant les phases de traitement"
+    - 18: juste ajouter l'idée que mine=plus précieux et stratégique
+    - 19: Guatemala (sans la ville)
+    - 20: la splitter en 2
+        - une carte sur les poussières cause de pollution
+        - une carte sur le conflit au Guatemala avec plus d'explication sur l'accaparement du territoire (les populations sont déplacées)
+    - 21: ok
+    - 22: ok
+    - 23: enlever le c'est-à-dire, mais ajouter des métries (nb de conflits, nb morts, nb d'assassinats)
+    - 24: à simplfier, enlever les chiffres (70%, 6 plus grandes)
+    - 25: supprimer le tungstene
+    - 26: supprimer cadmium + ajouter que les métaux lourds sont dangereux pour la santé
+    - 27, 28 ok
+    - 29: important mais compliqué -> à reprendre
+    - 30: ok
+    - 31 à 41: ok, supprimer juste les villes
+    - 35: supprimer alcaline
+    - 42: peut-être ajouter des exemples : mines de lithium,...
+    - 43: fun fact, en 5+ si on a de la place
+    - 44: quel passé ? en 5+ si on a de la place
+    - 45: ok
+    - 46-53 (géographie): ajouter pourquoi c'est utile dans le smartphone
+    - 53-60 (recyclage) recyclage: OK, en 3+
+- [x] Sophie : Sélectionner les cartes Malus pour 3/4/5 joueurs (4+ et 5+)
+        - certaines sont obligatoires
+        - pour les autres, garder les proportions par rapport à toutes les cartes
+        - ordonner dans le fichier : les 36 premères seront les 3+, puis les 12 suivantes les 4+ puis les 12 suivantes les 5+
+
+### REX - Intervention au lycée Stendhal 12 avril 2024
+Présents : Madeline, Laurence, Sophie
+"Matt Marie" <Marie.Matt@ac-grenoble.fr>; prof de SVT
+"Althuser Maryline" <Maryline.Bruel@ac-grenoble.fr>; prof de math et de SNT
+
+
+Notes de Madeline à chaud:
+Nous avons été chaleureusement accueillies par les enseignants de SNT ainsi que par Baptiste (doctorant) et Sophie Quinton, au lycée Stendhal dans le centre-ville de Grenoble.
+
+L'atelier s'est déroulé en deux temps, avec deux groupes d'élèves différents (3 tables de 4 joueurs puis 3 tables de 3 joueurs)
+
+
+Le déroulement de l'atelier :
+- Accueil et présentation : les élèves étaient invités à s'installer aux tables préparées à l'avance.
+- Discussion sur les matériaux et les composants des smartphones, avec la manipulation d'un ancien smartphone démonté par table.
+- Visionnage d'un bout de vidéo sur "l’exploitation minière à ciel ouvert" : https://www.youtube.com/watch?v=GxLTtltXWtA
+- Lancement du jeu avec pitch + explication des règles
+- Jeu
+- Discussion sur les retours à chaud + débriefing sur les stratégies adoptées
+- Écriture des impressions à chaud sur des post-it par élève + explorer d'autres moyens d'action (on a une trace)
+- Debriefing final de Sophie, abordant les différents enjeux environnementaux et sociétaux liés à l'industrie numérique
+    (en vrac et dans les grandes lignes : ressources minières ne se limitent pas à l'industrie numérique. Leur utilisation engendre des tensions et des pollutions tout au long du processus, de la fabrication à la phase d'utilisation, en passant par la gestion en fin de vie. Les conflits liés à l'eau, qu'ils se situent à Taïwan (avec TSMC) ou à Grenoble, illustrent les enjeux locaux et globaux de cette exploitation.
+
+    Le numérique ne se résume pas aux smartphones. Les pollutions qu'il génère ont un impact à l'échelle planétaire en termes d'émissions de gaz à effet de serre. Les conflits liés à l'eau sont davantage ancrés dans des réalités locales. La gravité de ces problèmes dépend du contexte géographique et temporel)
+
+Les points marquants à retenir de cet aprem :
+
+- La prise de conscience des élèves quant aux enjeux environnementaux et sociaux liés à la fabrication, à l'utilisation et à la fin de vie des smartphones. En plus de ça, élèves très réceptifs et posent des questions bien que déjà à l'aise sur le sujet
+- Discussions enrichissantes sur les alternatives et les actions possibles pour réduire notre empreinte environnementale
+- Des contacts prometteurs avec des enseignants intéressés par l'organisation d'événements similaires (on pouvait facilement vendre des boites à la fin, besoin de 2 à 3 boites en prêt pour fin mai d'ailleurs), ainsi que des chercheurs et des associations impliqués dans ces thématiques (l'asso rézine https://www.rezine.org/pages/structure/association/ ) + pistes de collaboration future, notamment avec Christine Canard, une chercheuse spécialisée en sciences de l'éducation du laboratoire LPNC https://lpnc.univ-grenoble-alpes.fr/fr, intéressé par notre jeu dans le cadre de journées sur la transition écologique + projet Phonix de capture de données pour le temps d'écran, qu'il soit dédié aux loisirs ou à des activités éducatives, pour faire des liens avec des indicateurs de santé https://www.polepilote-pegase.fr/recherche/rd-collaborative/pupillab-grenoble/phonix-health-lapplication-pour-apprendre-a-se-servir-des-ecrans/
+- ateliers qui s'inscrit dans une séquence pédagogique plus large, abordant les stéréotypes de genre, les impacts environnementaux et les conséquences sur la santé liés à l'usage du numérique.
+
+### Réunion Alt-impact  10 avril 2024 
+Présents: Françoise Berthoud, Camille Marie, Madeline, Laurence
+Equipe Ademe SONUM (pour sobriété numérique)
+Projet Alt-Impact : https://www.economie.gouv.fr/sobriete-energetique-lancement-programme-alt-impact#
+
+Critères pour qualifier le jeu PhoneImpact
+-sujet de la sensibilisation : criticité/focus métaux/pollution et rarefaction/
+-learning by doing: jeu de rôle, apprendre en jouant, débat, immersif
+impacts sociaux léger selon Françoise
+-apport de connaissances: brief
+
+à parler avec un géologue carte 8 : en 1 année pas possible que la teneur en minerais diminue
+un pays a interdit l'exportation d'un x métal ou métaux stratégiques et que du coup les fabricants se tournent vers des pays où la teneur en minerais est bcp plus faible
+
+à racourcir :
+certains pays interdisent l'exploitation de leurs mines. Produire la même quantité de métal dans les pays où on en trouve encore pollue deux fois plus.
+
+ex: limite thermodynamique
+
+-> décliner le jeu avec un service numérique
+
+Faire relire/montrer le jeu à Olivier Vidal
+fiche concept sur les principaux enjeux liés au smartphone
+- effets sur la santé, les impacts indirects, 
+-> les problèmes majeurs du smartphone
+
+Pilote de l'action sensibilisation aux impactnum
+Formation de personnes de ecoinfo à la facilitation d'exercices
+
+possible de faire une formation EcoInfo
+
+
+### Point ILL/PhoneImpact 9 avril 2024 
+Présents ILL : Madeline, Aurélie, Sherazade, Laurence
+
+- espace apprenant/joueur : epoc pour un take away et pour éventuellement des activités de brief/debrief
+- espace enseignant/formateur : tout sur le portail, lien vers le matériel
+
+Reste à faire
+- sources / biblio à part
+- règles
+    - [x] +2 points pour celui qui a construit le smartphone le plus vertueux (plus de cartes recyclées dans les cartes posées) 
+    - [x] Quand il y a au moins 4 cartes ressources identiques --> possibilité de remplacer toutes les cartes mais défausse de 3 malus
+- devis+commande
+
+Travailler en mai sur le parcours pédagogique
+
+
+### Rencontre avec l'équipe Spirals Inria Lille 02/04/24 de 14h à 16h 
+Présents ILL : Madeline, Aurélie, Sherazade
+Presents Spirals https://www.inria.fr/fr/spirals : 
+- Romain Rouvoy http://romain.rouvoy.fr/
+- Adrien Luxey-Bitri https://luxeylab.net/
+- Tristan Coignion (Inria – ANR Distiller) https://www.linkedin.com/in/tristan-coignion-21b557195/
+    - Thèse sur les Large Language Models (LLMs) et leur impact environnemental 
+- Rémy Raes https://www.linkedin.com/in/remy-raes/?locale=fr_FR
+
+Mise en contact par Benjamin Ninassi avec Adrien (adrien.luxey@inria.fr) et Romain (romain.rouvoy@inria.fr)
+
+- Temps d'échange autour de l'optimisation des logiciels, systemes
+- Adrien a presenté son engagement citoyen via [Deux fleurs](https://deuxfleurs.fr) : 
+https://www.linkedin.com/company/deuxfleurs/Public
+qui a donné naissance à une publi : 
+Du concept d'entr'hebergement à Garage, solution technique pour le stockage réparti, Bulletin de la SIF, numero 22, novembre 2023, p.171-183
+
+Retour : 
+La question de l'environnement est prégniante pour un grand nombre de chercheurs avec un prise de position.
+Questionnmeent sur les datas center : solution OVH --> differentes circuits de refroidissement eau, huile 
+
+Pas de technosolutionnisme
+enoucrage approche systémique
+cas par cas
+travaillent sur des métriques comme des outils de comparaisons, analyse de ton impact de ton IA, cloud... 
+Proposer des métrique pour prendre conscience de l'impacts (logiciel etc.) , choix sur matérialiser ce qui est actuellement "non visibles"
+cloud, logiciel, IA
+
+approche par le cycle de vie
+
+focus en plus sociologique, historique
+
+-> citoyens deviennent des citoyens éclairés
+réceptifs à notre approche
+
+### Présentation PhoneImpact Inria Lille - 02/04/24 de 13 à 14h
+Présents : Madeline, Aurélie, Sherazade
+
+Lien avec la com de Lille : Julia Plaia <julia.plaia@inria.fr>
+et Magada Guennadi <magda.guennadi@inria.fr>
+--> organisation sur un temps "Café médiation" à la pause dejeuné
+https://intranet.inria.fr/Actualite/Cafe-mediation-autour-du-jeu-serieux-PhoneImpact-Mardi-2-avril-a-13h
+
+Parties "flash"
+
+Nombre de participants : 15 (3 tables de 5 joueurs)
+grosso modo
+- 8 Spirals
+- 3 com
+- 1 stip
+- 1 dev
+
+Retours : 
+- Ressentis : bonne mecanique, amusement, interet
+- Malus : 
+    - certains souhaitaient des malus plus impactants (par comparaison à la fresque du numérique, limite on est "soft")
+    - Peu d'écoute lors de la lecture des malus tirés des le milieu de la partie. **Proposition** : ajouter picto / illustrations par exemple ajouter une carte malus n°1 avec le nom du metal et son visuel (ou ajouter sur le kakemono) 
+    - Changer le nom malus en pollution
+    - malus 5 (parenthèse à mettre à la fin)
+    - utiliser les couleurs pour transmettre des indication au facilitateur (l'info à ne pas forcément lire)
+- Ressources disponibles sur la table :
+    - Trop de ressources de chaque type dispo sur la table (metaux commun, autre matière), donc joueurs pas avantagé lors des actions lié aux evenements + on est bloqué lors du tirage des ressoucres. **Propostion** : Si plus de 4 cartes identiques, remplacer et redistribuer les ressources visibles MAIS en defaussant 3 malus de la pioche.
+- Evenement :
+    - [x] Modifier event n°6 "un mine" 
+    - Modifier event n°10 : on vole à celui qui a le plus de carte pollu + ou au centre de la table ?
+    - explication des règles : les fabricants sont mis en compétition sur le marché des métaux, les ressources recyclage... à retravailler pour ne pas donner trop d'info mais annoncer que qlq ch se joue
+    
+- Fin de la partie :
+    - celui ou celle qui aura le smartphone le plus vertueux gagne 2 points
+    - celui ou celle qui a le moins de malus 2 points
+
+COM Lille : https://x.com/Inria_Lille/status/1777641240986632561
+
+### Journée du libre éducatif 29 Mars 2024
+- Académie de Versailles intéressée pour utiliser le jeu en classe avec les élèves de l'académie
+    - contact Caroline Pras-Pesce (caroline.pas@ac-versailles.fr), chargée de mission, Valorisation des usages du numérique, Référente académique GEP/IAN, Référente académique ressources numériques
+
+### Réunion de travail 28/03
+Malus
+- reste qqs cartes, à mettre dans malus_supplemnetaires.csv
+- cartes 'géographie' --> ajouter pour quoi c'est utile
+- 4/5 cartes sur la production mondiale et les phases d'extraction
+
+Sources
+- classer par thématique
+
+### Réunion de travail 27/03/24 - Sophie et Laurence
+Le 12 avril, jeux à Sdendhal, avec des profs de SVT/SNT
+Bien si Madeline et Laurence viennent
+Sophie fera le brief, avec des smartphones
+Le debrief sera fait par les profs : implication en temps que citoyens
+
+1 - minerai
+2 - stérile
+3 - résidu minier
+4 - Lac de résidu minier
+5 - rupture de digue
+
+### Réunion de travail - Prépa LudiNord mars 2024
+Warning : 
+- [x] Modifier le framaforms : Madeline voit direct avec Nathan (mardi)
+    
+Prépa materiel :
+- [x]  Malus, evenements et cartes aide au jeu à ré-imprimer (+ plastifier si possible)
+- [x]  Fascicule de jeu à imprimer (Madeline)
+- [x]  Madeline ramène le kakémono pour le débrief
+- [x]  Madeline ramène les planetes 3D 1er joueur
+- [x]  Ramener les t-shirt PhoneImpact
+- [x]  Ramener des cartes de visite ePoc
+- [x]  Imprimer des affiches avec QR code du portail
+- [x]  Ramener scotch, ~~ciseaux~~, stylos (Sherazade)
+- [x] Ramener post-it (Madeline)
+- [x]  Imprimer des QR code framaforms
+- [x]  Clé USB (Sherazade)
+
+Document de travail : https://mybox.inria.fr/lib/aed0a39a-5f84-4403-ac31-bf39933b94f4/file/LudiNord%20Pro/Atelier_Lille.docx
+
+### Test Ludagos Inria Sophia
+
+- Partie flash de 20min à réadapter avec les nouveaux evenements
+- Evenement 6 : il manque un e à "un**e** mine"
+- 
+
+### réunion de travail sur les Malus, Imag 22 mars 2024
+Présents : Sophie, Madeline, Laurence
+
+travail sur le pad de Sophie: https://notes.inria.fr/fJgZ7MKdRliZCyIKNKqafQ?both
+
+- [x] todo Nathan Modif Script carte Malus 
+    - question en italique et réponse en normal
+    - peut-on mettre du texte en gras ?
+
+Ajouter des . à la fin
+Evt1 -> source, à vérifier
+evt4 : à redire
+evt5 
+### Retour SciencesPO Rennes 15 mars
+Présents : Benjamin, Aurelie, Sherazade, Madeline, Laurence, Sébastien, Karim
+
+Sébastien a adoré
+Debrief de Benjamin super, [présentation 20mn](https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/blob/main/Documents/PhoneImpact_debrief_fr_2024_Pres_BenjaminNinassi.pdf?ref_type=heads 
+
+6 tables de 4 joueurs, arrêt de la partie à l'événement 7 (malus compte -1) + 1 tour pour modif stratégie de jeu
+
+!!! Attention!!! bien mettre en avant les cartes à choisir pour une partie "flash"
+--> peut-être prévoir un petit point ou un petit éclair ou un truc "visuel" sur les cartes pointées pour une partie flash (pour faciliter la mise en place)
+
+Sébastien très intéressé par la formation/ePoc de facilitation au jeu
+
+Étudiants payés par ScesPo pour faire du tutorat/ co-construisent le hakathon
+Préparation en amont pour le jeu -> grâce à la formation ePoc / intéressant de collecter les besoins en amont
+
+La session sera renouvelée l'année prochaine
+Les mêmes élèves ont joué à Un autre jeu sérieux (play mobile sur les mobilités douces --> jeu serieux marseillais). Ils vont aussi suivre une formation pour faire un escape game.
+
+**Intérêt pour une version anglaise**--> relecture possible par des étudiants ScPo
+
+CRITIQUES : 
+- les marges pour la découpe des cartes ne sont pas facile à suivre
+=> mettre des pointillés en continue sur toute la longueur des cartes --> DONE Nathan
+- ajouter dans le P&P le nb de cartes par paquets --> TODO
+> [name=Nathan] pas besoin
+> Déjà le cas non ?
+
+--> Ministère de la culture prêt à financer des boites de jeu pour les mediathèques
+Karim veut le tester dans le public des collectivités (à Paris, formation annuelle)
+--> leur proposer d'abord de suivre le Mooc
+Journée portes ouvertes à SciencesPO en février, mettre à contribution des élèves étrangers. Possibilité de leur demander d'animer le jeu. --> campagnes de sensibilisation =opportunités de faire connaitre le jeu. 
+
+Dans l'ESRO:
+- obligation de former à la transition ecologique
+- approche par compétence (compétences transversales)
+--> Karim : , chaque professeur doit intégrer les transitions dans ses cours
+--> Avoir une pensée systémique
+
+"Manuel de la grande transition", Cécile Renoir..., comment intégrer une transition écologie dans l'enseignement : https://www.cairn.info/revue-francaise-d-administration-publique-2021-3-page-827.htm
+--> université de Caen très avancé dans ce sdomaines --> les contacter pour parler du jeu 
+
+Benjamin nous informe sur le **Projet Avenir (Aller VErs un Numérique Inclusif et Responsable)**
+
+AMI (appel à manifestation d'intéret) : compétence et métiers d'avenir sur le numériques, création d'un consortium d'acteurs (consortium AVENIR), Inria Academy mis dans la boucle
+Mooc, jeux sérieux, micro contenus
+Participation de UNIT (Vincent BEILLEVAIRE) sur les métiers du numérique
+
+1er depot retoqué --> modif des objectifs+lettre d'intention
+ANR qui finance
+2e depot validé, besoin d'une lettre d'engagement des établissements qui vont contribuer au projet
+![](https://notes.inria.fr/uploads/upload_8e278a0a1c8693a558887cc2ba0951c6.png)
+
+Cercle 1 des partenaires : PIX, TRALALERE, Classcode
+Cercle 2 : Inria, Insa, établissements universitaires
+Créer des formations initiales de qualité à la carte et personnalisable sur les sujets du numérique responsable pour les établissements d'enseignement (collège, lycée, université)
+
+Ils relancent Inria Academy pour la lettre d'engagement mais n’a pas suivi le projet, dommage ! car formation initiale
+
+Il reste une étape avant accord définitif
+Une relance a été envoyée à Benjamin le 15 mars --> BN va faire un mail à Jacques, Laurent, JM
+
+Lettre d'intention envoyée par Benjamin.
+Dans la lettre d'intention, il y a notamment 
+- "*Construction d’une bibliothèque partagée d’au moins 1500h (équivalent présentiel) de contenus pédagogiques (micro-contenus numériques éditorialisés selon un format unique facilitant leur  réutilisation), MOOCs, jeux sérieux et modules numériques de montée en compétences."*
+- "*Conception et déploiement de formations, s’appuyant sur l’hybridation avec des micro-contenus et de l’ensemble des modules et contenus pédagogiques développés*."
+
+### Point du 14 mars avec Sophie
+Evt1 : Combien faut-il extraire de terre et de minerais pour produire un kilo d'or en tonnes (5000 tonnes) -->  à vérifier.
+Evt3 : 2005: l'Union Européenne s'est dotée d'un système d'échange de quotas d'émission de GES : le 'marché du carbone'
+Evt4 : 2017 : L'Union Européenne adopte un règlement sur l'importation de minerais en provenance de zones de conflit.
+Evt7 et 13 : Techcity décide de favoriser les fabricants les plus vertueux.
+
+### Point du 13 mars 2024 avec Sophie
+
+lien pad Sophie : https://notes.inria.fr/fJgZ7MKdRliZCyIKNKqafQ?view#%C3%A9v%C3%A9nements
+
+- [x] police différente entre action et contexte ->  Nathan
+- intégrer action "commercer" dans un événement // marché des quotas carbone cf. carte événement 6
+- pour départager le moins de malus puis le plus de cartes recyclées OU questions sur les usages (exemple: loi sur l'obsolescence prog)
+
+On a refait les cartes événements suite aux remarques ([lien](https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/pdf/pnp/events.pdf))
+
+(10) Ruptures de digue:
+cf. document Safety is not accident
+
+(10) Définitions
+teneur en minerai
+1. principales étapes de la production des métaux: extraction....
+2. plusieurs années d'ouverture d'une mine
+stérile
+résidu
+mine à ciel ouvert vs mines sous-terraines
+
+bauxite -> aluminium
+coltan -> tantale
+
+(3)
+combien? sources USGS
+En 20....(année) le % (pourcentage) de production de Lithium/cobalt/terres rares est de en ... (pays)
+
+Conflits (eau, territoire, pollution, richesses)
+Chili
+RDC
+Papouasie nouvelle-guinée (déforestation)
+Chine (géo politique)
+Australie
+USA-Canada
+France (pour les anciennes mines) -> Guyane + Nouvelle-Calédonie
+
+(10) Teneurs en métal du minerai (Fe, Cu, Au) 
+
+(3) "co-produits" ex or et arsenic, souffre, plomb, mercure
+
+(5) pollutions eau/air : (3) eau (consommation d'eau pompage des nappes phréatique), (1) particules, évacuation de l'eau, drainage minier acide, fuite de lacs de résidus miniers, expliquer l'utilisation de l'eau (pq les résidus miniers sont liquides?), pluies acides.
+
+"ressources"
+énergie
+métaux
+eau
+
+dépollution (après-mine)
+
+(5) Recyclage (cf. Mooc)
+métaux qu'on est capable de recycler
+qu'est-ce qu'on récupère et pq
+DEEE
+
+### Point du 12 mars 2024 sur les modifs des règles
+
+Evenements:
+- événement1 à revoir pour lancer le jeu
+- événement7 à revoir
+- ajouter des dates ?
+- mettre dans l'ordre chronologique + ajouter une date aux événements (année du premier smarphone)
+
+Malus:
+- éviter redondances entre obsolescence prog, % des utilisateurs de smartphones...
+- Modifier le mot Malus et remplacer par "pollution" ou "taxe" car "Le mot “malus” : pour eux il y a une dissonance cognitive a appeler cela malus car au dos des cartes il y a des choses positives comme des conseils et surtout tu apprends des choses" -> suppression des conseils dans les malus
+- carte de FIN de partie
+
+Pitch:
+- il faut bien expliquer qu’ils doivent construire les composants au plus vite, sinon il y a des frustrations quand ils perdent les cartes. Et le répéter régulièrement !
+- ambiguité en cas d'égalité (nb cartes recyclées ou malus)
+
+### Présentation de PhoneImpact à JSM 12 mars 2024
+Présents: Jacques, Jean-Marc, Madeline, Laurence
+:::spoiler Préparation de la rencontre
+
+Jeu sérieux (Madeline): un jeu dont le but n'est pas seulement le divertissement, mais surtout l'atteinte d'objectifs pédagogiques
+Se compose en plusieurs parties : brief (aborde rapidement concepts et règles du jeu), jeu et debrief (ressenti, émotions, débat, développement des notions abordées)
+
+Résumé du jeu (Madeline) très court :
+- Intérêt pédagogique : Acquérir une compréhension globale de l'impact environnemental des composants d'un smartphone.
+- Joueurs : 3 à 5
+- Âge : Dès 12 ans
+- Durée : 40 min pour jouer, 1h30 pour la session 
+- Objectifs pédagogiques, exemples :
+  - Prendre conscience que les réserves minières sont limitées
+  - S'interroger sur le fait que la pollution passée a des répercussions sur le présent
+  - Déduire qu'il est possible de modifier le comportement d'un constructeur en ajoutant des pénalités s'il pollue
+  - etc...
+- Expérience de jeu :
+    - Émotions : l’apprenant sera amené à être étonné/surpris
+    - jeu de rôle / rare : Se mettre à la place d'un fabricant de smartphones, tiraillé par l'envie de dégager du profit tout en polluant le moins possible 
+
+Ce jeu s'inscrit dans un parcours pédagogique :
+- Mooc "Impacts environnementaux du numérique"
+- ePoc "Smartphone et planète"
+
+Points importants (Laurence)
+- Un portail regroupe les règles, le matériel, le brief debrief, Print&Play --> accès gratuit et REL
+- Kakémonos commun avec le jeu éducatif "Mine de rien, mon smartphone pollue !" pour terranumerica (atelier débranché), avec comme pilote Martine Olivi, une chercheuse Inria de Sophia. 
+- 2 experts pour valider les contenus : Sophie Quinton + Benjamin Ninassi
+- accompagnement de la formatrice pour valider les mécanismes du jeu sérieux
+
+Etat des lieux
+- prototype du jeu avec des règles, une version Print&Play, 5 boites de jeux (illustrateur pro), un portail de ressources avec tous les docs nécessaires à l'animation du jeu sous licence CC-BY-NC-SA/CC-BY
+- Pour tester le jeu (contenus et mécanismes), plusieurs actions avec des publics différents :
+    - 6 et 7 octobre, team PhoneImpact Grenoble, **fête de la science** Inria (sollicitation comm Inria): Ateliers avec une 1/2 journée avec des classes de secondes (60 élèves) + 1/2 journée grand public 
+    - 11 oct 2023, Benjamin, Madeline, Aurélie, Laurence: présentation de PhoneImpact avec le **GDS eco-info** (Agir pour réduire les impacts (négatifs) environnementaux et sociétaux des TICs (Technologies de l’Information et de la communication), 20 personnes --> très bons retours : sujet intéressant, le message passe mais aussi on s'amuse (différent des jeux d'intelligence collective de type fresque) --> PCImpact, LabtopImpact, serveurImpact...
+    - 28 nov 2024, Benjamin: **utilisation du jeu à l'ANF** (action nationale de formation CNRS), 28 participants, 7 tables de 4, animé par ecoinfo
+    - le 29 Mars, présentation du jeu lors de la **journée du libre éducatif** organisé par la DNE (400 personnes, 4mn)
+
+
+Besoins pour aller jusqu'au bout (Laurence)
+- finalisation du jeu sérieux
+    - finaliser les mécanismes -> on n'est pas loin
+    - contenus/cartes --> accompagnement de Sophie et Benjamin pour les textes des malus
+    - brief/débrief à partir du Mooc + expertise de Sophie et Benjamin
+    - finaliser les kakemonos
+- formation (epoc/PC) pour l'utilisation du jeu par un médiateur
+- trouver un partenaire pro pour la production/distribution des jeux --> devis + accompagnement STIP
+- éditer de nouvelles boites de jeu --> financement par le service STIP pour 100 boites
+- Contacter nos partenaires (Classcode, DNE, Canope) et communiquer
+- Quasiment tout ILL a participé au jeu !
+:::
+#### Notes
+Mooc ImpactNum
+- Mooc capital pour Inria, doit continuer absolument (nouveau PEPR Numerique eco-responsable dont Jacques est pilote)
+- dans la continuité de ce Mooc pour profiter de sa notoriété
+- mettre à jour les contenus (sources plus récentes)
+- ajouter de nouveaux contenus (du plus important au moins important)
+    - IA et environnement
+        - IA pour modéliser l'env, le climat... (interlocuteur Gael Varoquaux)
+        - Impacts environnementaux de l'IA
+        - IA pour aider à décarboner certains secteurs 
+     - Metaverse et environnement (programme "Les univers immersifs", Rémi Ronfard)
+     - Cryptomonnaies (pas sûr qu'il y ait grand chose à dire, à voir)
+ - Possibilité de financer un CDD pour ImpactNumV2
+
+Jeu PhoneImpact
+- Jacques trouve le projet intéressant
+- lui fournir des devis de fabricants de jeux qui gèrent aussi la logistique pour 200/500/1000 jeux --> possibilité de nous allouer un budget (10 à 15000€)
+
+
+
 ### Test du jeu au festival du jeu (FIJ) à Cannes par Aurélie, 22 et 23 février 2024
 Des séances de jeu et des discussions connexes voilà en gros ce qui ressort :
 - tout le monde a vraiment jouer et pour ça : chapeau ! Ils ont saluer la mécaniques, le graphisme et le matos.
