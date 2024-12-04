@@ -1,7 +1,7 @@
 # Mise en place
 ## Plateau de jeu à construire
 <center>
-<img alt="TableDeJeu.png" src="../img/TableDeJeu.png" width="550"/>  
+<img alt="TableDeJeu.png" src="../img/TableDeJeuV2.png" width="550"/>  
 _Exemple d'une mise en place à 4 joueur.euses_
 </center>
 
