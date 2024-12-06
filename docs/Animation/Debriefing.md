@@ -4,7 +4,7 @@ Une fois la phase de jeu terminée, il est important de débriefer, sur les ress
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
-!!! example "Ceci est une proposition de debrief !"
+!!! exemple "Ceci est une proposition de debrief !"
       Dans cette partie, nous vous proposons un déroulé pour **terminer l'activité** avec le jeu PhoneImpact.
       Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
 
@@ -44,7 +44,7 @@ Certaines notions peuvent être approfondies en partant de ce qu'ils ont retenus
 !!! note "Réponse"
     Partout ! Vous pouvez vous appuyer sur la carte du monde des ressources proposées sur le kakemono ou sur le schéma correspondant
 
-- Quels sont les impacts environnementaux et sociaux liés à la fabrication du smartphone ?
+- Quels sont les impacts environnementaux et sociaux liés à l'extraction des métaux ?
 !!! note "Réponse"
     - ressources fossiles difficiles à extraire dans des mines
     - nécessite beaucoup d'eau et d'énergie pour l'extraction
