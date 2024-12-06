@@ -1,8 +1,8 @@
 :root {
-    --md-primary-fg-color: #7F86E8;
+    --md-primary-fg-color: #8E81B9;
 
-    --md-primary-fg-color--dark: #7F86E8;
-    --md-primary-fg-color--light: #7F86E8;
+    --md-primary-fg-color--dark: #8E81B9;
+    --md-primary-fg-color--light: #8E81B9;
 }
 
 [data-md-color-scheme="default"] {
@@ -29,7 +29,7 @@
 }
 
 .md-header, .md-tabs,.card-button {
-    background: linear-gradient(to right, var(--md-primary-fg-color), #cd84f0);
+    background: linear-gradient(to right, var(--md-primary-fg-color), #D288BD);
 }
 
 nav[data-md-level="1"] > .md-nav__list {
