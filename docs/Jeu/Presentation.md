@@ -14,10 +14,9 @@
 
 ## But du jeu
 
-Le but du jeu est de gagner le maximum de points en fabriquant des composants de votre smartphone avant la fin de la partie. Pour cela, vous devez **acquérir les ressources nécessaires** à leur fabrication chez les **3 fournisseurs** proposés.
+Le but du jeu est de gagner le maximum de points en fabriquant des composants de votre smartphone avant la fin de la partie. Pour cela, vous devez acquérir les ressources nécessaires à leur fabrication chez les 3 fournisseurs proposés.
 
 Mais attention à ne pas trop polluer !
-
 
 ## Objectifs du jeu
 
@@ -25,12 +24,12 @@ Mais attention à ne pas trop polluer !
 
 **Objectifs pédagogiques :**
 
-- Identifier les différents types de métaux nécessaires à la fabrication d’un smartphone
-- Identifier les filières de minage plus ou moins polluantes
-- Connaître les grandes étapes de l'extraction minière
-- Lister les différents types de pollution liée à l'extraction des métaux
-- Prendre conscience qu'il existe des limites à l'extraction minière (teneur qui diminue, coût environnemental et énergétique qui augmente)
-- Avoir des pistes d'action pour limiter les impacts environnementaux
+- Identifier les différents types de métaux nécessaires à la fabrication d’un smartphone.
+- Identifier les filières de minage plus ou moins polluantes.
+- Connaître les grandes étapes de l'extraction minière.
+- Lister les différents types de pollution liée à l'extraction des métaux.
+- Prendre conscience qu'il existe des limites à l'extraction minière (teneur qui diminue, coût environnemental et énergétique qui augmente).
+- Avoir des pistes d'action pour limiter les impacts environnementaux.
 
 !!! info "Pour info"
 
