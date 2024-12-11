@@ -38,5 +38,5 @@ Mais attention à ne pas trop polluer !
     - [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)  
     - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)  
       
-    Validation scientifique par des experts, garant de l’aspect “sérieux” du jeu.  
-    Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont accompagnés pour le contenu des [kakemonos](../Animation/Kakemonos/index.md) présentés lors du [brief](../Animation/Briefing.md) et du [debrief](../Animation/Debriefing.html) du jeu.
+    Les contenus théoriques sur les impacts liés à l’extraction minière ont été rédigés par des experts scientifiques.  
+    Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont aussi accompagnés pour le contenu des [kakemonos](../Animation/Kakemonos/index.md) présentés lors du [brief](../Animation/Briefing.md) et du [debrief](../Animation/Debriefing.html) du jeu.
