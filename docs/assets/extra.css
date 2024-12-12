@@ -1,8 +1,8 @@
 :root {
-    --md-primary-fg-color: #7F88E6;
+    --md-primary-fg-color: #7f88e6;
 
-    --md-primary-fg-color--dark: #7F88E6;
-    --md-primary-fg-color--light: #7F88E6;
+    --md-primary-fg-color--dark: #7f88e6;
+    --md-primary-fg-color--light: #7f88e6;
 }
 
 [data-md-color-scheme="default"] {
@@ -28,8 +28,10 @@
     align-items: center;
 }
 
-.md-header, .md-tabs,.card-button {
-    background: linear-gradient(to right, var(--md-primary-fg-color), #CD84F1);
+.md-header,
+.md-tabs,
+.card-button {
+    background: linear-gradient(to right, var(--md-primary-fg-color), #cd84f1);
 }
 
 nav[data-md-level="1"] > .md-nav__list {
