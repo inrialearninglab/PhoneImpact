@@ -93,6 +93,7 @@ Le chiffre en bas à droite indique dans quelles **configurations - nombres de j
 <br clear="left"/>
 
 ### Cartes Synthèses des ressources  
+Pour chaque fournisseur, ces cartes indiquent la répartition des différents types de ressources présents dans les pioches. Le **nombre de cartes Ressources** et de **cartes Malus** à piocher sont indiqués à côté du nom du fournisseur.
 <center>
 
 <img alt="Cartes Synthèse PolluPlus" src="../img/SynthesePolluPlus.jpeg" width="120" align="center"/>
@@ -100,11 +101,9 @@ Le chiffre en bas à droite indique dans quelles **configurations - nombres de j
 <img alt="Cartes Synthèse Recycl'" src="../img/SyntheseRecycl.jpeg" width="120" align="center"/>
 </center>
 
-Pour chaque fournisseur, ces cartes indiquent la répartition des différents types de ressources présents dans les pioches. Le **nombre de cartes Ressources** et de **cartes Malus** à piocher sont indiqués à côté du nom du fournisseur.
-
 !!! note "Remarque"
     - Le fabricant Recycl’ (en vert) ne fournit pas de ressource de type **Autres métaux** ou **Terres rares** qui sont des ressources non recyclables.
-    - Les chiffres sont choisis pour favoriser la dynamique de jeu mais ne sont pas représentatifs de la réalité de la production..
+    - Les chiffres sont choisis pour favoriser la dynamique de jeu mais ne sont pas représentatifs de la réalité de la production.
 
 ### Cartes Événement
 <center>
@@ -113,5 +112,5 @@ Pour chaque fournisseur, ces cartes indiquent la répartition des différents ty
 
 Les cartes **Événements** sont numérotées de **1 à 14**, incluant une carte spéciale **1bis**. 
 
-Chaque carte décrit **un fait** (en partie fictifs mais ancrés dans la réalité) qui se produit à TechCity et **une action** à lire au début de chaque tour, applicable à tous les joueur·euses. Ces événements introduisent des éléments imprévus et des défis supplémentaires, influençant le cours de la partie de manière significative.
+Chaque carte décrit **un fait** (parfois réel parfois fictif mais ancré dans la réalité) qui se produit à TechCity et **une action** à lire au début de chaque tour, applicable à tous les joueur·euses. Ces événements introduisent des éléments imprévus et des défis supplémentaires, influençant le cours de la partie de manière significative.
 
