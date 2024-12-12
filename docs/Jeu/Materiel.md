@@ -78,17 +78,17 @@ Chaque carte Malus apporte une information sur la production des métaux, en par
 <br clear="left"/>
 
 !!! note "Remarque"
-- Les cartes Malus se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
+    - Les cartes Malus se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
 
 <img alt="carteMalusRecto.png" src="../img/carteMalusRecto.png" width="170" align="left"/>
 
 Le chiffre en bas à droite indique dans quelles **configurations - nombres de joueur·euses -** le malus est utilisé.
 
 !!! example "Exemple"
-- Dans une partie à 4 joueur·euses, les cartes 3+ et 4+ sont utilisées et les cartes 5+ sont remises dans la boîte.
+    - Dans une partie à 4 joueur·euses, les cartes 3+ et 4+ sont utilisées et les cartes 5+ sont remises dans la boîte.
 
 !!! note "Pour info"
-- Le numéro en bas à gauche sert à retrouver les sources associées.
+    - Le numéro en bas à gauche sert à retrouver les sources associées.
 
 <br clear="left"/>
 
