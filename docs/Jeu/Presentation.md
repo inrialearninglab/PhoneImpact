@@ -1,7 +1,5 @@
 # Présentation du jeu PhoneImpact
 
-## Histoire
-
 *Dans la ville de TechCity, vous incarnez un·e fabricant·e de smartphones. Alors que la compétition fait rage pour produire les téléphones portables les plus innovants, une question cruciale émerge : l'impact environnemental de la production de ces appareils.*
 
 *Au fil des tours de jeu et des événements, vous découvrirez la diversité des métaux présents dans les smartphones, les grandes étapes de l'extraction minière et ses impacts environnementaux et sociaux.*
@@ -18,16 +16,14 @@ Le but du jeu est de gagner le maximum de points en fabriquant des composants de
 
 Mais attention à ne pas trop polluer !
 
-## Objectifs du jeu
+## Objectifs pédagogiques
 
-**Intérêt pédagogique :** Acquérir une compréhension globale de l'impact environnemental des composants d'un smartphone.
+Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer votre smartphone et prendre conscience des impacts environnementaux liés à leur extraction.
 
-**Objectifs pédagogiques :**
-
+À la fin de la partie, les joueur·ses seront capables de :
 - Identifier les différents types de métaux nécessaires à la fabrication d’un smartphone.
-- Identifier les filières de minage plus ou moins polluantes.
 - Connaître les grandes étapes de l'extraction minière.
-- Lister les différents types de pollution liée à l'extraction des métaux.
+- Lister les différents types d'impacts environnementaux et sociaux liés à l'extraction des métaux.
 - Prendre conscience qu'il existe des limites à l'extraction minière (teneur qui diminue, coût environnemental et énergétique qui augmente).
 - Avoir des pistes d'action pour limiter les impacts environnementaux.
 
