@@ -25,7 +25,7 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
     - Lister les grandes étapes de l'extraction minière.
     - Connaître les principaux impacts environnementaux et sociaux liés à l'extraction des métaux.
     - Prendre conscience qu'il existe des limites à l'extraction minière (teneur qui diminue, coût environnemental et énergétique qui augmente).
-    - Avoir des pistes d'action pour limiter les impacts environnementaux.
+    - Connaître et analyser différentes pistes d'action pour limiter les impacts environnementaux liés à l'extraction des métaux.
 
 !!! info "Pour info"
 
