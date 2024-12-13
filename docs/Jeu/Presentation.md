@@ -18,14 +18,14 @@ Mais attention à ne pas trop polluer !
 
 ## Objectifs pédagogiques
 
-Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer votre smartphone et prendre conscience des impacts environnementaux liés à leur extraction.
+Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer un smartphone et prendre conscience des impacts environnementaux et sociaux liés à leur extraction.
 
 À la fin de la partie, les joueur·ses seront capables de :
-- Identifier les différents types de métaux nécessaires à la fabrication d’un smartphone.
-- Connaître les grandes étapes de l'extraction minière.
-- Lister les différents types d'impacts environnementaux et sociaux liés à l'extraction des métaux.
-- Prendre conscience qu'il existe des limites à l'extraction minière (teneur qui diminue, coût environnemental et énergétique qui augmente).
-- Avoir des pistes d'action pour limiter les impacts environnementaux.
+    - Connaître les différents types de métaux nécessaires à la fabrication d’un smartphone.
+    - Lister les grandes étapes de l'extraction minière.
+    - Connaître les principaux impacts environnementaux et sociaux liés à l'extraction des métaux.
+    - Prendre conscience qu'il existe des limites à l'extraction minière (teneur qui diminue, coût environnemental et énergétique qui augmente).
+    - Avoir des pistes d'action pour limiter les impacts environnementaux.
 
 !!! info "Pour info"
 
