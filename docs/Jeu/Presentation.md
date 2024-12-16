@@ -18,10 +18,14 @@ Mais attention à ne pas trop polluer !
 
 S'appuyant sur la définition du jeu proposée par Gilles Brougère – une activité régie par des règles, où liberté et prise de décision favorisent l'engagement – les jeux sérieux, ou serious games, créent un environnement d'expérimentation sécurisé.
 
+## Jeu sérieux
+
+S'appuyant sur la définition du jeu proposée par Gilles Brougère – une activité régie par des règles, où la liberté d’action et la prise de décision jouent un rôle central dans l'engagement des participants – les jeux sérieux, ou serious games, offrent bien plus qu'un simple divertissement. Ils se distinguent par leur capacité à transformer une activité ludique en un outil d'apprentissage ou de sensibilisation, où l'expérimentation et l'interaction sont encouragées dans un cadre sécurisé.
+Ces dispositifs s’appuient sur les mécanismes ludiques pour stimuler l’intérêt et favoriser une immersion totale, tout en intégrant des objectifs éducatifs ou professionnels clairs. Qu’il s’agisse de transmettre des connaissances théoriques, de développer des compétences pratiques ou de sensibiliser à des enjeux sociaux, les jeux sérieux adaptent leur conception et leurs mécaniques pour répondre précisément aux besoins des apprenants ou des utilisateurs.
+En combinant plaisir et apprentissage, ils permettent aux participants d'explorer, de tester, voire d'échouer, sans crainte de conséquences réelles, tout en capitalisant sur ces expériences pour progresser.
+
 ## Objectifs pédagogiques
 
-Grâce à leur capacité à captiver l’attention, à encourager une participation active, à fournir un feedback immédiat et à renforcer les connaissances par la répétition et la pratique, les jeux sérieux rendent l’apprentissage plus interactif, efficace et mémorable.
-S'appuyant sur la définition du jeu proposée par Gilles Brougère – une activité régie par des règles, où liberté et prise de décision favorisent l'engagement – les jeux sérieux, ou serious games, créent un environnement d'expérimentation sécurisé. Ces dispositifs combinent le plaisir et l'immersion propres aux jeux avec des objectifs éducatifs ou professionnels bien définis, tels que la formation, l'éducation ou la sensibilisation.
 Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer un smartphone et prendre conscience des impacts environnementaux et sociaux liés à leur extraction.
 
 À la fin de la partie, les joueur·ses seront capables de :
