@@ -30,6 +30,3 @@ Il est important de garder du temps pour la phase de débrief. Du coup, nous vou
 
 - Quand les joueurs piochent des cartes Malus en acquérant des ressources PolluPlus ou PolluMoins, ils doivent lire les textes écrits sur toutes les cartes. Vous pouvez leur demander de **ne lire que la première carte Malus** en fin de partie. Cela accélère le tour de jeu.
 - Vous pouvez **supprimer quelques événements** en passant directement à l'Événement 13 qui termine la partie. Nous vous conseillons tout de même d'aller au moins jusqu'à l'Événement 9, de faire un tour de jeu puis de passer à l'événement 13. Faites autant d'événements que possible, l'expérience en sera plus intéressante.
-
-## Faire une partie en 20 mn
-Si vous n'avez que 20 minutes, vous pouvez jouer avec les mêmes règles du jeu mais en ne conservant que les cartes Événements numéro : 1 et 1 bis; 5; 6; 7; 13;
