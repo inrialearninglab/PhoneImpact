@@ -18,11 +18,10 @@ Mais attention à ne pas trop polluer !
 
 S'appuyant sur la définition du jeu proposée par Gilles Brougère – une activité régie par des règles, où liberté et prise de décision favorisent l'engagement – les jeux sérieux, ou serious games, créent un environnement d'expérimentation sécurisé.
 
-## Vous avez dit jeu sérieux ?
-Grâce à leur capacité à captiver l’attention, à encourager une participation active, à fournir un feedback immédiat et à renforcer les connaissances par la répétition et la pratique, les jeux sérieux rendent l’apprentissage plus interactif, efficace et mémorable. En intégrant des mécanismes ludiques, ils permettent de concilier la dimension "sérieuse", centrée sur des objectifs pédagogiques.
-
 ## Objectifs pédagogiques
 
+Grâce à leur capacité à captiver l’attention, à encourager une participation active, à fournir un feedback immédiat et à renforcer les connaissances par la répétition et la pratique, les jeux sérieux rendent l’apprentissage plus interactif, efficace et mémorable. En intégrant des mécanismes ludiques, ils permettent de concilier la dimension "sérieuse", centrée sur des objectifs pédagogiques.
+S'appuyant sur la définition du jeu proposée par Gilles Brougère – une activité régie par des règles, où liberté et prise de décision favorisent l'engagement – les jeux sérieux, ou serious games, créent un environnement d'expérimentation sécurisé. Ces dispositifs combinent le plaisir et l'immersion propres aux jeux avec des objectifs éducatifs ou professionnels bien définis, tels que la formation, l'éducation ou la sensibilisation.
 Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer un smartphone et prendre conscience des impacts environnementaux et sociaux liés à leur extraction.
 
 À la fin de la partie, les joueur·ses seront capables de :
