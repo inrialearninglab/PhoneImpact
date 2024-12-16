@@ -1,4 +1,4 @@
-# Mise en place et déroulement du jeu
+# Mise en place
 
 <center>
 <img alt="TableDeJeu.png" src="../img/TableDeJeuV2.png" width="550"/>  
@@ -38,6 +38,8 @@ Mélangez la pile constituée puis ajoutez les cartes `1/6` à `6/6` mises de c�
 Chaque joueur·euse reçoit un **plateau Smartphone** :material-numeric-7-circle-outline: individuel.  
 Placez la pioche **Événements** :material-numeric-8-circle-outline: , face cachée, sur la table. Les cartes Événements sont classées par ordre croissant au début de la partie (1, 1 bis, 2, ... 14) , avec la carte n°1 en haut de la pile.  
 Une **Aide de jeu** est à disposition de tous les joueur·euses  :material-numeric-9-circle-outline:     .
+
+# Déroulement du jeu
 
 ## But du jeu
 
