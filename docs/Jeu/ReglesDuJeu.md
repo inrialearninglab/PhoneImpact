@@ -29,7 +29,6 @@ Les joueur·euses jouent à **tour de rôle**, dans le sens **horaire**.
 
 ### Action : s'approvisionner
 
-
 Choisir un **fournisseur**, récupérer les **cartes Ressources** et piocher des **cartes Malus** en fonction du fournisseur choisi.
 
 #### a. Choisir un fournisseur

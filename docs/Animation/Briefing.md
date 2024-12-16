@@ -89,20 +89,7 @@ Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Su
 *Mine de cuivre de Palabora, Afrique du Sud ; à gauche : représentation imagée de la quantité de cuivre métal produite par la mine jusqu’à environ 2007 (© Dillon Marsh · Mise à disposition par le photographe · dillonmarsh.com) : à droite : Vue satellitaire de la mine et mise en évidence de l’emprise en surface des déchets miniers (© Google 2021) | Création : SystExt · Septembre 2021*
 
 !!! abstract "Ressources utiles pour vous former"
-    - biblio, ressources 
-
-### Exposé : et le recyclage dans tout ça ?
-<span style="color:RED;">Texte à reprendre</span>
-
-Les moyennes mondiales des taux de recyclage sont :
-
-- Plus de 50 % : la plupart des métaux précieux et communs.
-- Moins de 1% : la plupart des métaux et terres rares.
-
-*Source : UNEP IRP*
-
-!!! abstract "Ressources utiles pour vous former"
-    - [Fiche concept "Où en est-on du recyclage ?" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.3-Recyclage-MoocImpactNum.html)
+    - biblio, ressources
 
 ### Mise en contexte : dans la ville de TechCity ...
 Histoire à raconter au début: "[Dans la ville de TechCity...](../Jeu/Histoire.md)"
