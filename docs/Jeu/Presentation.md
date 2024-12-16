@@ -15,9 +15,6 @@
 Le but du jeu est de gagner le maximum de points en fabriquant des composants de votre smartphone avant la fin de la partie. Pour cela, vous devez acquérir les ressources nécessaires à leur fabrication chez les 3 fournisseurs proposés.
 
 Mais attention à ne pas trop polluer !
-
-S'appuyant sur la définition du jeu proposée par Gilles Brougère – une activité régie par des règles, où liberté et prise de décision favorisent l'engagement – les jeux sérieux, ou serious games, créent un environnement d'expérimentation sécurisé.
-
 ## Jeu sérieux
 
 S'appuyant sur la définition du jeu proposée par Gilles Brougère – une activité régie par des règles, où la liberté d’action et la prise de décision jouent un rôle central dans l'engagement des participants – les jeux sérieux, ou serious games, offrent bien plus qu'un simple divertissement. Ils se distinguent par leur capacité à transformer une activité ludique en un outil d'apprentissage ou de sensibilisation, où l'expérimentation et l'interaction sont encouragées dans un cadre sécurisé.
