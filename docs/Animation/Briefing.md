@@ -164,7 +164,6 @@ Pour déterminer qui commence :
 - Les cartes ressources ou malus défaussées sont placées dans un tas à part et non remis
   dans les pioches.
 
-
 ## Conditions de fin de partie
 La partie s’arrête quand :
 
