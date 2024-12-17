@@ -60,8 +60,8 @@ Chaque composant ne peut être construit qu’**une seule fois**. On ne peut fab
 
 Défaussez **1 à 2 cartes Malus** de votre main. Ces cartes défaussées sont mises de côté et ne retournent pas dans la pioche des cartes Malus.
 
-!!! Remarque
-    Il est important de noter que dans la réalité, le processus de dépollution est bien plus complexe et long.
+!!! note "Remarque"
+Il est important de noter que dans la réalité, le processus de dépollution est bien plus complexe et long.
 
 ## Fin de tour de jeu 
 
