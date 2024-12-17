@@ -26,12 +26,12 @@ Objectif : sensibiliser les participants aux composants d’un smartphone et aux
 
 ### Déroulé de l'activité :
 
-1. Pratique :
+    1. Pratique :
 
 Si vous disposez de vieux smartphones, invitez les joueurs à les manipuler (un smartphone par table).
 Sinon, utilisez les schémas imprimés ou projetés pour observer les composants.
 
-2. Questions-guides :
+    2. Questions-guides :
 
 *De quoi est composé un smartphone ?*
 !!! note "Réponse"
