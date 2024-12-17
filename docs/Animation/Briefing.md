@@ -1,42 +1,45 @@
-# 🚧 Brief : introduire l’activité
+# Brief : introduire l’activité
 
-!!! Warning
-    Attention, cette fiche est en cours de rédaction
-
-!!! example "Ceci est une proposition de brief !" 
+!!! exemple "Ceci est une proposition de brief !" 
     Dans cette partie, nous vous proposons un déroulé pour **introduire l'activité** avec le jeu PhoneImpact.
-    Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
+    Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques.
+    Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
     
      Libre à vous d'adapter le Brief en fonction de votre public.
 
-## Matériels pédagogiques
+## Matériel pédagogique
 
 Des ressources sont mises à votre disposition pour démarrer une session du jeu PhoneImpact
 
 - Un [kakemono](MaterielPedagogique/Kakemonos/kakemonoBrief_PhoneImpact.pdf)
 - Des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
       - [Schéma d'un smartphone démonté avec les éléments qui le composent](MaterielPedagogique/Illustrations/smartphone_demonte.png)
-      - Schéma expliquant toutes les étapes de l'extraction minière et du recyclage
+      - Schéma expliquant toutes les étapes de l'extraction minière
       - [Photo de la mine de Cuivre Palabora en Afrique du Sud](MaterielPedagogique/Illustrations/MineCuivrePalabora.pdf)
       - [Définition simplifiée des catégories de métaux](MaterielPedagogique/AutresDocuments/Definition_simple_categories_metaux.md)
 
-## Déroulé du brief
-
-
-### Activité de découverte : de quoi est constitué un smartphone ?
-Si vous possédez des anciens smartphones qui ne marchent plus, vous pouvez inviter les joueurs à les démonter (un smartphone par table de jeu dans l'idéal). Sinon, vous pouvez utiliser le matériel décrit ci-dessus.
+## Activité de découverte : de quoi est constitué un smartphone ?
+Matériel recommandé : anciens smartphones démontables (si disponibles) ou les illustrations fournies.
+Objectif : sensibiliser les participants aux composants d’un smartphone et aux matériaux nécessaires pour sa fabrication.
 
 <a href="./MaterielPedagogique/Illustrations/smartphone_demonte.png"> "<img src="./MaterielPedagogique/Illustrations/smartphone_demonte.png" width="400"/></a>
- 
-Vous pouvez ensuite poser les questions suivantes (avec le smartphone démonté ou avec le matériel imprimé ou projeté). Ci-dessous quelques exemples de questions.
+
+### Déroulé de l'activité :
+
+1. Pratique :
+
+Si vous disposez de vieux smartphones, invitez les joueurs à les manipuler (un smartphone par table).
+Sinon, utilisez les schémas imprimés ou projetés pour observer les composants.
+
+2. Questions-guides :
 
 *De quoi est composé un smartphone ?*
 !!! note "Réponse"
-    Coque (boîtier), Carte Mère, Batterie, Ecran Tactile (dalle tactile+vitre)
+    Coque (boîtier), Carte Mère, Batterie, Écran tactile (dalle tactile+vitre)
 
 *Où est la batterie ? La carte mère ? la caméra ? le disque dur ? ...*
 
-*À votre avis, combien de métaux y a t'il dans un smartphone ?*
+*À votre avis, combien de métaux y a-t-il dans un smartphone ?*
 !!! note "Réponse"
     En 1950, on dénombrait une douzaine de métaux dans nos bons vieux téléphones fixes. Le smartphone d'aujourd'hui, beaucoup plus petit et fin, contient plus de 50 métaux : une condition pour avoir toutes les fonctionnalités de nos équipements !
 
@@ -48,7 +51,6 @@ Vous pouvez ensuite poser les questions suivantes (avec le smartphone démonté 
     - [Fiche de description des métaux utilisés dans un smartphone](../Ressources/Fiche_metaux.md)
     - [Fiche concept "Quels métaux dans les smartphones ?" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html)
     - [Activité pédagogique "Autopsie d'un smartphone" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_3_Mesurer2/story.html)
-
 
 ### Exposé : les différents types de ressources pour fabriquer un smartphone
 
@@ -72,9 +74,10 @@ Il y aussi en plus de ces métaux les **autres matières** qui représentent de 
 ### Exposé : les différentes étapes de l'extraction minière
 Les méthodes d'extraction et de séparation des métaux en général font appel à des procédés complexes, énergivores et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. En plus, ces processus requièrent de grandes quantités d'eau.
 
-Si vous avez un projecteur, vous pouvez projeter la vidéo explicative sur le procédé d'exploitation minière à ciel ouvert produit au Québec accessible sur YouTube ([lien vers la vidéo](https://www.youtube.com/watch?v=GxLTtltXWtA), vous pouvez couper à 3'30''), qui est très éclairante.
+Activité recommandée :
 
-Sinon, vous pouvez montrer et commenter le **schéma qui explique toutes les étapes de l'extraction minière et du recyclage**.
+Projeter la vidéo sur l’exploitation minière à ciel ouvert produit au Québec accessible sur YouTube ([lien vers la vidéo](https://www.youtube.com/watch?v=GxLTtltXWtA), vous pouvez couper à 3'30''), qui est très éclairante.
+Alternative : Montrer et commenter le schéma des étapes de l’extraction minière et du recyclage.
 
 <a href="./MaterielPedagogique/Illustrations/etapes_extraction_mine.png"> "<img src="./MaterielPedagogique/Illustrations/etapes_extraction_mine.png" width="400"/></a>
 
@@ -92,16 +95,18 @@ Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Su
     - biblio, ressources
 
 ### Mise en contexte : dans la ville de TechCity ...
-Histoire à raconter au début: "[Dans la ville de TechCity...](../Jeu/Histoire.md)"
+
+Objectif : Immerger les joueurs dans le scénario du jeu PhoneImpact.
+
+Histoire "[Dans la ville de TechCity...](../Jeu/Histoire.md)"
 
 ### Expliquer les règles du jeu
 
-!!! example "Ceci est une proposition de pitch !"
+!!! exemple "Ceci est une proposition de pitch !"
 Dans cette partie, nous vous proposons un texte pour **expliquer simplement les règles du jeu aux joueurs**. Nous l'avons testé sur différents publics.
 
      Libre à vous de l'adapter en fonction de votre public. Par exemple, il faudra peut-être décrire différemment les règles avec des personnes qui n'ont pas l'habitude de jouer à des jeux de société.
 
-## Présentation du jeu
 Dans ce jeu, vous habitez la ville TechCity et vous incarnez un fabricant de smartphones et votre objectif est de fabriquer un smartphone tout en minimisant votre impact environnemental. Vous aurez des choix à faire tout au long du jeu mais attention, ces choix auront des conséquences.
 
 Vous avez chacun un plateau smartphone composé de : l’écran tactile (dalle et vitre), la batterie, la coque, la carte mère.
@@ -174,16 +179,9 @@ Le gagnant est celui qui a le plus de points. On compte les points en :
 - bonus de 2 points pour celui qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées).
 - Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
 
-- # Adaptation des règles pour une partie en 20’
-On ne garde que les événements : 1 et 1 bis; 5; 6; 7; 13;
-
-!!! abstract "Ressources utiles pour vous former"
-    - [Onglet Jeu de ce portail](../Jeu/Presentation.html).
-    - [Livret de règles](../PrintAndPlay/docCommuns/LivretDeRegles.pdf)
-
 ### Annoncer le debrief
-Pour qu'ils soient plus attentifs lors de la lecture des malus, vous pouvez annoncer aux joueurs en fin de brief que :  
+Pour qu'ils soient plus attentifs lors de la lecture des malus, proposez aux joueurs :  
 
-- Après la partie, on reviendra sur les cartes Malus et/ou on leur posera des questions sur les textes lus à haute voix.
-- Leur proposer de noter les numéros des malus (ou les mettre de côté) qui les ont le plus marqués ("je ne le savais pas" ou "ça m'a choqué/étonné" ...).
-- Leur proposer de noter les numéros des malus (ou les mettre de côté) s'ils ont des questions à poser lors du debrief.
+- Expliquez qu’à la fin de la partie, les malus seront débriefés et/ou on leur posera des questions sur les textes lus à haute voix.
+- De noter les numéros des malus les plus marquants (surprise, choc, question).
+- De mettre de côté les cartes qu’ils souhaitent discuter lors du débrief.

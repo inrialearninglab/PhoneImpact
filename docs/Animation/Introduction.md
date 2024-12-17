@@ -8,9 +8,8 @@ title: "Préparation"
 Assurez-vous de bien comprendre les règles, le déroulé et les objectifs pédagogiques du jeu. Tous ces aspects sont développés dans la [Partie "Présentation du jeu PhoneImpact" de ce portail](../Jeu/Presentation.md).
 
 !!! tip "Un conseil"
-
     Relisez attentivement la documentation et testez vous-même le jeu ou animez une mini-séance test avec vos proches ou vos collègues. C'est préférable pour bien comprendre les règles du jeu et les différentes stratégies qu'on peut adopter !
-    Préparez si besoin une fiche synthétique des règles pour pouvoir les expliquer rapidement.
+    Préparez si besoin une fiche synthétique des règles pour pouvoir les expliquer rapidement le jour de l'atelier.
 
 ## Se familiariser avec les impacts environnementaux et sociaux du smartphone
 Pour commencer, si ce n'est pas déjà le cas, il est nécessaire de vous familiariser avec le sujet. Pour ce faire, nous vous conseillons d'aller sur la Partie ["Ressources"](../Ressources/Introduction.md).
