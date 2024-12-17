@@ -3,17 +3,18 @@ hide:
   - navigation
 ---
 
-# Print and play
+# Se procurer le jeu
+## Print & Play
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
 
-## Le plateau Smartphone
+### Le plateau Smartphone
 <a href="docCommuns/Plateau.pdf">"<img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
 
 
 [Lien vers le plateau Smartphone à imprimer en 5 exemplaires, recto](docCommuns/Plateau.pdf) 
 
-## Les cartes Ressources
+### Les cartes Ressources
 
 | Cartes PolluPlus                                                                         | Cartes PolluMoins                                                                                               | Cartes Recycl'                                                                                         |
 |------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
@@ -21,7 +22,7 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 | [Imprimer recto-verso](pnp/polluplus.pdf)                                                | [Imprimer recto-verso](pnp/pollumoins.pdf)                                                                      | [Imprimer recto-verso](pnp/recyclage.pdf)                                                              |
 
 
-## Les cartes Cartes Synthèse des ressources
+### Les cartes Cartes Synthèse des ressources
 <a href="pnp/recap.pdf">
 <img alt="Cartes Synthèse PolluPlus" src="../img/SynthesePolluPlus.jpeg" width="100" align="center"/>
 <img alt="Cartes Synthèse PolluMoins" src="../img/SynthesePolluMoins.jpeg" width="100" align="center"/>
@@ -29,7 +30,7 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 
 [Lien vers les cartes Synthèse des ressources, à imprimer recto-verso](pnp/recap.pdf)
 
-## Les cartes Événements et Malus
+### Les cartes Événements et Malus
 
 | Cartes Événements | Cartes Malus |
 |-------------------|---------|
@@ -37,13 +38,16 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 |          [Imprimer recto-verso](pnp/events.pdf)         |    [Imprimer recto-verso](pnp/malus.pdf)     |
 
 
-## Autres documents à imprimer
+### Autres documents à imprimer
 
 | Livret de règles                                                                                                    | Cartes Aide de jeu                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | <a href="docCommuns/LivretDeRegles.pdf"><img alt="LivretDeRegles" src="../img/LivretDeRegles.png" width="150"/></a> | <a href="docCommuns/AideDeJeu.pdf"><img alt="AideDeJeu" src="../img/AideDeJeu.png" width="140" /> </a> |
 | [Imprimer recto-verso](docCommuns/LivretDeRegles.pdf)                                                               | [Imprimer recto](docCommuns/AideDeJeu.pdf)                                                             |
 
+## Acheter une boite de jeu
+
+**Dès le 2 janvier 2025** : Achetez une boîte de jeu prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 
 ## Pour communiquer
 
