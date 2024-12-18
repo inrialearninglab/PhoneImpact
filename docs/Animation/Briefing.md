@@ -15,7 +15,7 @@ Des ressources sont mises à votre disposition pour démarrer une session du jeu
 - des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
       - [Schéma d'un smartphone démonté avec les éléments qui le composent](MaterielPedagogique/Illustrations/smartphone_demonte.png)
       - [Schéma expliquant toutes les étapes de l'extraction minière](MaterielPedagogique/Illustrations/chaine_production_metal.jpeg)
-      - [Photo de la mine de Cuivre Palabora en Afrique du Sud](MaterielPedagogique/Illustrations/MineCuivrePalabora.pdf)
+      - [Photo de la mine de Cuivre Palabora en Afrique du Sud](MaterielPedagogique/Illustrations/MineCuivrePalabora.jpg)
       - [Définition simplifiée des catégories de métaux](MaterielPedagogique/Definition_simple_categories_metaux.md)
 
 ## Activité de découverte : de quoi est constitué un smartphone ?
