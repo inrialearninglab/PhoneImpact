@@ -18,26 +18,30 @@ Des ressources sont mises à votre disposition pour démarrer une session du jeu
       - [Photo de la mine de Cuivre Palabora en Afrique du Sud](MaterielPedagogique/Illustrations/MineCuivrePalabora.jpg)
       - [Définition simplifiée des catégories de métaux](MaterielPedagogique/Definition_simple_categories_metaux.md)
 
-## Activité de découverte : de quoi est constitué un smartphone ?
-Matériel recommandé : anciens smartphones démontables (si disponibles) ou les illustrations fournies.
+## I - Activité de découverte : de quoi est constitué un smartphone ?
 Objectif : sensibiliser les participants aux composants d’un smartphone et aux matériaux nécessaires pour sa fabrication.
 
+Matériel recommandé : anciens smartphones démontables (si disponibles) ou les illustrations fournies.
 <a href="./MaterielPedagogique/Illustrations/smartphone_demonte.png"> "<img src="./MaterielPedagogique/Illustrations/smartphone_demonte.png" width="400"/></a>
 
-### Déroulé de l'activité :
+### Déroulé de l'activité
 
-1. Pratique :
+ 1. Observation ou manipulation d'un smartphone démonté
 
 Si vous disposez de vieux smartphones, invitez les joueurs à les manipuler (un smartphone par table).
 Sinon, utilisez les schémas imprimés ou projetés pour observer les composants.
 
-2. Questions-guides :
+ 2. Questions-réponses
 
-*De quoi est composé un smartphone ?*
+*Quels sont les composants principaux d'un smartphone ?*
 !!! note "Réponse"
     Coque (boîtier), Carte Mère, Batterie, Écran tactile (dalle tactile+vitre)
 
-*Où est la batterie ? La carte mère ? la caméra ? le disque dur ? ...*
+*Où est la batterie ? La carte mère ? La caméra ? ...*
+
+*Quelles sont les matières premières qui constituent un smartphone ?*
+!!! note "Réponse"
+    Céramique, plastique, verre, métaux...
 
 *À votre avis, combien de métaux y a-t-il dans un smartphone ?*
 !!! note "Réponse"
@@ -52,7 +56,7 @@ Sinon, utilisez les schémas imprimés ou projetés pour observer les composants
     - [Fiche concept "Quels métaux dans les smartphones ?" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html)
     - [Activité pédagogique "Autopsie d'un smartphone" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_3_Mesurer2/story.html)
 
-### Exposé : les différents types de ressources pour fabriquer un smartphone
+## II - Les différents types de ressources pour fabriquer un smartphone
 
 Un smartphone est composé de plus de 50 métaux ainsi que d'autres matières comme le plastique ou le verre.
 
@@ -71,10 +75,7 @@ Il y aussi en plus de ces métaux les **autres matières** qui représentent de 
 !!! abstract "Ressources utiles pour vous former"
     [Fiche de description des métaux utilisés dans un smartphone](../Ressources/Fiche_metaux.md).
 
-### Exposé : les différentes étapes de l'extraction minière
-Les méthodes d'extraction et de séparation des métaux en général font appel à des procédés complexes, énergivores et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. En plus, ces processus requièrent de grandes quantités d'eau.
-
-Activité recommandée :
+## III - Exposé : les différentes étapes de l'extraction minière
 
 Projeter la vidéo sur l’exploitation minière à ciel ouvert produit au Québec accessible sur YouTube ([lien vers la vidéo](https://www.youtube.com/watch?v=GxLTtltXWtA), vous pouvez couper à 3'30''), qui est très éclairante.
 Alternative : Montrer et commenter le schéma des étapes de l’extraction minière et du recyclage.
@@ -82,6 +83,8 @@ Alternative : Montrer et commenter le schéma des étapes de l’extraction mini
 <a href="./MaterielPedagogique/Illustrations/etapes_extraction_mine.png"> "<img src="./MaterielPedagogique/Illustrations/etapes_extraction_mine.png" width="400"/></a>
 
 *Source : Galin, Rémi & URIEN, Pol & CHARLES, Nicolas & Bailly, Laurent. (2017). Tome 3 - Projet minier et parties-prenantes.*
+
+Les méthodes d'extraction et de séparation des métaux en général font appel à des procédés complexes, énergivores et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. En plus, ces processus requièrent de grandes quantités d'eau. C'est ce que nous verrons dans la phase de jeu.
 
 ### Montrer un exemple de mine à ciel ouvert
 
@@ -94,9 +97,11 @@ Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Su
 !!! abstract "Ressources utiles pour vous former"
     - biblio, ressources
 
-### Mise en contexte : dans la ville de TechCity ...
+## IV - Mise en place du jeu
 
-Objectif : Immerger les joueurs dans le scénario du jeu PhoneImpact.
+Objectif : Immerger les joueur·euses dans le scénario et expliquer les règles du jeu PhoneImpact.
+
+### Mise en contexte 
 
 Histoire "[Dans la ville de TechCity...](../Jeu/Histoire.md)"
 
@@ -122,7 +127,7 @@ Chaque composant est constitué de ressources, elles-mêmes désignées par des 
 Le but du jeu est de rassembler assez de ressources pour fabriquer le plus de composants de votre smartphone.
 Cependant, l’acquisition des ressources peut s’accompagner de malus qui auront des conséquences dans la suite du jeu. Les textes des cartes malus sont lues à voix haute (titre puis texte) quand elles sont tirées.
 
-## Déroulement du jeu
+### Déroulement du jeu
 Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sens des aiguilles d’une montre.
 
 À chaque **tour de jeu**, vous pouvez faire une seule de ces 3 actions suivantes :
@@ -143,7 +148,7 @@ En cas d’oubli, vous pouvez vous référer à l’aide de jeu :
 
 <img src="../img/AideDeJeu.png" width="200"/>
 
-## Qui commence ?
+### Qui commence ?
 Pour déterminer qui commence :
 
 1. Si une personne **n'a pas de smartphone**, c'est elle qui commence
@@ -151,7 +156,7 @@ Pour déterminer qui commence :
 3. Si vous ne connaissez pas l'âge de vos smartphones, favorisez la personne qui a **un smartphone reconditionné**, ou qui a **récupéré un vieux smartphone**.
 4. Si aucun de ces critères ne vous a permis de vous départager, c'est la personne la **plus jeune** qui commence.
 
-## Après chaque tour de table, on tire une carte événement
+### Après chaque tour de table, on tire une carte événement
 
 - Elle est valable pour tous les joueur·euses.
 - On lit le contenu de la carte et on effectue l’action qui est décrite, en commençant par
@@ -161,20 +166,20 @@ Pour déterminer qui commence :
 - Les cartes ressources ou malus défaussées sont placées dans un tas à part et non remis
   dans les pioches.
 
-## Conditions de fin de partie
+### Conditions de fin de partie
 La partie s’arrête quand :
 
 - Un·e des joueur·euses a construit son smartphone en entier. On termine le tour de table.
 - La carte événement “Fin de partie” est tirée. La partie s'arrête.
 - Il n’y a plus de cartes Malus. On termine le tour de table. Si les joueur·ses choisissent l’action S’approvisionner, il est possible de le faire seulement chez Recycl’ (la pioche Malus étant vide).
 
-# Décompte des points
+### Décompte des points
 La personne ayant le plus de points remporte la partie. On compte les points en :
 
 - additionnant les points des composants construits de son téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - bonus de 2 points pour celui ou celle qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées). En cas d'égalité, +2 points pour les personnes concernées.
 
-### Annoncer le debrief
+## V - Annoncer le debrief
 Pour qu'ils soient plus attentifs lors de la lecture des malus, proposez aux joueurs :  
 
 - Expliquez qu’à la fin de la partie, les malus seront débriefés et/ou on leur posera des questions sur les textes lus à haute voix.
