@@ -1,9 +1,8 @@
-# 🚧 Interdisciplinarité
+# PhoneImpact en classe
 
 !!! info "Pour info"
 
-    PhoneImpact est un **jeu pédagogique**  ayant pour but de **sensibiliser à l'impact environnemental des composants d'un smartphone**.  
-    Il s’accompagne donc d’**objectifs pédagogiques** pouvant s’intégrer facilement dans plusieurs **disciplines scolaires**, allant de la fin du **collège** (cycle 4) au **lycée**, conformément aux **programmes de l’éducation nationale**.
+    PhoneImpact est un **jeu pédagogique**, il s’accompagne donc d’**objectifs pédagogiques** pouvant s’intégrer facilement dans plusieurs **disciplines scolaires**, allant de la fin du **collège** (cycle 4) au **lycée**, conformément aux **programmes de l’éducation nationale**.
  
 ## Collège - Cycle 4 (5e, 4e et 3e)
 
