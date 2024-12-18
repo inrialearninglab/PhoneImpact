@@ -45,9 +45,10 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 | <a href="docCommuns/LivretDeRegles.pdf"><img alt="LivretDeRegles" src="../img/LivretDeRegles.png" width="150"/></a> | <a href="docCommuns/AideDeJeu.pdf"><img alt="AideDeJeu" src="../img/AideDeJeu.png" width="140" /> </a> |
 | [Imprimer recto-verso](docCommuns/LivretDeRegles.pdf)                                                               | [Imprimer recto](docCommuns/AideDeJeu.pdf)                                                             |
 
-## Acheter une boite de jeu
-
-**Dès le 2 janvier 2025** : Achetez une boîte de jeu prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
+<div style="border: 2px solid black; padding: 10px;">
+    <h2 style="margin-top: 0;">Acheter une boite de jeu</h2>
+    <strong>Dès le 2 janvier 2025</strong> : Achetez une boîte de jeu prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
+</div>
 
 ## Pour communiquer
 
