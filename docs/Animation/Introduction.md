@@ -25,7 +25,7 @@ Si plusieurs tables de jeu sont installées, elles doivent être suffisamment é
 
 Choisissez entre :
 
-- Utiliser la version  [PrintAndPlay](../PrintAndPlay) : imprimez, plastifiez éventuellement, et découpez le matériel.
+- Utiliser la version  [Print&Play](../PrintAndPlay) : imprimez, plastifiez éventuellement, et découpez le matériel.
 - Acheter des boîtes de jeux (dès le 2 janvier 2025).
 
 Prévoyez des feuilles, post-its et crayons sur les tables pour que les joueurs puissent noter des questions ou réflexions pendant la partie.
