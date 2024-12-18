@@ -2,17 +2,17 @@
 
 !!! exemple "Ceci est une proposition de brief !" 
     Dans cette partie, nous vous proposons un déroulé pour **introduire l'activité** avec le jeu PhoneImpact.
-    Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques.
-    Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
+    Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert·e pour présenter les aspects théoriques.
+    Sans expert·e, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
     
      Libre à vous d'adapter le Brief en fonction de votre public.
 
 ## Matériel pédagogique
 
-Des ressources sont mises à votre disposition pour démarrer une session du jeu PhoneImpact
+Des ressources sont mises à votre disposition pour démarrer une session du jeu PhoneImpact :
 
-- Un [kakemono](MaterielPedagogique/Kakemonos/kakemonoBrief_PhoneImpact.pdf)
-- Des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
+- un [kakemono](MaterielPedagogique/Kakemonos/kakemonoBrief_PhoneImpact.pdf)
+- des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
       - [Schéma d'un smartphone démonté avec les éléments qui le composent](MaterielPedagogique/Illustrations/smartphone_demonte.png)
       - Schéma expliquant toutes les étapes de l'extraction minière
       - [Photo de la mine de Cuivre Palabora en Afrique du Sud](MaterielPedagogique/Illustrations/MineCuivrePalabora.pdf)
@@ -26,12 +26,12 @@ Objectif : sensibiliser les participants aux composants d’un smartphone et aux
 
 ### Déroulé de l'activité :
 
-    1. Pratique :
+1. Pratique :
 
 Si vous disposez de vieux smartphones, invitez les joueurs à les manipuler (un smartphone par table).
 Sinon, utilisez les schémas imprimés ou projetés pour observer les composants.
 
-    2. Questions-guides :
+2. Questions-guides :
 
 *De quoi est composé un smartphone ?*
 !!! note "Réponse"
@@ -103,15 +103,15 @@ Histoire "[Dans la ville de TechCity...](../Jeu/Histoire.md)"
 ### Expliquer les règles du jeu
 
 !!! exemple "Ceci est une proposition de pitch !"
-Dans cette partie, nous vous proposons un texte pour **expliquer simplement les règles du jeu aux joueurs**. Nous l'avons testé sur différents publics.
+    Dans cette partie, nous vous proposons un texte pour **expliquer simplement les règles du jeu aux joueur·euses**. Nous l'avons testé sur différents publics.
 
      Libre à vous de l'adapter en fonction de votre public. Par exemple, il faudra peut-être décrire différemment les règles avec des personnes qui n'ont pas l'habitude de jouer à des jeux de société.
 
-Dans ce jeu, vous habitez la ville TechCity et vous incarnez un fabricant de smartphones et votre objectif est de fabriquer un smartphone tout en minimisant votre impact environnemental. Vous aurez des choix à faire tout au long du jeu mais attention, ces choix auront des conséquences.
+Dans ce jeu, vous habitez la ville TechCity et vous incarnez un·e fabricant·e de smartphones et votre objectif est de fabriquer un smartphone tout en minimisant votre impact environnemental. Vous aurez des choix à faire tout au long du jeu mais attention, ces choix auront des conséquences.
 
-Vous avez chacun un plateau smartphone composé de : l’écran tactile (dalle et vitre), la batterie, la coque, la carte mère.
+Vous avez chacun un plateau smartphone devant vous composé de : l’écran tactile (dalle et vitre), la batterie, la coque, la carte mère.
 
-Chaque composant est constitué de ressources qui apparaissent sur la carte. Ces ressources sont désignées par des types de ressources qui sont les suivants dans le jeu :
+Chaque composant est constitué de ressources, elles-mêmes désignées par des types de ressources qui sont les suivants dans le jeu :
 
 - **Métaux communs** : beaucoup utilisés dans l'industrie, ils représentent la majeure partie des métaux d'un smartphone -> représenté par un métal gris
 - **Métaux précieux** : rares mais surtout de grande valeur économique -> représenté par un lingot d’Or
@@ -132,12 +132,9 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
     - **PolluMoins** qui fait du minage avec des efforts > ce qui vous permet d’obtenir 2 cartes ressources. > mais par contre 1 carte malus.
     - **Recycl'** spécialisé dans le recyclage (comme son nom l’indique), > ce qui vous permet d’obtenir 1 carte ressource. > Pas de malus mais à savoir que dans cette pioche il n’y a ni terres rares, ni métaux rares. > vous ne pourrez pas perdre cette carte durant la partie.
 
-
-
-
          Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n’importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur.
 
-         Les cartes ressources sont à garder en main et à cacher des autres joueurs. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
+         Les cartes ressources sont à garder en main et à cacher des autres joueur·euses. Si le ou la joueur·euse, a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
 
 - **Fabriquer un composant** : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué. Le nombre de ressources nécessaires est indiqué sur le plateau pour chaque composant.
 - **Dépolluer** : se défausser de 1 à 2 cartes malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
@@ -156,27 +153,26 @@ Pour déterminer qui commence :
 
 ## Après chaque tour de table, on tire une carte événement
 
-- Elle est valable pour tous les joueurs.
+- Elle est valable pour tous les joueur·euses.
 - On lit le contenu de la carte et on effectue l’action qui est décrite, en commençant par
-  le premier joueur puis dans le sens horaire, sauf contre-indication.
+  la personne ayant le titre Joueur·euse 1 puis dans le sens horaire, sauf contre-indication.
 - Si des cartes ressources visibles sont piochées, elles sont remplacées à la fin de
-  l’événement, une fois que tous les joueurs ont effectué leur action.
+  l’événement, une fois que tous les joueur·euses ont effectué leur action.
 - Les cartes ressources ou malus défaussées sont placées dans un tas à part et non remis
   dans les pioches.
 
 ## Conditions de fin de partie
 La partie s’arrête quand :
 
-- Un des joueurs a construit son smartphone en entier. On termine le tour de table.
+- Un·e des joueur·euses a construit son smartphone en entier. On termine le tour de table.
 - La carte événement “Fin de partie” est tirée. La partie s'arrête.
-- Il n’y a plus de cartes Malus. On termine le tour de table. Si les joueur·ses choisissent l’action S’approvisionner, ils pourront le faire seulement chez Recycl’ (la pioche Malus étant vide).
+- Il n’y a plus de cartes Malus. On termine le tour de table. Si les joueur·ses choisissent l’action S’approvisionner, il est possible de le faire seulement chez Recycl’ (la pioche Malus étant vide).
 
 # Décompte des points
-Le gagnant est celui qui a le plus de points. On compte les points en :
+La personne ayant le plus de points remporte la partie. On compte les points en :
 
 - additionnant les points des composants construits de son téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
-- bonus de 2 points pour celui qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées).
-- Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
+- bonus de 2 points pour celui ou celle qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées). En cas d'égalité, +2 points pour les personnes concernées.
 
 ### Annoncer le debrief
 Pour qu'ils soient plus attentifs lors de la lecture des malus, proposez aux joueurs :  
