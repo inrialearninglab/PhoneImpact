@@ -28,7 +28,9 @@ Des ressources sont disponibles pour accompagner la phase de débrief :
     - Quelques chiffres
 
 ## 1. Recueil des émotions
+
 Commencez le débrief par un temps de parole libre pour permettre aux joueurs d'exprimer leurs ressentis à chaud. Posez des questions ouvertes pour stimuler la réflexion et recueillir leurs émotions :
+
 - Qu’avez-vous ressenti pendant la partie ?
 - Quelle stratégie avez-vous adoptée : pollueur ou écolo ? Pourquoi ?
 - Avez-vous changé de stratégie en cours de jeu ? Si oui, à quel moment et pour quelle raison ?
@@ -93,7 +95,7 @@ Présentez quelques lois récentes qui visent à réduire les impacts du numéri
     - [Ressource "Evolutions réglementaires en France"](../Ressources/Evolutions_reglementaires.md).
 
 ## Activité complémentaire : calcul de l'indice de réparabilité de son smartphone
-Si le temps le permet, proposez aux participants de calculer l'[Indice de reparabilité de leur smartphone (sur le site www.indicereparabilite.fr)](https://www.indicereparabilite.fr/) et d'en discuter.
+Si le temps le permet, proposez aux participants de calculer l'[Indice de reparabilité de leur smartphone sur le site www.indicereparabilite.fr](https://www.indicereparabilite.fr/) et d'en discuter.
 
 Points à aborder :
 
@@ -105,10 +107,10 @@ Points à aborder :
 
 Terminez la session en recueillant les avis et impressions des joueurs :
 
-    Distribuez des post-its ou une feuille blanche pour :
-        Noter ce qu’ils ont appris.
-        Partager ce qui les a le plus marqué.
-        Donner leur avis sur l’activité et formuler des suggestions d’amélioration.
+Distribuez des post-its ou une feuille blanche pour :
+- Noter ce qu’ils ont appris.
+- Partager ce qui les a le plus marqué.
+- Donner leur avis sur l’activité et formuler des suggestions d’amélioration.
 
 ## Quelques chiffres clés à rappeler
 

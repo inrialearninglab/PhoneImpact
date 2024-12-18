@@ -33,7 +33,7 @@ Réflexion à l'écrit :
 Vous pouvez aussi abréger la partie des autres joueurs (Cf. paragraphe suivant).
 
 !!! note "Expérience optimale"
-Si possible, jouez autant d'événements que possible pour une expérience enrichissante. Cependant, sachez adapter le rythme pour garantir un débrief de qualité.
+    Si possible, jouez autant d'événements que possible pour une expérience enrichissante. Cependant, sachez adapter le rythme pour garantir un débrief de qualité.
 
 ## La partie dure trop, que faire ?
 Il est essentiel de conserver du temps pour la phase de débrief à la fin de l'activité. Si la partie risque de dépasser les 40 minutes prévues, voici des solutions pour l'abréger :
