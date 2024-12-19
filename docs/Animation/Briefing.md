@@ -1,6 +1,6 @@
 # Brief : introduire l’activité
 
-Le brief a pour objectif d'aligner les attentes des participants et de poser les bases du jeu. Il sert à présenter le contexte du jeu, les règles et les objectifs, ainsi qu'à expliquer les matériaux et les ressources impliquées dans la fabrication d'un smartphone.
+Le brief a pour objectif d'aligner les attentes des participants et de poser les bases du jeu. Il sert à présenter le contexte, les règles et les objectifs du jeu, ainsi qu’à détailler les métaux et ressources nécessaires à la fabrication d’un smartphone.
 
 !!! exemple "Ceci est une proposition de brief !"
     Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert·e pour présenter les aspects théoriques.
