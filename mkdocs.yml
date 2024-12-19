@@ -12,6 +12,7 @@ theme:
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.footer
+        - announce.dismiss
     palette:
         - scheme: default
           primary: custom
@@ -76,6 +77,7 @@ plugins:
     - search
     - macros
     - glightbox
+    - blog
     - page-to-pdf:
           exclude:
               - "index.*"
