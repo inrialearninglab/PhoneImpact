@@ -1,22 +1,12 @@
 # Brief : introduire l’activité
 
-!!! exemple "Ceci est une proposition de brief !" 
-    Dans cette partie, nous vous proposons un déroulé pour **introduire l'activité** avec le jeu PhoneImpact.
+Le brief a pour objectif d'aligner les attentes des participants et de poser les bases du jeu. Il sert à présenter le contexte du jeu, les règles et les objectifs, ainsi qu'à expliquer les matériaux et les ressources impliquées dans la fabrication d'un smartphone.
+
+!!! exemple "Ceci est une proposition de brief !"
     Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert·e pour présenter les aspects théoriques.
     Sans expert·e, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
     
      Libre à vous d'adapter le Brief en fonction de votre public.
-
-## Matériel pédagogique
-
-Des ressources sont mises à votre disposition pour démarrer une session du jeu PhoneImpact :
-
-- un [kakemono](MaterielPedagogique/Kakemonos/kakemonoBrief_PhoneImpactVF.pdf)
-- des illustrations et documents à imprimer avant la session ou à montrer sur écran si vous disposez d'un projecteur :  
-      - [Schéma d'un smartphone démonté avec les éléments qui le composent](MaterielPedagogique/Illustrations/smartphone_demonte.png)
-      - [Schéma expliquant toutes les étapes de l'extraction minière](MaterielPedagogique/Illustrations/chaine_production_metal.jpeg)
-      - [Photo de la mine de Cuivre Palabora en Afrique du Sud](MaterielPedagogique/Illustrations/MineCuivrePalabora.jpg)
-      - [Définition simplifiée des catégories de métaux](MaterielPedagogique/Definition_simple_categories_metaux.md)
 
 ## I - Activité de découverte : de quoi est constitué un smartphone ?
 Objectif : sensibiliser les participants aux composants d’un smartphone et aux matériaux nécessaires pour sa fabrication.
