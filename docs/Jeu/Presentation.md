@@ -10,12 +10,12 @@
   
 <img alt="Equipe.png" src="../img/Equipe.png" width="180" align="right" />  
 
-## But du jeu
+## I - But du jeu
 
 Le but du jeu est de gagner le maximum de points en fabriquant des composants de votre smartphone avant la fin de la partie. Pour cela, vous devez acquérir les ressources nécessaires à leur fabrication chez les 3 fournisseurs proposés.
 
 Mais attention à ne pas trop polluer !
-## Qu'est-ce qu'un jeu sérieux ?
+## II - Qu'est-ce qu'un jeu sérieux ?
 
 S'appuyant sur la définition du jeu proposée par Gilles Brougère, "_une activité régie par des règles, où la liberté d’action et la prise de décision jouent un rôle central dans l'engagement des participant·es_", le jeu sérieux (ou serious game) va bien au-delà du simple divertissement. Il transforme une activité ludique en un outil d'apprentissage ou de sensibilisation, encourageant l'expérimentation et l'interaction dans un cadre sécurisé.
 Grâce à des mécanismes ludiques, il stimule l’intérêt et favorise une immersion totale, tout en intégrant des objectifs pédagogiques.
@@ -27,7 +27,7 @@ Pour répondre précisément aux besoins des apprenant·es ou des utilisateur·r
 
 En combinant plaisir et apprentissage, il permet aux participant·es d'explorer, de tester, voire d'échouer, sans crainte de conséquences réelles, tout en capitalisant sur ces expériences pour progresser.
 
-## Objectifs pédagogiques
+## III - Objectifs pédagogiques
 
 Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer un smartphone et prendre conscience des impacts environnementaux et sociaux liés à leur extraction.
 
