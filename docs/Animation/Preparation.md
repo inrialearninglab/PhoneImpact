@@ -1,7 +1,4 @@
----
-title: "Préparation"
----
-# En amont de l'atelier
+# Préparation de l'atelier
 
 ## I - Découvrir le jeu PhoneImpact
 

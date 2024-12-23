@@ -12,6 +12,7 @@ Le brief a pour objectif d'aligner les attentes des participants et de poser les
 Objectif : sensibiliser les participants aux composants d’un smartphone et aux matériaux nécessaires pour sa fabrication.
 
 Matériel recommandé : anciens smartphones démontables (si disponibles) ou les illustrations fournies.
+
 <a href="./MaterielPedagogique/Illustrations/smartphone_demonte.png"> "<img src="./MaterielPedagogique/Illustrations/smartphone_demonte.png" width="400"/></a>
 
 ### Déroulé de l'activité
@@ -27,7 +28,7 @@ Sinon, utilisez les schémas imprimés ou projetés pour observer les composants
 !!! note "Réponse"
     Coque (boîtier), Carte Mère, Batterie, Écran tactile (dalle tactile+vitre)
 
-*Où est la batterie ? La carte mère ? La caméra ? ...*
+*Où est la batterie ? La carte mère ? ...*
 
 *Quelles sont les matières premières qui constituent un smartphone ?*
 !!! note "Réponse"
@@ -85,9 +86,10 @@ Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Su
 *Mine de cuivre de Palabora, Afrique du Sud ; à gauche : représentation imagée de la quantité de cuivre métal produite par la mine jusqu’à environ 2007 (© Dillon Marsh · Mise à disposition par le photographe · dillonmarsh.com) : à droite : Vue satellitaire de la mine et mise en évidence de l’emprise en surface des déchets miniers (© Google 2021) | Création : SystExt · Septembre 2021*
 
 !!! abstract "Ressources utiles pour vous former"
-    - biblio, ressources
+    Vous trouverez des ressources et des bibliographies pour vous former dans la Partie ["Ressources"](../Ressources/Introduction.md).
 
-## IV - Mise en place du jeu
+
+## IV - Expliquer les règles du jeu
 
 Objectif : Immerger les joueur·euses dans le scénario et expliquer les règles du jeu PhoneImpact.
 
@@ -111,14 +113,14 @@ Chaque composant est constitué de ressources, elles-mêmes désignées par des 
 - **Autres matières** : 40 à 70% du poids du smartphone comme le plastique -> représenté par une fibre violette
 
 Le but du jeu est de rassembler assez de ressources pour fabriquer le plus de composants de votre smartphone.
-Cependant, l’acquisition des ressources peut s’accompagner de malus qui auront des conséquences dans la suite du jeu. Les textes des cartes malus sont lues à voix haute (titre puis texte) quand elles sont tirées.
+
 
 ### Déroulement du jeu
 Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sens des aiguilles d’une montre.
 
 À chaque **tour de jeu**, vous pouvez faire une seule de ces 3 actions suivantes :
 
-- Vous approvisionner : choisir un fournisseur et prendre le nombre de cartes ressources (visibles ou en haut du tas) et malus correspondant :
+- **Vous approvisionner** : choisir un fournisseur et prendre le nombre de cartes ressources (visibles ou en haut du tas). L’acquisition de ces ressources peut s’accompagner de cartes Malus qui auront des conséquences dans la suite du jeu. <br/>Voici les règles selon le type de fabricant :
     - **PolluPlus** qui fait du minage classique polluant non responsable > ce qui vous permet d’obtenir 3 cartes ressources. > mais par contre 2 cartes malus.
     - **PolluMoins** qui fait du minage avec des efforts > ce qui vous permet d’obtenir 2 cartes ressources. > mais par contre 1 carte malus.
     - **Recycl'** spécialisé dans le recyclage (comme son nom l’indique), > ce qui vous permet d’obtenir 1 carte ressource. > Pas de malus mais à savoir que dans cette pioche il n’y a ni terres rares, ni métaux rares. > vous ne pourrez pas perdre cette carte durant la partie.
@@ -126,6 +128,8 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
          Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n’importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur.
 
          Les cartes ressources sont à garder en main et à cacher des autres joueur·euses. Si le ou la joueur·euse, a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
+  
+         Les cartes Malus piochées sont lues à haute voix (titre et texte) aux autres et posées devant soi. Attention, le nombre de cartes Malus en sa possession peut avoir des conséquences sur la progression du jeu !
 
 - **Fabriquer un composant** : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué. Le nombre de ressources nécessaires est indiqué sur le plateau pour chaque composant.
 - **Dépolluer** : se défausser de 1 à 2 cartes malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
@@ -134,13 +138,7 @@ En cas d’oubli, vous pouvez vous référer à l’aide de jeu :
 
 <img src="../img/AideDeJeu.png" width="200"/>
 
-### Qui commence ?
-Pour déterminer qui commence :
 
-1. Si une personne **n'a pas de smartphone**, c'est elle qui commence
-2. Sinon, c'est la personne avec **le smartphone le plus vieux** qui commence
-3. Si vous ne connaissez pas l'âge de vos smartphones, favorisez la personne qui a **un smartphone reconditionné**, ou qui a **récupéré un vieux smartphone**.
-4. Si aucun de ces critères ne vous a permis de vous départager, c'est la personne la **plus jeune** qui commence.
 
 ### Après chaque tour de table, on tire une carte événement
 
@@ -165,6 +163,13 @@ La personne ayant le plus de points remporte la partie. On compte les points en 
 - additionnant les points des composants construits de son téléphone. Chaque composant rapporte un certain nombre de points, inscrit sur le plateau de jeu.
 - bonus de 2 points pour celui ou celle qui a construit le smartphone le plus vertueux (le plus de cartes recyclées parmi les cartes posées). En cas d'égalité, +2 points pour les personnes concernées.
 
+### Qui commence ?
+Pour déterminer qui commence :
+
+1. Si une personne **n'a pas de smartphone**, c'est elle qui commence
+2. Sinon, c'est la personne avec **le smartphone le plus vieux** qui commence
+3. Si vous ne connaissez pas l'âge de vos smartphones, favorisez la personne qui a **un smartphone reconditionné**, ou qui a **récupéré un vieux smartphone**.
+4. Si aucun de ces critères ne vous a permis de vous départager, c'est la personne la **plus jeune** qui commence.
 ## V - Annoncer le debrief
 Pour qu'ils soient plus attentifs lors de la lecture des malus, proposez aux joueurs :  
 
