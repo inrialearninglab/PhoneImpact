@@ -67,15 +67,13 @@ Points à aborder :
 
 ## Retour d'expérience des participants
 
-Distribuez des post-its ou une feuille blanche pour :
-
+Distribuez des post-its ou une feuille blanche pour :  
 - Noter ce qu’ils ont appris.
 - Partager ce qui les a le plus marqué.
 - Donner leur avis sur l’activité et formuler des suggestions d’amélioration.
 
 ### Citations
-Terminez la session en proposant des citations pour se donner un état d'esprit :
-
+Terminez la session en proposant des citations pour se donner un état d'esprit :  
 - On ne fera pas un monde différent avec des gens indifférents. — Arundhati Roy
 - Ne doutez jamais qu’un petit groupe de citoyens engagés et réfléchis puisse changer le monde. En réalité c’est toujours ce qui s’est passé. — Margaret Mead
 - Être un héros c'est faire ce qu'on peut. — Churchill
