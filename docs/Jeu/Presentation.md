@@ -34,10 +34,15 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
 À la fin de la partie, les joueur·ses seront capables de :
 
 - Connaître les différents types de métaux nécessaires à la fabrication d’un smartphone
-- Lister les grandes étapes de l'extraction minière
-- Décrire les principaux impacts environnementaux et sociaux liés à l'extraction des métaux
-- Remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique
+- Lister les grandes étapes de la production des métaux
+- Décrire les principaux impacts environnementaux et sociaux liés à l'extraction minière
+- Prendre conscience que les pollutions des un·es impactent les autres, aussi bien au présent que pour les générations futures
+- Comprendre la diversité des pratiques de minage et de leurs conséquences environnementales et sociales
 - Connaître et analyser différentes pistes d'action pour limiter les impacts environnementaux liés à l'extraction des métaux
+
+À la fin d'une séance, les participant·es seront capables de :  
+
+- Remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique
 
 !!! info "Pour info"
 
