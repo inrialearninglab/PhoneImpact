@@ -1,6 +1,6 @@
 # Fin de partie
 
-## Conditions de fin de partie
+## I - Conditions de fin de partie
 
 Une partie de PhoneImpact peut se terminer de **3 manières différentes** :
 
@@ -10,7 +10,7 @@ Une partie de PhoneImpact peut se terminer de **3 manières différentes** :
   
 **La personne ayant le plus de points remporte la partie.**
 
-## Décompte des points
+## II - Décompte des points
 
 Calculer votre score en **additionnant** les points (inscrits sur le plateau de jeu) correspondant à chaque **composant construit**.
 

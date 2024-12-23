@@ -1,13 +1,11 @@
 # Éléments de jeu
 
-## Inventaire du matériel
+## I - Inventaire du matériel
 <center>
     <img alt="InventaireMateriel.png" src="../img/InventaireMateriel.png" width="450" />
 </center>
 
-## Description des éléments   
-
-### Plateau Smartphone  
+## II - Plateau Smartphone  
 
 Votre smartphone à fabriquer est représenté par un Plateau Smartphone constitué de 4 composants : **Coque**, **Carte mère**, **Batterie** et **Écran tactile**. La fabrication d'un composant rapporte des points, indiqués sur le plateau à côté de son nom.
 
@@ -20,7 +18,7 @@ Chaque composant est fabriqué à partir de **ressources** qui correspondent à 
 <img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="250"/>
 </center>
 
-### Cartes Ressources 
+## III - Cartes Ressources 
 Pour fabriquer les composants de votre smartphone, vous aurez besoin de **ressources**. Vous pouvez vous approvisionner chez **3 fournisseurs** différenciés par leur couleur et leur logo :    
   <center>
 <img alt="cartePlluPlus.jpg" src="../img/cartePlluPlus.jpg" width="100" align="center"/>
@@ -67,7 +65,7 @@ On distingue **5 types de ressources** nécessaires à la fabrication des compos
 
 <br clear="left"/>
 
-### Carte Malus
+## IV - Cartes Malus
 
 <img alt="carteMalusVerso.png" src="../img/carteMalusVerso.png" width="150" align="left"/>
 
@@ -92,7 +90,7 @@ Le chiffre en bas à droite indique dans quelles **configurations - nombres de j
 
 <br clear="left"/>
 
-### Cartes Synthèses des ressources  
+## V -  Cartes Synthèses des ressources  
 Pour chaque fournisseur, ces cartes indiquent la répartition des différents types de ressources présents dans les pioches. Le **nombre de cartes Ressources** et de **cartes Malus** à piocher sont indiqués à côté du nom du fournisseur.
 <center>
 
@@ -105,7 +103,7 @@ Pour chaque fournisseur, ces cartes indiquent la répartition des différents ty
     - Le fabricant Recycl’ (en vert) ne fournit pas de ressource de type **Autres métaux** ou **Terres rares** qui sont des ressources non recyclables.
     - Les chiffres sont choisis pour favoriser la dynamique de jeu mais ne sont pas représentatifs de la réalité de la production.
 
-### Cartes Événement
+## VI -  Cartes Événement
 <center>
 <img alt="carteEvenement.png" src="../img/carteEvenement.png" width="150" align="left"/>
 </center>
