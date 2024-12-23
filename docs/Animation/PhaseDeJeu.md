@@ -3,7 +3,7 @@
     Voici quelques conseils pour faciliter le **déroulement de la partie**. Vous aurez sûrement d'autres astuces ou propositions, n'hésitez pas à les partager avec les autres personnes qui animent le jeu (Cf [Contacts](../Contacts.md)).
 
 ## I - Choix du Joueur·euse 1
-Selon la règle, la personne désignée comme étant **le ou la Joueur·euse 1** est celle qui possède le smartphone le plus "eco-responsable" (cf. partie ["Qui commence ?](../Jeu/ReglesDuJeu.html#qui-commence)). Durant la partie, c'est la personne qui lit les carte Événements à la fin du tour de table. Assurez-vous que le ou la Joueur·euse 1 sait lire le français correctement sinon la lecture des événements risque d'être assez compliquée. 
+Selon la règle, la personne désignée comme étant **le ou la Joueur·euse 1** est celle qui possède le smartphone le plus "eco-responsable" (cf. partie ["Qui commence ?](../Jeu/ReglesDuJeu.html#ii-qui-commencecommence)). Durant la partie, c'est la personne qui lit les carte Événements à la fin du tour de table. Assurez-vous que le ou la Joueur·euse 1 sait lire le français correctement sinon la lecture des événements risque d'être assez compliquée. 
 
 Si vous n'avez qu'une table, proposez-vous pour lire les cartes Événements. Si plusieurs tables jouent, le ou la Joueur·euse 1 de chaque table doit lire les cartes pour son groupe.
 
