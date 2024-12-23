@@ -1,4 +1,4 @@
-# Brief : introduire l’activité
+# Brief : introduire l’activité (≈ 20 minutes)
 
 Le brief a pour objectif d'aligner les attentes des participants et de poser les bases du jeu. Il sert à présenter le contexte, les règles et les objectifs du jeu, ainsi qu’à détailler les métaux et ressources nécessaires à la fabrication d’un smartphone.
 

@@ -30,11 +30,3 @@ Choisissez entre :
 
 Prévoyez des feuilles, post-its et crayons sur les tables pour que les joueur·ses puissent noter des questions ou réflexions pendant la partie.
 Si possible, prévoyez également du matériel pour projeter ou visionner une vidéo disponible en ligne, ce qui peut enrichir l'expérience et stimuler les discussions lors de la phase de brief.
-### Déroulé d'une séquence de jeu :
-
-Le jeu se compose de 3 phases principales :
-
-- [Introduire l’activité / **Brief**](Briefing.md) : environ 20 minutes
-- [Animer la phase de jeu](PhaseDeJeu) : environ 40 minutes
-- [Débriefer l'activité / **Debrief**](Debriefing.md) : environ 30 minutes
-
