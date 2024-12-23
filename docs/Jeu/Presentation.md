@@ -17,13 +17,15 @@ Le but du jeu est de gagner le maximum de points en fabriquant des composants de
 Mais attention à ne pas trop polluer !
 ## Qu'est-ce qu'un jeu sérieux ?
 
-S'appuyant sur la définition du jeu proposée par Gilles Brougère – une activité régie par des règles, où la liberté d’action et la prise de décision jouent un rôle central dans l'engagement des participants – le jeu sérieux (ou serious game) va bien au-delà du simple divertissement. Il transforme une activité ludique en un outil d'apprentissage ou de sensibilisation, encourageant l'expérimentation et l'interaction dans un cadre sécurisé.
-Grâce à des mécanismes ludiques, il stimule l’intérêt et favorise une immersion totale, tout en intégrant des objectifs pédagogiques. Pour répondre précisément aux besoins des apprenants ou des utilisateurs, le jeu sérieux adapte sa conception et ses mécaniques pour :
-- transmettre des connaissances théoriques,
-- développer des compétences pratiques,
-- sensibiliser à des enjeux sociaux.
+S'appuyant sur la définition du jeu proposée par Gilles Brougère – une activité régie par des règles, où la liberté d’action et la prise de décision jouent un rôle central dans l'engagement des participant·es – le jeu sérieux (ou serious game) va bien au-delà du simple divertissement. Il transforme une activité ludique en un outil d'apprentissage ou de sensibilisation, encourageant l'expérimentation et l'interaction dans un cadre sécurisé.
+Grâce à des mécanismes ludiques, il stimule l’intérêt et favorise une immersion totale, tout en intégrant des objectifs pédagogiques.
 
-En combinant plaisir et apprentissage, il permet aux participants d'explorer, de tester, voire d'échouer, sans crainte de conséquences réelles, tout en capitalisant sur ces expériences pour progresser.
+Pour répondre précisément aux besoins des apprenant·es ou des utilisateur·rices, le jeu sérieux adapte sa conception et ses mécaniques pour :
+- transmettre des connaissances théoriques,  
+- développer des compétences pratiques,  
+- sensibiliser à des enjeux sociaux.  
+
+En combinant plaisir et apprentissage, il permet aux participant·es d'explorer, de tester, voire d'échouer, sans crainte de conséquences réelles, tout en capitalisant sur ces expériences pour progresser.
 
 ## Objectifs pédagogiques
 
