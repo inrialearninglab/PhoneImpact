@@ -1,9 +1,6 @@
 # Débrief : terminer l'activité (≈ 30 minutes)
 Une fois la phase de jeu terminée, il est essentiel de mener un débriefing pour recueillir les ressentis, les enseignements, et permettre une remise en perspective des informations abordées pendant la session. Ce temps d'échange est un moment clé pour ancrer les apprentissages, favoriser la discussion et répondre aux questions des participants.
 
-!!! Warning
-    Attention, cette fiche est en cours de rédaction
-
 !!! exemple "Ceci est une proposition de debrief !"
       Dans cette partie, nous vous proposons un déroulé pour **terminer l'activité** avec le jeu PhoneImpact.
       Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
@@ -59,18 +56,18 @@ Profitez de ce moment pour approfondir certaines notions, en lien avec les carte
 ### Activité complémentaire : calcul de l'indice de réparabilité de son smartphone
 Si le temps le permet, proposez aux participants de calculer l'[Indice de reparabilité de leur smartphone sur le site www.indicereparabilite.fr](https://www.indicereparabilite.fr/) et d'en discuter.
 
-Points à aborder :
-
-    Le reconditionnement des smartphones (garantie légale de conformité de 6 mois qui couvre les pannes, dysfonctionnements mais aussi le caractère limité des performances).
-    La durabilité des équipements numériques.
-    Les limites du recyclage et l'importance de la sobriété.
+!!! info "Points à aborder :"
+    - Le reconditionnement des smartphones (garantie légale de conformité de 6 mois qui couvre les pannes, dysfonctionnements mais aussi le caractère limité des performances).
+    - La durabilité des équipements numériques.
+    - Les limites du recyclage et l'importance de la sobriété.
 
 ## IV - Retour d'expérience des participants
 
-Distribuez des post-its ou une feuille blanche pour :  
+Distribuez des post-its ou une feuille blanche pour :
+
 - Noter ce qu’ils ont appris.  
 - Partager ce qui les a le plus marqué.  
-- Donner leur avis sur l’activité et formuler des suggestions d’amélioration.  
+- Donner leur avis sur l’activité et formuler des suggestions d’amélioration.
 
 ## V - Citations
 
