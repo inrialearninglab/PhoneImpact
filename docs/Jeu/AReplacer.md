@@ -5,7 +5,7 @@ Pour nous contacter: phoneimpact@inria.fr.
 
 !!! info "En bref"
     - **But du jeu :** Sensibiliser à l'impact environnemental des composants d'un smartphone
-    - **Joueurs :** 3 à 5
+    - **joueur·euses :** 3 à 5
     - **Âge :** Dès 14 ans
     - **Durée :** 40 min
 **Expérience de jeu :**
@@ -18,7 +18,7 @@ Se mettre à la place d'un fabricant de smartphones, tiraillé par l'envie de d�
 
 ## Instructions pour l'animateur (matériel, règles, brief/debrief...)
 
-[Instructions pour animer le jeu](../Animation/Introduction)
+[Instructions pour animer le jeu](../Animation/Preparation)
 
 ## License
 Le jeu PhoneImpact est sous license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International
@@ -91,7 +91,7 @@ En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
 
 ### Qui commence à faire l'action désignée par la carte événement
-- Certains événements désignés par le signe '*' nécessitent de départager les joueurs pour savoir qui commence.
+- Certains événements désignés par le signe '*' nécessitent de départager les joueur·euses pour savoir qui commence.
 - Dans ce cas, on privilégie celui qui a le plus de cartes Recyclage, puis le moins de cartes malus.
 
 ## Adaptation des règles pour une partie en 20'

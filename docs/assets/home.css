@@ -73,3 +73,16 @@ h1 {
     text-align: center;
     margin-top: 1rem !important;
 }
+
+.wrap-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.text-content {
+    flex: 1;
+    min-width: 23rem;
+    max-width: 35rem;
+}

@@ -3,55 +3,56 @@
 {% block content %}
 <link rel="stylesheet" href="assets/home.css">
 
-<center>
-    <img src="img/logo2.png" width="450px" alt="Illustration" align="center"/>
-</center>
+<div class="wrap-row">
+    <img src="img/logo2.png" width="450px" alt="Illustration" align="center"/><br>
+    <a href="https://inria.fr/fr"><img src="img/Inria_Logo.jpg" width=250px style="margin-right: 40px;"/></a>
+</div>
 <h1><em><strong>Découvrez la diversité des métaux utilisés pour fabriquer votre smartphone et les impacts environnementaux liés à leur extraction</strong></em></h1>
 
-<section>
-    <div class="row">
-        <div>
-            <p>Bienvenue sur <strong>PhoneImpact</strong>, un jeu sérieux co-créé avec des expert·es scientifiques, conçu pour sensibiliser aux impacts environnementaux des activités extractives liées à la fabrication des smartphones. Que vous soyez joueur·se, animateur·trice ou simplement curieux·se, vous y trouverez des ressources pratiques pour explorer, animer et approfondir l’expérience du jeu.</p>
-            <p>Ce site a été conçu pour centraliser toutes les ressources dont vous avez besoin afin de découvrir, jouer et animer PhoneImpact : accédez aux principales sections ci-dessous. Bonne navigation et bon jeu !</p>
-        </div>
-        <img src="img/PresentationJeuV2.png" width="550px" alt="Illustration" align="right"/>
+<section class="wrap-row">
+    <div class="text-content">
+        <p>Bienvenue sur <strong>PhoneImpact</strong>, un jeu sérieux co-créé avec des expert·es scientifiques, conçu pour sensibiliser aux impacts environnementaux des activités extractives liées à la fabrication des smartphones.</p>
+        <p>Que vous soyez joueur·se, animateur·trice ou simplement curieux·se, vous trouverez toutes les ressources dont vous avez besoin afin de découvrir, jouer et animer PhoneImpact : accédez aux principales sections ci-dessous. Bonne navigation et bon jeu !</p>
     </div>
-        <div class="row">
+    <a class="glightbox" href="img/PresentationJeuV2.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom" style="max-width:27rem;">
+        <img src="img/PresentationJeuV2.png" alt="Illustration" align="right"/>
+    </a>
 </section>
 <section>
-    <h2 class="cards-title">🎲 Découvrez les règles jeu</h2>
+    <h2 class="cards-title">🎲 Découvrez les règles du jeu</h2>
     <div class="cards">
         <div class="card">
-            <h3>Présentation et objectifs du jeu</h3>
+            <h3>Présentation du jeu</h3>
             <p>Explorez l'univers de PhoneImpact à travers son histoire, une présentation claire du but et objectifs du jeu.</p>
             <a href="Jeu/Presentation.html" class="card-button">En savoir plus</a>
         </div>
         <div class="card">
-            <h3>Mise en place et déroulement</h3>
-            <p>Apprenez à préparer une partie : mise en place du matériel, déroulement des tours de jeu, et explications des règles principales.</p>
+            <h3>Mise en place</h3>
+            <p>Apprenez à mettre en place le matériel pour préparer une partie.</p>
             <a href="Jeu/PreparationJeu.html" class="card-button">En savoir plus</a>
         </div>
         <div class="card">
-            <h3>Fin de partie et décompte des points</h3>
-            <p>Comprenez les conditions de fin de partie et le décompte de points à suivre pour déterminer le ou la gagnant·e.</p>
-            <a href="Jeu/FinDePartie.html" class="card-button">En savoir plus</a>
+            <h3>Règles du jeu</h3>
+            <p>Découvrez le déroulement des tours de jeu et l'explications des règles principales.</p>
+            <a href="Jeu/ReglesDuJeu.html.html" class="card-button">En savoir plus</a>
         </div>
+
     </div>
     <br>
     <h2 class="cards-title">🧑‍🏫 Vous souhaitez animer le jeu ?</h2>
     <div class="cards">
         <div class="card">
-            <h3>Structurer une session</h3>
+            <h3>Préparation</h3>
             <p>Pour animer le jeu, il est essentiel d'acquérir une compréhension globale de l'impact environnemental des composants d'un smartphone, de connaître les règles, de préparer le matériel et de structurer la session en trois phases : brief, phase de jeu et débrief.</p>
             <a href="Animation/Introduction.html" class="card-button">En savoir plus</a>
         </div>
         <div class="card">
-            <h3>Brief et pitch des règles</h3>
+            <h3>Brief : introduire l'activité</h3>
             <p>Accédez à des outils pour introduire le jeu, présenter les règles aux participants et poser les bases de la session.</p>
             <a href="Animation/Briefing.html" class="card-button">En savoir plus</a>
         </div>
         <div class="card">
-            <h3>Debrief et conclusion</h3>
+            <h3>Debrief : terminer l'activité</h3>
             <p>Encadrez la réflexion post-jeu pour valoriser les apprentissages et engager les discussions sur les enjeux soulevés.</p>
             <a href="Animation/Debriefing.html" class="card-button">En savoir plus</a>
         </div>
@@ -61,9 +62,10 @@
     <div class="cards">
         <div class="card">
             <h3>Se procurer le jeu</h3>
-            <p>Téléchargez gratuitement le matériel complet pour imprimer le jeu et organiser une partie où que vous soyez.</p>
-            <a href="https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/PrintAndPlay/index.html" class="card-button">Print & play</a>
-            <p><strong>Prochainement disponible</strong> : une boîte de jeu prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.</p>
+            <p>Téléchargez gratuitement le matériel complet pour imprimer le jeu et organiser une partie où que vous soyez.<br><strong>Dès le 2 janvier 2025 :</strong> Achetez une boîte de jeu prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.</p>
+            <div style="display:flex;gap:1rem;">
+                <a href="https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/PrintAndPlay/index.html" class="card-button">Print & play</a>
+            </div>
         </div>
         <div class="card">
             <h3>Ressources</h3>
@@ -76,8 +78,8 @@
             <a href="https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/CGU.html" class="card-button">En savoir plus</a>
         </div>
     <p></p>
-    <center>
+    <div style="text-align:center;">
         <a href="https://learninglab.inria.fr"><img src="img/LogoILL.png" width=150px style="margin-right: 40px;"/></a>
-    </center>
+    </div>
 </section>
 {% endblock %}

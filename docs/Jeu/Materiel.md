@@ -1,13 +1,11 @@
 # Éléments de jeu
 
-## Inventaire du matériel
+## I - Inventaire du matériel
 <center>
     <img alt="InventaireMateriel.png" src="../img/InventaireMateriel.png" width="450" />
 </center>
 
-## Description des éléments   
-
-### Plateau Smartphone  
+## II - Plateau Smartphone  
 
 Votre smartphone à fabriquer est représenté par un Plateau Smartphone constitué de 4 composants : **Coque**, **Carte mère**, **Batterie** et **Écran tactile**. La fabrication d'un composant rapporte des points, indiqués sur le plateau à côté de son nom.
 
@@ -20,7 +18,7 @@ Chaque composant est fabriqué à partir de **ressources** qui correspondent à 
 <img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="250"/>
 </center>
 
-### Cartes Ressources 
+## III - Cartes Ressources 
 Pour fabriquer les composants de votre smartphone, vous aurez besoin de **ressources**. Vous pouvez vous approvisionner chez **3 fournisseurs** différenciés par leur couleur et leur logo :    
   <center>
 <img alt="cartePlluPlus.jpg" src="../img/cartePlluPlus.jpg" width="100" align="center"/>
@@ -67,33 +65,33 @@ On distingue **5 types de ressources** nécessaires à la fabrication des compos
 
 <br clear="left"/>
 
-### Carte Malus
+## IV - Cartes Malus
 
 <img alt="carteMalusVerso.png" src="../img/carteMalusVerso.png" width="150" align="left"/>
 
 Produire les ressources nécessaires à la fabrication des composants d'un smartphone engendre des impacts environnementaux et sociaux. Ces impacts sont matérialisés par les cartes Malus qui accompagnent l'acquisition de ressources PolluPlus et PolluMoins.
 
-Chaque carte Malus apporte une information sur la production des métaux, en particulier sur son **fonctionnement** (par exemple le Traitement des minerais ou le Recyclage des métaux) et sur ses **impacts environnementaux** (malus de type Pollutions, Catastrophe) et sociaux (malus Tensions, Conflits).
+Chaque carte Malus apporte une information sur la production des métaux, en particulier sur son **fonctionnement** (par exemple le Traitement des minerais ou le Recyclage des métaux) et sur ses **impacts environnementaux** (malus de type Pollutions, Catastrophe) et **sociaux** (malus Tensions, Conflits).
 
 <br clear="left"/>
 
 !!! note "Remarque"
-Les cartes Malus se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
-
-Le chiffre en bas à droite indique dans quelles **configurations - nombres de joueur·euses -** le malus est utilisé.
+    - Les cartes Malus se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
 
 <img alt="carteMalusRecto.png" src="../img/carteMalusRecto.png" width="170" align="left"/>
 
+Le chiffre en bas à droite indique dans quelles **configurations - nombres de joueur·euses -** le malus est utilisé.
 
 !!! example "Exemple"
-Dans une partie à 4 joueur·euses, les cartes 3+ et 4+ sont utilisées et les cartes 5+ sont remises dans la boîte.
+    - Dans une partie à 4 joueur·euses, les cartes 3+ et 4+ sont utilisées et les cartes 5+ sont remises dans la boîte.
 
 !!! note "Pour info"
-Le numéro en bas à gauche sert à retrouver les sources associées sur le portail web du jeu.
+    - Le numéro en bas à gauche sert à retrouver les sources associées.
 
 <br clear="left"/>
 
-### Cartes Synthèses des ressources  
+## V -  Cartes Synthèses des ressources  
+Pour chaque fournisseur, ces cartes indiquent la répartition des différents types de ressources présents dans les pioches. Le **nombre de cartes Ressources** et de **cartes Malus** à piocher sont indiqués à côté du nom du fournisseur.
 <center>
 
 <img alt="Cartes Synthèse PolluPlus" src="../img/SynthesePolluPlus.jpeg" width="120" align="center"/>
@@ -101,18 +99,16 @@ Le numéro en bas à gauche sert à retrouver les sources associées sur le port
 <img alt="Cartes Synthèse Recycl'" src="../img/SyntheseRecycl.jpeg" width="120" align="center"/>
 </center>
 
-Pour chaque fournisseur, ces cartes indiquent la répartition des différents types de ressources présents dans les pioches. Le **nombre de cartes Ressources** et de **cartes Malus** à piocher sont indiqués à côté du nom du fournisseur.
-
 !!! note "Remarque"
     - Le fabricant Recycl’ (en vert) ne fournit pas de ressource de type **Autres métaux** ou **Terres rares** qui sont des ressources non recyclables.
-    - Les chiffres sont choisis pour favoriser la dynamique de jeu mais ne sont pas représentatifs de la réalité de la production..
+    - Les chiffres sont choisis pour favoriser la dynamique de jeu mais ne sont pas représentatifs de la réalité de la production.
 
-### Cartes Événement
+## VI -  Cartes Événement
 <center>
 <img alt="carteEvenement.png" src="../img/carteEvenement.png" width="150" align="left"/>
 </center>
 
 Les cartes **Événements** sont numérotées de **1 à 14**, incluant une carte spéciale **1bis**. 
 
-Chaque carte décrit **un fait** (en partie fictifs mais ancrés dans la réalité) qui se produit à TechCity et **une action** à lire au début de chaque tour, applicable à tous les joueur·euses. Ces événements introduisent des éléments imprévus et des défis supplémentaires, influençant le cours de la partie de manière significative.
+Chaque carte décrit **un fait** (parfois réel parfois fictif mais ancré dans la réalité) qui se produit à TechCity et **une action** à lire au début de chaque tour, applicable à tous les joueur·euses. Ces événements introduisent des éléments imprévus et des défis supplémentaires, influençant le cours de la partie de manière significative.
 

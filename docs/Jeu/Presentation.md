@@ -1,7 +1,5 @@
 # Présentation du jeu PhoneImpact
 
-## Histoire
-
 *Dans la ville de TechCity, vous incarnez un·e fabricant·e de smartphones. Alors que la compétition fait rage pour produire les téléphones portables les plus innovants, une question cruciale émerge : l'impact environnemental de la production de ces appareils.*
 
 *Au fil des tours de jeu et des événements, vous découvrirez la diversité des métaux présents dans les smartphones, les grandes étapes de l'extraction minière et ses impacts environnementaux et sociaux.*
@@ -12,24 +10,39 @@
   
 <img alt="Equipe.png" src="../img/Equipe.png" width="180" align="right" />  
 
-## But du jeu
+## I - But du jeu
 
 Le but du jeu est de gagner le maximum de points en fabriquant des composants de votre smartphone avant la fin de la partie. Pour cela, vous devez acquérir les ressources nécessaires à leur fabrication chez les 3 fournisseurs proposés.
 
 Mais attention à ne pas trop polluer !
+## II - Qu'est-ce qu'un jeu sérieux ?
 
-## Objectifs du jeu
+S'appuyant sur la définition du jeu proposée par Gilles Brougère, "_une activité régie par des règles, où la liberté d’action et la prise de décision jouent un rôle central dans l'engagement des participant·es_", le jeu sérieux (ou serious game) va bien au-delà du simple divertissement. Il transforme une activité ludique en un outil d'apprentissage ou de sensibilisation, encourageant l'expérimentation et l'interaction dans un cadre sécurisé.
+Grâce à des mécanismes ludiques, il stimule l’intérêt et favorise une immersion totale, tout en intégrant des objectifs pédagogiques.
 
-**Intérêt pédagogique :** Acquérir une compréhension globale de l'impact environnemental des composants d'un smartphone.
+Pour répondre précisément aux besoins des apprenant·es ou des utilisateur·rices, le jeu sérieux adapte sa conception et ses mécaniques pour :  
+- transmettre des connaissances théoriques,  
+- développer des compétences pratiques,  
+- sensibiliser à des enjeux sociaux.  
 
-**Objectifs pédagogiques :**
+En combinant plaisir et apprentissage, il permet aux participant·es d'explorer, de tester, voire d'échouer, sans crainte de conséquences réelles, tout en capitalisant sur ces expériences pour progresser.
 
-- Identifier les différents types de métaux nécessaires à la fabrication d’un smartphone.
-- Identifier les filières de minage plus ou moins polluantes.
-- Connaître les grandes étapes de l'extraction minière.
-- Lister les différents types de pollution liée à l'extraction des métaux.
-- Prendre conscience qu'il existe des limites à l'extraction minière (teneur qui diminue, coût environnemental et énergétique qui augmente).
-- Avoir des pistes d'action pour limiter les impacts environnementaux.
+## III - Objectifs pédagogiques
+
+Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer un smartphone et prendre conscience des impacts environnementaux et sociaux liés à leur extraction.
+
+À la fin de la partie, les joueur·euses seront capables de :
+
+- Identifier les différents types de métaux nécessaires à la fabrication d’un smartphone
+- Lister les grandes étapes de la production des métaux
+- Décrire les principaux impacts environnementaux et sociaux liés à l'extraction minière
+- Savoir que l'industrie minière et ses conséquences sont présentes dans le monde entier
+- Prendre conscience que les pollutions des un·es impactent les autres, aussi bien au présent que pour les générations futures
+- Comprendre la diversité des pratiques de minage et de leurs conséquences environnementales et sociales
+- Prendre conscience des grandes tendances de l'industrie minière (baisse des teneurs, tensions géopolitiques, croissance des besoins...)
+- Identifier et analyser différentes pistes d'action pour limiter les impacts environnementaux liés à l'extraction des métaux (recyclage, réglementation...)
+
+À la fin d'une séance, les participant·es seront capables de remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique.
 
 !!! info "Pour info"
 
@@ -38,5 +51,5 @@ Mais attention à ne pas trop polluer !
     - [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)  
     - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)  
       
-    Validation scientifique par des experts, garant de l’aspect “sérieux” du jeu.  
-    Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont accompagnés pour le contenu des [kakemonos](../Animation/Kakemonos/index.md) présentés lors du [brief](../Animation/Briefing.md) et du [debrief](../Animation/Debriefing.html) du jeu.
+    Les contenus théoriques sur les impacts liés à l’extraction minière ont été rédigés par des experts scientifiques.  
+    Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont aussi accompagnés pour le contenu des kakémonos présentés lors du [brief](../Animation/Briefing.md) et du [debrief](../Animation/Debriefing.html) du jeu.

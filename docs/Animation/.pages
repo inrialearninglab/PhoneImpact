@@ -1,8 +1,7 @@
-title: 🧑‍🏫 Animation du jeu
+title: 🧑‍🏫 Animer
 nav:
-    - Introduction.md
+    - Preparation.md
     - Briefing.md
-    - PitchReglesDuJeu.md
     - PhaseDeJeu.md
     - Debriefing.md
     - Interdisciplinarite.md
