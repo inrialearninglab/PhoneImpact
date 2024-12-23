@@ -16,12 +16,7 @@ Pour commencer, si ce n'est pas déjà le cas, il est nécessaire de vous famili
 
 ## III - Préparer l'animation
 
-### Configuration de l'espace :
-
-Prévoyez des tables rondes ou carrées, avec 3 à 5 chaises selon le nombre de joueur·ses.
-Si plusieurs tables de jeu sont installées, elles doivent être suffisamment éloignées les unes des autres pour que les joueur·ses ne s'entendent pas.
-
-### Matériel à prévoir :
+### Matériel à prévoir
 
 Choisissez entre :
 
@@ -30,3 +25,8 @@ Choisissez entre :
 
 Prévoyez des feuilles, post-its et crayons sur les tables pour que les joueur·ses puissent noter des questions ou réflexions pendant la partie.
 Si possible, prévoyez également du matériel pour projeter ou visionner une vidéo disponible en ligne, ce qui peut enrichir l'expérience et stimuler les discussions lors de la phase de brief.
+
+### Configuration de l'espace
+
+Prévoyez des tables rondes ou carrées, avec 3 à 5 chaises selon le nombre de joueur·ses.
+Si plusieurs tables de jeu sont installées, elles doivent être suffisamment éloignées les unes des autres pour que les joueur·ses ne s'entendent pas.
