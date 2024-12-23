@@ -72,8 +72,9 @@ Distribuez des post-its ou une feuille blanche pour :
 - Partager ce qui les a le plus marqué.  
 - Donner leur avis sur l’activité et formuler des suggestions d’amélioration.  
 
-### V - Citations
+## V - Citations
+
 Terminez la session en proposant des citations pour se donner un état d'esprit :  
-- On ne fera pas un monde différent avec des gens indifférents. — Arundhati Roy  
-- Ne doutez jamais qu’un petit groupe de citoyens engagés et réfléchis puisse changer le monde. En réalité c’est toujours ce qui s’est passé. — Margaret Mead  
-- Être un héros c'est faire ce qu'on peut. — Churchill  
+> On ne fera pas un monde différent avec des gens indifférents. — Arundhati Roy  
+> Ne doutez jamais qu’un petit groupe de citoyens engagés et réfléchis puisse changer le monde. En réalité c’est toujours ce qui s’est passé. — Margaret Mead  
+> Être un héros c'est faire ce qu'on peut. — Churchill  
