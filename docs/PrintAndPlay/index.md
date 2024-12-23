@@ -4,6 +4,7 @@ hide:
 ---
 
 # Se procurer le jeu
+
 ## Print & Play
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
@@ -44,6 +45,8 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 |---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | <a href="docCommuns/LivretDeRegles.pdf"><img alt="LivretDeRegles" src="../img/LivretDeRegles.png" width="150"/></a> | <a href="docCommuns/AideDeJeu.pdf"><img alt="AideDeJeu" src="../img/AideDeJeu.png" width="140" /> </a> |
 | [Imprimer recto-verso](docCommuns/LivretDeRegles.pdf)                                                               | [Imprimer recto](docCommuns/AideDeJeu.pdf)                                                             |
+
+## Acheter une boîte de jeu
 
 <div style="border: 2px solid black; padding: 10px;">
     <h2 style="margin-top: 0;">Acheter une boite de jeu</h2>

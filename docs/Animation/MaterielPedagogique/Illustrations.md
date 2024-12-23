@@ -6,5 +6,3 @@ Vous trouverez ci-dessous, les illustrations qui vous seront utiles pour l'anima
 ![MineCuivrePalabora.jpg](Illustrations/MineCuivrePalabora.jpg)
 ## Chaîne de production d'un métal
 ![chaine_production_metal.jpeg](Illustrations/chaine_production_metal.jpeg)
-## Nos smartphones, pas si smart pour la planète, Ademe
-![ADEME-smartphone_Illu_infographie.png](Illustrations/ADEME-smartphone_Illu_infographie.png)
