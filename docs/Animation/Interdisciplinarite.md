@@ -142,9 +142,3 @@ intégrations et rivalités »  :
 - Pour les classes de **première et terminale générales**, le jeu peut s’intégrer aux 2 thèmes suivants :
     - **Histoire de l’informatique** 
     - **Architectures matérielles et systèmes d’exploitation**
-
-
-## Entreprises
-
-Le jeu **Phone Impact** peut-être animé pour sensibiliser à la **responsabilité sociétale des entreprises** (RSE).  
-En effet, l’**environnement** est une des sept thématiques du périmètre RSE. Ses objectifs visent à réduire l'empreinte carbone, à améliorer l'efficacité énergétique, à gérer les déchets de manière responsable, et à promouvoir l'utilisation durable des ressources.
