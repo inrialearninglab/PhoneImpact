@@ -30,7 +30,7 @@ Réflexion à l'écrit :
 - Les questions ou points à approfondir
 - Débrief anticipé : entamez doucement les discussions pour préparer le débrief final.
 
-Vous pouvez aussi abréger la partie des autres joueurs (Cf. paragraphe suivant).
+Vous pouvez aussi abréger la partie des autres joueur·euses (Cf. paragraphe suivant).
 
 !!! note "Expérience optimale"
     Si possible, jouez autant d'événements que possible pour une expérience enrichissante. Cependant, sachez adapter le rythme pour garantir un débrief de qualité.

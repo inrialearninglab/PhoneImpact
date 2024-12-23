@@ -3,13 +3,13 @@ Une fois la phase de jeu terminée, il est essentiel de mener un débriefing pou
 
 !!! exemple "Ceci est une proposition de debrief !"
       Dans cette partie, nous vous proposons un déroulé pour **terminer l'activité** avec le jeu PhoneImpact.
-      Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
+      Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueur·euses), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
 
      Libre à vous d'adapter le derief en fonction de votre public.
 
 ## I. Recueil des émotions
 
-Commencez le débrief par un temps de réflexion puis d'échange libre pour permettre aux joueurs d'exprimer leurs ressentis à chaud. Posez des questions ouvertes pour stimuler la réflexion et recueillir leurs émotions :
+Commencez le débrief par un temps de réflexion puis d'échange libre pour permettre aux joueur·euses d'exprimer leurs ressentis à chaud. Posez des questions ouvertes pour stimuler la réflexion et recueillir leurs émotions :
 
 - Qu’avez-vous ressenti pendant la partie ?
 - Quelle stratégie avez-vous adoptée : pollueur ou écolo ? Pourquoi ?

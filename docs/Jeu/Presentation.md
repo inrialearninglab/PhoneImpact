@@ -31,7 +31,7 @@ En combinant plaisir et apprentissage, il permet aux participant·es d'explorer,
 
 Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer un smartphone et prendre conscience des impacts environnementaux et sociaux liés à leur extraction.
 
-À la fin de la partie, les joueur·ses seront capables de :
+À la fin de la partie, les joueur·euses seront capables de :
 
 - Identifier les différents types de métaux nécessaires à la fabrication d’un smartphone
 - Lister les grandes étapes de la production des métaux

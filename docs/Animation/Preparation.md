@@ -20,13 +20,13 @@ Choisissez entre :
 - Utiliser la version  [Print&Play](../PrintAndPlay) : imprimez, plastifiez éventuellement, et découpez le matériel.
 - Acheter des boîtes de jeux (dès le 2 janvier 2025).
 
-Prévoyez des feuilles, post-its et crayons sur les tables pour que les joueur·ses puissent noter des questions ou réflexions pendant la partie.
+Prévoyez des feuilles, post-its et crayons sur les tables pour que les joueur·euses puissent noter des questions ou réflexions pendant la partie.
 Si possible, prévoyez également du matériel pour projeter ou visionner une vidéo disponible en ligne, ce qui peut enrichir l'expérience et stimuler les discussions lors de la phase de brief.
 
 ### Configuration de l'espace
 
-Prévoyez des tables rondes ou carrées, avec 3 à 5 chaises selon le nombre de joueur·ses.
-Si plusieurs tables de jeu sont installées, elles doivent être suffisamment éloignées les unes des autres pour que les joueur·ses ne s'entendent pas.
+Prévoyez des tables rondes ou carrées, avec 3 à 5 chaises selon le nombre de joueur·euses.
+Si plusieurs tables de jeu sont installées, elles doivent être suffisamment éloignées les unes des autres pour que les joueur·euses ne s'entendent pas.
 
 ### Mise en place du jeu
 

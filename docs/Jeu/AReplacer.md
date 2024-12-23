@@ -5,7 +5,7 @@ Pour nous contacter: phoneimpact@inria.fr.
 
 !!! info "En bref"
     - **But du jeu :** Sensibiliser à l'impact environnemental des composants d'un smartphone
-    - **Joueurs :** 3 à 5
+    - **joueur·euses :** 3 à 5
     - **Âge :** Dès 14 ans
     - **Durée :** 40 min
 **Expérience de jeu :**
@@ -91,7 +91,7 @@ En cas d'oubli, vous pouvez vous référer à l'aide de jeu :
 
 
 ### Qui commence à faire l'action désignée par la carte événement
-- Certains événements désignés par le signe '*' nécessitent de départager les joueurs pour savoir qui commence.
+- Certains événements désignés par le signe '*' nécessitent de départager les joueur·euses pour savoir qui commence.
 - Dans ce cas, on privilégie celui qui a le plus de cartes Recyclage, puis le moins de cartes malus.
 
 ## Adaptation des règles pour une partie en 20'

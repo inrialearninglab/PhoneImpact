@@ -1,7 +1,7 @@
 # Pitcher les règles du jeu
 
 !!! example "Ceci est une proposition de pitch !"
-    Dans cette partie, nous vous proposons un texte pour **expliquer simplement les règles du jeu aux joueurs**. Nous l'avons testé sur différents publics.
+    Dans cette partie, nous vous proposons un texte pour **expliquer simplement les règles du jeu aux joueur·euses**. Nous l'avons testé sur différents publics.
 
      Libre à vous de l'adapter en fonction de votre public. Par exemple, il faudra peut-être décrire différemment les règles avec des personnes qui n'ont pas l'habitude de jouer à des jeux de société.
 
@@ -36,7 +36,7 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
 
          Une fois que vous avez choisi votre fournisseur, vous pouvez prendre n’importe quelle carte visible parmi celles posées sur la table ou tirer une carte dans la pioche, de ce même fournisseur.
 
-         Les cartes ressources sont à garder en main et à cacher des autres joueurs. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
+         Les cartes ressources sont à garder en main et à cacher des autres joueur·euses. Si le joueur a pris des cartes visibles, elles seront remplacées à la fin de son tour. 
 
 - **Fabriquer un composant** : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué. Le nombre de ressources nécessaires est indiqué sur le plateau pour chaque composant.
 - **Dépolluer** : se défausser de 1 à 2 cartes malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
@@ -55,11 +55,11 @@ Pour déterminer qui commence :
 
 ## Après chaque tour de table, on tire une carte événement
 
-- Elle est valable pour tous les joueurs.
+- Elle est valable pour tous les joueur·euses.
 - On lit le contenu de la carte et on effectue l’action qui est décrite, en commençant par
 le premier joueur puis dans le sens horaire, sauf contre-indication.
 - Si des cartes ressources visibles sont piochées, elles sont remplacées à la fin de
-l’événement, une fois que tous les joueurs ont effectué leur action.
+l’événement, une fois que tous les joueur·euses ont effectué leur action.
 - Les cartes ressources ou malus défaussées sont placées dans un tas à part et non remis
 dans les pioches.
 
@@ -67,9 +67,9 @@ dans les pioches.
 ## Conditions de fin de partie
 La partie s’arrête quand :
 
-- Un des joueurs a construit son smartphone en entier. On termine le tour de table.
+- Un des joueur·euses a construit son smartphone en entier. On termine le tour de table.
 - La carte événement “Fin de partie” est tirée. La partie s'arrête.
-- Il n’y a plus de cartes Malus. On termine le tour de table. Si les joueur·ses choisissent l’action S’approvisionner, ils pourront le faire seulement chez Recycl’ (la pioche Malus étant vide).
+- Il n’y a plus de cartes Malus. On termine le tour de table. Si les joueur·euses choisissent l’action S’approvisionner, ils pourront le faire seulement chez Recycl’ (la pioche Malus étant vide).
 
 # Décompte des points
 Le gagnant est celui qui a le plus de points. On compte les points en :

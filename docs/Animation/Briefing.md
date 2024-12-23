@@ -3,7 +3,7 @@
 Le brief a pour objectif d'aligner les attentes des participants et de poser les bases du jeu. Il sert à présenter le contexte, les règles et les objectifs du jeu, ainsi qu’à détailler les métaux et ressources nécessaires à la fabrication d’un smartphone.
 
 !!! exemple "Ceci est une proposition de brief !"
-    Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueurs), avec ou sans expert·e pour présenter les aspects théoriques.
+    Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueur·euses), avec ou sans expert·e pour présenter les aspects théoriques.
     Sans expert·e, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
     
      Libre à vous d'adapter le Brief en fonction de votre public.
@@ -19,7 +19,7 @@ Matériel recommandé : anciens smartphones démontables (si disponibles) ou les
 
  1. Observation ou manipulation d'un smartphone démonté
 
-Si vous disposez de vieux smartphones, invitez les joueurs à les manipuler (un smartphone par table).
+Si vous disposez de vieux smartphones, invitez les joueur·euses à les manipuler (un smartphone par table).
 Sinon, utilisez les schémas imprimés ou projetés pour observer les composants.
 
  2. Questions-réponses
@@ -155,7 +155,7 @@ La partie s’arrête quand :
 
 - Un·e des joueur·euses a construit son smartphone en entier. On termine le tour de table.
 - La carte événement “Fin de partie” est tirée. La partie s'arrête.
-- Il n’y a plus de cartes Malus. On termine le tour de table. Si les joueur·ses choisissent l’action S’approvisionner, il est possible de le faire seulement chez Recycl’ (la pioche Malus étant vide).
+- Il n’y a plus de cartes Malus. On termine le tour de table. Si les joueur·euses choisissent l’action S’approvisionner, il est possible de le faire seulement chez Recycl’ (la pioche Malus étant vide).
 
 ### Décompte des points
 La personne ayant le plus de points remporte la partie. On compte les points en :
@@ -171,7 +171,7 @@ Pour déterminer qui commence :
 3. Si vous ne connaissez pas l'âge de vos smartphones, favorisez la personne qui a **un smartphone reconditionné**, ou qui a **récupéré un vieux smartphone**.
 4. Si aucun de ces critères ne vous a permis de vous départager, c'est la personne la **plus jeune** qui commence.
 ## V - Annoncer le debrief
-Pour qu'ils soient plus attentifs lors de la lecture des malus, proposez aux joueurs :  
+Pour qu'ils soient plus attentifs lors de la lecture des malus, proposez aux joueur·euses :  
 
 - Expliquez qu’à la fin de la partie, les malus seront débriefés et/ou on leur posera des questions sur les textes lus à haute voix.
 - De noter les numéros des malus les plus marquants (surprise, choc, question).
