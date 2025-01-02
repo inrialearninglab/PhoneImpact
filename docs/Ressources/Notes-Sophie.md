@@ -1,5 +1,49 @@
 # Notes sur les sources
 
+## TODO Évenements
+
+[2] Collecter des vieux smartphones permet de recycler certaines ressources, par exemple de l'or.
+    
+[9] 2037 : Une loi est votée pour lutter contre l'accaparement des métaux par quelques fabricants.
+
+## TODO Malus
+Pour les cartes géographie
+https://fr.statista.com/infographie/26793/evolution-production-miniere-terres-rares-dans-le-monde-par-pays/
+    * 26 : Les batteries NiMh c'est vieux
+    * 53 : Pas clair à quoi exactement sert le gallium dans les écrans et surtout ça n'a pas l'air d'être généralisé à tous les smartphones, donc j'assure le coup
+    * 54 : Idem pour le platine, on pourra toujours ajouter un commentaire
+
+NB : compléments catastrophes : http://www.csp2.org/tsf-failures-from-1915
+
+## NB pour prochaine version :
+* Passer la carte [32] en définition.
+* [33] sous-terraines --> souterraines
+
+## Discussion avec Gauthier
+Problème des sous- et coproduits : trop de chocs
+On ouvre des mines pour le numérique pour le coltan et les terres rares
+Dépollution de la giants mine au Canada
+Très peu de données sur les besoins du secteur numérique en termes de minerais : Gauthier dit que les besoins sont faibles, y compris dans l'automobile
+
+## Composants électroniques Nexus 4
+* RFIC Qualcomm PM8921 : https://www.ansys.com/blog/what-is-rfic 
+* DRAM Samsung
+* 
+
+## Images traitement minerai
+
+https://commons.wikimedia.org/w/index.php?search=boddington+mine&title=Special:MediaSearch&go=Go&type=image
+
+https://commons.wikimedia.org/w/index.php?search=sunrise+dam+gold&title=Special:MediaSearch&go=Go&type=image
+
+https://proprocesseps.com/fr/hydrometallurgy/
+
+https://rhosonics.com/fr/traitement-des-minerais/epaississeurs/
+
+http://www.miningmes.com/gold-flotation-production-line/
+
+https://www.gres.com.au/projects/details/sunrise-dam-gold-recovery-enhancement.aspx
+
 ## Attention à la cohérence des données
 
 La liste des métaux utilisés dans un smartphone (cf Sources_smartphone.md) sert pour :
@@ -37,7 +81,7 @@ Les métaux en volume total
 
 teneurs : aller voir l'USGS
 
-- [x] Photo de terril https://commons.wikimedia.org/wiki/File:Slag_heap_from_the_old_Iron_Works_-_Sweden_-_panoramio.jpg
+Photo de terril : https://commons.wikimedia.org/wiki/File:Slag_heap_from_the_old_Iron_Works_-_Sweden_-_panoramio.jpg
 
 * Dépendances économiques / néo-colonialisme : traitement parfois fait à l'autre bout du monde
 
@@ -64,6 +108,30 @@ NB : usages dispersifs
 - Recyclage : usages dispersifs
 - Recyclage : distinction France / Monde
 
+## Tmp
+https://www.mineralinfo.fr/fr/ecomine/silicium-un-element-chimique-tres-abondant-un-affinage-strategique
+https://fr.wikipedia.org/wiki/Abondance_des_%C3%A9l%C3%A9ments_dans_la_cro%C3%BBte_terrestre
+https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/climat-environnement-et-economie-circulaire/les-metaux-transition-energetique#:~:text=Les%20m%C3%A9taux%20abondants%20sont%20ceux,molybd%C3%A8ne%2C%20tungst%C3%A8ne%2C%20etc
+https://www.systext.org/node/1724
+https://www.fairphone.com/wp-content/uploads/2020/07/Fairphone_3_LCA.pdf
+https://www.sciencedaily.com/releases/2017/03/170321122601.htm
+https://www.sciencedirect.com/science/article/pii/S0301420720301392
+
+https://miningdataonline.com
+
+## Sources des textes des malus
+
+The Impact of Metal Mining on Global Water Stress and Regional Carrying Capacities—A GIS-Based Water Impact Assessment
+https://www.mdpi.com/2079-9276/10/12/120
+
+- [8] [Number of smartphone mobile network subscriptions worldwide from 2016 to 2022, with forecasts from 2023 to 2028. statista](https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/)
+- [16] [Rapport renouvellement terminaux mobiles et pratiques commerciales de distribution. Arcep. Juillet 2021](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf)
+- [18] [Peuple Ogoni (wikipedia)](https://fr.wikipedia.org/wiki/Ogoni_(peuple))
+
+- [21] [“Afrique. Minerais de sang et néocolonialisme en République Démocratique du Congo (RDC). Le conflit au Kivu, zone grise en proie à de cruciales rivalités géoéconomiques” Par Melvil BOSSE. 2020. diploweb.com](https://www.diploweb.com/Afrique-Minerais-de-sang-et-neocolonialisme-en-Republique-Democratique-du-Congo-RDC.html)
+
+- [23] [Espagne : réouverture d'une mine 16 ans après une grave pollution. Sciences et avenir. 2014](https://www.sciencesetavenir.fr/nature-environnement/espagne-reouverture-d-une-mine-16-ans-apres-une-grave-pollution_13486)
+- [43] [Taux d'équipement en smartphone en France entre 2019 et 2022, selon la tranche d'âge, statista](https://fr.statista.com/statistiques/505110/taux-de-penetration-du-smartphone-par-age-france/)
 
 ## Traitement
 * Principales étapes de la production des métaux : extraction du minerai, concassage et broyage, concentration et enrichissement

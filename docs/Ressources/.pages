@@ -1,9 +1,7 @@
 title: "📚 Ressources"
 nav:
     - Introduction.md
-    - Sources_smartphone.md
-    - Fiche_metaux.md
-    - Recyclage.md
-    - Evolutions_reglementaires.md
-    - Sources_malus_EnAttente.md
-    - Glossaire.md
+    - Fiches détaillées
+    - Sources
+    - Glossaire.md    
+    - Complements.md

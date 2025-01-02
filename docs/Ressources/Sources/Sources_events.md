@@ -1,7 +1,7 @@
 ---
-title: "🚧 Sources des Événements"
+title: "Sources des Événements"
 ---
-# 🚧 Sources des cartes Événements
+# Sources des cartes Événements
 
 Les événements décrits sont parfois réels et parfois fictifs. Dans la suite, nous indiquons les sources d'inspiration pour les événements lorsque cela est pertinent.
 
@@ -35,8 +35,7 @@ Les événements décrits sont parfois réels et parfois fictifs. Dans la suite,
 [8] 2041 : Depuis quelques temps la teneur des minerais diminue fortement ; produire la même quantité de métal pollue aujourd'hui 2 fois plus qu'avant.
 
 !!! Source "À propos de la diminution de la teneur en métal des minerais"
-    Les travaux d'Olivier Vidal montrent que la teneur moyenne du minerai de cuivre a été divisée par 8 au cours du XXème siècle, en passant de 4% en 1900 à environ 0,5% aujourd'hui, cf la figure 6.c du papier 
-    https://www.mdpi.com/2071-1050/14/1/11.
+    Voir les sources du Malus [31].
 
 [12] Dans la réalité, dépolluer est extrêmement long, difficile et coûteux, voire impossible. Les anciens sites miniers restent pollués.
 

@@ -2,6 +2,13 @@
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
+[1] **minerai** à mettre dans le glossaire ; nb : Le minerai de lithium peut aussi se trouver sous forme de saumûre (donc pas toujours une roche) ; nb : La notion de minerai est économique
+[2] **stériles miniers** à mettre dans le glossaire ; nb : La distinction stérile/minerai est économique
+
+!!! Note "Note"
+    On connaît les terrils miniers principalement en lien avec la production de charbon. <a href="./img/terril.jpeg"> <img src="./img/terril.jpeg" width="300"/></a>.  
+    https://fr.wikipedia.org/wiki/Terril
+    
 # Lexique
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [I](#i) [M](#m) [N](#n) [P](#p) [R](#r) [S](#s) [T](#t) [V](#v)
 
