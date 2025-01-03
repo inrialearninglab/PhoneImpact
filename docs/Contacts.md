@@ -8,7 +8,7 @@ hide:
 
 Merci d’avoir testé **PhoneImpact** ! Votre retour est précieux pour nous permettre d’améliorer le jeu. N’hésitez pas à répondre aux questions ci-dessous et à partager vos impressions.
 
-## Questions
+## I - Questions
 
 1. **Vous venez de tester le jeu PhoneImpact. Sur une échelle de 1 à 5, quel est votre degré de satisfaction ?**  
    _(1 = Pas satisfait·e, 5 = Très satisfait·e)_
@@ -21,7 +21,7 @@ Merci d’avoir testé **PhoneImpact** ! Votre retour est précieux pour nous pe
 4. **Avez-vous d'autres commentaires ou suggestions ?**  
    _Nous sommes à l'écoute !_  
 
-## Envoyez-nous votre retour
+## II - Envoyez-nous votre retour
 
 Pour nous envoyer vos réponses, vous pouvez nous écrire directement par e-mail à [phoneimpact@inria.fr](mailto:phoneimpact@inria.fr).
 
