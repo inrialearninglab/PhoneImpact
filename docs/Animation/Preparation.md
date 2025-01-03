@@ -16,6 +16,7 @@ Pour commencer, si ce n'est pas déjà le cas, il est nécessaire de vous famili
 ### Matériel à prévoir
 
 Choisissez entre :
+
 - Utiliser la version  [Print&Play](../PrintAndPlay) : imprimez, plastifiez éventuellement, et découpez le matériel.
 - [Acheter une boîte de jeux](https://boutique.inria.ecoessentials.fr/) prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 
