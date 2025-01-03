@@ -13,14 +13,7 @@ Merci d’avoir testé **PhoneImpact** ! Votre retour est précieux pour nous pe
 1. **Vous venez de tester le jeu PhoneImpact. Sur une échelle de 1 à 5, quel est votre degré de satisfaction ?**  
    _(1 = Pas satisfait·e, 5 = Très satisfait·e)_
 
-    - [ ] 1 - Pas satisfait·e
-    - [ ] 2
-    - [ ] 3 - Moyennement satisfait·e
-    - [ ] 4
-    - [ ] 5 - Très satisfait·e
-
 2. **Qu’avez-vous aimé ? Qu’avez-vous le moins apprécié ?**  
-   _Écrivez vos impressions ici :_
 
 3. **Dans quel contexte avez-vous utilisé le jeu ?**  
    _Exemples : familial, associatif, professionnel..._ 
