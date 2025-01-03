@@ -53,4 +53,4 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 
 ## II - Acheter une boîte de jeu
 
-À partir du 2 janvier, les boîtes du jeu sont disponibles à la vente : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
+À partir du 2 janvier 2025, les boîtes sont disponibles à la vente : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
