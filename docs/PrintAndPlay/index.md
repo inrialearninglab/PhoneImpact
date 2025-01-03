@@ -5,6 +5,11 @@ hide:
 
 # Se procurer le jeu
 
+Choisissez entre :
+
+- Utiliser la version Print&Play : imprimez, plastifiez éventuellement, et découpez le matériel.
+- Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
+
 ## Print & Play
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
@@ -49,9 +54,5 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 ## Acheter une boîte de jeu
 
 <div style="border: 2px solid black; padding: 10px;">
-    <strong>Dès le 2 janvier 2025</strong> : Achetez une boîte de jeu prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
+    <strong>Dès le 2 janvier 2025</strong> : [Achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/) prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 </div>
-
-## Pour communiquer
-
-- [Fascicule de présentation du jeu](docCommuns/depliant.pdf)
