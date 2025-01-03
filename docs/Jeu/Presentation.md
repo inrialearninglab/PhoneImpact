@@ -51,5 +51,4 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
     - [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)  
     - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)  
       
-    Les contenus théoriques sur les impacts liés à l’extraction minière ont été rédigés par des experts scientifiques.  
-    Ils ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont aussi accompagnés pour le contenu des kakémonos présentés lors du [brief](../Animation/Briefing.md) et du [debrief](../Animation/Debriefing.html) du jeu.
+    Les contenus théoriques sur les impacts liés à l’extraction minière ont été rédigés par des expert·es scientifiques qui ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont aussi accompagnés pour le contenu des kakémonos présentés lors du [brief](../Animation/Briefing.md) et du [debrief](../Animation/Debriefing.html) du jeu.
