@@ -18,7 +18,7 @@ Pour commencer, si ce n'est pas déjà le cas, il est nécessaire de vous famili
 Choisissez entre :
 
 - Utiliser la version  [Print&Play](../PrintAndPlay) : imprimez, plastifiez éventuellement, et découpez le matériel.
-- Acheter des boîtes de jeux (dès le 2 janvier 2025).
+- Dès le 2 janvier, [acheter une boîte de jeux](https://boutique.inria.ecoessentials.fr/) prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 
 Prévoyez des feuilles, post-its et crayons sur les tables pour que les joueur·euses puissent noter des questions ou réflexions pendant la partie.
 Si possible, prévoyez également du matériel pour projeter ou visionner une vidéo disponible en ligne, ce qui peut enrichir l'expérience et stimuler les discussions lors de la phase de brief.
