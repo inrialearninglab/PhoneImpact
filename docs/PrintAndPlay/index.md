@@ -53,6 +53,4 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 
 ## Acheter une boîte de jeu
 
-<div style="border: 2px solid black; padding: 10px;">
-    <strong>Dès le 2 janvier 2025</strong> : [Achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/) prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
-</div>
+À partir du 2 janvier, les boîtes du jeu sont disponibles à la vente : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
