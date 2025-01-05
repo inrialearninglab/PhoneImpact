@@ -1,6 +1,9 @@
 # Sources des cartes Malus
+
 !!! Warning "Page en cours de finalisation"
-    Cette page est encore susceptible d'évoluer. La dernière mise à jour date du 2 janvier 2025. 
+    Cette page est encore susceptible d'évoluer. La dernière mise à jour date du 3 janvier 2025. 
+
+Les cartes Malus matérialisent les impacts environnementaux et sociaux qui accompagnent la production des ressources nécessaires à la fabrication des composants d'un smartphone. Elles se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est cependant important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
 
 Les sources utilisées pour les cartes malus sont de natures diverses : rapports d'institutions internationales, articles provenant de journaux de références, publications scientifiques etc. 
 

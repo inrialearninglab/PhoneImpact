@@ -1,9 +1,12 @@
 ---
 title: "Sources des Événements"
 ---
-# Sources des cartes Événements
+# Sources des cartes Événement
 
-Les événements décrits sont parfois réels et parfois fictifs. Dans la suite, nous indiquons les sources d'inspiration pour les événements lorsque cela est pertinent.
+!!! Warning "Page en cours de finalisation"
+    Cette page est encore susceptible d'évoluer. La dernière mise à jour date du 3 janvier 2025. 
+
+Les événements décrits sont parfois réels et parfois fictifs mais ancrés dans la réalité. Dans la suite, nous indiquons les sources ou les sources d'inspiration pour les événements lorsque cela est pertinent.
 
 <hr>
 

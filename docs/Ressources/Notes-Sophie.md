@@ -1,5 +1,125 @@
 # Notes sur les sources
 
+## Notes intermédiaires composition smartphone
+ 
+Métaux comme dans l'infographique Systext
+* Carte mère : Ni, Pb, Sn, Bi, Au, Ag, W, Pt, Rh, Be, Cu, P, As, Ga, Ge, Si, Zr, Ru, Nd, Fe, B, Sm, Co, Pr, Cl, Dy, Ta, Nb, Pd
+* Batterie : Li, Co, C, F, Mn, V, P, Al
+* Coque : Mg, C, Sb, Br, Ni, Zn
+* Écran tactile : In, Sn, Si, Al, K, Eu, Tb, Y, Gd, Ce, Tm, La, B, Ba, S, Mg, Mo, Hg
+
+D'après notre classification des métaux, il y a donc dans un smartphone :
+
+- des métaux communs : Al, Cu, Fe, Mg, Ni, Pb, Sn, Zn
+- des métaux précieux : Ag, Au, Pd, Pt, Rh, Ru
+- des terres rares : Ce, Dy, Eu, Gd, La, Nd, Pr, Sm, Tb, Tm, Y
+- d'autres métaux et métalloïdes : As, B, Ba, Be, Bi, Co, Ga, Ge, Hg, In, Li, K, Mo, Nb, Sb, Si, Ta, V, W, Zr
+- d'autres éléments chimiques non métalliques : Br, C, Cl, F, P, S
+
+### Carte mère (et composants associés : disque dur, caméra, système audio...)
+
+* Carte mère (Systext) : 
+    * Ni, Pb, Sn, Cu, Fe
+    * Au, Ag, Pt, Rh, Pd
+    * Nd, Sm, Pr, Dy
+    * Bi, W, Be, Ru, As, Ga, Ge, Si, Zr, B, Co, Ta, Nb,
+    * P, Cl
+
+#### Métaux commun (x5)
+- Aluminium (Al ) : Couche de fibre de verre. Manhard, et al. (2016)
+- Cuivre (Cu) : Couche conductives,Circuits intégrés (traces),Soudures,Bobines d’acier inoxydable .Manhard, et al. (2016)
+- Etain (Sn) : Soudures. Manhard, et al. (2016)
+- Nickel (Ni) : Finitions de circuits imprimés, Bobine d’acier inoxydable. Bookhagen, et al. (2020)
+- Zinc (Zn) :  Vis. Bookhagen, et al. (2020)
+
+#### Métaux Précieux (x5)
+- Or (Au) : Finitions de circuits imprimés et de connecteurs. Manhard, et al. (2016)
+- Argent (Ag) : Résistances Soudures. Manhard, et al. (2016)
+- Palladium (Pd) : Finitions de circuits intégrés et de connecteurs, Condensateurs. Manhard, et al. (2016)
+- Platine (Pt) : Finitions de circuits intégrés et de connecteurs. Bookhagen, et al. (2020)
+- Ruthenium (Ru) : disque dur, puce mémoire, circuit intégré. Ericsson Research, 2018; Johnson Matthey, 2023
+
+#### Terre Rare (x3)
+- Dysprosium (Dy) : Aimants - haut parleurs, vibrateur, caméras . BRGM (2016), Fiche de criticité – Dysprosium
+- Néodyme (Nd) : Aimants -  haut parleurs, vibrateur, caméras . Manhard, et al. (2016)
+- Praséodyme (Pr) : Aimants -  haut parleurs, vibrateur, caméras . Manhard, et al. (2016)
+
+#### Autres Métaux (x5)
+- Cobalt (Co) : Aimants, HDD et SDD, circuits intégrés (JRC, 2023)
+- Tantale (Ta) : Condensateurs, Filtres. Manhard, et al. (2016)
+- Tungstène (W) :  Vibrateur. Manhard, et al. (2016)
+- Gallium (Ga) : Cartes électroniques. BRGM (2016), Fiche de criticité - Gallium
+- Silicium (Si) : Circuits intégrés (Substrat, transistors Isolant). Bookhagen, et al. (2020)
+
+### Ecran Tactile
+
+* Écran tactile (Systext) : 
+    * Sn, Al, Mg
+    * Eu, Tb, Y, Gd, Ce, Tm, La  
+    * In, Si, Ba, Mo, Hg
+    * K, B, S
+    
+#### Métaux commun (x2)
+- Aluminium (Al ) : Autres petites pièces. Manhard, et al. (2016)
+- Etain (Sn) : Couches d’ITO (Indium Tin Oxide). Manhard, et al. (2016)
+
+#### Métaux Précieux (x2)
+- Argent (Ag) : The Silver Institute, 2023b . Abubakr & al. 2020
+- Platine (Pt) : JRC, 2023
+
+#### Terre Rare (x1)
+- Yttrium : LED, Rétro-éclairage d’écran LCD. Manhard, et al. (2016)
+
+#### Autres Métaux (x3) 
+- Gallium (Ga) : Rétro-éclairage d’écran LCD. (Manhard, Blepp, Fischer, & Graulich, Resource Efficiency in the ICT Sector, Final Report, 2016)
+- Silicium (Si) : Rétro-éclairage Ecran LCD. Bookhagen, et al. (2020)
+- Indium (In) : LED, couches ITO (Indium Tin Oxide). Sander, et al. (2019)
+
+### Batterie
+
+* Batterie (Systext) : 
+    * Mn, Al
+    * Li, Co, V 
+    * C, F, P
+
+#### Métaux commun (x4)
+- Aluminium (Al ) : Collecteur cathodique. Manhard, et al. (2016)
+- Etain (Sn) : Couches d’ITO (Indium Tin Oxide). Manhard, et al. (2016)
+- Nickel (Ni) : Batterie NiMH. COREPILE, 2023
+- Cuivre (Cu) : Collecteur anodique. Manhard, et al. (2016)
+
+#### Métaux Précieux (x0)
+
+#### Terre Rare (x0)
+
+#### Autres Métaux (x3)
+- Cobalt (Co) : Cathode. Manhard, et al. (2016)
+- Lithium (Li) : Cathode/Anode. IRIS, 2021
+- Manganèse (Mn) : Bookhagen, et al. (2020)
+
+### Coque (et connectiques)
+
+* Coque (Systext) : 
+    * Mg, Ni, Zn
+    * Sb 
+    * C, Br
+    
+#### Métaux commun (x5)
+- Aluminium (Al ) : Autres petites pièces. Manhard, et al. (2016)
+- Cuivre (Cu) : Conduite d’évacuation de la chaleur, Placages, Vis. Manhard, et al. (2016)
+- Etain (Sn) : Soudures. Manhard, et al. (2016)
+- Zinc (Zn) : Vis. Bookhagen, et al. (2020)
+- Magnesium (Mg) : transfert et la dissipation de la chaleur, protection contre interférences electromagnetiques. International Magnesium Association, 2023
+
+#### Métaux Précieux (x0)
+
+#### Terre Rare (x0)
+
+#### Autres Métaux (x1)
+- Silicium (Si) : Adhésifs en caoutchouc. Bookhagen, et al. (2020)
+- Antimoine (Sb) : plastiques
+
+
 ## TODO Évenements
 
 [2] Collecter des vieux smartphones permet de recycler certaines ressources, par exemple de l'or.
@@ -18,6 +138,16 @@ NB : compléments catastrophes : http://www.csp2.org/tsf-failures-from-1915
 ## NB pour prochaine version :
 * Passer la carte [32] en définition.
 * [33] sous-terraines --> souterraines
+
+## Notes métaux smartphones
+https://www.luckylight.cn/en/products/led-display/led-backlight/
+https://www.oeko.de/fileadmin/oekodoc/Resource_Efficiency_ICT_LV.pdf
+https://www.journaldugeek.com/2020/09/28/ecrans-amoled-ou-lcd-quels-sont-les-avantages-les-inconvenients-et-que-choisir-pour-votre-smartphone/
+https://www.numerama.com/tech/701693-nitrure-de-gallium-tout-comprendre-a-ce-materiau-qui-veut-revolutionner-la-recharge.html
+https://www.samsung.com/fr/guide-achat-mobile/caracteristiques/ecran-amoled-smartphone-galaxy/
+https://www.servicesmobiles.fr/nouveau-materiau-conducteur-et-transparent-pour-nos-ecrans-78189
+https://fr.wikipedia.org/wiki/Accumulateur_nickel-hydrure_m%C3%A9tallique
+https://www.cadaoz.com/fr/blog/comprendre-la-batterie-de-votre-smartphone/
 
 ## Discussion avec Gauthier
 Problème des sous- et coproduits : trop de chocs

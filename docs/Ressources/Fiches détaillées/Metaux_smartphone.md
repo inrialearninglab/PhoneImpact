@@ -220,6 +220,17 @@ On retrouve également dans cette catégorie :
 
 A noter que la famille des Actinides (AC, Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr) sont catégorisés à part par l'IFPEN, comme étant les métaux de l'énergie nuclaire.
 
+Nous avons fait le choix de prendre en compte une toute récente [étude de l'ADEME](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) sur les impacts environnementaux du numérique et besoins en métaux, qui considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique.
+
+**Métaux de base** : aluminium (Al), cuivre (Cu), étain (Sn), magnésium (Mg), manganèse (Mn), nickel (Ni), zinc (Zn)
+
+**Métaux précieux** : argent (Ag), or (Au), palladium (Pd), platine (Pt), ruthenium (Ru) 
+
+**Terres rares** : dyprosium (Dy), néodyme (Nd), praséodyme (Pr), yttrium (Y) 
+
+**Autres métaux** : antimoine (Sb), cobalt (Co), gallium (Ga), germanium (Ge), indium (In), lithium (Li), tantale (Ta), tungstène (W), silicium (Si)
+
+
 ## Ressources
 - [ADEME Etude numérique et métaux : Impacts environnementaux du numérique et besoins en métaux](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html)
 - [Ifp énergies nouvelles : métaux transition énergétique](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/climat-environnement-et-economie-circulaire/les-metaux-transition-energetique#Les%20m%C3%A9taux%20:%20quelques%20d%C3%A9finitions)
@@ -234,3 +245,5 @@ A noter que la famille des Actinides (AC, Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es,
 
 [IFPEN]: https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/climat-environnement-et-economie-circulaire/les-metaux-transition-energetique#Les%20m%C3%A9taux%20:%20quelques%20d%C3%A9finitions
 [terres_rares]: https://www.ifpenergiesnouvelles.fr/article/les-terres-rares-transition-energetique-quelles-menaces-les-vitamines-lere-moderne
+
+
