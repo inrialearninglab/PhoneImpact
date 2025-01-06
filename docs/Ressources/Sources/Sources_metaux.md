@@ -33,19 +33,7 @@ Il s'agit également de mettre en avant le recyclage des métaux, qui évite un 
 !!! Tip "" 
     On distingue 5 types de ressources nécessaires à la fabrication des composants d'un smartphone.
 
-Les métaux qui sont cités comme exemples sur les cartes Ressources sur les 25 métaux critiques du numérique étudiés par l'ADEME dans leur rapport plus le fer.
-
-* Métaux de base : aluminium (Al), cuivre (Cu), nickel (Ni), étain (Sn), fer (Fe), zinc (Zn), magnésium (Mg), manganèse (Mn)
-
-* Métaux précieux : or (Au), argent (Ag), platine (Pt), palladium (Pd), ruthenium (Ru)
-
-* Terres rares : yttrium (Y), néodyme (Nd), dyprosium (Dy), praséodyme (Pr)
-
-* Autres métaux : lithium (Li), cobalt (Co), tantale (Ta), indium (In), antimoine (Sb), tungstène (W), gallium (Ga), germanium (Ge), silicium (Si)
-
-* Autres matières : plastique, verre, céramique, matières synthétiques
-
-<hr>
+Pour le choix de ces 5 types de ressources, voir les explications de la [classification](Sources_plateau.html#la-classification-des-metaux) que nous avons choisie sur la page à propos du plateau Smartphone.
 
 !!! Tip ""
     **Métaux communs** (ex. aluminium, cuivre, fer) : aussi appelés "métaux de base", ils sont utilisés communément dans l'industrie. Les métaux communs représentent la majeure partie du poids des métaux dans un smartphone.
@@ -69,6 +57,22 @@ Les métaux qui sont cités comme exemples sur les cartes Ressources sur les 25 
 
 !!! Tip ""
     **Autres matières** (ex. céramique, plastique, matières synthétiques, verre) : en plus des métaux, les smartphones contiennent d'autres matières comme du verre et du plastique pour l'écran, la coque, les circuits imprimés contenus dans la carte mère...
+
+## Les métaux cités sur les cartes Ressource
+
+Les métaux qui sont cités comme exemples sur les cartes Ressource sont les 25 métaux étudiés par l'ADEME dans leur [rapport sur les métaux critiques du numérique](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) plus le fer, ce qui donne, selon notre [classification](Sources_plateau.html#la-classification-des-metaux), la liste suivante.
+
+* **Métaux de base** : aluminium (Al), cuivre (Cu), nickel (Ni), étain (Sn), fer (Fe), zinc (Zn), magnésium (Mg), manganèse (Mn)
+
+* **Métaux précieux** : or (Au), argent (Ag), platine (Pt), palladium (Pd), ruthenium (Ru)
+
+* **Terres rares** : yttrium (Y), néodyme (Nd), dyprosium (Dy), praséodyme (Pr)
+
+* **Autres métaux** : lithium (Li), cobalt (Co), tantale (Ta), indium (In), antimoine (Sb), tungstène (W), gallium (Ga), germanium (Ge), silicium (Si)
+
+Nous y avons ajouté les exemples d'autres matières mentionnés à la section précédente.
+
+* **Autres matières** : plastique, verre, céramique, matières synthétiques
 
 ## Le nombres de cartes de chaque catégorie 
 

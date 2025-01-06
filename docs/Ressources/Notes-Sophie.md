@@ -105,6 +105,8 @@ Métaux étudiés dans le rapport de l'ADEME
 * [33] sous-terraines --> souterraines
 
 ## Notes métaux smartphones
+https://www.pcmobitech.com/what-is-ltpo-technology-how-does-it-compare-to-amoled/#LTPO-vs-AMOLED-Key-Differences
+https://silverinstitute.opt-wp.cloud.bosslogics.com/wp-content/uploads/2021/05/SilverElectronics_MmktTR2021v.pdf
 https://www.androidauthority.com/how-do-folding-screens-actually-work-3164822/
 https://www.silverinstitute.org/wp-content/uploads/2021/05/SilverElectronics_MmktTR2021v.pdf
 https://www.pcbaaa.com/battery-pcb/
