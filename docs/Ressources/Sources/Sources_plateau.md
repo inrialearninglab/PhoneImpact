@@ -58,7 +58,7 @@ Les métaux de base sont les suivants : fer (Fe), aluminium (Al), titane (Ti), m
     > * *Les métaux de l’énergie nucléaire que sont les actinides : U, Th, Pu*
     > * *Les métaux de spécialité : tous les autres*
 
-    https://www.mineralinfo.fr/sites/default/files/documents/2021-01/ademe_epuisement-metaux-mineraux-201706-fiche-techniquev2.pdf
+    Source : [Fiche technique de ADEME : *l'épuisement des métaux et minéraux : faut il s'en inquiéter ?*](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/ademe_epuisement-metaux-mineraux-201706-fiche-techniquev2.pdf), Juin 2017
     
 ### Métaux précieux
 
@@ -68,7 +68,7 @@ Les métaux précieux sont l'or, l'argent et les 6 platinoïdes : or (Au), argen
     Voir ci-dessus. Voir également :
     > *Les éléments du groupe du platine, ou platinoïdes, sont six métaux voisins dans le tableau de Mendeleïev, le ruthénium (Ru), le rhodium (Rh), le palladium (Pd), l'osmium (Os), l'iridium (Ir) et le platine (Pt). [...] Les platinoïdes sont considérés comme des métaux précieux, avec l'or et l'argent.*
 
-    https://www.mineralinfo.fr/fr/actualite/actualite/platinoides-brgm-publie-un-nouveau-panorama-sur-metaux-du-groupe-du-platine
+    Source : [Rapport *Platinoïdes : le BRGM publie un nouveau panorama sur les métaux du groupe du platine*](https://www.mineralinfo.fr/fr/actualite/actualite/platinoides-brgm-publie-un-nouveau-panorama-sur-metaux-du-groupe-du-platine), février 2014
 
 ### Terres rares
 
@@ -77,7 +77,7 @@ Les terres rares sont les métaux de la famille des lanthanides auxquels on ajou
 !!! Sources "Précisions et source"
     > *Les terres rares représentent le groupe des lanthanides (éléments de numéros atomiques compris entre 57 et 71, du lanthane au lutécium) auquel on ajoute, du fait de propriétés chimiques voisines (même colonne de la classification périodique), l’yttrium (Y) et le scandium (Sc).*
     
-    https://lelementarium.fr/product/terres-rares/
+    Source : [L'élémentarium (Société chimique de France, Education nationale)](https://lelementarium.fr/product/terres-rares/), 2024
 
 ### Autres métaux
 
@@ -127,21 +127,21 @@ Si l'on distingue les différents types de métaux et les autres éléments chim
    * Autres métaux : Ba, Hg, In, Mo, Si
    * Autres éléments chimiques : B, K, S
 
-On constatera une différence avec le plateau smartphone : l'absence de métaux précieux dans l'écran tactile. Nous avons fait le choix de mettre en évidence la présence croissante d'électronique (riche en métaux précieux) directement associée aux écrans, comme par exemple dans les iPhones récents qui [intègrent à l'écran une puce de reconnaissance faciale](https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever#). 
+On constatera une différence avec le plateau smartphone : l'absence de métaux précieux dans l'écran tactile. Nous avons fait le choix de mettre en évidence la présence croissante d'électronique (riche en métaux précieux) directement associée aux écrans, comme par exemple dans les iPhones récents qui intègrent à l'écran une puce de reconnaissance faciale (source : [ifixit. *Apple’s New Screen Repair Trap Could Change the Repair Industry Forever*](https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever#), Novembre 2021). 
 
 !!! Complément "Complément"
-    Une toute récente [étude de l'ADEME](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique et fournit un état de l'art sur les impacts environnementaux et besoins associés. 
+    Une [étude de l'ADEME d'octobre 2024](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique et fournit un état de l'art sur les impacts environnementaux et besoins associés. 
     
     Les métaux indiqués présents dans un smartphone (pages 186-188 du fichier Recueil-fiches-Equipement.pdf) diffèrent en partie de ceux de l'étude Systext sans qu'il soit aisé d'expliquer ces différences car la composition précise des smartphones n'est que rarement et partiellement connue, et les sources utilisées dans les deux études ne sont donc pas comparables. L'information importante à retenir est la grande diversité des métaux présents dans un smartphone, et la grande variété de leurs usages. 
 
 ## La quantité des différentes ressources nécessaires à la fabrication des composants
 
 !!! Tip ""
-    Les chiffres associés à chaque  ressource indiquent le nombre de ressources nécessaires pour fabriquer chaque composant.
+    Les chiffres associés à chaque ressource indiquent le nombre de ressources nécessaires pour fabriquer chaque composant.
     
     Le nombre de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière, mais symbolise la variété des ressources nécessaires.
 
-Les chiffres associés  aux ressources sur le plateau, qui indiquent la quantité de chaque ressource nécessaire pour fabriquer un composant donné, ont été arbitrairement décidés à partir de deux critères principaux :
+Les chiffres associés aux ressources sur le plateau, qui indiquent la quantité de chaque ressource nécessaire pour fabriquer un composant donné, ont été arbitrairement décidés à partir de deux critères principaux :
 
-* le nombre d'éléments chimiques appartenant à cette catégorie présents dans le composant d'après notre source principale
+* le nombre d'éléments chimiques appartenant à cette catégorie présents dans le composant d'après notre source principale,
 * les contraintes de *game design* : un trop grand déséquilibre entre les ressources, ou entre les composants, aurait nui à la simplicité du jeu et forcé certaines stratégies de construction des composants, or il apparaissait important de permettre différentes stratégies gagnantes.
