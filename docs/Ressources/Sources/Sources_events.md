@@ -26,12 +26,12 @@ Les événements décrits sont parfois réels et parfois fictifs mais ancrés da
     
     Ce règlement fixe des obligations pour les importateurs d’étain, de tantale et de tungstène, de leurs minerais et de l’or provenant de zones de conflit ou à haut risque.
     
-    > Ce règlement de l’[Union européenne](http://eur-lex.europa.eu/summary/glossary/eu_union.html) (UE) a pour but:
+    > _Ce règlement de l’[Union européenne](http://eur-lex.europa.eu/summary/glossary/eu_union.html) (UE) a pour but:_
     
-    > * de s’assurer que les importateurs de l’UE qui importent de l’étain, du tantale, du tungstène et de l’or (également appelés les « 3TG ») respectent les normes internationales pour un approvisionnement responsable fixées par l’[Organisation de coopération et de développement économiques](http://www.oecd.org/fr/) (OCDE);
-    > * de s’assurer que les fonderies et affineries[*](https://eur-lex.europa.eu/FR/legal-content/summary/responsible-trade-in-minerals-from-high-risk-or-conflict-areas.html#keyterm_E0001) de l’UE et du reste du monde s’approvisionnent en 3TG de manière responsable;
-    > * de participer à briser le lien entre les conflits et l’exploitation illégale des minerais;
-    > * d’aider à mettre fin à l’exploitation des populations locales et aux abus envers celles-ci, y compris les ouvriers miniers, et de soutenir le développement local.
+    > * _de s’assurer que les importateurs de l’UE qui importent de l’étain, du tantale, du tungstène et de l’or (également appelés les « 3TG ») respectent les normes internationales pour un approvisionnement responsable fixées par l’[Organisation de coopération et de développement économiques](http://www.oecd.org/fr/) (OCDE);_
+    > * _de s’assurer que les fonderies et affineries[*](https://eur-lex.europa.eu/FR/legal-content/summary/responsible-trade-in-minerals-from-high-risk-or-conflict-areas.html#keyterm_E0001) de l’UE et du reste du monde s’approvisionnent en 3TG de manière responsable;_
+    > * _de participer à briser le lien entre les conflits et l’exploitation illégale des minerais;_
+    > * _d’aider à mettre fin à l’exploitation des populations locales et aux abus envers celles-ci, y compris les ouvriers miniers, et de soutenir le développement local._
     
     https://eur-lex.europa.eu/FR/legal-content/summary/responsible-trade-in-minerals-from-high-risk-or-conflict-areas.html
  

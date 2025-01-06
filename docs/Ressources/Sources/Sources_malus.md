@@ -1,74 +1,87 @@
 # Sources des cartes Malus
 
 !!! Warning "Page en cours de finalisation"
-    Cette page est encore susceptible d'évoluer. La dernière mise à jour date du 3 janvier 2025. 
+    Cette page est encore susceptible d'évoluer. La dernière mise à jour date du 6 janvier 2025. 
 
 Les cartes Malus matérialisent les impacts environnementaux et sociaux qui accompagnent la production des ressources nécessaires à la fabrication des composants d'un smartphone. Elles se concentrent sur les impacts environnementaux et sociaux de la production des métaux contenus dans les smartphones. Il est cependant important de ne pas oublier que ces métaux ont bien d'autres usages que la fabrication de smartphones, mais aussi que les impacts environnementaux et sociaux des smartphones ne se limitent pas à la production des métaux qui les composent.
 
+!!! Tip ""
+    Par la suite, les encarts comme celui-ci contiennent les textes des malus auxquels les précisions et les sources qui suivent font référence.
+    
 Les sources utilisées pour les cartes malus sont de natures diverses : rapports d'institutions internationales, articles provenant de journaux de références, publications scientifiques etc. 
 
 Les métaux cités dans les malus sont les suivants : aluminium, cuivre, cobalt, étain, fer, gallium, lithium, magnesium, nickel, or, palladium, platine, plomb, tantale, terres rares, tungstène, zinc. Tous ces métaux sont utilisés dans la fabrication des smartphones.
 
 Les pays cités dans les malus sont les suivants : Afrique du Sud, Australie, Belgique, Brésil, Canada, Chili, Chine, États-Unis, France, Guatemala, Hongrie, Indonésie, Papouasie Nouvelle-Guinée, Pérou, République Démocratique du Congo, Russie, Roumanie. Tous ces pays sont producteurs de métaux utilisés dans la fabrication des smartphones.
 
-## Cartes "Définition"
+## Malus Définition
 Ces définitions sont extraites du glossaire.
 
 <hr>
 
-[1] Un **minerai** est une roche qu’on extrait pour obtenir, après plusieurs étapes de traitement, des métaux ou d’autres minéraux utiles.
+!!! Tip ""
+    [1] Un **minerai** est une roche qu’on extrait pour obtenir, après plusieurs étapes de traitement, des métaux ou d’autres minéraux utiles.
 
 <hr>
 
-[2] On appelle **stériles miniers** les roches qu’il faut extraire pour accéder au minerai.
+!!! Tip ""
+    [2] On appelle **stériles miniers** les roches qu’il faut extraire pour accéder au minerai.
 
 <hr>
 
-[3] On appelle **résidus miniers** les déchets (solides ou liquides) produits lors du traitement du minerai.
+!!! Tip ""
+    [3] On appelle **résidus miniers** les déchets (solides ou liquides) produits lors du traitement du minerai.
 
 <hr>
 
-[30] La **teneur** en métal d’un minerai est la proportion de métal contenue dans ce minerai. Par exemple, la teneur en cuivre d'un minerai est en moyenne autour de 0,6% (6g de cuivre pour 1kg de minerai).  
+!!! Tip ""
+    [30] La **teneur** en métal d’un minerai est la proportion de métal contenue dans ce minerai. Par exemple, la teneur en cuivre d'un minerai est en moyenne autour de 0,6% (6g de cuivre pour 1kg de minerai).  
 
 !!! Source "Source de la teneur moyenne en cuivre"
     La teneur en métal des différents minerais est indiquée à la table S4 (colonne "*Ore grade*") du papier https://pubs.acs.org/doi/10.1021/acs.est.1c07875. La teneur en cuivre (*copper*) d'un minerai est en moyenne de 0,64%.
 
 <hr>
 
-[55] Un **terril** est une colline artificielle formée par l'accumulation de stériles ou de résidus issus de l’exploitation d'une mine.
+!!! Tip ""
+    [55] Un **terril** est une colline artificielle formée par l'accumulation de stériles ou de résidus issus de l’exploitation d'une mine.
     
 <hr>
 
-[56] On appelle **réserves** mondiales d'un métal (par ex. de cuivre) la quantité actuellement exploitable de ce métal dans la croûte terrestre. Les réserves sont très inégalement réparties dans le monde.
+!!! Tip ""
+    [56] On appelle **réserves** mondiales d'un métal (par ex. de cuivre) la quantité actuellement exploitable de ce métal dans la croûte terrestre. Les réserves sont très inégalement réparties dans le monde.
 
 <hr>
 
-## Cartes "Traitement"
+## Malus Traitement
 
 Pour avoir des précisions sur le traitement minéralurgique et métallurgique du minerai après son extraction, voir la fiche détaillée sur la production des métaux.
 
 <hr>
 
-[7] Une fois le minerai extrait, il est concassé, broyé et trié pour isoler les minéraux recherchés. C'est une étape qui consomme beaucoup d'énergie et d'eau, et qui génère des résidus.
+!!! Tip ""
+    [7] Une fois le minerai extrait, il est concassé, broyé et trié pour isoler les minéraux recherchés. C'est une étape qui consomme beaucoup d'énergie et d'eau, et qui génère des résidus.
 
 <hr>
 
-[8] Une fois réduit en poudre, le minerai subit différents traitements chimiques et physiques pour éliminer les impuretés jusqu'à obtenir le métal recherché.
+!!! Tip ""
+    [8] Une fois réduit en poudre, le minerai subit différents traitements chimiques et physiques pour éliminer les impuretés jusqu'à obtenir le métal recherché.
 
 <hr>
 
-## Cartes "Recyclage"
+## Malus Recyclage
 
-[27] Le recyclage des cartes électroniques nécessite des technologies de pointe et des infrastructures très coûteuses.
+!!! Tip ""
+    [27] Le recyclage des cartes électroniques nécessite des technologies de pointe et des infrastructures très coûteuses.
 
 !!! Source "Précisions et sources"
 
-    > *« Pour répondre efficacement [aux contraintes techniques posées par la présence d'un grand nombre de métaux en quantités très faibles, le plus souvent utilisés sous la forme d’alliages complexes], les industriels du recyclage doivent réaliser des investissements élevés dans des technologies de pointe. Florian Fizaine cite ainsi l’exemple de la société Umicore : « Un milliard de dollars a été investi dans l'usine de recyclage et de raffinage d'Umicore exploitant des DEEE en Belgique (Hagelüken et Corti, 2010). Cette usine extrait 30 tonnes d'or, 37 tonnes de métaux du groupe du platine, 1 000 tonnes d'argent et 68 500 tonnes d'autres métaux par an à partir de déchets. Cela en fait la troisième mine d'or du monde. » Florian Fizaine précise que, par comparaison, une usine de recyclage de papier ne requiert que 30 à 50 millions de dollars d’investissement. »*
+    > *Pour répondre efficacement [aux contraintes techniques posées par la présence d'un grand nombre de métaux en quantités très faibles, le plus souvent utilisés sous la forme d’alliages complexes], les industriels du recyclage doivent réaliser des investissements élevés dans des technologies de pointe. Florian Fizaine cite ainsi l’exemple de la société Umicore : Un milliard de dollars a été investi dans l'usine de recyclage et de raffinage d'Umicore exploitant des DEEE en Belgique (Hagelüken et Corti, 2010). Cette usine extrait 30 tonnes d'or, 37 tonnes de métaux du groupe du platine, 1 000 tonnes d'argent et 68 500 tonnes d'autres métaux par an à partir de déchets. Cela en fait la troisième mine d'or du monde. » Florian Fizaine précise que, par comparaison, une usine de recyclage de papier ne requiert que 30 à 50 millions de dollars d’investissement.*
          
     Page 41 du rapport [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise), la citation provenant de l'article [The economics of recycling rate: New insights from waste electrical and electronic equipment](https://hal.archives-ouvertes.fr/hal-02880890)
 <hr>
 
-[28] Les métaux communs (cuivre, plomb, fer, aluminium...) et les métaux précieux (or, argent, platine...) sont recyclés à plus de 50%.
+!!! Tip ""
+    [28] Les métaux communs (cuivre, plomb, fer, aluminium...) et les métaux précieux (or, argent, platine...) sont recyclés à plus de 50%.
 
 !!! Source "Précisions et sources"
        La figure 4 du rapport [Recycling rates of metals: A status report](https://www.unep.org/resources/report/recycling-rates-metals-status-report) de l'UNEP indique les taux de recyclage en fin de vie d'une soixantaine de métaux :
@@ -88,18 +101,20 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
     
 <hr>
 
-[29] De nombreux métaux, dont les terres rares, ne sont quasiment pas recyclés.
+!!! Tip ""
+    [29] De nombreux métaux, dont les terres rares, ne sont quasiment pas recyclés.
 
 !!! Source "Précisions et sources"
     Voir malus [28].
 
 <hr>
 
-[41] Il existe très peu d'usines capables de recycler une grande diversité des métaux contenus dans une carte électronique, et aucune en France.
+!!! Tip ""
+    [41] Il existe très peu d'usines capables de recycler une grande diversité des métaux contenus dans une carte électronique, et aucune en France.
 
 !!! Source "Précisions et sources"
 
-    > *« La France se caractérise par une R&D très active en [matière d'extraction des métaux des cartes électroniques], mais elle ne compte aucun acteur industriel de taille significative. De ce fait, elle ne peut récupérer qu’une part infime des métaux contenus dans ses propres déchets, mais aucun d’eux ne sont des métaux stratégiques. »*
+    > *La France se caractérise par une R&D très active en [matière d'extraction des métaux des cartes électroniques], mais elle ne compte aucun acteur industriel de taille significative. De ce fait, elle ne peut récupérer qu’une part infime des métaux contenus dans ses propres déchets, mais aucun d’eux ne sont des métaux stratégiques.*
     
     https://www.annales.org/edit/re/2020/re99/2020-07-6.pdf
 
@@ -112,25 +127,27 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
 <hr>
 
-[42] Les principales difficultés techniques liées au recyclage des métaux contenus dans les smartphones sont : 1) d'identifier ces métaux 2) de les séparer des autres métaux.
+!!! Tip ""
+    [42] Les principales difficultés techniques liées au recyclage des métaux contenus dans les smartphones sont : 1) d'identifier ces métaux 2) de les séparer des autres métaux.
 
 !!! Source "Précisions et sources"
 
-    > *« Les industriels du recyclage sont confrontés à deux principales contraintes techniques :*  
+    > *Les industriels du recyclage sont confrontés à deux principales contraintes techniques :*  
     
     > * *l’identification des différents métaux utilisés dans chaque composant des équipements numériques, qui nécessite d’analyser finement chaque alliage ;*
-     > * *la séparation technique des métaux présents dans ces alliages en vue de leur réutilisation. »* 
+     > * *la séparation technique des métaux présents dans ces alliages en vue de leur réutilisation.* 
      
      Page 41 du rapport [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise)
 
 <hr>
 
-[43] <b>Belgique, 2020</b>. À cause des poussières émises par une usine de recyclage de métaux, les enfants de ce quartier présentent des taux de plomb dans le sang considérés comme dangereux.
+!!! Tip ""
+    [43] <b>Belgique, 2020</b>. À cause des poussières émises par une usine de recyclage de métaux, les enfants de ce quartier présentent des taux de plomb dans le sang considérés comme dangereux.
 
 !!! Source "Précisions et sources"
 
     Il s'agit de l'usine de recyclage de métaux de l'entreprise Umicore, à Hoboken en Belgique.
-    > *« Une usine de recyclage de métaux répand du plomb sous forme de particules fines et de poussières près des maisons de cette ville belge. [...] Lors des derniers tests, effectués en juin [2020] par l’institut d’hygiène de la province d’Anvers, près de la moitié des enfants examinés se situaient au-dessus du seuil de dangerosité de 5 microgrammes de plomb par décilitre de sang. [...] Luc Gellens, vice-président d’Umicore, le reconnaissait dans une interview accordée en juillet au quotidien flamand _De Standaard_ : « Il serait préférable qu’il n’y ait pas de familles avec de jeunes enfants vivant dans la région, disait-il. Ou bien à distance suffisante, et je parle de plus d’un kilomètre. » [...] Une des solutions proposées par l’entreprise est le rachat des maisons les plus proches de l’usine, afin de créer une zone tampon. »* 
+    > *Une usine de recyclage de métaux répand du plomb sous forme de particules fines et de poussières près des maisons de cette ville belge. [...] Lors des derniers tests, effectués en juin [2020] par l’institut d’hygiène de la province d’Anvers, près de la moitié des enfants examinés se situaient au-dessus du seuil de dangerosité de 5 microgrammes de plomb par décilitre de sang. [...] Luc Gellens, vice-président d’Umicore, le reconnaissait dans une interview accordée en juillet au quotidien flamand _De Standaard_ : « Il serait préférable qu’il n’y ait pas de familles avec de jeunes enfants vivant dans la région, disait-il. Ou bien à distance suffisante, et je parle de plus d’un kilomètre. » [...] Une des solutions proposées par l’entreprise est le rachat des maisons les plus proches de l’usine, afin de créer une zone tampon.* 
     
     [Belgique : du plomb dans le sang des enfants d’Hoboken. Le Monde, 2020](https://www.lemonde.fr/planete/article/2020/09/24/belgique-du-plomb-dans-le-sang-des-enfants-d-hoboken_6053489_3244.html)
 
@@ -139,11 +156,12 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
 <hr>
 
-## Cartes "Risques"
+## Malus Risques
 
 <hr>
 
-[5] Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues. Les <b>ruptures de digues</b> sont une des causes de catastrophes environnementales liées aux mines.
+!!! Tip ""
+    [5] Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues. Les <b>ruptures de digues</b> sont une des causes de catastrophes environnementales liées aux mines.
 
 !!! Source "Précisions et sources"
 
@@ -159,11 +177,12 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
 <hr>
 
-[9] Les déchets miniers (stériles et résidus) contiennent souvent des métaux lourds naturellement présents dans la mine et qui sont dangereux pour la santé et l'environnement : plomb, mercure, arsenic...
+!!! Tip ""
+    [9] Les déchets miniers (stériles et résidus) contiennent souvent des métaux lourds naturellement présents dans la mine et qui sont dangereux pour la santé et l'environnement : plomb, mercure, arsenic...
 
 !!! Source "Précisions et sources"
     
-    > *« Les métaux lourds sont des éléments métalliques présentant un poids atomique élevé, tels que le mercure, le chrome, le cadmium, l'arsenic et le plomb. Ils peuvent nuire aux organismes vivants à faibles concentrations et ont tendance à s'accumuler dans la chaîne alimentaire. »*  
+    > *Les métaux lourds sont des éléments métalliques présentant un poids atomique élevé, tels que le mercure, le chrome, le cadmium, l'arsenic et le plomb. Ils peuvent nuire aux organismes vivants à faibles concentrations et ont tendance à s'accumuler dans la chaîne alimentaire.*  
  
      https://ec.europa.eu/health/scientific_committees/opinions_layman/amalgams-alternatives/fr/glossaire/mno/metal-lourd.htm
    
@@ -171,32 +190,35 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
 <hr>
 
-[10] Les résidus miniers contiennent des produits chimiques dangereux utilisés pendant le traitement du minerai. On utilise par exemple du cyanure pour le traitement de l'or.
+!!! Tip ""
+    [10] Les résidus miniers contiennent des produits chimiques dangereux utilisés pendant le traitement du minerai. On utilise par exemple du cyanure pour le traitement de l'or.
 
 !!! Source "Précisions et sources"
 
     La lixiviation est une des méthodes classiques de concentration de minerai.
 
-    >  La lixiviation est un processus simple d’extraction par dissolution basé sur le fait que tous les minerais ont des coefficients de dissolution différents et peuvent donc se retrouver séparés par la circulation d’un solvant. Ce principe est mondialement utilisé pour extraire l’or (le solvant étant majoritairement le cyanure), mais d’autres métaux comme le cuivre et l’uranium peuvent être extraits ainsi.  
+    >  *La lixiviation est un processus simple d’extraction par dissolution basé sur le fait que tous les minerais ont des coefficients de dissolution différents et peuvent donc se retrouver séparés par la circulation d’un solvant. Ce principe est mondialement utilisé pour extraire l’or (le solvant étant majoritairement le cyanure), mais d’autres métaux comme le cuivre et l’uranium peuvent être extraits ainsi.*  
 
     https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf
     
 <hr>
-[37] Les mines d’or contiennent souvent naturellement du mercure et de l’arsenic, dangereux pour la santé et l'environnement.
+
+!!! Tip ""
+    [37] Les mines d’or contiennent souvent naturellement du mercure et de l’arsenic, dangereux pour la santé et l'environnement.
 
 !!! Source "Précisions et sources"
   
-    > *« Du mercure est souvent présent dans les gisements de zinc, plomb, cuivre, argent et or. »* 
+    > *Du mercure est souvent présent dans les gisements de zinc, plomb, cuivre, argent et or.* 
     
     https://lelementarium.fr/element-fiche/mercure/
 
-    > *« On distingue l’or libre, inclus ou non dans d’autres minéraux, de l’or associé à des sulfures de fer [...], de l’or associé à des sulfures d’arsenic [...] ou d’antimoine [...]. »* 
+    > *On distingue l’or libre, inclus ou non dans d’autres minéraux, de l’or associé à des sulfures de fer [...], de l’or associé à des sulfures d’arsenic [...] ou d’antimoine [...].* 
 
     https://lelementarium.fr/element-fiche/or/
 
     Le mercure et l'arsenic font partie des métaux lourds, cf malus [9].
 
-    > *« Toxiques pour tous les êtres vivants sous leur forme oxydée, ils n’ont aucun rôle bénéfique et s’accumulent dans les chaînes alimentaires (bioaccumulation). »* 
+    > *Toxiques pour tous les êtres vivants sous leur forme oxydée, ils n’ont aucun rôle bénéfique et s’accumulent dans les chaînes alimentaires (bioaccumulation).* 
 
      https://www.notre-environnement.gouv.fr/themes/sante/les-produits-chimiques-ressources/article/metaux-lourds-cadmium-mercure-et-plomb
    
@@ -207,21 +229,22 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
 <hr>
 
-[49] Les mines de zinc contiennent souvent naturellement du mercure, de l’arsenic et du plomb, dangereux pour la santé et l'environnement.
+!!! Tip ""
+    [49] Les mines de zinc contiennent souvent naturellement du mercure, de l’arsenic et du plomb, dangereux pour la santé et l'environnement.
 
 !!! Source "Précisions et sources"
 
-    > *« Du mercure est souvent présent dans les gisements de zinc, plomb, cuivre, argent et or. »* 
+    > *Du mercure est souvent présent dans les gisements de zinc, plomb, cuivre, argent et or.* 
     
     https://lelementarium.fr/element-fiche/mercure/
 
-    > *« Dans les minerais, le zinc est très souvent associé à Pb [plomb] et Cd [cadmium] ainsi qu’à Fe [fer], Cu [cuivre], Bi [bismuth], Sb [antimoine], As [arsenic], Ge [germanium], In [indium], Ag [argent], Au [or]... »*
+    > *Dans les minerais, le zinc est très souvent associé à Pb [plomb] et Cd [cadmium] ainsi qu’à Fe [fer], Cu [cuivre], Bi [bismuth], Sb [antimoine], As [arsenic], Ge [germanium], In [indium], Ag [argent], Au [or]...*
     
     https://lelementarium.fr/element-fiche/zinc/
   
     Le mercure, l'arsenic et le plomb font partie des métaux lourds, cf malus [9].
 
-    > *« Toxiques pour tous les êtres vivants sous leur forme oxydée, ils n’ont aucun rôle bénéfique et s’accumulent dans les chaînes alimentaires (bioaccumulation). »* 
+    > *Toxiques pour tous les êtres vivants sous leur forme oxydée, ils n’ont aucun rôle bénéfique et s’accumulent dans les chaînes alimentaires (bioaccumulation).* 
 
      https://www.notre-environnement.gouv.fr/themes/sante/les-produits-chimiques-ressources/article/metaux-lourds-cadmium-mercure-et-plomb
    
@@ -233,18 +256,19 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
   
 <hr>
 
-## Cartes "Pollutions"
+## Malus Pollutions
 <hr>
 
-[11] L'extraction et les premières étapes de traitement du minerai (concassage et broyage) génèrent des poussières, sources de pollutions majeures des eaux et des sols.
+!!! Tip ""
+    [11] L'extraction et les premières étapes de traitement du minerai (concassage et broyage) génèrent des poussières, sources de pollutions majeures des eaux et des sols.
 
 !!! Source "Précisions et sources"
 
-    > *« Une mine à ciel ouvert générera de grandes quantités de poussière contenant des métaux lourds. Tout d’abord, lors du forage et du dynamitage, se forment des nuages de poussière contenant des gaz et particules en suspensions et pouvant affecter la santé des populations locales. Ensuite, l'exploitation à ciel ouvert nécessite de nombreux transports quotidiens des minerais, la plupart du temps par camions, pour acheminer le minerai vers des zones de transformation. Les trajets génèrent des poussières [...]. »*
+    > *Une mine à ciel ouvert générera de grandes quantités de poussière contenant des métaux lourds. Tout d’abord, lors du forage et du dynamitage, se forment des nuages de poussière contenant des gaz et particules en suspensions et pouvant affecter la santé des populations locales. Ensuite, l'exploitation à ciel ouvert nécessite de nombreux transports quotidiens des minerais, la plupart du temps par camions, pour acheminer le minerai vers des zones de transformation. Les trajets génèrent des poussières [...].*
 
     Pages 71-72 du rapport [Étude des risques environnementaux, socio-sociétaux et juridiques des approvisionnements en minerais stratégiques pour les transitions énergétique et numérique](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)
     
-    > *« Lors du processus de fragmentation d’importantes quantités de poussières sont produites par le concassage et le broyage des minerais. [...] Les poussières peuvent se déplacer par voie éolienne, et l’envol de poussières, à partir d’un dépôt de résidus minier ou du minerai mis à nu dans une mine à ciel ouvert peut être à l’origine de la contamination des sols après dépôt et accumulation des poussières. »*
+    > *Lors du processus de fragmentation d’importantes quantités de poussières sont produites par le concassage et le broyage des minerais. [...] Les poussières peuvent se déplacer par voie éolienne, et l’envol de poussières, à partir d’un dépôt de résidus minier ou du minerai mis à nu dans une mine à ciel ouvert peut être à l’origine de la contamination des sols après dépôt et accumulation des poussières.*
     
     Page 82 du même [rapport](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)
 
@@ -252,34 +276,36 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
     Il est intéressant de noter la difficulté à réduire les poussières tout en maîtrisant la consommation d'eau des sites miniers, comme illustré par le discours commercial de cette entreprise spécialisée dans la fabrication de polymères hydrosolubles :
     
-    > *« L’eau est nécessaire pour la suppression des poussières sur les routes de transport et les équipements de concassage et de transport. De grandes quantités d’eau sont utilisées quotidiennement, ce qui représente une perte nette puisque cette eau s’évapore. Les résidus sont une source majeure d’émissions de poussières, qui pourraient avoir un impact sur la santé des communautés voisines en raison de l’impact de poussières non contrôlées dans l’environnement. »*
+    > *L’eau est nécessaire pour la suppression des poussières sur les routes de transport et les équipements de concassage et de transport. De grandes quantités d’eau sont utilisées quotidiennement, ce qui représente une perte nette puisque cette eau s’évapore. Les résidus sont une source majeure d’émissions de poussières, qui pourraient avoir un impact sur la santé des communautés voisines en raison de l’impact de poussières non contrôlées dans l’environnement.*
 
     https://www.snf.com/l-industrie/mines/depoussierage/?lang=fr
 
 <hr>
 
-[12] Les déchets miniers (stériles et résidus) contiennent souvent du soufre, qui réagit chimiquement à l'air et à l'eau, puis avec d'autres polluants (plomb, arsenic...), causant de graves pollutions des eaux.
+!!! Tip ""
+    [12] Les déchets miniers (stériles et résidus) contiennent souvent du soufre, qui réagit chimiquement à l'air et à l'eau, puis avec d'autres polluants (plomb, arsenic...), causant de graves pollutions des eaux.
 
 !!! Source "Précisions et sources"
 
     Ce phénomène s'appelle le drainage minier acide (DMA).
 
-    > *« En France, la majorité des exploitations de métaux de base (Cu, Pb, Zn), d'antimoine et d'or sont associées à des paragenèses sulfurées et des minéraux du groupe des sulfo-arséniures (arsénopyrite) et sulfo-antimoniures. [...] L'oxydation naturelle des minéraux sulfurés tels que la pyrite, la pyrrhotite, etc., exposés à l'air et à l'eau peut entraîner la production d'effluents suffisamment acidifiés et chargés d'ions métalliques pour poser de sérieux problèmes dans un milieu aquatique récepteur. Ce phénomène est plus souvent appelé **Drainage Minier Acide** (DMA), et constitue le problème environnemental le plus important pour les mines exploitant ce type de minerais. »* 
+    > *En France, la majorité des exploitations de métaux de base (Cu, Pb, Zn), d'antimoine et d'or sont associées à des paragenèses sulfurées et des minéraux du groupe des sulfo-arséniures (arsénopyrite) et sulfo-antimoniures. [...] L'oxydation naturelle des minéraux sulfurés tels que la pyrite, la pyrrhotite, etc., exposés à l'air et à l'eau peut entraîner la production d'effluents suffisamment acidifiés et chargés d'ions métalliques pour poser de sérieux problèmes dans un milieu aquatique récepteur. Ce phénomène est plus souvent appelé **Drainage Minier Acide** (DMA), et constitue le problème environnemental le plus important pour les mines exploitant ce type de minerais.* 
     
     Pages 45-46 du rapport [Les résidus miniers français : typologie et principaux impacts environnementaux potentiels](http://infoterre.brgm.fr/rapports/RR-39503-FR.pdf)
  
-    > *« Le Drainage Minier Acide ou DMA (AMD en anglais) est un des défis environnementaux majeurs de l’industrie minière. [...] Les réactions chimiques principales qui donnent lieu à un DMA sont l'oxydation du fer, du soufre et surtout de la pyrite, le minéral sulfuré le plus commun. Sous l’action de l’eau et de l’oxygène, les sulfures peuvent alors se transformer en acide sulfurique et attaquer les roches, diminuant drastiquement le pH (pH < 3,5 comparé à un pH neutre égal à 7) et faisant passer en solution des éléments traces métalliques (métaux lourds notamment). La particularité de cette réaction est d’être auto-catalysée, ce qui permet au phénomène de production de DMA de se propager de façon similaire à un incendie [...]. L’écoulement de ce DMA vers le réseau superficiel ou souterrain est une cause fréquente de pollution dans les anciennes zones minières. »* 
+    > *Le Drainage Minier Acide ou DMA (AMD en anglais) est un des défis environnementaux majeurs de l’industrie minière. [...] Les réactions chimiques principales qui donnent lieu à un DMA sont l'oxydation du fer, du soufre et surtout de la pyrite, le minéral sulfuré le plus commun. Sous l’action de l’eau et de l’oxygène, les sulfures peuvent alors se transformer en acide sulfurique et attaquer les roches, diminuant drastiquement le pH (pH < 3,5 comparé à un pH neutre égal à 7) et faisant passer en solution des éléments traces métalliques (métaux lourds notamment). La particularité de cette réaction est d’être auto-catalysée, ce qui permet au phénomène de production de DMA de se propager de façon similaire à un incendie [...]. L’écoulement de ce DMA vers le réseau superficiel ou souterrain est une cause fréquente de pollution dans les anciennes zones minières.* 
 
     Pages 45-46 du rapport [Exploitation minière et traitement des minerais](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf)
         
 <hr>
 
-[13] Dépolluer des anciens sites miniers est extrêmement long, difficile et coûteux, voire impossible.
+!!! Tip ""
+    [13] Dépolluer des anciens sites miniers est extrêmement long, difficile et coûteux, voire impossible.
 
 !!! Source "Précisions et sources"
 
     À propos de l'ancienne mine d'or et d'arsenic de Salsigne, près de Carcassonne, un rapport du Ministère de l'Aménagement du territoire et de l'Environnement indique en 1998 :  
-    > *« Compte tenu de la quantité de déchets à traiter, de la surface du site et s'agissant de la pollution laissée par trois quarts de siècles d'activité industrielle, il n'est pas réaliste d'envisager de traiter tous les déchets comme on le ferait pour les déchets produits au jour le jour par une industrie actuellement en activité. [...] Actuellement il ne nous paraît pas possible de supprimer toute pollution des sols. »* 
+    > *Compte tenu de la quantité de déchets à traiter, de la surface du site et s'agissant de la pollution laissée par trois quarts de siècles d'activité industrielle, il n'est pas réaliste d'envisager de traiter tous les déchets comme on le ferait pour les déchets produits au jour le jour par une industrie actuellement en activité. [...] Actuellement il ne nous paraît pas possible de supprimer toute pollution des sols.* 
     
     https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement
 
@@ -291,11 +317,11 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
      > 2. *traiter passivement le site en :*  
            - *drainant et dérivant les eaux de ruissellement et en recouvrant les stocks de stériles et de résidus miniers d'une couverture imperméable naturelle, permettant une revégétalisation et donc une protection contre l'érosion : couches superposées d'argile et de terre, dépôts de tourbière (riches en matière organique et réducteurs) ;*  
            - *aménageant des zones humides artificielles. Elles utilisent les microbes aériens et aquatiques associés aux végétaux des zones humides pour éliminer les métaux dissous du drainage rocheux. [...] Il s'agit là d'une méthode de traitement relativement nouvelle dotée de nombreux mécanismes spécifiques et d'exigences d'entretien qui ne sont pas encore pleinement compris.*  
-           - *créant un canal de calcaire ouvert ou un drain calcaire anoxique. »* 
+           - *créant un canal de calcaire ouvert ou un drain calcaire anoxique.* 
 
 <hr>
 
-## Cartes "Catastrophe"
+## Malus Catastrophe
 Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 * La base de données ARIA (Analyse, Recherche et Information sur les Accidents) du Bureau d’Analyse des Risques et Pollutions Industriels (BARPI) qui est chargé, au sein du ministère de la Transition écologique / Direction générale de la prévention des risques de rassembler, d’analyser et de diffuser les informations et le retour d’expérience en matière d’accidents industriels et technologiques.
@@ -308,16 +334,17 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 <hr>
 
-[14] <b>Brésil, 2015</b>. Rupture d'un barrage de résidus près d’une mine de fer, qualifiée par le gouvernement de « <i>plus grande catastrophe environnementale de ce pays</i> ». La pollution s'étend durablement jusqu'à l'océan Atlantique à 650 km.
+!!! Tip ""
+    [14] <b>Brésil, 2015</b>. Rupture d'un barrage de résidus près d’une mine de fer, qualifiée par le gouvernement de <i>plus grande catastrophe environnementale de ce pays</i> ». La pollution s'étend durablement jusqu'à l'océan Atlantique à 650 km.
 
 !!! Source "Précisions et sources"
     Il s'agit de la rupture du barrage de résidus miniers d'une mine de fer près du village de Bento Rodrigues à proximité de la ville de Mariana au Brésil, le 5 novembre 2015.  
        
-       > *« Le gouvernement, qui qualifie cet événement de « plus grande catastrophe environnementale de ce pays », suspend l’autorisation d’exploitation. »* 
+       > *Le gouvernement, qui qualifie cet événement de plus grande catastrophe environnementale de ce pays », suspend l’autorisation d’exploitation.* 
       
       https://www.aria.developpement-durable.gouv.fr/accident/47369/  
        
-       > *"Downstream and close to the river mouth, when the river level rises after the rainy season, turbidity increases and metal levels in the water column return to the same level as in November 2015."*  
+       > *Downstream and close to the river mouth, when the river level rises after the rainy season, turbidity increases and metal levels in the water column return to the same level as in November 2015.*  
        
       Pages 17-19 du rapport *Safety is no accident* de l'UNEP : https://www.grida.no/publications/383  
 
@@ -326,7 +353,8 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 <hr>
 
-[15] <b>Roumanie, 2000</b>. Rupture de digue près d'une usine de traitement des stériles. Les polluants (dont 115 tonnes de cyanure) détruisent la quasi-totalité de la faune et de la flore d'une rivière sur près de 600 km.
+!!! Tip ""
+    [15] <b>Roumanie, 2000</b>. Rupture de digue près d'une usine de traitement des stériles. Les polluants (dont 115 tonnes de cyanure) détruisent la quasi-totalité de la faune et de la flore d'une rivière sur près de 600 km.
 
 !!! Source "Précisions et source"
     Il s'agit de la rupture d'une digue près d'une usine de traitement des stériles à Baia Mare en Roumanie, le 30 janvier 2000.
@@ -337,12 +365,13 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 <hr>
 
-[16] <b>Canada, 2014</b>. Rupture de barrage près d'une mine de cuivre et d'or. Des résidus miniers, contenant entre autres des centaines de tonnes de plomb, se déversent dans deux lacs en aval.
+!!! Tip ""
+    [16] <b>Canada, 2014</b>. Rupture de barrage près d'une mine de cuivre et d'or. Des résidus miniers, contenant entre autres des centaines de tonnes de plomb, se déversent dans deux lacs en aval.
 
 !!! Source "Précisions et source"
     Il s'agit de la rupture d'un barrage près de la mine de cuivre et d'or de Mount Polley au Canada, le 4 août 2014.
        
-       > *« Une digue d’un bassin de stockage d’effluents miniers d’une mine de cuivre et d’or se rompt. Le contenu (10 millions de mètres cubes d’eau, 13,8 de résidus miniers et 0,6 d’éléments composant la structure du bassin) se déverse dans le ruisseau Hazeltine et les lacs Polley et Quesnel en aval. Le bassin contient du cuivre, du nickel, de l’arsenic, du plomb, du sélénium et du cadmium.[...] En 2013, le bassin en cause avait reçu 326 t de nickel, 177 t de plomb et 18 400 t de cuivre et ses composés. »* 
+       > *Une digue d’un bassin de stockage d’effluents miniers d’une mine de cuivre et d’or se rompt. Le contenu (10 millions de mètres cubes d’eau, 13,8 de résidus miniers et 0,6 d’éléments composant la structure du bassin) se déverse dans le ruisseau Hazeltine et les lacs Polley et Quesnel en aval. Le bassin contient du cuivre, du nickel, de l’arsenic, du plomb, du sélénium et du cadmium.[...] En 2013, le bassin en cause avait reçu 326 t de nickel, 177 t de plomb et 18 400 t de cuivre et ses composés.* 
          
       https://www.aria.developpement-durable.gouv.fr/accident/45566/
 
@@ -351,12 +380,13 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 <hr>
 
- [39] <b>Brésil, 2019</b>. Rupture d'un barrage de résidus d’une mine de fer, causant 243 morts, 27 disparus et des centaines de blessés. L'exploitant versera près de 6 milliards d’euros de dommages.
+!!! Tip ""
+     [39] <b>Brésil, 2019</b>. Rupture d'un barrage de résidus d’une mine de fer, causant 243 morts, 27 disparus et des centaines de blessés. L'exploitant versera près de 6 milliards d’euros de dommages.
 
 !!! Source "Précisions et source"
     Il s'agit de la rupture d'un barrage de résidus d’une mine de fer près de Brumadinho au Brésil, le 25 janvier 2019.
 
-       > *« Selon les bilans de mai 2019, il est déploré 243 morts, 27 disparus et des centaines de blessés. [...] En février 2021, l’exploitant annonce un accord avec les autorités régionales brésiliennes sur le versement de près de 6 milliards d’euros de dommages “sociaux et environnementaux”. »*  
+       > *Selon les bilans de mai 2019, il est déploré 243 morts, 27 disparus et des centaines de blessés. [...] En février 2021, l’exploitant annonce un accord avec les autorités régionales brésiliennes sur le versement de près de 6 milliards d’euros de dommages “sociaux et environnementaux”.*  
        
        https://www.aria.developpement-durable.gouv.fr/accident/53027/
            
@@ -365,15 +395,16 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 <hr>
 
-[40] <b>Hongrie, 2010</b>. Rupture de digue près d'une usine d'aluminium. Une boue rouge inonde plusieurs villages, causant 10 morts et 286 blessés. Il s'agit de la pire catastrophe industrielle qu’ait connue la Hongrie.
+!!! Tip ""
+    [40] <b>Hongrie, 2010</b>. Rupture de digue près d'une usine d'aluminium. Une boue rouge inonde plusieurs villages, causant 10 morts et 286 blessés. Il s'agit de la pire catastrophe industrielle qu’ait connue la Hongrie.
 
 !!! Source "Précisions et sources"
     Il s'agit de la rupture d'une digue près d'une usine d'aluminium à proximité de la ville d'Ajka en Hongrie, le 4 octobre 2010.
     
-       > *« 10 personnes sont tuées et 286 blessées (brûlures chimiques et irritations oculaires) dont 121 hospitalisées. »*   
+       > *10 personnes sont tuées et 286 blessées (brûlures chimiques et irritations oculaires) dont 121 hospitalisées.*   
            https://www.aria.developpement-durable.gouv.fr/fiche_detaillee/39047/
            
-       > *« Cet accident est la plus grave catastrophe industrielle qu’ait connue la Hongrie. »*  
+       > *Cet accident est la plus grave catastrophe industrielle qu’ait connue la Hongrie.*  
            https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/A39047_ips39047_003.pdf
 
 !!! Compléments "Complément"
@@ -381,11 +412,12 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 <hr>
 
-## Cartes "Tensions"
+## Malus Tensions
 
 <hr>
 
-[17] La Chine est le premier producteur mondial de terres rares et d'autres métaux comme le gallium ou le magnésium. Cela représente un enjeu géopolitique majeur.
+!!! Tip ""
+    [17] La Chine est le premier producteur mondial de terres rares et d'autres métaux comme le gallium ou le magnésium. Cela représente un enjeu géopolitique majeur.
 
 !!! Source "Précisions et sources"
     
@@ -396,10 +428,11 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 <hr>
 
-[50] Une grande partie des exploitations minières se situent dans des pays en situation de <b>stress hydrique</b>, où les besoins en eau douce dépassent les ressources disponibles.
+!!! Tip ""
+    [50] Une grande partie des exploitations minières se situent dans des pays en situation de <b>stress hydrique</b>, où les besoins en eau douce dépassent les ressources disponibles.
 
 !!! Source "Précisions et source"
-    > *« Ainsi, d’après le Columbia Center on Sustainable Investment, environ 70 % des exploitations minières des six principales compagnies minières dans le monde sont localisées dans des pays où il existe un stress hydrique. »*  
+    > *Ainsi, d’après le Columbia Center on Sustainable Investment, environ 70 % des exploitations minières des six principales compagnies minières dans le monde sont localisées dans des pays où il existe un stress hydrique.*  
 
     Section 1.3.2 du rapport https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise  
     <br>
@@ -409,7 +442,7 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 <hr>
 
-## Cartes "Conflits"
+## Malus Conflits
 
 Des journaux de référence tels que le Guardian et le Monde publient régulièrement des enquêtes approfondies sur les conflits liés à l'industrie minière.
 
@@ -420,10 +453,11 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
 <hr>
 
-[18] Étain, tantale, or et tungstène sont appelés <b>minerais de conflits</b>, ou <b>minerais de sang</b>, car leur exploitation est au coeur de conflits armés, comme en République Démocratique du Congo.
+!!! Tip ""
+    [18] Étain, tantale, or et tungstène sont appelés <b>minerais de conflits</b>, ou <b>minerais de sang</b>, car leur exploitation est au coeur de conflits armés, comme en République Démocratique du Congo.
 
 !!! Source "Précisions et source"
-    > *« Au sein des zones politiquement instables, le commerce de minerais tels que [l’étain, du tantale, du tungstène et de l’or] peut servir à financer des groupes armés, engendrer le travail forcé et d’autres atteintes aux droits de l’homme, et favoriser la corruption et le blanchiment d’argent. [...] Ces minerais du conflit sont ensuite utilisés pour la fabrication d’objets du quotidien, comme les téléphones portables, les voitures ou les bijoux. »* 
+    > *Au sein des zones politiquement instables, le commerce de minerais tels que [l’étain, du tantale, du tungstène et de l’or] peut servir à financer des groupes armés, engendrer le travail forcé et d’autres atteintes aux droits de l’homme, et favoriser la corruption et le blanchiment d’argent. [...] Ces minerais du conflit sont ensuite utilisés pour la fabrication d’objets du quotidien, comme les téléphones portables, les voitures ou les bijoux.* 
 
     https://eur-lex.europa.eu/FR/legal-content/summary/responsible-trade-in-minerals-from-high-risk-or-conflict-areas.html
 
@@ -434,22 +468,23 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
 <hr>
 
-[19] <b>Guatemala, depuis 2014</b>. Les populations locales luttent contre la réouverture d'une mine de nickel qu'ils accusent de pollutions et d'accaparement du territoire sur lequel elles vivent.
+!!! Tip ""
+    [19] <b>Guatemala, depuis 2014</b>. Les populations locales luttent contre la réouverture d'une mine de nickel qu'ils accusent de pollutions et d'accaparement du territoire sur lequel elles vivent.
  
 !!! Source "Précisions et source"
      La mine de nickel Fenix près d'El Estor, au Guatelama, a rouvert en 2014.  
      
-     > *"As the quarries expand, hundreds of families in the surrounding Mayan villages fear eviction, and the loss of the environment that sustains them."*
+     > *As the quarries expand, hundreds of families in the surrounding Mayan villages fear eviction, and the loss of the environment that sustains them.*
      
-     > *"Solway [the European-owned business that bought the mine in 2011]’s licence extends over a particularly sensitive region: 247 sq km of densely forested hills that are home to 20 settlements belonging to the Q’eqchi’ people. Some own their land, some are considered squatters. A number sit on, or near, rich nickel deposits. When the settlers of El Paraíso moved here, the mine, which dates to the 1970s, lay dormant. They struck a deal with the government’s land bank, Fondo de Tierras, put up their huts and planted corn. But their crops are now failing. First the plants were stunted; now Choc says they die as seedlings. Choc blames the dust."*
+     > *Solway [the European-owned business that bought the mine in 2011]’s licence extends over a particularly sensitive region: 247 sq km of densely forested hills that are home to 20 settlements belonging to the Q’eqchi’ people. Some own their land, some are considered squatters. A number sit on, or near, rich nickel deposits. When the settlers of El Paraíso moved here, the mine, which dates to the 1970s, lay dormant. They struck a deal with the government’s land bank, Fondo de Tierras, put up their huts and planted corn. But their crops are now failing. First the plants were stunted; now Choc says they die as seedlings. Choc blames the dust.*
      
      https://www.theguardian.com/environment/2019/jun/19/guatemalans-pay-price-west-need-nickel
      
-     > *« A El Estor, dans le sud-est du pays, Fenix, l’un des plus gros gisements de nickel d’Amérique centrale, est accusé de polluer les terres et les eaux alentour. »* 
+     > *A El Estor, dans le sud-est du pays, Fenix, l’un des plus gros gisements de nickel d’Amérique centrale, est accusé de polluer les terres et les eaux alentour.* 
      
-     > *« Les habitants, en majorité des Mayas de langue kekchie, entretiennent un rapport sacré à cette terre et à cette immense étendue d’eau, aujourd’hui menacée par les rejets résultant de l’activité minière à ciel ouvert. D’aussi loin que remonte la mémoire collective, ils ont subi l’expansion brutale des multinationales minières. »* 
+     > *Les habitants, en majorité des Mayas de langue kekchie, entretiennent un rapport sacré à cette terre et à cette immense étendue d’eau, aujourd’hui menacée par les rejets résultant de l’activité minière à ciel ouvert. D’aussi loin que remonte la mémoire collective, ils ont subi l’expansion brutale des multinationales minières.* 
      
-     [« Mining Secrets » : nouvelles révélations sur les pratiques controversées d’un géant de l’industrie minière au Guatemala. Le Monde. 2022](https://www.lemonde.fr/international/article/2022/03/06/mining-secrets-nouvelles-revelations-sur-les-pratiques-controversees-d-un-geant-de-l-industrie-miniere-au-guatemala_6116375_3210.html)
+     [Mining Secrets » : nouvelles révélations sur les pratiques controversées d’un géant de l’industrie minière au Guatemala. Le Monde. 2022](https://www.lemonde.fr/international/article/2022/03/06/mining-secrets-nouvelles-revelations-sur-les-pratiques-controversees-d-un-geant-de-l-industrie-miniere-au-guatemala_6116375_3210.html)
 
 !!! Compléments "Complément"
     On trouve des informations détaillées concernant le conflit autour de la mine Fenix sur le site web du collectif international de journalistes *Forbidden Stories* qui est à l'origine des articles de presse cités ci-dessus.  
@@ -458,18 +493,20 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
 <hr>
 
-[20] <b>Papouasie Nouvelle-Guinée, 1989</b>. Le conflit environnemental et social autour d'une mine de cuivre et d'or se transforme en une guerre civile qui fera environ 20.000 morts en 10 ans.
+!!! Tip ""
+    [20] <b>Papouasie Nouvelle-Guinée, 1989</b>. Le conflit environnemental et social autour d'une mine de cuivre et d'or se transforme en une guerre civile qui fera environ 20.000 morts en 10 ans.
  
 !!! Source "Précisions et source"
     La mine de cuivre et d'or de Panguna, en Papouasie Nouvelle-Guinée, a été au coeur d'un conflit environnemental qui s'est transformé en guerre civile. Entre 1989 et 2001, environ 20.000 personnes sont tuées.
     
-    > *"Panguna was once one of the world’s largest and most profitable copper and goldmines and still contains an estimated 5.3m tons of copper and 19.3m ounces of gold, which would make the reserves worth about $60bn at today’s prices. [...] In 1989, amid rising community anger at the environmental damage and the inequitable division of the mine’s profits, locals forced the mine closed, blowing up Panguna’s power lines and sabotaging operations. The PNG government sent in troops against its own citizens to restart the foreign-owned mine, sparking a bloody, decade-long civil war. [...] The civil war claimed the lives of about 20,000 people and amplified calls for Bougainvillean independence."*
+    > *Panguna was once one of the world’s largest and most profitable copper and goldmines and still contains an estimated 5.3m tons of copper and 19.3m ounces of gold, which would make the reserves worth about $60bn at today’s prices. [...] In 1989, amid rising community anger at the environmental damage and the inequitable division of the mine’s profits, locals forced the mine closed, blowing up Panguna’s power lines and sabotaging operations. The PNG government sent in troops against its own citizens to restart the foreign-owned mine, sparking a bloody, decade-long civil war. [...] The civil war claimed the lives of about 20,000 people and amplified calls for Bougainvillean independence.*
     
     https://www.theguardian.com/world/2022/feb/11/panguna-mine-at-centre-of-bloody-bougainville-conflict-set-to-reopen-after-30-years
 
 <hr>
 
-[21] Au Chili, au Pérou et en Argentine, les <b>besoins en eau</b> pour la production de cuivre ou de lithium entrent en conflit avec les besoins des populations locales. 
+!!! Tip ""
+    [21] Au Chili, au Pérou et en Argentine, les <b>besoins en eau</b> pour la production de cuivre ou de lithium entrent en conflit avec les besoins des populations locales. 
 
 !!! Source "Précisions et source"
     
@@ -481,17 +518,18 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
     
     On y lit par exemple :
     
-    > *"Lithium mining, especially in brine, requires an intensive extraction of water, which contains the sought-after minerals. Many consider this **water mining**. Studies carried out at the Atacama salt flat report that, “In order to produce a ton of lithium, 2 million liters of water are evaporated from the wells. That’s 2,000 tons of water that cannot be recirculated” and that, at this rate of extraction, the water will be difficult to recover. It is estimated that over 226 million liters of water are pumped daily in the whole of the water basin. By extracting brine, fresh water from the peripheral groundwater is displaced to fill up what was extracted. It then mixes with the salt water and becomes saline for good, damaging the freshwater sources of the water basin."*
+    > *Lithium mining, especially in brine, requires an intensive extraction of water, which contains the sought-after minerals. Many consider this **water mining**. Studies carried out at the Atacama salt flat report that, “In order to produce a ton of lithium, 2 million liters of water are evaporated from the wells. That’s 2,000 tons of water that cannot be recirculated” and that, at this rate of extraction, the water will be difficult to recover. It is estimated that over 226 million liters of water are pumped daily in the whole of the water basin. By extracting brine, fresh water from the peripheral groundwater is displaced to fill up what was extracted. It then mixes with the salt water and becomes saline for good, damaging the freshwater sources of the water basin.*
     
        Pages 26-27 du rapport
     
-    > *"La Escondida mine in Chile is a landmark case. BHP Billiton owns the project and has provoked “continuous, permanent, cumulative and irreparable” damage to the underground aquifer of the Punta Negra Salt Flat. After 27 years extracting water from the salt flat for its copper mine (until 2017), “the levels of the salt flat aquifer diminished to such a point that the wetlands and all the vegetation surrounding it dried up. A large proportion of the fauna that inhabited it disappeared as it lost its habitat.”*
+    > *La Escondida mine in Chile is a landmark case. BHP Billiton owns the project and has provoked “continuous, permanent, cumulative and irreparable” damage to the underground aquifer of the Punta Negra Salt Flat. After 27 years extracting water from the salt flat for its copper mine (until 2017), “the levels of the salt flat aquifer diminished to such a point that the wetlands and all the vegetation surrounding it dried up. A large proportion of the fauna that inhabited it disappeared as it lost its habitat.*
     
     Page 31 du rapport
 
 <hr>
 
-[38] L’industrie minière est la première cause dans le monde de <b>conflits environnementaux</b>. En 2019, 50 défenseurs de l'environnement ont été assassinés dans des conflits liés à l'industrie minière.
+!!! Tip ""
+    [38] L’industrie minière est la première cause dans le monde de <b>conflits environnementaux</b>. En 2019, 50 défenseurs de l'environnement ont été assassinés dans des conflits liés à l'industrie minière.
 
 !!! Source "Précisions et source"  
 
@@ -499,18 +537,19 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
    
        https://doi.org/10.1016/j.gloenvcha.2020.102104  
        
-       > *"Mining was still the most culpable industry – connected with the murders of 50 defenders in 2019."*  
+       > *Mining was still the most culpable industry – connected with the murders of 50 defenders in 2019.*  
        
        Page 6 du rapport 2020 de l'ONG Global Witness: Defending Tomorrow  
        https://www.globalwitness.org/en/campaigns/environmental-activists/defending-tomorrow/
 
 <hr>
 
-## Cartes "En France"
+## Malus En France
 
 <hr>
 
-[22] Il y a encore des mines en activité en France : on exploite de l'or en Guyane, du nickel en Nouvelle-Calédonie (6% de la production mondiale en 2023) et de la bauxite vers Montpellier.
+!!! Tip ""
+    [22] Il y a encore des mines en activité en France : on exploite de l'or en Guyane, du nickel en Nouvelle-Calédonie (6% de la production mondiale en 2023) et de la bauxite vers Montpellier.
 
 !!! Source "Sources"
 
@@ -522,7 +561,8 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
 <hr>
 
-[23] L'ouverture d'une mine de lithium est prévue d'ici 2027 dans le Massif central. Ce sera l'une des plus grandes d'Europe.
+!!! Tip ""
+    [23] L'ouverture d'une mine de lithium est prévue d'ici 2027 dans le Massif central. Ce sera l'une des plus grandes d'Europe.
 
 !!! Source "Source"
 
@@ -534,11 +574,12 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
 <hr>
 
-[24] Des centaines d'anciennes mines n'ont pas été dépolluées lors de leur fermeture. Certaines causent aujourd'hui encore des pollutions majeures.
+!!! Tip ""
+    [24] Des centaines d'anciennes mines n'ont pas été dépolluées lors de leur fermeture. Certaines causent aujourd'hui encore des pollutions majeures.
 
 !!! Source "Précisions et sources"
 
-    > *« Si le code minier a progressivement soumis les exploitations à des obligations de remise en état et de surveillance au moment de la cessation d'activité, les nombreux anciens sites miniers, désormais orphelins, n'ont pour la plupart pas fait l'objet d'une telle réhabilitation. La France compte aujourd'hui 1 850 sites miniers, parmi lesquels seulement 225 font toujours l'objet d'un titre d'exploitation valide. »* 
+    > *Si le code minier a progressivement soumis les exploitations à des obligations de remise en état et de surveillance au moment de la cessation d'activité, les nombreux anciens sites miniers, désormais orphelins, n'ont pour la plupart pas fait l'objet d'une telle réhabilitation. La France compte aujourd'hui 1 850 sites miniers, parmi lesquels seulement 225 font toujours l'objet d'un titre d'exploitation valide.* 
 
     https://www.senat.fr/rap/r19-700-1/r19-700-114.html#toc638
 
@@ -547,12 +588,13 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
 <hr>
 
-[44] Une ancienne mine d'or vers Carcassonne cause d'importants problèmes de pollution à l'arsenic. Il a entre autres été interdit de vendre des légumes produits dans la région.
+!!! Tip ""
+    [44] Une ancienne mine d'or vers Carcassonne cause d'importants problèmes de pollution à l'arsenic. Il a entre autres été interdit de vendre des légumes produits dans la région.
 
 !!! Source "Précisions et sources"
     À propos de l'ancienne mine d'or et d'arsenic de Salsigne, près de Carcassonne, un rapport du Ministère de l'Aménagement du territoire et de l'Environnement indique en 1998 :   
     
-    > *« Le niveau de 50 mg d'arsenic par litre est largement dépassé dans le Grésillou à son confluent avec l'Orbiel à Lastours et ce même niveau est souvent dépassé à Conques, ce niveau est dépassé dans un puits communal à Conques. Il a été constaté que certains légumes cultivés sur des sols inondables en bordure de l'Orbiel ou arrosés avec de l'eau venant de l'Orbiel, ou de puits proches de l'Orbiel et de ses affluent qui coulent près du site de Salsigne, contenaient des teneurs anormales en métaux et arsenic. Un arrêté interministériel du 30 mai 1997 a interdit la mise sur le marché des légumes feuilles (salades, etc.) concernés pour une durée de un an. »* 
+    > *Le niveau de 50 mg d'arsenic par litre est largement dépassé dans le Grésillou à son confluent avec l'Orbiel à Lastours et ce même niveau est souvent dépassé à Conques, ce niveau est dépassé dans un puits communal à Conques. Il a été constaté que certains légumes cultivés sur des sols inondables en bordure de l'Orbiel ou arrosés avec de l'eau venant de l'Orbiel, ou de puits proches de l'Orbiel et de ses affluent qui coulent près du site de Salsigne, contenaient des teneurs anormales en métaux et arsenic. Un arrêté interministériel du 30 mai 1997 a interdit la mise sur le marché des légumes feuilles (salades, etc.) concernés pour une durée de un an.* 
     
     https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement
 
@@ -563,30 +605,31 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
     * Pour plus d'informations sur les conséquences sanitaires sur la population de la mine, voir : https://www.ladepeche.fr/article/2013/03/21/1587889-salsigne-quand-la-mine-dort-la-pollution-veille.html  
         On y lit entre autres :
         
-        > *« Chaque année la montagne rejette dans la rivière Orbiel 3 650 kg d'arsenic. [...] Mille ans seront nécessaires pour faire table rase des scories. »*
+        > *Chaque année la montagne rejette dans la rivière Orbiel 3 650 kg d'arsenic. [...] Mille ans seront nécessaires pour faire table rase des scories.*
     
     * On trouve également des informations très détaillées dans une présentation de l'association France Nature Environnement sur la situation en 2021 
     
         https://fne-ocmed.fr/wp-content/uploads/2021/02/presentation_Oge_salsigne.pdf  
         
         On y trouve entre autres cette citation d'un [rapport de la cour des Comptes de 2003](https://www.ccomptes.fr/sites/default/files/EzPublish/Salsigne.pdf)  (page 361):
-        > « L’extraction de l’or produisant des déchets à forte composante en arsenic, le site est aujourd’hui, selon le ministère de l’écologie et du développement durable, l’un des plus pollués de France. »  
+        > *L’extraction de l’or produisant des déchets à forte composante en arsenic, le site est aujourd’hui, selon le ministère de l’écologie et du développement durable, l’un des plus pollués de France.*  
 
 <hr>
 
-[45] Plusieurs projets d'exploration minière sont actuellement en cours ou en attente d'autorisation en France, pour exploiter or, lithium, étain...
+!!! Tip ""
+    [45] Plusieurs projets d'exploration minière sont actuellement en cours ou en attente d'autorisation en France, pour exploiter or, lithium, étain...
 
 !!! Source "Précisions et source"
 
-       > *« Deux permis d'exploration sont en cours de validité dans le Massif central :         
-            - PER « Bonneval » : pour la recherche d'or, d'argent, d'antimoine et de substances connexes dans le Limousin et détenu par la société Cordier Mines ;  
-            - PER « Beauvoir » : pour la recherche d'étain, de niobium de tantale, de tungstène, de béryllium et de lithium et détenu par la société Imerys Ceramics France. »*
+       > *Deux permis d'exploration sont en cours de validité dans le Massif central :         
+            - PER Bonneval » : pour la recherche d'or, d'argent, d'antimoine et de substances connexes dans le Limousin et détenu par la société Cordier Mines ;  
+            - PER Beauvoir » : pour la recherche d'étain, de niobium de tantale, de tungstène, de béryllium et de lithium et détenu par la société Imerys Ceramics France.*
 
-      > *« Plusieurs demandes de permis d'exploration sont en cours d'instruction. »*  
+      > *Plusieurs demandes de permis d'exploration sont en cours d'instruction.*  
       
       https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/potentiel-du-sous-sol-francais
 
-## Cartes "Géographie" 
+## Malus Géographie 
 
 Pour toutes ces cartes :
 
@@ -597,26 +640,32 @@ Pour toutes ces cartes :
 
 * Les informations concernant l'utilisation des métaux dans les smartphones sont issues de l'outil interactif développé par ISF SystExt (Ingénieurs sans frontières Systèmes extractifs et environnements).  
     https://www.systext.org/sites/all/animationreveal/mtxsmp/#/
+    Attention, ces informations sont à prendre avec précaution car la composition précise des smartphones n'est que rarement et partiellement connue, sachant qu'elle varie en fonction des smartphones et évolue rapidement avec l'évolution des technologies. Voir la fiche détaillée sur les métaux dans les smartphones pour plus d  
 
 <hr>
 
-[25] La <b>République Démocratique du Congo</b> est le premier producteur mondial de <b>cobalt</b> (74% de la production en 2023). On trouve du cobalt dans la carte mère et la batterie des smartphones.
+!!! Tip ""
+    [25] La <b>République Démocratique du Congo</b> est le premier producteur mondial de <b>cobalt</b> (74% de la production en 2023). On trouve du cobalt dans la carte mère et la batterie des smartphones.
 
 <hr>
 
-[26] L'<b>Indonésie</b> est le premier producteur mondial de <b>nickel</b> (50% de la production en 2023). On trouve du nickel dans la carte mère et la coque des smartphones.
+!!! Tip ""
+    [26] L'<b>Indonésie</b> est le premier producteur mondial de <b>nickel</b> (50% de la production en 2023). On trouve du nickel dans la carte mère et la coque des smartphones.
 
 <hr>
 
-[46] La <b>Russie</b> est le premier producteur mondial de <b>palladium</b> (44% de la production en 2023). On trouve du palladium dans la carte mère des smartphones.
+!!! Tip ""
+    [46] La <b>Russie</b> est le premier producteur mondial de <b>palladium</b> (44% de la production en 2023). On trouve du palladium dans la carte mère des smartphones.
 
 <hr>
 
-[47] L'<b>Australie</b> est le premier producteur mondial de <b>lithium</b> (48% de la production en 2023). On trouve du lithium dans la batterie des smartphones.
+!!! Tip ""
+    [47] L'<b>Australie</b> est le premier producteur mondial de <b>lithium</b> (48% de la production en 2023). On trouve du lithium dans la batterie des smartphones.
 
 <hr>
 
-[51] La <b>Chine</b> est le premier producteur mondial de <b>terres rares</b> (69% de la production mondiale en 2023, contre 98% en 2010). On trouve des terres rares dans la carte mère et l'écran des smartphones.
+!!! Tip ""
+    [51] La <b>Chine</b> est le premier producteur mondial de <b>terres rares</b> (69% de la production mondiale en 2023, contre 98% en 2010). On trouve des terres rares dans la carte mère et l'écran des smartphones.
 
 !!! Source "Source pour la production en 2010"
     La part de la Chine dans la production mondiale de terres rares est indiquée dans le rapport 2010 (page 129)  
@@ -624,23 +673,27 @@ Pour toutes ces cartes :
 
 <hr>
 
-[52] La <b>République Démocratique du Congo</b> est le premier producteur mondial de <b>tantale</b> (41% de la production en 2023). On trouve du tantale dans la carte mère des smartphones.
+!!! Tip ""
+    [52] La <b>République Démocratique du Congo</b> est le premier producteur mondial de <b>tantale</b> (41% de la production en 2023). On trouve du tantale dans la carte mère des smartphones.
 
 <hr>
 
-[53] La <b>Chine</b> est le premier producteur mondial de <b>gallium</b> (98% de la production en 2023). On trouve du gallium dans la carte mère des smartphones.
+!!! Tip ""
+    [53] La <b>Chine</b> est le premier producteur mondial de <b>gallium</b> (98% de la production en 2023). On trouve du gallium dans la carte mère des smartphones.
 
 <hr>
 
-[54] L'<b>Afrique du Sud</b> est le premier producteur mondial de <b>platine</b> (67% de la production en 2023). On trouve du platine dans la carte mère des smartphones.
+!!! Tip ""
+    [54] L'<b>Afrique du Sud</b> est le premier producteur mondial de <b>platine</b> (67% de la production en 2023). On trouve du platine dans la carte mère des smartphones.
 
 <hr>
 
-## Cartes "Pour info"
+## Malus Pour info
 
 <hr>
 
-[31] Pour satisfaire la demande en métaux on extrait des minerais avec des teneurs de plus en plus faibles. Il faut donc extraire beaucoup plus de matière pour produire la même quantité de métal.
+!!! Tip ""
+    [31] Pour satisfaire la demande en métaux on extrait des minerais avec des teneurs de plus en plus faibles. Il faut donc extraire beaucoup plus de matière pour produire la même quantité de métal.
 
 !!! Source "Précisions et sources"
 
@@ -660,24 +713,27 @@ Pour toutes ces cartes :
 
 <hr>
 
-[32] Les <b>terres rares</b> (à ne pas confondre avec les métaux rares !) sont des métaux assez abondants dans la croûte terrestre mais avec une teneur très faible.
+!!! Tip ""
+    [32] Les <b>terres rares</b> (à ne pas confondre avec les métaux rares !) sont des métaux assez abondants dans la croûte terrestre mais avec une teneur très faible.
 
 !!! Source "Source"
     Voir le glossaire.
         
 <hr>
 
-[33] Même s'il existe de nombreuses mines <b>souterraines</b>, la majorité des mines actuelles sont exploitées à <b>ciel ouvert</b>.
+!!! Tip ""
+    [33] Même s'il existe de nombreuses mines <b>souterraines</b>, la majorité des mines actuelles sont exploitées à <b>ciel ouvert</b>.
 
 !!! Source "Précisions et source"
 
-    > *« L'exploitation minière à ciel ouvert est la méthode la plus couramment utilisée dans le monde pour l'extraction des minéraux : 57% des mines du monde sont exploitées à ciel ouvert en nombre, et 88% en production. »* 
+    > *L'exploitation minière à ciel ouvert est la méthode la plus couramment utilisée dans le monde pour l'extraction des minéraux : 57% des mines du monde sont exploitées à ciel ouvert en nombre, et 88% en production.* 
 
     Page 48 du rapport https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf
     
 <hr>
 
-[48] On exploite souvent plusieurs métaux dans une mine. Il existe par exemple de nombreuses mines produisant à la fois du cuivre et du zinc.
+!!! Tip ""
+    [48] On exploite souvent plusieurs métaux dans une mine. Il existe par exemple de nombreuses mines produisant à la fois du cuivre et du zinc.
 
 !!! Source "Précisions et source"
 
@@ -687,32 +743,34 @@ Pour toutes ces cartes :
     
     Par ailleurs, parmi les principales mines de cuivre et de zinc mentionnées sur le site web [l'Élémentarium](https://lelementarium.fr), on en trouve plusieurs qui produisent à la fois du cuivre et du zinc :
     
-    >  * *« La mine d’Antamina, située à 4 300 m d’altitude est exploitée, à ciel ouvert, depuis 2001. En 2023, la production a été de 421 926 t de cuivre, 464 000 t de zinc, 360,5 t d’argent et, en 2022, 3 260 t de plomb, 3 130 t de molybdène. »* 
-    > * *« La mine souterraine de Neves Corvo, au Portugal, a commencé à être exploitée en 1990 pour le cuivre et 2006 pour le zinc. La production, en 2023, a été de 33 823 t de cuivre, 108 212 t de zinc, et, en 2021, 4 890 t de plomb et 29,9 t d’argent. »* 
-    >  * *« [First Quantum exploite en Turquie] la mine de Çayeli, avec 11 036 t de cuivre et 3 597 t de zinc. »* 
+    >  * *La mine d’Antamina, située à 4 300 m d’altitude est exploitée, à ciel ouvert, depuis 2001. En 2023, la production a été de 421 926 t de cuivre, 464 000 t de zinc, 360,5 t d’argent et, en 2022, 3 260 t de plomb, 3 130 t de molybdène.* 
+    > * *La mine souterraine de Neves Corvo, au Portugal, a commencé à être exploitée en 1990 pour le cuivre et 2006 pour le zinc. La production, en 2023, a été de 33 823 t de cuivre, 108 212 t de zinc, et, en 2021, 4 890 t de plomb et 29,9 t d’argent.* 
+    >  * *[First Quantum exploite en Turquie] la mine de Çayeli, avec 11 036 t de cuivre et 3 597 t de zinc.* 
     
     On y lit également :
-     >  *« La production de cuivre [de l'entreprise Glencore] a donné, en 2023, une co-production de 156 600 t de zinc, 38 800 t de cobalt, 292 t d’argent et 4,29 t d’or. Par ailleurs, la production de zinc a donné une coproduction de 106 500 t de cuivre. »* 
+     >  *La production de cuivre [de l'entreprise Glencore] a donné, en 2023, une co-production de 156 600 t de zinc, 38 800 t de cobalt, 292 t d’argent et 4,29 t d’or. Par ailleurs, la production de zinc a donné une coproduction de 106 500 t de cuivre.* 
      
     https://lelementarium.fr/element-fiche/cuivre/
    
 <hr>
 
-[57] En France, le <b>code minier</b> définit la distinction entre mines et carrières. On parle de mine lorsque le matériau extrait est considéré comme stratégique, et sinon, de carrière.
+!!! Tip ""
+    [57] En France, le <b>code minier</b> définit la distinction entre mines et carrières. On parle de mine lorsque le matériau extrait est considéré comme stratégique, et sinon, de carrière.
 
 !!! Source "Précisions et source"
     
-    > *« Les "mines" sont les exploitations, sous-terre ou à ciel ouvert, de gisements définis par une liste figurant dans le code minier (sel, minerais métalliques, gaz et énergies fossiles...). Tout autre activité terrestre d'extraction de minéraux est une "carrière". [...] D’une manière générale, les substances de mines se distinguent par une relative rareté à l’échelle nationale et une importance économique accrue, voire stratégique, qui justifie que leur gestion soit confiée à l’État et non laissée à la libre disposition du propriétaire du sol. Toutes les autres substances relèvent de la classe des carrières et sont laissées à la libre disposition du propriétaire du sol. »* 
+    > *Les "mines" sont les exploitations, sous-terre ou à ciel ouvert, de gisements définis par une liste figurant dans le code minier (sel, minerais métalliques, gaz et énergies fossiles...). Tout autre activité terrestre d'extraction de minéraux est une "carrière". [...] D’une manière générale, les substances de mines se distinguent par une relative rareté à l’échelle nationale et une importance économique accrue, voire stratégique, qui justifie que leur gestion soit confiée à l’État et non laissée à la libre disposition du propriétaire du sol. Toutes les autres substances relèvent de la classe des carrières et sont laissées à la libre disposition du propriétaire du sol.* 
     
        https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/mines-france
 
 <hr>
 
-[58] De nombreux métaux du numérique sont des <b>sous</b>-<b>produits</b>, c'est-à-dire qu'ils sont récupérés lors du traitement d'autres métaux. Par exemple, le gallium est un sous-produit de l'aluminium.
+!!! Tip ""
+    [58] De nombreux métaux du numérique sont des <b>sous</b>-<b>produits</b>, c'est-à-dire qu'ils sont récupérés lors du traitement d'autres métaux. Par exemple, le gallium est un sous-produit de l'aluminium.
 
 !!! Source "Précisions et source"
     
-    > *« Le gallium ne forme pas de gisements économiquement exploitables à l’état naturel, et provient en grande majorité de la filière de production d’aluminium (sous-produit du raffinage de la bauxite en alumine). »* 
+    > *Le gallium ne forme pas de gisements économiquement exploitables à l’état naturel, et provient en grande majorité de la filière de production d’aluminium (sous-produit du raffinage de la bauxite en alumine).* 
     
        https://www.mineralinfo.fr/fr/substance/gallium-ga
        
@@ -727,7 +785,8 @@ Pour toutes ces cartes :
 
 <hr>
 
-[59] La teneur moyenne varie beaucoup entre les différents métaux : environ 45% pour le fer (45g de fer pour 100g de minerai) mais seulement 0,00008% pour l'or (8g d'or pour 10 tonnes de minerai) !
+!!! Tip ""
+    [59] La teneur moyenne varie beaucoup entre les différents métaux : environ 45% pour le fer (45g de fer pour 100g de minerai) mais seulement 0,00008% pour l'or (8g d'or pour 10 tonnes de minerai) !
 
 !!! Source "Précisions et source"
     
@@ -736,20 +795,22 @@ Pour toutes ces cartes :
 
 <hr>
 
-[60] La production mondiale varie beaucoup entre les métaux : quelques centaines de tonnes par an pour certains métaux précieux mais 100.000 fois plus pour certains métaux communs !
+!!! Tip ""
+    [60] La production mondiale varie beaucoup entre les métaux : quelques centaines de tonnes par an pour certains métaux précieux mais 100.000 fois plus pour certains métaux communs !
 
 !!! Source "Précisions et source"
-    Voir la table 5 (colonne *World production total*) du rapport *"Mineral Commidity Summaries 2024"* de l'Institut d'études géologiques des États-Unis (USGS) reproduite dans la partie sur les cartes "Géographie".  
+    Voir la table 5 (colonne *World production total*) du rapport *"Mineral Commidity Summaries 2024"* de l'Institut d'études géologiques des États-Unis (USGS) reproduite dans la partie sur les malus Géographie.  
     
     On voit entre autres que la production mondiale de platine en 2023 était d'environ 180 tonnes, alors que celle d'aluminium était estimée à 400 millions de tonnes.
 
 <hr>
 
-## Cartes "En image"
+## Malus En image
 
 <hr>
 
-[4] Lac de résidus miniers, Pérou  
+!!! Tip ""
+    [4] Lac de résidus miniers, Pérou  
 
 !!! Source "Précisions et source"
     Cette photo montre le lac de résidus miniers de la mine de cuivre et zinc d'Antamina au Pérou.  
@@ -757,7 +818,8 @@ Pour toutes ces cartes :
 
 <hr>
 
-[6] Rupture de digue, Brésil 2019
+!!! Tip ""
+    [6] Rupture de digue, Brésil 2019
 
 !!! Source "Précisions et source"
     Cette photo a été prise suite à la rupture du barrage de Brumadinho au Brésil le 25 janvier 2019, voir malus [40].  
@@ -765,7 +827,8 @@ Pour toutes ces cartes :
 
 <hr>
 
-[34] Mine de cuivre, Roumanie
+!!! Tip ""
+    [34] Mine de cuivre, Roumanie
 
 !!! Source "Précisions et source"
     Cette photo montre la mine de cuivre de Roșia Poieni en Roumanie.  
@@ -773,7 +836,8 @@ Pour toutes ces cartes :
 
 <hr>
 
-[35] Mine de coltan, République Démocratique du Congo
+!!! Tip ""
+    [35] Mine de coltan, République Démocratique du Congo
 
 !!! Source "Précisions et source"
     Cette photo montre une mine de coltan près de Rubaya dans le Nord-Kivu en République Démocratique du Congo.  
@@ -781,7 +845,8 @@ Pour toutes ces cartes :
 
 <hr>
 
-[36] Mine de lithium, États-Unis
+!!! Tip ""
+    [36] Mine de lithium, États-Unis
 
 !!! Source "Précisions et source"
     Cette photo montre la mine de lithium de Silver Peak dans le Nevada aux États-Unis.  
