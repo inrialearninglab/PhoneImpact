@@ -6,7 +6,10 @@ hide:
 ---
 # Contactez-nous
 
-Merci d’avoir testé **PhoneImpact** ! Votre retour est précieux pour nous permettre d’améliorer le jeu. N’hésitez pas à répondre au questionnaire et à partager vos impressions : https://sondages.inria.fr/index.php/831938?lang=fr
+Merci d’avoir testé **PhoneImpact** !
+
+Votre retour est précieux pour nous permettre d’améliorer le jeu. N’hésitez pas à répondre au questionnaire et à partager vos impressions : https://sondages.inria.fr/index.php/831938?lang=fr  
+
 Vous pouvez aussi nous écrire directement à l'adresse suivante [phoneimpact@inria.fr](mailto:phoneimpact@inria.fr).
 
-Merci pour votre contribution !
+Merci pour votre contribution !  
