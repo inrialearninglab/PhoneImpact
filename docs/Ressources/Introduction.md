@@ -7,10 +7,10 @@ title: "Introduction"
 
 Vous trouverez ci-dessous les sources qui ont servi à la création du jeu :
 
-* [Sources pour les plateaux Smartphone](Ressources/Sources/Sources_plateau.html)
-* [Sources pour les cartes Ressource](Ressources/Sources/Sources_metaux.html)
-* [Sources pour les cartes Événement](Ressources/Sources/Sources_events.html)
-* [Sources pour les cartes Malus](Ressources/Sources/Sources_malus.html)
+* [Sources pour les plateaux Smartphone](Sources/Sources_plateau.html)
+* [Sources pour les cartes Ressource](Sources/Sources_metaux.html)
+* [Sources pour les cartes Événement](Sources/Sources_events.html)
+* [Sources pour les cartes Malus](Sources/Sources_malus.html)
 
 ## Fiches détaillées
 Vous trouverez prochainement dans ce paragraphe des fiches détaillées sur :  
