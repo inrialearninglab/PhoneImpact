@@ -1,4 +1,4 @@
-# 🚧 Sources des cartes Ressource
+# Sources des cartes Ressource
 
 !!! Warning "Page en cours de finalisation"
     Cette page est encore susceptible d'évoluer. La dernière mise à jour date du 6 janvier 2025. 
