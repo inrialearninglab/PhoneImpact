@@ -21,7 +21,7 @@ Vous trouverez ici des explications et, le cas échéant, des références bibli
 L'objectif de cette typologie est de mettre en avant le fait que certains modes d'extraction sont plus polluants et moins respectueux des droits humains que d'autres.
 
 !!! Sources "À propos des différentes pratiques d'extraction minière"
-    Pour illustrer ces différences, on peut noter que la majorité des catastrophes minières détaillées dans les cartes Malus sont dues à une mauvaise gestion des infrastructures de retenue des résidus miniers, comme mis en avant dans le rapport de l'UNEP [Mine tailings storage: Safety is no accident](https://www.grida.no/publications/383).
+    Pour illustrer ces différences, on peut noter que la majorité des catastrophes minières détaillées dans les cartes Malus sont dues à une mauvaise gestion des infrastructures de retenue des résidus miniers, comme mis en avant dans le rapport de l'UNEP [Mine tailings storage: Safety is no accident](https://www.grida.no/publications/383) publié en 2017.
     
 Il s'agit également de mettre en avant le recyclage des métaux, qui évite un certain nombre d'impacts environnementaux et sociaux tels que les ruptures de digues, mais qui n'est néanmoins pas sans engendrer des pollutions. 
 
@@ -60,7 +60,7 @@ Pour le choix de ces 5 types de ressources, voir les explications de la [classif
 
 ## Les métaux cités sur les cartes Ressource
 
-Les métaux qui sont cités comme exemples sur les cartes Ressource sont les 25 métaux étudiés par l'ADEME dans leur [rapport sur les métaux critiques du numérique](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) plus le fer, ce qui donne, selon notre [classification](Sources_plateau.html#la-classification-des-metaux), la liste suivante.
+Les métaux qui sont cités comme exemples sur les cartes Ressource sont les 25 métaux étudiés par l'ADEME dans leur [rapport publié en octobre 2024 sur les métaux critiques du numérique](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) plus le fer, ce qui donne, selon notre [classification](Sources_plateau.html#la-classification-des-metaux), la liste suivante.
 
 * **Métaux de base** : aluminium (Al), cuivre (Cu), nickel (Ni), étain (Sn), fer (Fe), zinc (Zn), magnésium (Mg), manganèse (Mn)
 

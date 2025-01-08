@@ -58,7 +58,7 @@ Les métaux de base sont les suivants : fer (Fe), aluminium (Al), titane (Ti), m
     > * *Les métaux de l’énergie nucléaire que sont les actinides : U, Th, Pu*
     > * *Les métaux de spécialité : tous les autres*
 
-    Source : [Fiche technique de ADEME : *l'épuisement des métaux et minéraux : faut il s'en inquiéter ?*](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/ademe_epuisement-metaux-mineraux-201706-fiche-techniquev2.pdf), Juin 2017
+    Source : [Fiche technique de ADEME : *l'épuisement des métaux et minéraux : faut il s'en inquiéter ?*](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/ademe_epuisement-metaux-mineraux-201706-fiche-techniquev2.pdf), juin 2017
     
 ### Métaux précieux
 
@@ -127,7 +127,7 @@ Si l'on distingue les différents types de métaux et les autres éléments chim
    * Autres métaux : Ba, Hg, In, Mo, Si
    * Autres éléments chimiques : B, K, S
 
-On constatera une différence avec le plateau smartphone : l'absence de métaux précieux dans l'écran tactile. Nous avons fait le choix de mettre en évidence la présence croissante d'électronique (riche en métaux précieux) directement associée aux écrans, comme par exemple dans les iPhones récents qui intègrent à l'écran une puce de reconnaissance faciale (source : [ifixit. *Apple’s New Screen Repair Trap Could Change the Repair Industry Forever*](https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever#), Novembre 2021). 
+On constatera une différence avec le plateau smartphone : l'absence de métaux précieux dans l'écran tactile. Nous avons fait le choix de mettre en évidence la présence croissante d'électronique (riche en métaux précieux) directement associée aux écrans, comme par exemple dans les iPhones récents qui intègrent à l'écran une puce de reconnaissance faciale (source : [ifixit. *Apple’s New Screen Repair Trap Could Change the Repair Industry Forever*](https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever#), novembre 2021). 
 
 !!! Complément "Complément"
     Une [étude de l'ADEME d'octobre 2024](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique et fournit un état de l'art sur les impacts environnementaux et besoins associés. 
