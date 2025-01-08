@@ -43,6 +43,6 @@ nav[data-md-level="1"] > .md-nav__list {
 }
 
 .md-banner {
-    background: linear-gradient(to right, var(--md-primary-fg-color), #cd84f1);
-    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    background: var(--md-default-bg-color);
+    color: var(--md-typeset-color);
 }
