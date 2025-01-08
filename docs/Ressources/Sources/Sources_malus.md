@@ -38,7 +38,9 @@ Ces définitions sont extraites du glossaire.
     [30] La **teneur** en métal d’un minerai est la proportion de métal contenue dans ce minerai. Par exemple, la teneur en cuivre d'un minerai est en moyenne autour de 0,6% (6g de cuivre pour 1kg de minerai).  
 
 !!! Source "Source de la teneur moyenne en cuivre"
-    La teneur en métal des différents minerais est indiquée à la table S4 (colonne "*Ore grade*") du papier https://pubs.acs.org/doi/10.1021/acs.est.1c07875. La teneur en cuivre (*copper*) d'un minerai est en moyenne de 0,64%.
+    La teneur en métal des différents minerais est indiquée à la table S4 (colonne "*Ore grade*") du papier "Rock-to-Metal Ratio: A Foundational Metric for Understanding Mine Wastes" [^rock]. La teneur en cuivre (*copper*) d'un minerai est en moyenne de 0,64%.
+[^rock]: *Rock-to-Metal Ratio: A Foundational Metric for Understanding Mine Wastes*. Nedal T. Nassar, Graham W. Lederer, Jamie L. Brainard, Abraham J. Padilla, and Joseph D. Lessard
+Environmental Science & Technology 2022 56 (10), 6710-6721. DOI: 10.1021/acs.est.1c07875. Disponible sur [ACS Publication](https://pubs.acs.org/doi/10.1021/acs.est.1c07875#).
 
 <hr>
 
@@ -77,18 +79,19 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
     > *Pour répondre efficacement [aux contraintes techniques posées par la présence d'un grand nombre de métaux en quantités très faibles, le plus souvent utilisés sous la forme d’alliages complexes], les industriels du recyclage doivent réaliser des investissements élevés dans des technologies de pointe. Florian Fizaine cite ainsi l’exemple de la société Umicore : Un milliard de dollars a été investi dans l'usine de recyclage et de raffinage d'Umicore exploitant des DEEE en Belgique (Hagelüken et Corti, 2010). Cette usine extrait 30 tonnes d'or, 37 tonnes de métaux du groupe du platine, 1 000 tonnes d'argent et 68 500 tonnes d'autres métaux par an à partir de déchets. Cela en fait la troisième mine d'or du monde. » Florian Fizaine précise que, par comparaison, une usine de recyclage de papier ne requiert que 30 à 50 millions de dollars d’investissement.*
          
-    Page 41 du rapport [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise), la citation provenant de l'article [The economics of recycling rate: New insights from waste electrical and electronic equipment](https://hal.archives-ouvertes.fr/hal-02880890)
+    Page 41 du rapport de France Strategie "[La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise)" publié en juin 2020, la citation provenant de l'article "The economics of recycling rate: New insights from waste electrical and electronic equipment" [^theeconomics]
 <hr>
+[^theeconomics]: Florian Fizaine. The economics of recycling rate: New insights from waste electrical and electronic equipment. Resources Policy, 2020, 67, pp.101675. ⟨[10.1016/j.resourpol.2020.101675](https://dx.doi.org/10.1016/j.resourpol.2020.101675)⟩. ⟨[hal-02880890](https://hal.science/hal-02880890)⟩
 
 !!! Tip ""
     [28] Les métaux communs (cuivre, plomb, fer, aluminium...) et les métaux précieux (or, argent, platine...) sont recyclés à plus de 50%.
 
 !!! Source "Précisions et sources"
-       La figure 4 du rapport [Recycling rates of metals: A status report](https://www.unep.org/resources/report/recycling-rates-metals-status-report) de l'UNEP indique les taux de recyclage en fin de vie d'une soixantaine de métaux :
+       La figure 4 du rapport [Recycling rates of metals: A status report](https://www.unep.org/resources/report/recycling-rates-metals-status-report) de l'UNEP publié en mai 2011 indique les taux de recyclage en fin de vie d'une soixantaine de métaux :
    
        <a href="./img/recycling-metal-rates_UNEP-2011.png"> <img src="./img/recycling-metal-rates_UNEP-2011.png" width="linewidth"/></a>
 
-    Le taux de recyclage en fin de vie (EoL RR) mesure l'efficacité avec laquelle les métaux contenus dans des produits en fin de vie sont collectés, pré-traités et enfin recyclés. Voir https://www.eurometaux.eu/media/1510/electroniversionrecyclingratesdec2012_eurometauxeurofer.pdf pour plus de précisions.
+    Le taux de recyclage en fin de vie (EoL RR) mesure l'efficacité avec laquelle les métaux contenus dans des produits en fin de vie sont collectés, pré-traités et enfin recyclés. Voir le rapport de Eurometaux [Recycling Rates of Metals](https://www.eurometaux.eu/media/1510/electroniversionrecyclingratesdec2012_eurometauxeurofer.pdf) publié en 2012 pour plus de précisions.
     
        L'IEA fournit par ailleurs des données plus récentes sur le taux de recyclage en fin de vie de certains métaux. 
         <figure markdown="span">
@@ -116,11 +119,11 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
     > *La France se caractérise par une R&D très active en [matière d'extraction des métaux des cartes électroniques], mais elle ne compte aucun acteur industriel de taille significative. De ce fait, elle ne peut récupérer qu’une part infime des métaux contenus dans ses propres déchets, mais aucun d’eux ne sont des métaux stratégiques.*
     
-    https://www.annales.org/edit/re/2020/re99/2020-07-6.pdf
+    Source : [*Le recyclage des cartes électroniques en France*. Christian THOMAS. Juillet 2020](https://www.annales.org/edit/re/2020/re99/2020-07-6.pdf)
 
     Par contraste, l'usine de recyclage de métaux d'Umicore située à Hoboken en Belgique recycle 28 métaux.
 
-    https://eom.umicore.com/en/news-stories/how-we-recycle-metals-at-umicore/
+    Source : [*How we recycle metals at Umicore*. Juillet 2019](https://eom.umicore.com/en/news-stories/how-we-recycle-metals-at-umicore/)
 
 !!! Compléments "Complément" 
     Pour plus d'informations sur l'usine d'Umicore, voir les malus [27] et [43].
@@ -137,7 +140,7 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
     > * *l’identification des différents métaux utilisés dans chaque composant des équipements numériques, qui nécessite d’analyser finement chaque alliage ;*
      > * *la séparation technique des métaux présents dans ces alliages en vue de leur réutilisation.* 
      
-     Page 41 du rapport [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise)
+     Page 41 du rapport [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise), publié en juin 2020
 
 <hr>
 
@@ -152,7 +155,7 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
     [Belgique : du plomb dans le sang des enfants d’Hoboken. Le Monde, 2020](https://www.lemonde.fr/planete/article/2020/09/24/belgique-du-plomb-dans-le-sang-des-enfants-d-hoboken_6053489_3244.html)
 
 !!! Compléments "Complément" 
-    Umicore communique régulièrement sur ces problèmes de pollution, voir par exemple https://www.umicore.com/en/newsroom/managing-impact-in-hoboken/#tabpanel-french
+    Umicore communique régulièrement sur ces problèmes de pollution, voir par exemple [Managing impact in Hoboken](https://www.umicore.com/en/newsroom/managing-impact-in-hoboken/#tabpanel-french) publié en mars 2021.
 
 <hr>
 
@@ -184,7 +187,7 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
     
     > *Les métaux lourds sont des éléments métalliques présentant un poids atomique élevé, tels que le mercure, le chrome, le cadmium, l'arsenic et le plomb. Ils peuvent nuire aux organismes vivants à faibles concentrations et ont tendance à s'accumuler dans la chaîne alimentaire.*  
  
-     https://ec.europa.eu/health/scientific_committees/opinions_layman/amalgams-alternatives/fr/glossaire/mno/metal-lourd.htm
+     Source : [Définition de "Métal lourd" sur le glossaire du site ec.europa.eu](https://ec.europa.eu/health/scientific_committees/opinions_layman/amalgams-alternatives/fr/glossaire/mno/metal-lourd.htm)
    
     Certains métaux lourds sont souvent naturellement associés à d'autres métaux (voir les malus [37] et [49] pour des exemples). Si ces métaux lourds ne sont pas eux-mêmes exploités, alors ils se retrouvent dans les déchets miniers.    
 
@@ -199,7 +202,7 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
     >  *La lixiviation est un processus simple d’extraction par dissolution basé sur le fait que tous les minerais ont des coefficients de dissolution différents et peuvent donc se retrouver séparés par la circulation d’un solvant. Ce principe est mondialement utilisé pour extraire l’or (le solvant étant majoritairement le cyanure), mais d’autres métaux comme le cuivre et l’uranium peuvent être extraits ainsi.*  
 
-    https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf
+    Source : rapport de MineralInfo [Exploitation minière et traitement des minerais](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf) publié en février 2017
     
 <hr>
 
@@ -209,23 +212,23 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 !!! Source "Précisions et sources"
   
     > *Du mercure est souvent présent dans les gisements de zinc, plomb, cuivre, argent et or.* 
-    
-    https://lelementarium.fr/element-fiche/mercure/
+
+    Source : [L'élémentarium (Société chimique de France, Education nationale)](https://lelementarium.fr/element-fiche/mercure/)
 
     > *On distingue l’or libre, inclus ou non dans d’autres minéraux, de l’or associé à des sulfures de fer [...], de l’or associé à des sulfures d’arsenic [...] ou d’antimoine [...].* 
 
-    https://lelementarium.fr/element-fiche/or/
+    Source : [L'élémentarium (Société chimique de France, Education nationale)](https://lelementarium.fr/element-fiche/or/)
 
     Le mercure et l'arsenic font partie des métaux lourds, cf malus [9].
 
     > *Toxiques pour tous les êtres vivants sous leur forme oxydée, ils n’ont aucun rôle bénéfique et s’accumulent dans les chaînes alimentaires (bioaccumulation).* 
 
-     https://www.notre-environnement.gouv.fr/themes/sante/les-produits-chimiques-ressources/article/metaux-lourds-cadmium-mercure-et-plomb
+     Source : [Métaux lourds : cadmium, mercure et plomb. Commissariat général au développement durable. Juillet 2019](https://www.notre-environnement.gouv.fr/themes/sante/les-produits-chimiques-ressources/article/metaux-lourds-cadmium-mercure-et-plomb)
    
     Pour les dangers que représentent le mercure et l'arsenic pour la santé, voir les fiches détaillées de l'OMS :
     
-    * https://www.who.int/fr/news-room/fact-sheets/detail/mercury-and-health
-    * https://www.who.int/fr/news-room/fact-sheets/detail/arsenic
+    * [Fiche sur le mercure](https://www.who.int/fr/news-room/fact-sheets/detail/mercury-and-health)
+    * [Fiche sur l'arsenic](https://www.who.int/fr/news-room/fact-sheets/detail/arsenic)
 
 <hr>
 
@@ -236,23 +239,24 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
     > *Du mercure est souvent présent dans les gisements de zinc, plomb, cuivre, argent et or.* 
     
-    https://lelementarium.fr/element-fiche/mercure/
+     Source : [L'élémentarium (Société chimique de France, Education nationale)](https://lelementarium.fr/element-fiche/mercure/)
 
     > *Dans les minerais, le zinc est très souvent associé à Pb [plomb] et Cd [cadmium] ainsi qu’à Fe [fer], Cu [cuivre], Bi [bismuth], Sb [antimoine], As [arsenic], Ge [germanium], In [indium], Ag [argent], Au [or]...*
     
-    https://lelementarium.fr/element-fiche/zinc/
+     Source : [L'élémentarium (Société chimique de France, Education nationale)](https://lelementarium.fr/element-fiche/zinc/)
+
   
     Le mercure, l'arsenic et le plomb font partie des métaux lourds, cf malus [9].
 
     > *Toxiques pour tous les êtres vivants sous leur forme oxydée, ils n’ont aucun rôle bénéfique et s’accumulent dans les chaînes alimentaires (bioaccumulation).* 
 
-     https://www.notre-environnement.gouv.fr/themes/sante/les-produits-chimiques-ressources/article/metaux-lourds-cadmium-mercure-et-plomb
-   
+     Source : [Métaux lourds : cadmium, mercure et plomb. Commissariat général au développement durable. Juillet 2019](https://www.notre-environnement.gouv.fr/themes/sante/les-produits-chimiques-ressources/article/metaux-lourds-cadmium-mercure-et-plomb)
+ 
     Pour les dangers que représentent le mercrure, l'arsenic et le plomb pour la santé, voir les fiches détaillées de l'OMS :
     
-    * https://www.who.int/fr/news-room/fact-sheets/detail/mercury-and-health
-    * https://www.who.int/fr/news-room/fact-sheets/detail/arsenic
-    * https://www.who.int/fr/news-room/fact-sheets/detail/lead-poisoning-and-health
+    * [Fiche sur le mercure](https://www.who.int/fr/news-room/fact-sheets/detail/mercury-and-health)
+    * [Fiche sur l'arsenic](https://www.who.int/fr/news-room/fact-sheets/detail/arsenic)
+    * [Fiche sur l'intoxication au plomb](https://www.who.int/fr/news-room/fact-sheets/detail/lead-poisoning-and-health)
   
 <hr>
 
@@ -266,7 +270,7 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
     > *Une mine à ciel ouvert générera de grandes quantités de poussière contenant des métaux lourds. Tout d’abord, lors du forage et du dynamitage, se forment des nuages de poussière contenant des gaz et particules en suspensions et pouvant affecter la santé des populations locales. Ensuite, l'exploitation à ciel ouvert nécessite de nombreux transports quotidiens des minerais, la plupart du temps par camions, pour acheminer le minerai vers des zones de transformation. Les trajets génèrent des poussières [...].*
 
-    Pages 71-72 du rapport [Étude des risques environnementaux, socio-sociétaux et juridiques des approvisionnements en minerais stratégiques pour les transitions énergétique et numérique](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)
+    Pages 71-72 du rapport [Étude des risques environnementaux, socio-sociétaux et juridiques des approvisionnements en minerais stratégiques pour les transitions énergétique et numérique](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf) publié en septembre 2023.
     
     > *Lors du processus de fragmentation d’importantes quantités de poussières sont produites par le concassage et le broyage des minerais. [...] Les poussières peuvent se déplacer par voie éolienne, et l’envol de poussières, à partir d’un dépôt de résidus minier ou du minerai mis à nu dans une mine à ciel ouvert peut être à l’origine de la contamination des sols après dépôt et accumulation des poussières.*
     
@@ -278,7 +282,7 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
     
     > *L’eau est nécessaire pour la suppression des poussières sur les routes de transport et les équipements de concassage et de transport. De grandes quantités d’eau sont utilisées quotidiennement, ce qui représente une perte nette puisque cette eau s’évapore. Les résidus sont une source majeure d’émissions de poussières, qui pourraient avoir un impact sur la santé des communautés voisines en raison de l’impact de poussières non contrôlées dans l’environnement.*
 
-    https://www.snf.com/l-industrie/mines/depoussierage/?lang=fr
+    Source : [Lutte Contre la Poussière. SNF](https://www.snf.com/l-industrie/mines/depoussierage/?lang=fr)
 
 <hr>
 
@@ -291,11 +295,11 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
 
     > *En France, la majorité des exploitations de métaux de base (Cu, Pb, Zn), d'antimoine et d'or sont associées à des paragenèses sulfurées et des minéraux du groupe des sulfo-arséniures (arsénopyrite) et sulfo-antimoniures. [...] L'oxydation naturelle des minéraux sulfurés tels que la pyrite, la pyrrhotite, etc., exposés à l'air et à l'eau peut entraîner la production d'effluents suffisamment acidifiés et chargés d'ions métalliques pour poser de sérieux problèmes dans un milieu aquatique récepteur. Ce phénomène est plus souvent appelé **Drainage Minier Acide** (DMA), et constitue le problème environnemental le plus important pour les mines exploitant ce type de minerais.* 
     
-    Pages 45-46 du rapport [Les résidus miniers français : typologie et principaux impacts environnementaux potentiels](http://infoterre.brgm.fr/rapports/RR-39503-FR.pdf)
+    Pages 45-46 du rapport [Les résidus miniers français : typologie et principaux impacts environnementaux potentiels](http://infoterre.brgm.fr/rapports/RR-39503-FR.pdf) publié en juin 1997.
  
     > *Le Drainage Minier Acide ou DMA (AMD en anglais) est un des défis environnementaux majeurs de l’industrie minière. [...] Les réactions chimiques principales qui donnent lieu à un DMA sont l'oxydation du fer, du soufre et surtout de la pyrite, le minéral sulfuré le plus commun. Sous l’action de l’eau et de l’oxygène, les sulfures peuvent alors se transformer en acide sulfurique et attaquer les roches, diminuant drastiquement le pH (pH < 3,5 comparé à un pH neutre égal à 7) et faisant passer en solution des éléments traces métalliques (métaux lourds notamment). La particularité de cette réaction est d’être auto-catalysée, ce qui permet au phénomène de production de DMA de se propager de façon similaire à un incendie [...]. L’écoulement de ce DMA vers le réseau superficiel ou souterrain est une cause fréquente de pollution dans les anciennes zones minières.* 
 
-    Pages 45-46 du rapport [Exploitation minière et traitement des minerais](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf)
+    Pages 45-46 du rapport [Exploitation minière et traitement des minerais](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf) publié en février 2017.
         
 <hr>
 
@@ -307,7 +311,7 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
     À propos de l'ancienne mine d'or et d'arsenic de Salsigne, près de Carcassonne, un rapport du Ministère de l'Aménagement du territoire et de l'Environnement indique en 1998 :  
     > *Compte tenu de la quantité de déchets à traiter, de la surface du site et s'agissant de la pollution laissée par trois quarts de siècles d'activité industrielle, il n'est pas réaliste d'envisager de traiter tous les déchets comme on le ferait pour les déchets produits au jour le jour par une industrie actuellement en activité. [...] Actuellement il ne nous paraît pas possible de supprimer toute pollution des sols.* 
     
-    https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement
+    Source : [Le Site de Salsigne (Aude) : rapport à Mme la ministre de l'aménagement du territoire et de l'environnement et à M. le secrétaire d'Etat à l'industrie. Remis le 1er janvier 1998](https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement)
 
 !!! Compléments "Complément"
 
@@ -326,11 +330,9 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 
 * La base de données ARIA (Analyse, Recherche et Information sur les Accidents) du Bureau d’Analyse des Risques et Pollutions Industriels (BARPI) qui est chargé, au sein du ministère de la Transition écologique / Direction générale de la prévention des risques de rassembler, d’analyser et de diffuser les informations et le retour d’expérience en matière d’accidents industriels et technologiques.
     
-    https://www.aria.developpement-durable.gouv.fr
+    Source : [https://www.aria.developpement-durable.gouv.fr](https://www.aria.developpement-durable.gouv.fr)
 
-* Le rapport du Programme des Nations Unies pour l'Environnement (UNEP) intitulé *Mine tailings storage: safety is no accident*.
-
-    https://www.grida.no/publications/383
+* Le rapport du Programme des Nations Unies pour l'Environnement (UNEP) intitulé [*Mine tailings storage: safety is no accident*](https://www.grida.no/publications/383) publié en 2017.
 
 <hr>
 
@@ -342,14 +344,14 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
        
        > *Le gouvernement, qui qualifie cet événement de plus grande catastrophe environnementale de ce pays », suspend l’autorisation d’exploitation.* 
       
-      https://www.aria.developpement-durable.gouv.fr/accident/47369/  
+      Source : [Rupture de 2 barrages de stériles miniers. ARIA. Novembre 2015](https://www.aria.developpement-durable.gouv.fr/accident/47369/)  
        
        > *Downstream and close to the river mouth, when the river level rises after the rainy season, turbidity increases and metal levels in the water column return to the same level as in November 2015.*  
        
-      Pages 17-19 du rapport *Safety is no accident* de l'UNEP : https://www.grida.no/publications/383  
+      Source : [Pages 17-19 du rapport *Safety is no accident* de l'UNEP. Novembre 2017](https://www.grida.no/publications/383)
 
 !!! Compléments "Complément"
-    Il existe un documentaire sur cette catastrophe : https://www.theguardian.com/film/2023/dec/04/the-safest-place-in-the-world-review-the-true-cost-of-a-lethal-brazilian-dam-collapse
+    Il existe un documentaire sur cette catastrophe disponible que le site du Guardian : [The Safest Place in the World review – the true cost of a lethal Brazilian dam collapse](https://www.theguardian.com/film/2023/dec/04/the-safest-place-in-the-world-review-the-true-cost-of-a-lethal-brazilian-dam-collapse)
 
 <hr>
 
@@ -361,7 +363,7 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
     
     > *Si les causes exactes de mortalité piscicole ne sont pas clairement établies (cyanure ou javel ?), il est toutefois avéré que les polluants ont détruit la quasi-totalité de la faune et de la flore de la TISZA sur près de [^1]600 km en impactant toute la chaîne alimentaire.*
     
-    https://www.aria.developpement-durable.gouv.fr/fiche_detaillee/17265/
+     Source : [Pollution au cyanure en Europe de l’Est. ARIA. Janvier 2000](https://www.aria.developpement-durable.gouv.fr/fiche_detaillee/17265/)  
 
 <hr>
 
@@ -372,11 +374,11 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
     Il s'agit de la rupture d'un barrage près de la mine de cuivre et d'or de Mount Polley au Canada, le 4 août 2014.
        
        > *Une digue d’un bassin de stockage d’effluents miniers d’une mine de cuivre et d’or se rompt. Le contenu (10 millions de mètres cubes d’eau, 13,8 de résidus miniers et 0,6 d’éléments composant la structure du bassin) se déverse dans le ruisseau Hazeltine et les lacs Polley et Quesnel en aval. Le bassin contient du cuivre, du nickel, de l’arsenic, du plomb, du sélénium et du cadmium.[...] En 2013, le bassin en cause avait reçu 326 t de nickel, 177 t de plomb et 18 400 t de cuivre et ses composés.* 
-         
-      https://www.aria.developpement-durable.gouv.fr/accident/45566/
+
+     Source : [Effondrement d’un bassin d’effluents miniers. ARIA. Aout 2014](https://www.aria.developpement-durable.gouv.fr/accident/45566/)  
 
 !!! Compléments "Complément"
-    On trouve des informations supplémentaires dans le rapport *Safety is no accident* de l'UNEP (pages 22-23) : https://www.grida.no/publications/383  
+    On trouve des informations supplémentaires dans le [rapport *Safety is no accident* de l'UNEP (pages 22-23)](https://www.grida.no/publications/383).  
 
 <hr>
 
@@ -387,8 +389,8 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
     Il s'agit de la rupture d'un barrage de résidus d’une mine de fer près de Brumadinho au Brésil, le 25 janvier 2019.
 
        > *Selon les bilans de mai 2019, il est déploré 243 morts, 27 disparus et des centaines de blessés. [...] En février 2021, l’exploitant annonce un accord avec les autorités régionales brésiliennes sur le versement de près de 6 milliards d’euros de dommages “sociaux et environnementaux”.*  
-       
-       https://www.aria.developpement-durable.gouv.fr/accident/53027/
+
+     Source : [Rupture d’un barrage minier. ARIA. Janvier 2019](https://www.aria.developpement-durable.gouv.fr/accident/53027/)  
            
 !!! Compléments "Compléments"
     Des images de la rupture du barrage existent. – https://www.aria.developpement-durable.gouv.fr/accident/53027/
@@ -402,13 +404,14 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
     Il s'agit de la rupture d'une digue près d'une usine d'aluminium à proximité de la ville d'Ajka en Hongrie, le 4 octobre 2010.
     
        > *10 personnes sont tuées et 286 blessées (brûlures chimiques et irritations oculaires) dont 121 hospitalisées.*   
-           https://www.aria.developpement-durable.gouv.fr/fiche_detaillee/39047/
+        Source : [Rupture d’un bassin de boue rouge d’aluminium. ARIA. Octobre 2010](https://www.aria.developpement-durable.gouv.fr/fiche_detaillee/39047/)
            
        > *Cet accident est la plus grave catastrophe industrielle qu’ait connue la Hongrie.*  
-           https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/A39047_ips39047_003.pdf
+        Source : [Rejet massif de boue rouge d'aluminium après rupture d'un bassin de stockage. ARIA. Octobre 2010](https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/A39047_ips39047_003.pdf)
+           
 
 !!! Compléments "Complément"
-    Un reportage de France 2 sur la catastrophe est visible sur le site de la base ARIA :  https://www.aria.developpement-durable.gouv.fr/accident/53027/
+    Un reportage de France 2 sur la catastrophe est visible sur le site de la base ARIA : [Rupture d’un barrage minier. Janvier 2019](https://www.aria.developpement-durable.gouv.fr/accident/53027/)
 
 <hr>
 
