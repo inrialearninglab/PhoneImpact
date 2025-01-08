@@ -13,12 +13,14 @@ Les événements décrits sont parfois réels et parfois fictifs mais ancrés da
 [1] Il faut extraire en moyenne 3 tonnes de roche pour produire 1 g d'or.
 
 !!! Source "Source du ratio *"rock-to-metal"* de l'or"
-    La quantité moyenne de roche à extraire pour produire un gramme de métal s'appelle en anglais le *"rock to metal ratio"*. Ce ratio est indiqué à la table S4 (colonne "*Rock to metal*") du papier https://pubs.acs.org/doi/10.1021/acs.est.1c07875. Le ratio pour l'or (*gold*) est en moyenne de 1 gramme d'or produit pour 3.046.349 grammes, soit 3,6 tonnes, de roche extraite.
+    La quantité moyenne de roche à extraire pour produire un gramme de métal s'appelle en anglais le *"rock to metal ratio"*. Ce ratio est indiqué à la table S4 (colonne "*Rock to metal*") du papier "Rock-to-Metal Ratio: A Foundational Metric for Understanding Mine Wastes" [^rock]. Le ratio pour l'or (*gold*) est en moyenne de 1 gramme d'or produit pour 3.046.349 grammes, soit 3,6 tonnes, de roche extraite.
+[^rock]: *Rock-to-Metal Ratio: A Foundational Metric for Understanding Mine Wastes*. Nedal T. Nassar, Graham W. Lederer, Jamie L. Brainard, Abraham J. Padilla, and Joseph D. Lessard
+Environmental Science & Technology 2022 56 (10), 6710-6721. DOI: 10.1021/acs.est.1c07875. Disponible sur [ACS Publication](https://pubs.acs.org/doi/10.1021/acs.est.1c07875#).
 
 [3] 2005 : l'Union Européenne met en place le marché du carbone, un système d'échange de quotas d'émissions de gaz à effet de serre.
 
 !!! Source "À propos du marché du carbone"
-    Voir par exemple https://www.ecologie.gouv.fr/politiques-publiques/marches-du-carbone-seqe-ue
+    Voir par exemple la note ministérielle "[Marchés du carbone - SEQE-UE](https://www.ecologie.gouv.fr/politiques-publiques/marches-du-carbone-seqe-ue)" publiée en octobre 2023.
 
 [4] 2017 : l’Union Européenne réglemente l’importation de certains minerais en provenance de zones de conflits armés.
 
@@ -33,7 +35,7 @@ Les événements décrits sont parfois réels et parfois fictifs mais ancrés da
     > * _de participer à briser le lien entre les conflits et l’exploitation illégale des minerais;_
     > * _d’aider à mettre fin à l’exploitation des populations locales et aux abus envers celles-ci, y compris les ouvriers miniers, et de soutenir le développement local._
     
-    https://eur-lex.europa.eu/FR/legal-content/summary/responsible-trade-in-minerals-from-high-risk-or-conflict-areas.html
+    Source : synthèse de la législation de l'UE "[Commerce responsable des minerais provenant de zones de conflit ou à haut risque](https://eur-lex.europa.eu/FR/legal-content/summary/responsible-trade-in-minerals-from-high-risk-or-conflict-areas.html)".
  
 [8] 2041 : Depuis quelques temps la teneur des minerais diminue fortement ; produire la même quantité de métal pollue aujourd'hui 2 fois plus qu'avant.
 
@@ -44,3 +46,5 @@ Les événements décrits sont parfois réels et parfois fictifs mais ancrés da
 
 !!! Source "À propos de la dépollutions des anciens sites miniers"
     Voir les sources des cartes Malus [13], [24] et [44].
+
+ 
