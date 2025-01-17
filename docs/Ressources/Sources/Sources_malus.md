@@ -393,7 +393,8 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
      Source : [Rupture d’un barrage minier. ARIA. Janvier 2019](https://www.aria.developpement-durable.gouv.fr/accident/53027/)  
            
 !!! Compléments "Compléments"
-    Des images de la rupture du barrage existent. – https://www.aria.developpement-durable.gouv.fr/accident/53027/
+    Des images de la rupture du barrage existent. – [Rupture d’un barrage minier. ARIA. Janvier 2019](https://www.aria.developpement-durable.gouv.fr/accident/53027/)
+
 
 <hr>
 
@@ -425,9 +426,9 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 !!! Source "Précisions et sources"
     
        * Pour la liste des métaux dont la Chine est le principal producteur, voir la table 5 (colonne _Percentage of world total_) du rapport _"Mineral Commidity Summaries 2024"_ de l'Institut d'études géologiques des États-Unis (USGS)  
-       https://www.usgs.gov/publications/mineral-commodity-summaries-2024
+       Source : [Mineral commodity summaries 2024. USGS Janvier 2024.](https://www.usgs.gov/publications/mineral-commodity-summaries-2024)
 
-    * Pour l'enjeu géopolitique, voir par exemple : https://theconversation.com/terres-rares-notre-ultra-dependance-a-la-chine-et-comment-en-sortir-125855
+    * Pour l'enjeu géopolitique, voir par exemple : [Terres rares : notre ultra-dépendance à la Chine (et comment en sortir).  Olivier Soria, Juliette Grau. The conversation. Octobre 2019](https://theconversation.com/terres-rares-notre-ultra-dependance-a-la-chine-et-comment-en-sortir-125855)
 
 <hr>
 
@@ -437,7 +438,7 @@ Le contenu de ces cartes vient principalement des deux sources suivantes :
 !!! Source "Précisions et source"
     > *Ainsi, d’après le Columbia Center on Sustainable Investment, environ 70 % des exploitations minières des six principales compagnies minières dans le monde sont localisées dans des pays où il existe un stress hydrique.*  
 
-    Section 1.3.2 du rapport https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise  
+    Source : section 1.3.2 du rapport de France Stratégie publié en juin 2020 : [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise)  
     <br>
     Notons que la référence originale pour ce chiffre n'est plus disponible en ligne. 
     
@@ -451,8 +452,8 @@ Des journaux de référence tels que le Guardian et le Monde publient régulièr
 
 Il existe par ailleurs des bases de données qui recensent les conflits environnementaux liés aux mines, par exemple :  
 
-* https://ejatlas.org/category/mineral-ores-and-building-materials-extraction   
-* https://mapa.conflictosmineros.net/ (pour l'Amérique latine)
+* [Carte interactive *Mineral ore exploration and building materials extraction*. EJAtlas](https://ejatlas.org/category/mineral-ores-and-building-materials-extraction)   
+* [Carte interactive *Conflictos Mineros en América Latina*. Observatorio de Conflictos Mineros de América Latina](https://mapa.conflictosmineros.net/) (pour l'Amérique latine)
 
 <hr>
 
@@ -462,12 +463,12 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 !!! Source "Précisions et source"
     > *Au sein des zones politiquement instables, le commerce de minerais tels que [l’étain, du tantale, du tungstène et de l’or] peut servir à financer des groupes armés, engendrer le travail forcé et d’autres atteintes aux droits de l’homme, et favoriser la corruption et le blanchiment d’argent. [...] Ces minerais du conflit sont ensuite utilisés pour la fabrication d’objets du quotidien, comme les téléphones portables, les voitures ou les bijoux.* 
 
-    https://eur-lex.europa.eu/FR/legal-content/summary/responsible-trade-in-minerals-from-high-risk-or-conflict-areas.html
+    Source : [Règlement *Commerce responsable des minerais provenant de zones de conflit ou à haut risque*. site de l'Union européenne](https://eur-lex.europa.eu/FR/legal-content/summary/responsible-trade-in-minerals-from-high-risk-or-conflict-areas.html)
 
 !!! Compléments "Complément"
     Un document du Service de recherche du Parlement européen rédigé en 2015 fournit des informations supplémentaires sur la proposition de règlement européen (qui a finalement été adoptée en 2017).  
     
-       https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/548985/EPRS_BRI(2015)548985_REV1_FR.pdf_
+    Source : [Briefing *Les minéraux des conflits-La proposition de règlement européen*. Parlement européen. Février 2015](https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/548985/EPRS_BRI(2015)548985_REV1_FR.pdf)
 
 <hr>
 
@@ -481,18 +482,18 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
      
      > *Solway [the European-owned business that bought the mine in 2011]’s licence extends over a particularly sensitive region: 247 sq km of densely forested hills that are home to 20 settlements belonging to the Q’eqchi’ people. Some own their land, some are considered squatters. A number sit on, or near, rich nickel deposits. When the settlers of El Paraíso moved here, the mine, which dates to the 1970s, lay dormant. They struck a deal with the government’s land bank, Fondo de Tierras, put up their huts and planted corn. But their crops are now failing. First the plants were stunted; now Choc says they die as seedlings. Choc blames the dust.*
      
-     https://www.theguardian.com/environment/2019/jun/19/guatemalans-pay-price-west-need-nickel
+     Source : [The Guatemalans who pay the price for the west’s need for nickel. The Guardian. Juin 2019](https://www.theguardian.com/environment/2019/jun/19/guatemalans-pay-price-west-need-nickel)
      
      > *A El Estor, dans le sud-est du pays, Fenix, l’un des plus gros gisements de nickel d’Amérique centrale, est accusé de polluer les terres et les eaux alentour.* 
      
      > *Les habitants, en majorité des Mayas de langue kekchie, entretiennent un rapport sacré à cette terre et à cette immense étendue d’eau, aujourd’hui menacée par les rejets résultant de l’activité minière à ciel ouvert. D’aussi loin que remonte la mémoire collective, ils ont subi l’expansion brutale des multinationales minières.* 
      
-     [Mining Secrets » : nouvelles révélations sur les pratiques controversées d’un géant de l’industrie minière au Guatemala. Le Monde. 2022](https://www.lemonde.fr/international/article/2022/03/06/mining-secrets-nouvelles-revelations-sur-les-pratiques-controversees-d-un-geant-de-l-industrie-miniere-au-guatemala_6116375_3210.html)
+     Source : [Mining Secrets » : nouvelles révélations sur les pratiques controversées d’un géant de l’industrie minière au Guatemala. Le Monde. 2022](https://www.lemonde.fr/international/article/2022/03/06/mining-secrets-nouvelles-revelations-sur-les-pratiques-controversees-d-un-geant-de-l-industrie-miniere-au-guatemala_6116375_3210.html)
 
 !!! Compléments "Complément"
     On trouve des informations détaillées concernant le conflit autour de la mine Fenix sur le site web du collectif international de journalistes *Forbidden Stories* qui est à l'origine des articles de presse cités ci-dessus.  
 
-    https://forbiddenstories.org/fr/projects_posts/fr-mining-secrets/
+    Source : [Scandales environnementaux : quand l'union fait la force. Mining Secrets](https://forbiddenstories.org/fr/projects_posts/fr-mining-secrets/)
 
 <hr>
 
@@ -504,7 +505,7 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
     
     > *Panguna was once one of the world’s largest and most profitable copper and goldmines and still contains an estimated 5.3m tons of copper and 19.3m ounces of gold, which would make the reserves worth about $60bn at today’s prices. [...] In 1989, amid rising community anger at the environmental damage and the inequitable division of the mine’s profits, locals forced the mine closed, blowing up Panguna’s power lines and sabotaging operations. The PNG government sent in troops against its own citizens to restart the foreign-owned mine, sparking a bloody, decade-long civil war. [...] The civil war claimed the lives of about 20,000 people and amplified calls for Bougainvillean independence.*
     
-    https://www.theguardian.com/world/2022/feb/11/panguna-mine-at-centre-of-bloody-bougainville-conflict-set-to-reopen-after-30-years
+    Source : [Panguna mine at centre of bloody Bougainville conflict set to reopen after 30 years. The guardian. Février 2022](https://www.theguardian.com/world/2022/feb/11/panguna-mine-at-centre-of-bloody-bougainville-conflict-set-to-reopen-after-30-years)
 
 <hr>
 
@@ -517,7 +518,7 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
 !!! Compléments "Compléments"
 
-    Le rapport "[Mapping community resistance to the impacts and discourses of mining for the energy transition in the Americas](https://miningwatch.ca/node/10804)" documente 25 exemples (listés pages 18-22), dont 2 au Pérou, 5 au Chili et 7 en Argentine, tous liés à l'extraction du cuivre ou du lithium. 
+    Le rapport de Mining Watch "[Mapping community resistance to the impacts and discourses of mining for the energy transition in the Americas](https://miningwatch.ca/node/10804)" publié en mars 2022 documente 25 exemples (listés pages 18-22), dont 2 au Pérou, 5 au Chili et 7 en Argentine, tous liés à l'extraction du cuivre ou du lithium. 
     
     On y lit par exemple :
     
@@ -538,12 +539,11 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
     Voir la figure 1 du papier *Environmental conflicts and defenders: A global overview*, qui s'appuie sur [EJAtlas](https://ejatlas.org/), l'atlas global de la justice environnementale.  
    
-       https://doi.org/10.1016/j.gloenvcha.2020.102104  
+       Source : [Arnim Scheidel, Daniela Del Bene, Juan Liu, Grettel Navas, Sara Mingorría, Federico Demaria, Sofía Avila, Brototi Roy, Irmak Ertör, Leah Temper, Joan Martínez-Alier. *Environmental conflicts and defenders: A global overview*. Global Environmental Change, Volume 63, 2020, 102104, ISSN 0959-3780.](https://doi.org/10.1016/j.gloenvcha.2020.102104)  
        
        > *Mining was still the most culpable industry – connected with the murders of 50 defenders in 2019.*  
        
-       Page 6 du rapport 2020 de l'ONG Global Witness: Defending Tomorrow  
-       https://www.globalwitness.org/en/campaigns/environmental-activists/defending-tomorrow/
+       Source : Page 6 du [rapport 2020 de l'ONG Global Witness: Defending Tomorrow ](https://www.globalwitness.org/en/campaigns/environmental-activists/defending-tomorrow/)
 
 <hr>
 
@@ -557,10 +557,10 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 !!! Source "Sources"
 
     On trouve la liste des mines exploitées en France aujourd'hui sur le site de Mineralinfo, le portail français des ressources minérales non énergétiques.  
-    https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/mines-france
+    Source : [Les mines en France. Mineral info](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/mines-france)
        
     Le chiffre de 6% est calculé à partir des données de la page 123 du rapport 2024 de l'USGS.   
-      https://www.usgs.gov/publications/mineral-commodity-summaries-2024
+     Source : [Mineral commodity summaries 2024. U.S. Geological Survey](https://www.usgs.gov/publications/mineral-commodity-summaries-2024)
 
 <hr>
 
@@ -573,7 +573,7 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
     
     Voir par exemple l'article "L'une des plus grandes mines européennes de lithium va ouvrir en France d'ici 2027".  
 
-    https://www.radiofrance.fr/franceinter/l-une-des-plus-grandes-mines-europeennes-de-lithium-va-ouvrir-en-france-d-ici-2027-3063449
+    Source : [L'une des plus grandes mines européennes de lithium va ouvrir en France d'ici 2027. France Inter. Octobre 2022](https://www.radiofrance.fr/franceinter/l-une-des-plus-grandes-mines-europeennes-de-lithium-va-ouvrir-en-france-d-ici-2027-3063449)
 
 <hr>
 
@@ -584,7 +584,7 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
     > *Si le code minier a progressivement soumis les exploitations à des obligations de remise en état et de surveillance au moment de la cessation d'activité, les nombreux anciens sites miniers, désormais orphelins, n'ont pour la plupart pas fait l'objet d'une telle réhabilitation. La France compte aujourd'hui 1 850 sites miniers, parmi lesquels seulement 225 font toujours l'objet d'un titre d'exploitation valide.* 
 
-    https://www.senat.fr/rap/r19-700-1/r19-700-114.html#toc638
+    Source : Rapport de commission d'enquête du sénat ["Pollutions industrielles et minières des sols : assumer ses responsabilités, réparer les erreurs du passé et penser durablement l'avenir Tome I"](https://www.senat.fr/rap/r19-700-1/r19-700-114.html#toc638). Septembre 2020
 
     En ce qui concerne les pollutions majeures, voir le cas de l'ancienne mine de Salsigne, malus [45]. 
     
@@ -599,20 +599,20 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
     
     > *Le niveau de 50 mg d'arsenic par litre est largement dépassé dans le Grésillou à son confluent avec l'Orbiel à Lastours et ce même niveau est souvent dépassé à Conques, ce niveau est dépassé dans un puits communal à Conques. Il a été constaté que certains légumes cultivés sur des sols inondables en bordure de l'Orbiel ou arrosés avec de l'eau venant de l'Orbiel, ou de puits proches de l'Orbiel et de ses affluent qui coulent près du site de Salsigne, contenaient des teneurs anormales en métaux et arsenic. Un arrêté interministériel du 30 mai 1997 a interdit la mise sur le marché des légumes feuilles (salades, etc.) concernés pour une durée de un an.* 
     
-    https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement
+    Source : [Le Site de Salsigne (Aude) : rapport à Mme la ministre de l'aménagement du territoire et de l'environnement et à M. le secrétaire d'Etat à l'industrie](https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement). Janvier 1998 
 
 !!! Compléments "Complément"
 
-    * Pour des précisions sur les recommandations sanitaires de l'Agence Régionale de Santé Occitanie en 2019, voir : https://www.occitanie.ars.sante.fr/system/files/2019-06/2019_Recommandations%20sanitaires%20%C3%A0%20la%20population.pdf 
+    * Pour des précisions sur les recommandations sanitaires de l'Agence Régionale de Santé Occitanie en 2019, voir : [Recommandations sanitaires vallée de l’Orbiel- Mars 2019. A l’attention des communes de : VILLARDONNEL, SALSIGNE, VILLANIERE, LASTOURS, CONQUES/ORBIEL, VILLALIER et TREBES pour les parcelles ayant été inondées par l’Orbiel ou ses affluents. Agence régionale de santé occitanie](https://www.occitanie.ars.sante.fr/system/files/2019-06/2019_Recommandations%20sanitaires%20%C3%A0%20la%20population.pdf). 
 
-    * Pour plus d'informations sur les conséquences sanitaires sur la population de la mine, voir : https://www.ladepeche.fr/article/2013/03/21/1587889-salsigne-quand-la-mine-dort-la-pollution-veille.html  
+    * Pour plus d'informations sur les conséquences sanitaires sur la population de la mine, voir : [Salsigne. Quand la mine dort, la pollution veille. La dépêche. Janvier 2025](https://www.ladepeche.fr/article/2013/03/21/1587889-salsigne-quand-la-mine-dort-la-pollution-veille.html)  
         On y lit entre autres :
         
         > *Chaque année la montagne rejette dans la rivière Orbiel 3 650 kg d'arsenic. [...] Mille ans seront nécessaires pour faire table rase des scories.*
     
     * On trouve également des informations très détaillées dans une présentation de l'association France Nature Environnement sur la situation en 2021 
     
-        https://fne-ocmed.fr/wp-content/uploads/2021/02/presentation_Oge_salsigne.pdf  
+        Source : [La gestion du passif minier - Tirer les leçons des erreurs du passé. Association France Nature Environnement. Janvier 2021](https://fne-ocmed.fr/wp-content/uploads/2021/02/presentation_Oge_salsigne.pdf)  
         
         On y trouve entre autres cette citation d'un [rapport de la cour des Comptes de 2003](https://www.ccomptes.fr/sites/default/files/EzPublish/Salsigne.pdf)  (page 361):
         > *L’extraction de l’or produisant des déchets à forte composante en arsenic, le site est aujourd’hui, selon le ministère de l’écologie et du développement durable, l’un des plus pollués de France.*  
@@ -630,20 +630,21 @@ Il existe par ailleurs des bases de données qui recensent les conflits environn
 
       > *Plusieurs demandes de permis d'exploration sont en cours d'instruction.*  
       
-      https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/potentiel-du-sous-sol-francais
+      Source : [Le potentiel du sous-sol français. Mineral info](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/potentiel-du-sous-sol-francais)
 
 ## Malus Géographie 
 
 Pour toutes ces cartes :
 
 * Les chiffres concernant la production des différents métaux viennent de la table 5 (colonne *Percentage of world total*) du rapport *"Mineral Commidity Summaries 2024"* de l'Institut d'études géologiques des États-Unis (USGS).  
-    https://www.usgs.gov/publications/mineral-commodity-summaries-2024
+  Source : [Mineral commodity summaries 2024. U.S. Geological Survey](https://www.usgs.gov/publications/mineral-commodity-summaries-2024)
 
 <a href="./img/production-2023-USGS.png"> <img src="./img/production-2023-USGS.png" width="linewidth"/></a>
 
 * Les informations concernant l'utilisation des métaux dans les smartphones sont issues de l'outil interactif développé par ISF SystExt (Ingénieurs sans frontières Systèmes extractifs et environnements).  
-    https://www.systext.org/sites/all/animationreveal/mtxsmp/#/
-    Attention, ces informations sont à prendre avec précaution car la composition précise des smartphones n'est que rarement et partiellement connue, sachant qu'elle varie en fonction des smartphones et évolue rapidement avec l'évolution des technologies. Voir la fiche détaillée sur les métaux dans les smartphones pour plus d  
+    Source : [Inforgraphie Des métaux dans mon smartphone ?. Systext. Avril 2017](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/)
+    
+     Attention, ces informations sont à prendre avec précaution car la composition précise des smartphones n'est que rarement et partiellement connue, sachant qu'elle varie en fonction des smartphones et évolue rapidement avec l'évolution des technologies. Voir la fiche détaillée sur les métaux dans les smartphones pour plus d  
 
 <hr>
 
@@ -671,8 +672,7 @@ Pour toutes ces cartes :
     [51] La <b>Chine</b> est le premier producteur mondial de <b>terres rares</b> (69% de la production mondiale en 2023, contre 98% en 2010). On trouve des terres rares dans la carte mère et l'écran des smartphones.
 
 !!! Source "Source pour la production en 2010"
-    La part de la Chine dans la production mondiale de terres rares est indiquée dans le rapport 2010 (page 129)  
-    https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/mcs/mcs2011.pdf
+    La part de la Chine dans la production mondiale de terres rares est indiquée dans le [rapport 2011 de l'USGS (page 129)  Mineral commodity](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/mcs/mcs2011.pdf)
 
 <hr>
 
@@ -702,9 +702,9 @@ Pour toutes ces cartes :
 
     * Le graphique suivant montre que la teneur moyenne en cuivre des minerais extraits (*"copper ore grade"*) est passée de 4% à 1% entre 1900 et 2010. Comme indiqué dans le malus [30], la teneur actuelle du minerai de cuivre est de 0,6% en moyenne.
     
-    <a href="./img/ore-grade-copper.jpg"> <img src="./img/ore-grade-copper.jpg" width="linewidth"/></a>
+    <a href="./img/ore-grade-copper.jpg"> <img src="./img/ore-grade-copper.jpg" width="linewidth" alt="Declining copper ore grades"/></a>
     
-    https://www.grida.no/resources/6291
+    Source : [Declining copper ore grades. Grid Arendal](https://www.grida.no/resources/6291)
 
     * Le graphique suivant montre l'évolution depuis 1970 de la teneur moyenne de différents minerais : nickel, cuivre (*copper*), plomb (*lead*), or (*gold*).
     
@@ -712,7 +712,7 @@ Pour toutes ces cartes :
         <a href="./img/ore-grade-metals.jpg"> <img src="./img/ore-grade-metals.jpg" width="500"/></a>
     </figure>
     
-    https://www.grida.no/resources/6292
+    Source : [Average ore grades over time. Grid Arendal](https://www.grida.no/resources/6292)
 
 <hr>
 
@@ -720,7 +720,7 @@ Pour toutes ces cartes :
     [32] Les <b>terres rares</b> (à ne pas confondre avec les métaux rares !) sont des métaux assez abondants dans la croûte terrestre mais avec une teneur très faible.
 
 !!! Source "Source"
-    Voir le glossaire.
+    Voir le [glossaire](../Glossaire.md).
         
 <hr>
 
@@ -731,7 +731,7 @@ Pour toutes ces cartes :
 
     > *L'exploitation minière à ciel ouvert est la méthode la plus couramment utilisée dans le monde pour l'extraction des minéraux : 57% des mines du monde sont exploitées à ciel ouvert en nombre, et 88% en production.* 
 
-    Page 48 du rapport https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf
+    Page 48 du rapport [Étude des risques environnementaux, socio-sociétaux et juridiques des approvisionnements en minerais stratégiques pour les transitions énergétique et numérique. Record. Septembre 2023](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)
     
 <hr>
 
@@ -752,9 +752,9 @@ Pour toutes ces cartes :
     
     On y lit également :
      >  *La production de cuivre [de l'entreprise Glencore] a donné, en 2023, une co-production de 156 600 t de zinc, 38 800 t de cobalt, 292 t d’argent et 4,29 t d’or. Par ailleurs, la production de zinc a donné une coproduction de 106 500 t de cuivre.* 
-     
-    https://lelementarium.fr/element-fiche/cuivre/
-   
+
+    Source : [L'élémentarium (Société chimique de France, Education nationale)](https://lelementarium.fr/element-fiche/cuivre/)
+
 <hr>
 
 !!! Tip ""
@@ -764,7 +764,7 @@ Pour toutes ces cartes :
     
     > *Les "mines" sont les exploitations, sous-terre ou à ciel ouvert, de gisements définis par une liste figurant dans le code minier (sel, minerais métalliques, gaz et énergies fossiles...). Tout autre activité terrestre d'extraction de minéraux est une "carrière". [...] D’une manière générale, les substances de mines se distinguent par une relative rareté à l’échelle nationale et une importance économique accrue, voire stratégique, qui justifie que leur gestion soit confiée à l’État et non laissée à la libre disposition du propriétaire du sol. Toutes les autres substances relèvent de la classe des carrières et sont laissées à la libre disposition du propriétaire du sol.* 
     
-       https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/mines-france
+    Source : [Les mines en France. Mineral info](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/mines-france)
 
 <hr>
 
@@ -775,9 +775,9 @@ Pour toutes ces cartes :
     
     > *Le gallium ne forme pas de gisements économiquement exploitables à l’état naturel, et provient en grande majorité de la filière de production d’aluminium (sous-produit du raffinage de la bauxite en alumine).* 
     
-       https://www.mineralinfo.fr/fr/substance/gallium-ga
+    Source : [Gallium (Ga). Mineral info](https://www.mineralinfo.fr/fr/substance/gallium-ga)
        
-       Dans le cas général, on trouve une liste des métaux du système périodique qui sont principalement obtenus comme des sous-produits dans la Figure 1 du papier [*Article By-product metals are technologically essential but have problematic supply*](10.1126/sciadv.1400180). Parmi ces métaux on trouve un grand nombre de métaux présents dans les smartphones, comme le cobalt, le germanium, le zirconium, l'indium, les terres rares...
+       Dans le cas général, on trouve une liste des métaux du système périodique qui sont principalement obtenus comme des sous-produits dans la Figure 1 du papier [*Article By-product metals are technologically essential but have problematic supply*, NT Nassar, 2015](https://www.science.org/doi/10.1126/sciadv.1400180). Parmi ces métaux on trouve un grand nombre de métaux présents dans les smartphones, comme le cobalt, le germanium, le zirconium, l'indium, les terres rares...
        
       <figure markdown="span">
            <a href="./img/by-products.png"> <img src="./img/by-products.png" width="linewidth"/></a>
@@ -793,7 +793,7 @@ Pour toutes ces cartes :
 
 !!! Source "Précisions et source"
     
-    La teneur en métal des différents minerais est indiquée à la table S4 (colonne "_Ore grade_") du papier https://pubs.acs.org/doi/10.1021/acs.est.1c07875. La teneur en fer (_iron_) d'un minerai est en moyenne de 44,81%, celle en or (_gold_) est de 0,00008%.
+    La teneur en métal des différents minerais est indiquée à la table S4 (colonne "_Ore grade_") du papier [*Rock-to-Metal Ratio: A Foundational Metric for Understanding Mine Wastes*, NT Nassar, 2022](https://pubs.acs.org/doi/10.1021/acs.est.1c07875). La teneur en fer (_iron_) d'un minerai est en moyenne de 44,81%, celle en or (_gold_) est de 0,00008%.
     <a href="./img/RMR.png"> <img src="./img/RMR.png" width="linewidth"/></a>
 
 <hr>
@@ -817,7 +817,7 @@ Pour toutes ces cartes :
 
 !!! Source "Précisions et source"
     Cette photo montre le lac de résidus miniers de la mine de cuivre et zinc d'Antamina au Pérou.  
-    https://fr.wikipedia.org/wiki/Barrage_d%27Antamina
+    Source : [page wikipedia de "Barrage d'Antamina"](https://fr.wikipedia.org/wiki/Barrage_d%27Antamina)
 
 <hr>
 
@@ -826,7 +826,7 @@ Pour toutes ces cartes :
 
 !!! Source "Précisions et source"
     Cette photo a été prise suite à la rupture du barrage de Brumadinho au Brésil le 25 janvier 2019, voir malus [40].  
-    https://fr.wikipedia.org/wiki/Rupture_du_barrage_de_Brumadinho
+    Source : [page wikipedia de "Rupture du barrage de Brumadinho"](https://fr.wikipedia.org/wiki/Rupture_du_barrage_de_Brumadinho)
 
 <hr>
 
@@ -835,7 +835,7 @@ Pour toutes ces cartes :
 
 !!! Source "Précisions et source"
     Cette photo montre la mine de cuivre de Roșia Poieni en Roumanie.  
-    https://fr.wikipedia.org/wiki/Mine_de_Ro%C8%99ia_Poieni
+    Source : [page wikipedia de "Mine de Roșia Poieni"](https://fr.wikipedia.org/wiki/Mine_de_Ro%C8%99ia_Poieni)
 
 <hr>
 
@@ -844,7 +844,7 @@ Pour toutes ces cartes :
 
 !!! Source "Précisions et source"
     Cette photo montre une mine de coltan près de Rubaya dans le Nord-Kivu en République Démocratique du Congo.  
-    https://fr.wikipedia.org/wiki/Coltan
+    Source : [page wikipedia de "Coltan"](https://fr.wikipedia.org/wiki/Coltan)
 
 <hr>
 
@@ -853,5 +853,5 @@ Pour toutes ces cartes :
 
 !!! Source "Précisions et source"
     Cette photo montre la mine de lithium de Silver Peak dans le Nevada aux États-Unis.  
-    https://www.istockphoto.com/fr/photo/mine-de-lithium-de-pic-dargent-gm1392927082-449013842
+    Source : [Mine de lithium de pic d’argent. @simonkr. istockphoto](https://www.istockphoto.com/fr/photo/mine-de-lithium-de-pic-dargent-gm1392927082-449013842)
 
