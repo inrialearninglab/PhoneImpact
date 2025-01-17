@@ -853,5 +853,5 @@ Pour toutes ces cartes :
 
 !!! Source "Précisions et source"
     Cette photo montre la mine de lithium de Silver Peak dans le Nevada aux États-Unis.  
-    Source : [Mine de lithium de pic d’argent. @simonkr. istockphoto](https://www.istockphoto.com/fr/photo/mine-de-lithium-de-pic-dargent-gm1392927082-449013842)
+    Source : [Mine de lithium de pic d’argent. Référence de la photo :1392927082 @simonkr. istockphoto](https://www.istockphoto.com/fr/photo/mine-de-lithium-de-pic-dargent-gm1392927082-449013842)
 
