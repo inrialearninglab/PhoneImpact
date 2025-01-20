@@ -1,4 +1,4 @@
-# Débrief : terminer l'activité (≈ 30 minutes)
+# Débrief 30' : terminer l'activité
 Une fois la phase de jeu terminée, il est essentiel de mener un débriefing pour recueillir les ressentis, les enseignements, et permettre une remise en perspective des informations abordées pendant la session. Ce temps d'échange est un moment clé pour ancrer les apprentissages, favoriser la discussion et répondre aux questions des participants.
 
 !!! exemple "Ceci est une proposition de debrief !"

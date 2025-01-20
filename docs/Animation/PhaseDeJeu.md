@@ -1,4 +1,4 @@
-# Phase de jeu (≈ 40 minutes)
+# Phase de jeu 40' : animer
 !!! tip "Conseils"
     Voici quelques conseils pour faciliter le **déroulement de la partie**. Vous aurez sûrement d'autres astuces ou propositions, n'hésitez pas à les partager avec les autres personnes qui animent le jeu (Cf [Contacts](../Contacts.md)).
 

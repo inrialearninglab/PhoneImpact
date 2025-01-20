@@ -4,7 +4,7 @@
 
     PhoneImpact est un **jeu pédagogique**, il s’accompagne donc d’**objectifs pédagogiques** pouvant s’intégrer facilement dans plusieurs **disciplines scolaires**, allant de la fin du **collège** (cycle 4) au **lycée**, conformément aux **programmes de l’éducation nationale**.
  
-## **I - Collège - Cycle 4 (5e, 4e et 3e)**
+## **I - COLLÈGE - CYCLE 4 (5e, 4e et 3e)**
 
 Selon le [Bulletin Officiel de l’Éducation Nationale n° 31 du 30 juillet 2020](https://eduscol.education.fr/document/621/download) (dernier programme en vigueur)
 
@@ -58,7 +58,7 @@ Le jeu se rapproche des 2 thématiques suivantes :
         - La matière constituant la Terre et les étoiles. 
         - Les éléments sur Terre et dans l’Univers (hydrogène, hélium, éléments lourds : oxygène, carbone, fer, silicium, terres rares…)
 
-## **II - Lycée général et technologique**
+## **II - LYCÉE GÉNÉRAL ET TECHNOLOGIQUE**
 
 Selon le [Bulletin Officiel spécial n°1 du 22 janvier 2019](https://www.education.gouv.fr/sites/default/files/imported_files/documents/SP1_MEN_22_1_2019_10H40_1064060.pdf)  (dernier programme en vigueur)
 
