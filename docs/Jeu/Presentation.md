@@ -21,6 +21,7 @@ S'appuyant sur la définition du jeu proposée par Gilles Brougère, "_une activ
 Grâce à des mécanismes ludiques, il stimule l’intérêt et favorise une immersion totale, tout en intégrant des objectifs pédagogiques.
 
 Pour répondre précisément aux besoins des apprenant·es ou des utilisateur·rices, le jeu sérieux adapte sa conception et ses mécaniques pour :  
+
 - transmettre des connaissances théoriques,  
 - développer des compétences pratiques,  
 - sensibiliser à des enjeux sociaux.  
