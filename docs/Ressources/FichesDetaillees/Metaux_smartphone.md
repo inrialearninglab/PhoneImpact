@@ -1,5 +1,5 @@
 ---
-title: "🚧 De quoi est fait un smartphone"
+title: "🚧 De quoi est fait un smartphone ?"
 ---
 # 🚧 Les métaux dans les smartphones
 
@@ -8,12 +8,113 @@ title: "🚧 De quoi est fait un smartphone"
 
 Un smartphone est principalement constitué de métaux, de matières plastiques et de matériaux céramiques (en particulier du verre). En 1950, on dénombrait une douzaine de métaux dans nos bons vieux téléphones fixes. Le smartphone d'aujourd'hui, beaucoup plus petit et fin, contient plus de 50 métaux : une condition pour avoir toutes les fonctionnalités de nos équipements !
  
- <a href="./img/etapes_extraction_mine.png"> <img src="./img/etapes_extraction_mine.png" width="linewidth"/></a>
-  
-## Classification des métaux
-  
+  NB : usages dispersifs
 
-## Des métaux communs
+## Généralités
+### Qu'est-ce qu'un métal ?
+Élément du système périodique versus notion physique
+
+Notions géologiques et physiques
+* minéral
+* métal
+* élément
+
+## Classifications des métaux
+réalité industrielle (métaux de base et métaux précieux) et en partie à une réalité physico-chimique (terres rares)
+
+* métaux rares
+* métaux précieux
+* terres rares
+* métaux lourds
+
+### Métaux de base
+
+> _Il n’existe pas de classification absolue des métaux cependant on peut distinguer quatre grandes familles industrielles qui peuvent être utilisées pour définir les champs d’analyse ou de description lorsqu’il n’est pas fait recours à des listes précises :_
+> 
+> * _Les métaux de base : Fe, Al, Ti, Mg, Mn, Cr, Zn, Pb, Cu, Ni, Sn_
+> * _Les métaux précieux : Au, Ag, Pt, Pd, Ir, Os, Rh, Ru_
+> * _Les métaux de l’énergie nucléaire que sont les actinides : U, Th, Pu_
+> * _Les métaux de spécialité : tous les autres_
+
+Source : [Fiche technique de ADEME : _l'épuisement des métaux et minéraux : faut il s'en inquiéter ?_](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/ademe_epuisement-metaux-mineraux-201706-fiche-techniquev2.pdf), juin 2017
+
+### Métaux précieux
+
+Voir ci-dessus. Voir également :
+
+> _Les éléments du groupe du platine, ou platinoïdes, sont six métaux voisins dans le tableau de Mendeleïev, le ruthénium (Ru), le rhodium (Rh), le palladium (Pd), l'osmium (Os), l'iridium (Ir) et le platine (Pt). \[...\] Les platinoïdes sont considérés comme des métaux précieux, avec l'or et l'argent._
+
+Source : [Rapport _Platinoïdes : le BRGM publie un nouveau panorama sur les métaux du groupe du platine_](https://www.mineralinfo.fr/fr/actualite/actualite/platinoides-brgm-publie-un-nouveau-panorama-sur-metaux-du-groupe-du-platine), février 2014
+
+### Terres rares
+
+Les terres rares sont les métaux de la famille des lanthanides auxquels on ajoute communément le scandium et l'yttrium, formant ainsi un ensemble aux propriétés voisines : scandium (Sc), yttrium (Y), lanthane (La), cérium (Ce), praséodyme (Pr), néodyme (Nd), prométhium (Pm), samarium (Sm), europium (Eu), gadolinium (Gd), terbium (Tb), dysprosium (Dy), holmium (Ho), erbium (Er), thulium (Tm), ytterbium (Yb), lutécium (Lu).
+
+Précisions et source
+
+> _Les terres rares représentent le groupe des lanthanides (éléments de numéros atomiques compris entre 57 et 71, du lanthane au lutécium) auquel on ajoute, du fait de propriétés chimiques voisines (même colonne de la classification périodique), l’yttrium (Y) et le scandium (Sc)._
+
+Source : [L'élémentarium (Société chimique de France, Education nationale)](https://lelementarium.fr/product/terres-rares/), 2024
+
+### Autres métaux[¶](http://localhost:8000/serious-game/smartphone/Ressources/Sources/Sources_plateau.html#autres-metaux "Permanent link")
+
+Parmi les autres métaux présents dans un smartphone, on compte par exemple : lithium (Li), cobalt (Co), tantale (Ta), indium (In), antimoine (Sb), tungstène (W), gallium (Ga), germanium (Ge), silicium (Si)… comme détaillé ci-dessous.
+
+## Quels métaux dans les smartphones ?
+
+Le plateau Smartphone indique que les différentes ressources sont toutes nécessaires à la fabrication de chaque composant, à l'exception des terres rares et des métaux précieux pour la batterie et la coque.
+
+Source principale
+
+Systext a fourni en 2017 une [infographie détaillée](https://www.systext.org/node/1724) des éléments chimiques généralement présents dans un smarphone.
+
+[](http://localhost:8000/serious-game/smartphone/Ressources/Sources/img/systext.png)[![](http://localhost:8000/serious-game/smartphone/Ressources/Sources/img/systext.png)](http://localhost:8000/serious-game/smartphone/Ressources/Sources/img/systext.png)
+
+Si l'on distingue les différents types de métaux et les autres éléments chimiques présents dans chaque composant, on obtient ainsi :
+
+**Carte mère (carte et composants)**
+
+* Métaux communs : Cu, Fe, Ni, Pb, Sn
+* Métaux précieux : Ag, Au, Pd, Pt, Rh
+* Terres rares : Dy, Nd, Pr, Sm
+* Autres métaux : As, B, Be, Bi, Co, Ga, Ge, Nb, Ru, Ta, Si, W, Zr
+* Autres éléments chimiques : Cl, P
+
+**Batterie**
+
+* Métaux communs : Al, Mn
+* _Pas de métaux précieux_
+* _Pas de terres rares_
+* Autres métaux : Co, Li, V
+* Autres éléments chimiques : C, F, P
+
+**Coque (boîtier)**
+
+* Métaux communs : Ni, Mg, Zn
+* _Pas de métaux précieux_
+* _Pas de terres rares_
+* Autres métaux : Sb
+* Autres éléments chimiques : Br, C
+
+**Écran tactile (dalle tactile + vitre + écran)**
+
+* Métaux communs : Al, Mg, Sn
+* _Pas de métaux précieux_
+* Terres rares : Eu, Ce, Gd, La, Tb, Tm, Y
+* Autres métaux : Ba, Hg, In, Mo, Si
+* Autres éléments chimiques : B, K, S
+
+On constatera une différence avec le plateau smartphone : l'absence de métaux précieux dans l'écran tactile. Nous avons fait le choix de mettre en évidence la présence croissante d'électronique (riche en métaux précieux) directement associée aux écrans, comme par exemple dans les iPhones récents qui intègrent à l'écran une puce de reconnaissance faciale (source : [ifixit. _Apple’s New Screen Repair Trap Could Change the Repair Industry Forever_](https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever#), novembre 2021).
+
+Complément
+
+Une [étude de l'ADEME d'octobre 2024](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique et fournit un état de l'art sur les impacts environnementaux et besoins associés.
+
+Les métaux indiqués présents dans un smartphone (pages 186-188 du fichier Recueil-fiches-Equipement.pdf) diffèrent en partie de ceux de l'étude Systext sans qu'il soit aisé d'expliquer ces différences car la composition précise des smartphones n'est que rarement et partiellement connue, et les sources utilisées dans les deux études ne sont donc pas comparables. L'information importante à retenir est la grande diversité des métaux présents dans un smartphone, et la grande variété de leurs usages.
+
+## Quels usages de ces métaux ?
+
+### Des métaux communs
 
 Aussi appelés "métaux de base", ces métaux sont utilisés communément dans l'industrie. Certains peuvent demander une grande quantité d’énergie pour être extraits et raffinés.
 Les métaux communs composent la majorité des métaux d'un smartphone.
@@ -56,7 +157,7 @@ A noter que l'IFPEN liste également dans cette catégorie :
 - Plomb (Pb)
 
 
-## Des métaux précieux
+### Des métaux précieux
 
 La notion de préciosité n'est pas une notion chimique, c'est une notion stratégique qui a vocation à évoluer au cours du temps. Il ne faut pas confondre préciosité et rareté. La rareté d’un métal peut impliquer sa préciosité, mais c'est surtout son prix, et donc la demande et les stocks disponibles, qui détermine sa préciosité.
 
@@ -94,15 +195,13 @@ A noter que l'IFPEN liste également dans cette catégorie :
 - Osmium (Os)
 - Rhodium (Rh)
 
-## Des terres rares
+### Des terres rares
 
 Malgré leur nom, les terres rares sont assez abondantes dans la croûte terrestre mais difficiles à extraire. Leur extraction génère des déchets radioactifs. Les extraire nécessite des procédés complexes et très polluants. 
 
 Il s'agit en fait principalement de la famille des lanthanides à laquelle on ajoute communément le scandium et l'yttrium. Ces 17 métaux forment ainsi un [ensemble aux propriété voisines][terres_rares].
 
 Ce sont des métaux chimiquement assez réactifs et disposant de propriétés électromagnétiques, électroniques, magnétiques, optiques ou encore catalytiques les rendant indispensables pour des fabrications de haute technologie. Ils servent à fabriquer des aimants, nécessaires à la production de la vibration de nos smartphone; à donner des couleurs plus belles et plus variées aux LED de nos écrans. Moins de 0,1 % (en poids) des métaux constituant mon smartphone sont des terres rares.
-
-Essentiellement produites en Chine, les terres rares sont également sur la liste des matières premières critiques pour l'économie européenne. Leur taux de recyclage est inférieur à 1%.
 
 Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des terres rares prises en compte :
 
@@ -122,34 +221,15 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 
     Le praséodyme est utilisé pour créer des alliages avec le néodyme pour former des aimants NdFeB, qui sont parmi les plus puissants aimants permanents disponibles. Ces aimants sont utilisés dans de nombreux dispositifs, y compris les moteurs électriques, les générateurs d'éoliennes et les disques durs d'ordinateurs.  Le praséodyme est apprécié dans le secteur numérique pour ses propriétés optiques, magnétiques, électriques et chimiques. C'est un métal ductile et malléable qui, en raison de sa réactivité, développe une couche d'oxyde verte lorsqu'il est exposé à l'air. On le retrouve dans les composants électroniques et les dispositifs de stockage de données.
 
-A noter que l'IFPEN liste également dans cette catégorie :
-
-- Lanthane (La)
-- Cérium (Ce)
-- Samarium (Sm)
-- Europium (Eu)
-- Gadolinium (Gd)
-- Terbium (Tb)
-- Erbium (Er)
-- Holmium (Ho)
-- Thulium (Tm)
-- Ytterbium (Yb)
-- Lutécium (Lu)
-- Scandium (Sc)
-- Prométhium (Pm)
-
-## D'autres métaux
-Un smartphone contient également de nombreux autres métaux qui ne sont ni communs, ni précieux ni des terres rares. Ils sont les plus nombreux.
-
+### Le cas du silicium
 A noter que le Silicium se retrouve dans cette catégorie bien qu'il soit très abondant dans la croûte terrestre, sachant qu'il n'est de toute façon pas extrait en mine. 
+
+### D'autres métaux
+Un smartphone contient également de nombreux autres métaux qui ne sont ni communs, ni précieux ni des terres rares. Ils sont les plus nombreux.
 
 Ce sont des métaux spéciaux dont les propriétés physico-chimiques permettent l'implémentation de nombreuses fonctionnalités d’un smartphone. Le tantale, par exemple est extrêmement résistant et permet la miniaturisation. On les retrouve en seconde position dans la composition du smartphone (autour de 16% en poids des métaux).
 
-Cependant, avec le développement des nouvelles technologies, l'utilisation de ces métaux a explosé. Ils sont aujourd'hui sur la liste des matières premières critiques pour l'économie européenne, lancée en 2008 et mise à jour tous les trois ans par la Commission européenne. Ces matières premières  essentielles pour l'économie, présentent un risque élevé de pénurie d'approvisionnement dans les 10 prochaines années. Ce risque peut-être lié à des enjeux économiques, géostratégiques, sociaux, sanitaires, énergétiques ou environnementaux.
-
-Pour la plupart des métaux rares, il n’y a pas ou peu de recyclage.
-
-Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux rares pris en compte :
+Parmi les métaux considéré dans la préparation de ce jeu, voici la liste des métaux rares pris en compte :
 
 - Antimoine (Sb) 
 
@@ -187,48 +267,6 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 
     Le silicium métal utilisé dans les équipements numériques est du polysilicium affiné à un niveau de pureté extrême de 10N à 13N . Il est apprécié dans la microélectronique pour ses propriétés semi-conductrices utiles au fonctionnement des circuits intégrés, au stockage et à la transmission d’information.
 
-On retrouve également dans cette catégorie :
-
-- Béryllium (Be)
-- Sodium (Na)
-- Potassium (K)
-- Calcium (Ca)
-- Vanadium (V)
-- Rubidium (Rb)
-- Strontium (Sr)
-- Zirconium (Zr)
-- Nobium (Nb)
-- Molybdène (Mo)
-- Technétium (Tc)
-- Cadmium (Cd)
-- Cézium (Cs)
-- Baryum (Ba)
-- Hafnium (Hf)
-- Rhénium (Re)
-- Mercure (Hg)
-- Thallium (Tl)
-- Bismuth (Bi)
-- Polonium (Po)
-- Francium (Fr)
-- Radium (Ra)
-- Rutherfordium (Rf)
-- Dubnium (Db)
-- Seaborgium (Sg)
-- Bohrium (Bb)
-- Hassium (Hs)
-- Copernicium (Cn)
-
-A noter que la famille des Actinides (AC, Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr) sont catégorisés à part par l'IFPEN, comme étant les métaux de l'énergie nuclaire.
-
-Nous avons fait le choix de prendre en compte une toute récente [étude de l'ADEME](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) sur les impacts environnementaux du numérique et besoins en métaux, qui considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique.
-
-**Métaux de base** : aluminium (Al), cuivre (Cu), étain (Sn), magnésium (Mg), manganèse (Mn), nickel (Ni), zinc (Zn)
-
-**Métaux précieux** : argent (Ag), or (Au), palladium (Pd), platine (Pt), ruthenium (Ru) 
-
-**Terres rares** : dyprosium (Dy), néodyme (Nd), praséodyme (Pr), yttrium (Y) 
-
-**Autres métaux** : antimoine (Sb), cobalt (Co), gallium (Ga), germanium (Ge), indium (In), lithium (Li), tantale (Ta), tungstène (W), silicium (Si)
 
 
 ## Ressources
@@ -245,5 +283,34 @@ Nous avons fait le choix de prendre en compte une toute récente [étude de l'AD
 
 [IFPEN]: https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/climat-environnement-et-economie-circulaire/les-metaux-transition-energetique#Les%20m%C3%A9taux%20:%20quelques%20d%C3%A9finitions
 [terres_rares]: https://www.ifpenergiesnouvelles.fr/article/les-terres-rares-transition-energetique-quelles-menaces-les-vitamines-lere-moderne
+
+
+# Usages des métaux mais pas que
+* Antimoine → dopant pour les IC
+* Argent → conducteur électrique
+* Arsenic → LED, dopant pour les IC
+* Bore → dopant pour les IC
+* Cobalt  → batteries lithium-ion, conducteur électrique (à la place du cuivre)
+* Cuivre → conducteur électrique
+* Epoxy → circuits imprimés 
+* Étain → écrans tactiles
+* Gallium (extrait du minerai d'aluminium) → LED, dopant pour les IC, wafer
+* Hafnium → isolation des transistors
+* Indium → écrans tactiles, dopant pour les IC
+* Lithium → batteries lithium-ion
+* Néodyme, praséodyme, terbium et dysprosium → production des vibrations dans les aimants
+* Or → conducteur électrique
+* Palladium → conducteur électrique
+* Phosphore → LED, dopant pour les IC
+* Ruthénium → conducteur électrique (à la place du cuivre)
+* Silicium → wafer
+* Tantale → condensateurs
+* Titane → connexion entre transistors
+* Tungstène → amplification des vibration dans les aimants, connexion entre transistors
+* Yttrium, cérium, europium ou terbium, mais aussi lanthane et gadolinium → LED
+* Germanium → wafer
+
+- La grande diversité de métaux dans un smartphone Refs : EuChems, Orange dans le rapport du Sénat, aller chercher du côté du Fraunhofer https://www.youtube.com/watch?v=9-2b-Xrmzgc&list=PLWMNQf5APHgKSwbX6RYvqHpKRzn2T3LvU&index=16
+	* Question subsidiaire : usage diffus ou pas ? cf usage ci-dessous
 
 

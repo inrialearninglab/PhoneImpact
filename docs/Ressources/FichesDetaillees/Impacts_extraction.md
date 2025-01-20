@@ -70,6 +70,10 @@ https://www.lemonde.fr/economie/article/2024/05/30/les-minerais-critiques-attise
 
 https://www.nytimes.com/2024/10/26/business/china-critical-minerals-semiconductors.html
 
+Essentiellement produites en Chine, les terres rares sont également sur la liste des matières premières critiques pour l'économie européenne. Leur taux de recyclage est inférieur à 1%.
+
+Cependant, avec le développement des nouvelles technologies, l'utilisation de ces métaux [de spécialité] a explosé. Ils sont aujourd'hui sur la liste des matières premières critiques pour l'économie européenne, lancée en 2008 et mise à jour tous les trois ans par la Commission européenne. Ces matières premières  essentielles pour l'économie, présentent un risque élevé de pénurie d'approvisionnement dans les 10 prochaines années. Ce risque peut-être lié à des enjeux économiques, géostratégiques, sociaux, sanitaires, énergétiques ou environnementaux.
+
 ## Conflits
 Mines et environnement dans les Amériques : les paradoxes de l’exploitation minière
 https://journals.openedition.org/ideas/1639#tocto2n5

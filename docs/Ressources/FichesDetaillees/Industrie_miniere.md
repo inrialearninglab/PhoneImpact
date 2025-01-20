@@ -1,6 +1,13 @@
 ---
 title: "🚧 Quelques repères sur l'industrie minière"
 ---
+
+La **teneur** en métal d’un minerai est la proportion de métal contenue dans ce minerai. Par exemple, la teneur en cuivre d'un minerai est en moyenne autour de 0,6% (6g de cuivre pour 1kg de minerai).
+
+La teneur en métal des différents minerais est indiquée à la table S4 (colonne "_Ore grade_") du papier "Rock-to-Metal Ratio: A Foundational Metric for Understanding Mine Wastes" <sup>[1](http://localhost:8000/serious-game/smartphone/Ressources/Sources/Sources_malus.html#fn:rock)</sup>. La teneur en cuivre (_copper_) d'un minerai est en moyenne de 0,64%.
+
+On appelle **réserves** mondiales d'un métal (par ex. de cuivre) la quantité actuellement exploitable de ce métal dans la croûte terrestre. Les réserves sont très inégalement réparties dans le monde.
+
 # 🚧 Quelques chiffres et tendances sur l'industrie minière
 
 # Où sont les mines

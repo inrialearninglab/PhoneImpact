@@ -2,6 +2,19 @@
 
 https://lecolefrancaise.fr/decouvrir-lunivers-du-game-design/
 
+## Correspondance entre sources et fiches détaillées
+
+* Malus Traitement --> Fiche "production des métaux"
+* Malus Recyclage --> Fiche "que faire ?"
+* Malus Catastrophe --> Fiche "impacts environnementaux et sociaux"
+* Malus Tensions --> Fiche "impacts environnementau et sociaux"
+* Malus Conflits --> Fiche "impacts environnementaux et sociaux"
+* Malus En France --> Fiche ""
+* Malus Géographie --> Fiche ""
+* Malus  --> Fiche ""
+* Malus  --> Fiche ""
+* Malus  --> Fiche ""
+
 ## TODO métaux smartphone dans malus + plateau + ressources
 
 Les cartes malus citent : cobalt, nickel, palladium, lithium, terres rares, tantale, gallium, platine
@@ -105,6 +118,8 @@ Métaux étudiés dans le rapport de l'ADEME
 * [33] sous-terraines --> souterraines
 
 ## Notes métaux smartphones
+https://www.researchnester.com/fr/reports/silver-nanowires-market/4934
+
 https://www.pcmobitech.com/what-is-ltpo-technology-how-does-it-compare-to-amoled/#LTPO-vs-AMOLED-Key-Differences
 https://silverinstitute.opt-wp.cloud.bosslogics.com/wp-content/uploads/2021/05/SilverElectronics_MmktTR2021v.pdf
 https://www.androidauthority.com/how-do-folding-screens-actually-work-3164822/
@@ -174,6 +189,7 @@ La catégorisation des malus sert pour :
 
 
 # Cartes malus
+https://www.theguardian.com/world/2025/jan/13/south-africa-launches-operation-at-gold-mine-amid-fears-many-dead
 
 "La <b>bauxite</b> est le principal minerai qui permet de produire l’<b>aluminium</b> et le <b>gallium</b>.\n\nLes trois plus gros pays producteurs sont l'<b>Australie</b>, la <b>Chine</b> et la <b>Guinée</b>.",Pour info,"empty",59
 "Le <b>coltan</b> est un minerai qui permet de produire le tantale.\n\nLa <b>République Démocratique du Congo</b>, premier producteur de coltan, est sujet à des conflits armés.",Pour info,"empty",60
@@ -188,7 +204,6 @@ Photo de terril : https://commons.wikimedia.org/wiki/File:Slag_heap_from_the_old
 
 * Dépendances économiques / néo-colonialisme : traitement parfois fait à l'autre bout du monde
 
-NB : usages dispersifs
 
 - Quelque chose sur les échelles de temps (prospection, plan d'exploitation, ouverture d'une mine, pollution éternelle...)
 - Qui sont les parties prenantes ?
@@ -402,13 +417,7 @@ Recyclage des cartes électroniques : un aperçu de l’état de l’art Christi
 
 (https://www.mining.com/the-real-costs-of-coltan-mining-in-the-drc-report/)
 
-- [x] L'extraction minière est une activité qui nécessite une quantité massive d'eau, principalement pour les phases de broyage et de concentration du minerai.
-https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.2.1-EmpreinteEnvironnementaleTerminal-MoocImpactNum.html#la-production-des-metaux
-
-## Information [6 + 4]
-
-- [x] Les **terres rares** (à ne pas confondre avec les métaux rares !) sont des métaux qui, contrairement à ce que suggère leur nom, sont assez répandus sur terre mais généralement en très faible concentration.
-    * cf [fiche-metaux.md](https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/Fiche_metaux.html)
+## Information
 
 - [x] Les gisements d'or contiennent souvent naturellement du mercure et de l'arsenic.
     * cf https://www.science.org/doi/10.1126/sciadv.1400180
@@ -443,14 +452,7 @@ Un point de vue vraiment intéressant
 Entretien : qui détient le cobalt de RDC ? Albert Yuma, président de la GECAMINES face à Alain Foka
 https://www.youtube.com/watch?v=nvHfHYRzBl4
 
-"En 2022, la Chine était le principal producteur de terres rares (70%) et d'autres métaux : tungstène (85%), gallium (98%)...\n\n Cela représente un enjeu géopolitique majeur.",Tensions,"empty"
-
-"Le recyclage des cartes électroniques nécessite des technologies de pointe et des infrastructures très coûteuses (un milliard de dollars par exemple pour l’usine d’Umicore en Belgique).",Recyclage,"empty"
-
-"Les métaux rares non précieux et les terres rares ne sont quasiment pas recyclés : moins de 1% par exemple pour l’indium, le néodyme, le tantale et le gallium.",Recyclage,"empty"
-
-- [x] Les gisements d'or contiennent souvent naturellement du mercure et de l'arsenic.
-    * cf https://www.science.org/doi/10.1126/sciadv.1400180
+* cf https://www.science.org/doi/10.1126/sciadv.1400180
 
 * Mine de plomb et zinc à Băile Borșa / Roumanie / 2000 / Rupture de digue / Pollution au zinc, plomb et cuivre /
 * Aznalcollar / Espagne / 1998
@@ -493,11 +495,6 @@ https://www.techniques-ingenieur.fr/base-documentaire/materiaux-th11/elaboration
 Guide pour la déclaration de résidus miniers et de stériles
 https://www.canada.ca/fr/environnement-changement-climatique/services/inventaire-national-rejets-polluants/publications/guide-declaration-residus-miniers-steriles/chapitre-1.html
 
-Notions géologiques et physiques
-* minéral
-* métal
-* élément
-
 "<b>Ressources</b> vs <b>réserves</b>\n\n- On appelle <b>ressources</b> la quantité estimée d'un métal dans la croûte terrestre.\n\n- On appelle <b>réserves</b> les ressources qui sont actuellement exploitables.",Définition,"empty"
 
 techniquement et économiquement
@@ -516,42 +513,8 @@ Notions économiques
 * résidus = boues
 
 
-# PhoneImpact
-
-Sur le site : https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/index.html
-- [ ] Présentation
-- [ ] Instructions animateur
-- [ ] Préparation du jeu (Version Print&Play)
-- [ ] Histoire à raconter au début
-- [ ] Brief: avant de jouer
-- [ ] Règles du jeu
-- [ ] Debrief: après la partie
-- [ ] Détail du matériel
-- [ ] Fiche métaux
-- [ ] Print and play
-- [ ] Sources du jeu
-
-
-À réfléchir, le pitch : Pourquoi on s'intéresse aux métaux du smartphone ?
-TODO : Chiffres sur le plateau (+ refs biblio)
-
 # Règles du jeu
-- [ ] Rajouter des malus au moment de la fabrication et expliquer les impacts
-- [ ] Annoncer dès le départ que le nombre de malus est limité : on ne peut pas polluer à l'infini !
-Fin de partie
 - [ ] Annoncer dès le départ que le nombre de malus et de certaines ressources est limité : on ne peut pas extraire ou polluer à l'infini ! Quand il n'y a plus de cartes malus (ou ressources, mais ça c'est logique), on ne peut plus miner, mais on peut continuer à jouer jusqu'à être bloqué. Du coup on peut enlever les deux cartes malus rouges et transformer la deuxième en carte événement.
-- [ ] ~~Plutôt que fin de partie, annoncer le dernier tour sur la carte 15.~~
-- [ ] La partie s'arrête si : 1. Un joueur a construit son smartphone en entier ; 2. Plus personne ne peut jouer ; 3. On est à la fin du 15e tour de jeu
-- [ ] Le gagnant est celui qui a le plus de points. On gagne des points 1. en construisant des composants 2. +10 pour le smartphone complet 3. +2 pour celui qui a le plus de cartes recyclées 4. -2 pour celui qui a le plus de PolluePlus 5. Mais en ces temps incertains, les règles du jeu peuvent évoluer rapidement...
-
-- [ ] Mettre les infos sur les smartphones quelque part
-
-**Cartes ressources**
-- [ ] 3 cartes résumé - nombre de cartes de chaque type dans les trois tas : quel lien avec la réalité ?
-
-**Cartes composants**
-- [ ] Nb de ressources nécessaires pour chaque composant : quel lien avec la réalité ?
-- [ ] Composants du smartphone : mettre en avant la carte mère et l'écran, puis la batterie et en dernier la coque
 
 # Séquence pédagogique
 https://notes.inria.fr/KUepmQCwQOKSrkTWwtqG4w#
@@ -561,30 +524,6 @@ https://notes.inria.fr/KUepmQCwQOKSrkTWwtqG4w#
 ### Principes généraux
 * Éviter de donner des chiffres qui ne permettent pas de comprendre une réalité matérielle ou de comparer
 
-### Classification des objectifs pédagogiques en fonction des disciplines scolaires
-
-## Répartition des objectifs pédagogiques pendant le jeu
-
-## Dans le brief
-- [ ] Les principaux composants d'un smartphone
-- [ ] Les matières premières qui constituent ces composants
-- [ ] La grande diversité de métaux dans un smartphone et de leurs usages
-- [ ] La classification des métaux
-- [ ] Les grandes étapes de l'extraction minière
-- [ ] Où est produit quoi
-
-
-- La grande diversité de métaux dans un smartphone Refs : EuChems, Orange dans le rapport du Sénat, aller chercher du côté du Fraunhofer https://www.youtube.com/watch?v=9-2b-Xrmzgc&list=PLWMNQf5APHgKSwbX6RYvqHpKRzn2T3LvU&index=16
-	* Question subsidiaire : usage diffus ou pas ? cf usage ci-dessous
-- La classification des métaux : TODO, demander à Antoine Boubault et Florian Fizaine
-
-
-## Pendant le jeu
-- [ ] Les différents types d'impacts environnementaux
-- [ ] Les pollutions, risques, conflits et accidents liés à l'industrie minière
-- [ ] Les différences dans les méthodes d'extraction
-
-
 ## Dans le débrief
 
 * Cacher le kakemono au départ ?
@@ -592,19 +531,6 @@ https://notes.inria.fr/KUepmQCwQOKSrkTWwtqG4w#
 * Prévoir de quoi occuper les tables qui ont fini avant les autres : peut-être prévoir un document à remplir avec des questions
 * Leur demander ce qu'ils pensent du lien entre leur comportement dans le jeu et la réalité
 * En plus des pays et des pollutions, leur demander qui est impacté et comment
-
-
-**Récapituler**
-- [ ] les différentes formes de pollutions : particules...
-
-**Remettre en perspective**
-- [ ] Quel pourcentage des volumes extraits des mines / de l'énergie nécessaire à l'extraction minière est due au numérique ? Idem pour les pollutions
-- [ ] Au-delà de la fabrication
-- [ ] Le cycle de vie d'un smarphone
-- [ ] Quelques infos et ordres de grandeur sur les usages (nombre des smartphones dans le monde etc.)
-- [ ] Au-delà des smartphones : le numérique
-
-Globalement et relativement au volume total de métaux produits pour l'ensemble des secteurs les besoins pour les technologies du numérique ne représentent pas une grande proportion, hormis pour certains métaux dont le volume produit est faible par rapport aux grands métaux stratégiques comme le Tantale, l'Indium, le Germanium, certaines terres rares mais qui sont par contre hautement stratégiques.
 
 Il y a tous les messages plus subtils auxquels il faut que je réfléchisse, du genre : la stratégie gagnante dépend directement de la législation, les impacts environnementaux et la contrainte sur les ressources disponibles sont des enjeux collectifs même si chacun joue dans son intérêt propre (on n'est pas loin de parler des équilibres de Nash, haaaaaaa !) etc. 
 
@@ -649,28 +575,3 @@ Attention à bien remettre en perspective
 
 - Ajouter une carte : La loi change ! On ne peut plus polluer autant, PolluePlus doit se mettre aux normes environnementales et se comporte désormais comme PollueMoins
 - Ajouter une carte : Coup de pouce : Le joueur qui a le plus de cartes Recyclage prend une carte ressources à celui qui a le plus de PolluePlus (il faut gérer les égalités)
-
-# Usages des métaux mais pas que
-* Antimoine → dopant pour les IC
-* Argent → conducteur électrique
-* Arsenic → LED, dopant pour les IC
-* Bore → dopant pour les IC
-* Cobalt  → batteries lithium-ion, conducteur électrique (à la place du cuivre)
-* Cuivre → conducteur électrique
-* Epoxy → circuits imprimés 
-* Étain → écrans tactiles
-* Gallium (extrait du minerai d'aluminium) → LED, dopant pour les IC, wafer
-* Hafnium → isolation des transistors
-* Indium → écrans tactiles, dopant pour les IC
-* Lithium → batteries lithium-ion
-* Néodyme, praséodyme, terbium et dysprosium → production des vibrations dans les aimants
-* Or → conducteur électrique
-* Palladium → conducteur électrique
-* Phosphore → LED, dopant pour les IC
-* Ruthénium → conducteur électrique (à la place du cuivre)
-* Silicium → wafer
-* Tantale → condensateurs
-* Titane → connexion entre transistors
-* Tungstène → amplification des vibration dans les aimants, connexion entre transistors
-* Yttrium, cérium, europium ou terbium, mais aussi lanthane et gadolinium → LED
-* Germanium → wafer
