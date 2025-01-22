@@ -1,4 +1,5 @@
-# Présentation du jeu PhoneImpact
+<h1 style="margin-bottom: 0;">Présentation du jeu PhoneImpact</h1>
+<img alt="InfosGenerales.png" src="../img/InfosGenerales.png" width=25% style="margin-top: 0;" />
 
 *Dans la ville de TechCity, vous incarnez un·e fabricant·e de smartphones. Alors que la compétition fait rage pour produire les téléphones portables les plus innovants, une question cruciale émerge : l'impact environnemental de la production de ces appareils.*
 
@@ -6,7 +7,7 @@
 
 *Vous devrez faire des choix stratégiques en tenant compte des contraintes environnementales et économiques ! Attention, chaque choix aura des conséquences...*
 
-*Le temps est venu de construire un avenir plus durable. Êtes-vous prêt·e à relever ce défi de taille ? Le destin de TechCity est entre vos mains.*
+*Le temps est venu de construire un avenir plus durable. Êtes-vous prêt·e à relever ce défi de taille ? Le destin de TechCity est entre vos mains.* 
   
 <img alt="Equipe.png" src="../img/Equipe.png" width="180" align="right" />  
 
