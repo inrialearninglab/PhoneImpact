@@ -54,7 +54,3 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 |---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | <a href="docCommuns/LivretDeRegles.pdf"><img alt="LivretDeRegles" src="../img/LivretDeRegles.png" width="150"/></a> | <a href="docCommuns/AideDeJeu.pdf"><img alt="AideDeJeu" src="../img/AideDeJeu.png" width="140" /> </a> |
 | [Imprimer recto-verso](docCommuns/LivretDeRegles.pdf)                                                               | [Imprimer recto](docCommuns/AideDeJeu.pdf)                                                             |
-
-## II - Acheter une boîte de jeu
-
-Les boîtes sont disponibles à la vente : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
