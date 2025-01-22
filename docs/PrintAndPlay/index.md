@@ -14,13 +14,14 @@ Choisissez entre :
 
 Les boîtes sont disponibles à la vente : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
 
+<img alt="VueBoite1.png" src="../img/VueBoite1.png" width=25% />
+
 ## II - Print & Play
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
 
 ### Le plateau Smartphone
 <a href="docCommuns/Plateau.pdf">"<img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
-
 
 [Lien vers le plateau Smartphone à imprimer en 5 exemplaires, recto](docCommuns/Plateau.pdf) 
 
