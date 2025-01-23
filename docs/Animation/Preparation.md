@@ -21,7 +21,7 @@ Choisissez entre :
 - [Acheter une boîte de jeux](https://boutique.inria.ecoessentials.fr/) prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 
 Prévoyez des feuilles, post-its et crayons sur les tables pour que les joueur·euses puissent noter des questions ou réflexions pendant la partie.
-Si possible, prévoyez également du matériel pour projeter ou visionner une vidéo disponible en ligne, ce qui peut enrichir l'expérience et stimuler les discussions lors de la phase de brief.
+Si possible, prévoyez également du matériel pour projeter, ce qui peut enrichir l'expérience et stimuler les discussions lors de la phase de brief.
 
 ### Configuration de l'espace
 

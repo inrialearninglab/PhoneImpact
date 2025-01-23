@@ -44,7 +44,7 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
 - Prendre conscience des grandes tendances de l'industrie minière (baisse des teneurs, tensions géopolitiques, croissance des besoins...)
 - Identifier et analyser différentes pistes d'action pour limiter les impacts environnementaux liés à l'extraction des métaux (recyclage, réglementation...)
 
-À la fin d'une séance, les participant·es seront capables de remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique.
+À la fin du debrief, les participant·es seront capables de remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique.
 
 !!! info "Pour info"
 
