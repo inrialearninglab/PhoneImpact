@@ -39,7 +39,7 @@ Profitez de ce moment pour approfondir certaines notions, en lien avec les carte
     - Sources de tensions et de conflits
     - Épuisement des ressources
 
-### Ouverture de la discussion :
+### Ouverture de la discussion
 - Quelles sont les alternatives et les actions possibles pour réduire les impacts environnementaux et sociaux liés à l'extraction minière pour la fabrication des smartphones ?
 
 !!! note "Réponse"
@@ -53,7 +53,8 @@ Profitez de ce moment pour approfondir certaines notions, en lien avec les carte
 - Les équipements numériques sont sources de pollution tout au long de leur cycle de vie et pas seulement lors de la phase d'extraction des métaux.
 - Le numérique peut favoriser des usages qui sont plus ou moins polluants.
 
-### Activité complémentaire : calcul de l'indice de réparabilité de son smartphone
+**Activité complémentaire : calcul de l'indice de réparabilité de son smartphone**
+
 Si le temps le permet, proposez aux participants de calculer l'[Indice de reparabilité de leur smartphone sur le site www.indicereparabilite.fr](https://www.indicereparabilite.fr/) et d'en discuter.
 
 !!! info "Points à aborder :"

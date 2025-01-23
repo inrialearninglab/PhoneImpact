@@ -4,18 +4,18 @@
 
     PhoneImpact est un **jeu pédagogique**, il s’accompagne donc d’**objectifs pédagogiques** pouvant s’intégrer facilement dans plusieurs **disciplines scolaires**, allant de la fin du **collège** (cycle 4) au **lycée**, conformément aux **programmes de l’éducation nationale**.
  
-## **I - COLLÈGE - CYCLE 4 (5e, 4e et 3e)**
+## **I - Collège - Cycle 4 (5e, 4e et 3e)**
 
 Selon le [Bulletin Officiel de l’Éducation Nationale n° 31 du 30 juillet 2020](https://eduscol.education.fr/document/621/download) (dernier programme en vigueur)
 
-## Éducation Morale et Civique (EMC)
+### Éducation Morale et Civique (EMC)
 Le jeu peut s’intégrer à la **finalité : construire une culture civique.**
 
 - **Attendu de fin de cycle** :  S’engager et assumer des responsabilités dans l’établissement et prendre en charge des aspects de la vie collective et de l’environnement et développer une conscience civique, sociale et écologique (rôle et action des éco-délégués en établissement et en classe)
 - **Connaissance associée** : l’engagement.  
 Elle favorise l’action collective, la prise de responsabilités et l’initiative. Elle développe chez l’élève le sens de la responsabilité par rapport à lui-même et par rapport aux autres, à la nation et à l’environnement (climat, biodiversité…)
 
-## Géographie
+### Géographie
 
 Pour la classe de **5ème**, le jeu peut s’intégrer aux thèmes suivants :
 
@@ -33,7 +33,7 @@ Pour la classe de **4ème**, le jeu peut s’intégrer au thème suivant :
     - L’adaptation du territoire des États-Unis aux nouvelles conditions de la mondialisation.
     - Les dynamiques d’un grand ensemble géographique africain (au choix : Afrique de l’Ouest, Afrique Orientale Afrique australe).
 
-## Technologie
+### Technologie
 
 Le jeu se rapproche des 2 thématiques suivantes :
 
@@ -44,13 +44,13 @@ Le jeu se rapproche des 2 thématiques suivantes :
     - **Attendu de fin de cycle** : Comparer et commenter les évolutions des objets et systèmes. 
     - **Connaissance associées** :  comparer et commenter les évolutions des objets en articulant différents points de vue : fonctionnel, structurel, environnemental (ressources disponibles, matériaux utilisés, bilan carbone, procédé de fabrication, recyclage…), technique, scientifique, social, historique, économique.
 
-## SVT
+### SVT
 
 * **Thematique : La planète Terre, l’environnement et l’action humaine :**
     - **Attendu de fin de cycle :** Envisager ou justifier des comportements responsables face à l’environnement et à la préservation des ressources limitées de la planète. 
     - **Compétence associée :**  Analyser les impacts engendrés par le rythme, la nature (bénéfices/nuisances), l’importance et la variabilité des actions de l’être humain sur l’environnement.
 
-## Physique-chimie
+### Physique-chimie
 
 * **Thematique : Organisation et transformations de la matière.**
     - **Attendu de fin de cycle :** Décrire l’organisation de la matière dans l’Univers 
@@ -58,13 +58,12 @@ Le jeu se rapproche des 2 thématiques suivantes :
         - La matière constituant la Terre et les étoiles. 
         - Les éléments sur Terre et dans l’Univers (hydrogène, hélium, éléments lourds : oxygène, carbone, fer, silicium, terres rares…)
 
-## **II - LYCÉE GÉNÉRAL ET TECHNOLOGIQUE**
+## **II - Lycée général et technologique**
 
 Selon le [Bulletin Officiel spécial n°1 du 22 janvier 2019](https://www.education.gouv.fr/sites/default/files/imported_files/documents/SP1_MEN_22_1_2019_10H40_1064060.pdf)  (dernier programme en vigueur)
 
-### Enseignement obligatoire
 
-## SVT
+### SVT
 Pour les classes de **seconde** et **première** **générale et technologique**, le jeu peut s’intégrer au thème suivant :  
 **Theme : Enjeux contemporains de la planète**
 
@@ -79,7 +78,7 @@ Pour les classes de **seconde** et **première** **générale et technologique**
     - **Objectif :** Prendre conscience de la responsabilité humaine et du débat sociétal face à
   l’environnement et au monde vivant.
 
-## Physique-chimie
+### Physique-chimie
 
 Pour la classe de **seconde générale et technologique**, le jeu peut s’intégrer au thème suivant :
 
@@ -87,7 +86,7 @@ Pour la classe de **seconde générale et technologique**, le jeu peut s’inté
     - **Sous-theme** : Constitution de la matière de l’échelle macroscopique à l’échelle microscopique
     - **Objectif** : Decrire et caractériser de la matière à l’échelle macroscopique
 
-## Sciences Economiques et Sociales (SES)
+### Sciences Economiques et Sociales (SES)
 
 Pour la classe de **seconde générale et technologique**, le jeu peut s’intégrer au thème suivant :
 
@@ -97,7 +96,7 @@ Pour la classe de **seconde générale et technologique**, le jeu peut s’inté
         - Savoir que la production résulte de la combinaison de travail, de capital, de technologie et de ressources naturelles. 
         - Connaître les principales limites écologiques de la croissance.
 
-## Géographie
+### Géographie
 
 Pour les classes de **seconde, première et terminale générale et technologique**, le jeu peut s’intégrer aux thèmes suivants :
 
@@ -123,21 +122,19 @@ intégrations et rivalités »  :
   des décisions publiques et des stratégies des entreprises** 
         - Dynamiques territoriales contrastées au sein de la mondialisation
 
-## Sciences Numériques et Technologie (SNT)
+### Sciences Numériques et Technologie (SNT)
 
 - Pour la classe de **seconde générale et technologique**, le jeu peut s’intégrer au thème suivant :
     - **Theme : Informatique embarquée et objets connectés** 
         - Les machines : Les microprocesseurs sont beaucoup plus nombreux dans les objets que dans les ordinateurs et téléphones, mais ils sont souvent plus petits, moins chers et moins rapides. Les capteurs et actionneurs reposent sur des technologies physiques et électroniques variées, allant quelquefois vers l’électronique de puissance. Un problème essentiel est la réduction de la consommation électrique, surtout pour les appareils sur pile.
 
-### Enseignement de spécialité
-
-## Science de l'ingénieur (SI) 
+### Science de l'ingénieur (SI) 
 
 - Pour les classes de **première et terminale générales**, le jeu peut s’intégrer au thème suivant :
     - **Analyser les produits existants pour appréhender leur complexité** 
         - **Compétence** : analyser l’organisation fonctionnelle et matérielle d’un produit
 
-## Numérique et sciences informatiques (NSI)
+### Numérique et sciences informatiques (NSI)
 
 - Pour les classes de **première et terminale générales**, le jeu peut s’intégrer aux 2 thèmes suivants :
     - **Histoire de l’informatique** 

@@ -14,7 +14,7 @@ Si une carte paraît complexe ou surprenante, encouragez les joueur·euses à no
 ## III - Dans le cas où il y a plusieurs tables de jeu
 Il est possible d'animer une session de jeu avec **plusieurs tables** et **une seule personne qui anime**. Les règles sont conçues pour que les joueur·euses soient autonomes après un briefing clair et un premier tour ensemble.
 
-### À suivre :
+**À suivre :**
 
 1. Brief commun : commencez par un brief unique pour toutes les tables. 
 2. Premier tour synchronisé : faites le premier tour de jeu ensemble. Cela permet d'expliquer concrètement les actions à chaque table et de répondre aux questions. 

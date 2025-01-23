@@ -1,3 +1,6 @@
+---
+toc_depth: 2
+---
 # Brief 20' : introduire l’activité
 
 Le brief a pour objectif d'aligner les attentes des participants et de poser les bases du jeu. Il sert à présenter le contexte, les règles et les objectifs du jeu, ainsi qu’à détailler les métaux et ressources nécessaires à la fabrication d’un smartphone.
@@ -15,14 +18,14 @@ Matériel recommandé : anciens smartphones démontables (si disponibles) ou les
 
 <a href="./MaterielPedagogique/Illustrations/smartphone_demonte.png"> "<img src="./MaterielPedagogique/Illustrations/smartphone_demonte.png" width="400"/></a>
 
-### Déroulé de l'activité
+**Déroulé de l'activité**
 
- 1. Observation ou manipulation d'un smartphone démonté
+1) Observation ou manipulation d'un smartphone démonté
 
 Si vous disposez de vieux smartphones, invitez les joueur·euses à les manipuler (un smartphone par table).
 Sinon, utilisez les schémas imprimés ou projetés pour observer les composants.
 
- 2. Questions-réponses
+2) Questions-réponses
 
 *Quels sont les composants principaux d'un smartphone ?*
 !!! note "Réponse"
@@ -77,7 +80,7 @@ Alternative : Montrer et commenter le schéma des étapes de l’extraction mini
 
 Les méthodes d'extraction et de séparation des métaux en général font appel à des procédés complexes, énergivores et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. En plus, ces processus requièrent de grandes quantités d'eau. C'est ce que nous verrons dans la phase de jeu.
 
-### Montrer un exemple de mine à ciel ouvert
+**Montrer un exemple de mine à ciel ouvert**
 
 Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Sud** : la plus grande mine à ciel ouvert et le plus grand trou artificiel au monde avec 2 000 mètres de diamètre et 762 mètres de profondeur. On devine des installations industrielles à gauche et à l'arrière de l'entonnoir. On devine aussi un éboulement sur la gauche de la cavité.
 
@@ -93,7 +96,7 @@ Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Su
 
 Objectif : Immerger les joueur·euses dans le scénario et expliquer les règles du jeu PhoneImpact.
 
-### Expliquer les règles du jeu
+### Introduction du jeu
 
 !!! exemple "Ceci est une proposition de pitch !"
     Dans cette partie, nous vous proposons un texte pour **expliquer simplement les règles du jeu aux joueur·euses**. Nous l'avons testé sur différents publics.
@@ -140,7 +143,7 @@ En cas d’oubli, vous pouvez vous référer à l’aide de jeu :
 
 
 
-### Après chaque tour de table, on tire une carte événement
+**Après chaque tour de table, on tire une carte événement**
 
 - Elle est valable pour tous les joueur·euses.
 - On lit le contenu de la carte et on effectue l’action qui est décrite, en commençant par
