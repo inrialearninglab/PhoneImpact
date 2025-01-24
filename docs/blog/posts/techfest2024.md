@@ -17,9 +17,9 @@ En parallèle, nous avons également pu participer à de nombreuses conférences
 Voici une collection de photos retraçant ces deux journées :
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img alt="techfest1" src="../../../ImagesBlog/techfest1.jpg"style="width: 40%; height: auto;"/>
-  <img alt="techfest2" src="../../../ImagesBlog/techfest2.jpg" style="width: 40%; height: auto;"/>
-  <img alt="techfest3" src="../../../ImagesBlog/techfest3.jpg" style="width: 40%; height: auto;"/>
+  <img alt="techfest1" src="../../../ImagesBlog/techfest1.jpg"style="width: 60%; height: auto;"/>
+  <img alt="techfest2" src="../../../ImagesBlog/techfest2.jpg" style="width: 60%; height: auto;"/>
+  <img alt="techfest3" src="../../../ImagesBlog/techfest3.jpg" style="width: 60%; height: auto;"/>
 </div>
 
 Encore merci [Donovann Bonnet](https://www.linkedin.com/in/donovann-bonnet-⚡%EF%B8%8F-799ab61aa/) pour les illustrations sur les tee-shirts personnalisés !
