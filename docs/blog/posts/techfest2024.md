@@ -7,7 +7,7 @@ description: "L'équipe d'Inria Learning Lab était présente à la première é
 L'équipe d'Inria Learning Lab était présente à la première édition du [Tech & Fest](https://www.tech-fest.fr/fr) pour présenter le prototype du jeu **PhoneImpact** au grand public.
 <!-- more -->
 
-Les **1er et 2 février 2024**, Alpexpo, Grenoble, a accueilli le Grand Salon [Tech & Fest](https://www.tech-fest.fr/fr), un rendez-vous incontournable dédié à la tech et à l'innovation..
+Les **1er et 2 février 2024**, Alpexpo, Grenoble, a accueilli le Grand Salon [Tech & Fest](https://www.tech-fest.fr/fr), un rendez-vous incontournable dédié à la tech et à l'innovation.
 
 Nous avons eu le privilège d'exposer notre jeu sérieux **PhoneImpact** au sein du secteur **Tech&Planet**, sous le thème “La tech pour un monde meilleur”.  
 Ce stand a été une belle occasion de faire découvrir le jeu, de permettre aux visiteurs de le tester, et de sensibiliser le grand public aux impacts environnementaux liés aux composants des smartphones.
