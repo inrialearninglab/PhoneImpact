@@ -20,6 +20,9 @@ Les boîtes sont disponibles à la vente : [achetez une boîte de jeu](https://b
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
 
+!!! Warning
+    Préparez-vous ! L’assemblage d’une boîte de jeu en version Print & Play prend au minimum 1 heure (sans plastification).
+
 ### Le plateau Smartphone
 <a href="docCommuns/Plateau.pdf">"<img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
 
