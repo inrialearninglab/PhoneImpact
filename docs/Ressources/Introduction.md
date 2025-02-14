@@ -26,3 +26,7 @@ Cette page sera prochainement enrichie de fiches détaillées sur :
 - les grandes tendances actuelles dans l'industrie minière
 - une remise en perspective par rapport aux impacts environnementaux du numérique
 - différentes pistes d'action pour réduire ces impacts
+
+## Glossaire
+
+De plus, un [glossaire](https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/Ressources/Glossaire.html) est disponible pour clarifier les termes et fournir des définitions précises.
