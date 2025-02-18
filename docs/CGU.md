@@ -4,6 +4,7 @@ hide:
 - navigation
 - toc
 ---
+
 # Conditions d'utilisation des contenus du jeu
 Les **ressources du jeu** sont, sauf mention contraire, diffusées sous Licence [Creative Commons CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) : 
 
@@ -15,5 +16,8 @@ Les **ressources du jeu** sont, sauf mention contraire, diffusées sous Licence 
 !!! info "Si vous utilisez des contenus du jeu, voici la mention à ajouter pour l'attribution"
     Crédit : "Jeu sérieux PhoneImpact", Inria, publié sous licence CC-BY-SA sur le site <https://phoneimpact.inria.fr>
 
+## Pourquoi nous ne proposons pas de vidéo de mise en place ou de partie en cours de PhoneImpact ?
+
+Actuellement, nous avons fait le choix de ne pas proposer de format vidéo pour présenter la mise en place ou le déroulement d’une partie de PhoneImpact. Cette décision s’inscrit dans notre engagement en faveur de la sobriété numérique, un principe en cohérence avec la thématique même du jeu.
 
 
