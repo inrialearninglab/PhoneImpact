@@ -1,7 +1,7 @@
 <h1 style="margin-bottom: 0;">Présentation du jeu PhoneImpact</h1>
 <img alt="InfosGenerales.png" src="../img/InfosGenerales.png" width=25% style="margin-top: 0;" />
 
-!!! Pour info
+!!! Information
     Le jeu est adaptable à un public plus jeune que 14 ans, à condition qu'un accompagnement pédagogique renforcé soit prévu.
 
 *Dans la ville de TechCity, vous incarnez un·e fabricant·e de smartphones. Alors que la compétition fait rage pour produire les téléphones portables les plus innovants, une question cruciale émerge : l'impact environnemental de la production de ces appareils.*
