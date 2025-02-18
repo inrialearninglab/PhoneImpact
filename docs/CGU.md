@@ -16,7 +16,7 @@ Les **ressources du jeu** sont, sauf mention contraire, diffusées sous Licence 
 !!! info "Si vous utilisez des contenus du jeu, voici la mention à ajouter pour l'attribution"
     Crédit : "Jeu sérieux PhoneImpact", Inria, publié sous licence CC-BY-SA sur le site <https://phoneimpact.inria.fr>
 
-## Pourquoi nous ne proposons pas de vidéo de mise en place ou de partie en cours de PhoneImpact ?
+## Pourquoi nous ne proposons pas de vidéo ?
 
 Actuellement, nous avons fait le choix de ne pas proposer de format vidéo pour présenter la mise en place ou le déroulement d’une partie de PhoneImpact. Cette décision s’inscrit dans notre engagement en faveur de la sobriété numérique, un principe en cohérence avec la thématique même du jeu.
 
