@@ -1,8 +1,8 @@
 <h1 style="margin-bottom: 0;">Présentation du jeu PhoneImpact</h1>
 <img alt="InfosGenerales.png" src="../img/InfosGenerales.png" width=25% style="margin-top: 0;" />
 
-!!! note "Récapitulatif"
-   Le jeu est adaptable à un public plus jeune que 14 ans, à condition qu'un accompagnement pédagogique renforcé soit prévu.
+!!! Pour info
+    Le jeu est adaptable à un public plus jeune que 14 ans, à condition qu'un accompagnement pédagogique renforcé soit prévu.
 
 *Dans la ville de TechCity, vous incarnez un·e fabricant·e de smartphones. Alors que la compétition fait rage pour produire les téléphones portables les plus innovants, une question cruciale émerge : l'impact environnemental de la production de ces appareils.*
 
@@ -19,6 +19,7 @@
 Le but du jeu est de gagner le maximum de points en fabriquant des composants de votre smartphone avant la fin de la partie. Pour cela, vous devez acquérir les ressources nécessaires à leur fabrication chez les 3 fournisseurs proposés.
 
 Mais attention à ne pas trop polluer !
+
 ## II - Qu'est-ce qu'un jeu sérieux ?
 
 S'appuyant sur la définition du jeu proposée par Gilles Brougère, "_une activité régie par des règles, où la liberté d’action et la prise de décision jouent un rôle central dans l'engagement des participant·es_", le jeu sérieux (ou serious game) va bien au-delà du simple divertissement. Il transforme une activité ludique en un outil d'apprentissage ou de sensibilisation, encourageant l'expérimentation et l'interaction dans un cadre sécurisé.
