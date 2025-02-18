@@ -1,5 +1,5 @@
 ---
-title: ✉️ Contacts
+title: ✉️ Contact
 hide:
 - navigation
 - toc
