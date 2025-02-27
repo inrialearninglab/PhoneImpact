@@ -1,19 +1,12 @@
-# PhoneImpact en classe
+# Liens avec les programmes de l'Éducation nationale
 
 !!! info "Pour info"
 
-    PhoneImpact est un **jeu pédagogique**, il s’accompagne donc d’**objectifs pédagogiques** pouvant s’intégrer facilement dans plusieurs **disciplines scolaires**, allant de la fin du **collège** (cycle 4) au **lycée**, conformément aux **programmes de l’éducation nationale**.
+    PhoneImpact est un **jeu pédagogique**, il s’accompagne donc d’**objectifs pédagogiques** pouvant s’intégrer facilement dans plusieurs **disciplines scolaires**, allant de la fin du **collège** (cycle 4) au **lycée**, conformément aux **programmes de l’Éducation nationale**.
  
 ## **I - Collège - Cycle 4 (5e, 4e et 3e)**
 
 Selon le [Bulletin Officiel de l’Éducation Nationale n° 31 du 30 juillet 2020](https://eduscol.education.fr/document/621/download) (dernier programme en vigueur)
-
-### Éducation Morale et Civique (EMC)
-Le jeu peut s’intégrer à la **finalité : construire une culture civique.**
-
-- **Attendu de fin de cycle** :  S’engager et assumer des responsabilités dans l’établissement et prendre en charge des aspects de la vie collective et de l’environnement et développer une conscience civique, sociale et écologique (rôle et action des éco-délégués en établissement et en classe)
-- **Connaissance associée** : l’engagement.  
-Elle favorise l’action collective, la prise de responsabilités et l’initiative. Elle développe chez l’élève le sens de la responsabilité par rapport à lui-même et par rapport aux autres, à la nation et à l’environnement (climat, biodiversité…)
 
 ### Géographie
 
@@ -37,12 +30,17 @@ Pour la classe de **4ème**, le jeu peut s’intégrer au thème suivant :
 
 Le jeu se rapproche des 2 thématiques suivantes :
 
-- **Le design, l’innovation, la créativité :**
-    - **Attendu de fin de cycle :** Imaginer des solutions en réponse aux besoins, matérialiser des idées en intégrant une dimension design. 
-    - **Connaissances associées :** identifier un besoin (biens matériels ou services) et énoncer un problème technique ; identifier les conditions, contraintes (normes et réglements) et ressources correspondantes dans une logique d’écoconception, qualifier et quantifier simplement les performances d’un objet technique existant ou à créer.
-  - **Les objets techniques, les services et les changements induits dans la société :**
-    - **Attendu de fin de cycle** : Comparer et commenter les évolutions des objets et systèmes. 
-    - **Connaissance associées** :  comparer et commenter les évolutions des objets en articulant différents points de vue : fonctionnel, structurel, environnemental (ressources disponibles, matériaux utilisés, bilan carbone, procédé de fabrication, recyclage…), technique, scientifique, social, historique, économique.
+- **Les objets et les systèmes techniques : leurs usages et leurs interactions à découvrir et analyser**
+    - **Compétences associées :** 
+        - Décrire les liens entre usages et évolutions technologiques des objets et des systèmes techniques
+        - Décrire les interactions entre un objet ou un système technique, son environnement et les utilisateurs
+        - Caractériser et choisir un objet ou un système technique selon différents critères
+
+- **Structure, fonctionnement, comportement : des objets et des systèmes techniques à comprendre**
+    - **Compétence associée :**  
+        - Décrire et caractériser l’organisation interne d’un objet ou d’un système technique et ses échanges avec son environnement (énergies, données)
+      
+_Programme mis à jour : cf [Bulletin officiel n° 9 du 29 février 2024](https://www.education.gouv.fr/sites/default/files/ensel802_annexe.pdf)_
 
 ### SVT
 
@@ -62,6 +60,14 @@ Le jeu se rapproche des 2 thématiques suivantes :
 
 Selon le [Bulletin Officiel spécial n°1 du 22 janvier 2019](https://www.education.gouv.fr/sites/default/files/imported_files/documents/SP1_MEN_22_1_2019_10H40_1064060.pdf)  (dernier programme en vigueur)
 
+### Éducation Morale et Civique (EMC)
+Le jeu peut s’intégrer à la **finalité : Droits, libertés et responsabilité**
+
+- **Attendus et objectifs** : L’exercice des libertés appelle à la responsabilité, autant pour les sauvegarder ou les étendre que pour répondre aux considérables défis de la société contemporaine : la montée d’une information pléthorique et inégale, les risques environnementaux ou la transition écologique.
+- **Thématique** : Droits et responsabilité : l’exemple de la protection de l’environnement et de la sauvegarde de la biodiversité
+- **Notions abordées** :  Droits environnementaux, Développement durable, Transition écologique Responsabilité
+
+_Programme mis à jour : cf [Bulletin officiel n°24 du 13 juin 2024](https://www.education.gouv.fr/sites/default/files/ensel934_annexe_ok.pdf)_
 
 ### SVT
 Pour les classes de **seconde** et **première** **générale et technologique**, le jeu peut s’intégrer au thème suivant :  
@@ -127,6 +133,7 @@ intégrations et rivalités »  :
 - Pour la classe de **seconde générale et technologique**, le jeu peut s’intégrer au thème suivant :
     - **Theme : Informatique embarquée et objets connectés** 
         - Les machines : Les microprocesseurs sont beaucoup plus nombreux dans les objets que dans les ordinateurs et téléphones, mais ils sont souvent plus petits, moins chers et moins rapides. Les capteurs et actionneurs reposent sur des technologies physiques et électroniques variées, allant quelquefois vers l’électronique de puissance. Un problème essentiel est la réduction de la consommation électrique, surtout pour les appareils sur pile.
+- **Compétences transversales associées** : L’enseignement de sciences numériques et technologie aide à mieux comprendre les enjeux scientifiques et sociétaux de la science informatique et de ses applications, à adopter un usage réfléchi et raisonné des technologies numériques dans la vie quotidienne et à se préparer aux mutations présentes et à venir de tous les métiers
 
 ### Science de l'ingénieur (SI) 
 
@@ -139,3 +146,4 @@ intégrations et rivalités »  :
 - Pour les classes de **première et terminale générales**, le jeu peut s’intégrer aux 2 thèmes suivants :
     - **Histoire de l’informatique** 
     - **Architectures matérielles et systèmes d’exploitation**
+        - **Capacité attendue** : Distinguer les rôles et les caractéristiques des différents constituants d’une machine.
