@@ -11,7 +11,10 @@ Assurez-vous de bien comprendre les règles, le déroulé et les objectifs péda
 ## II - Se familiariser avec les impacts environnementaux et sociaux du smartphone
 Pour commencer, si ce n'est pas déjà le cas, il est nécessaire de vous familiariser avec le sujet. Pour ce faire, nous vous conseillons d'aller sur la Partie ["Ressources"](../Ressources/Introduction.md).
 
-## III - Préparer l'animation
+## III - Adaptation des règles pour une partie en 20'
+Pour une expérience plus rapide tout en conservant l’essence du jeu, on ne garde que les événements : 1 ; 1.bis ; 2 ; 6 ; 7 ; 13 ; 14.
+
+## IV - Préparer l'animation
 
 ### Matériel à prévoir
 
@@ -29,7 +32,6 @@ Prévoyez des tables rondes ou carrées, avec 3 à 5 chaises selon le nombre de 
 Si plusieurs tables de jeu sont installées, elles doivent être suffisamment éloignées les unes des autres pour que les joueur·euses ne s'entendent pas.
 
 ### Mise en place du jeu
-
 
 <center>
 <img alt="TableDeJeu.png" src="../img/TableDeJeuV2.png" width="550"/>  
