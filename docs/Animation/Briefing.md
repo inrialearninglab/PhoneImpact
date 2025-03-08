@@ -46,7 +46,7 @@ Sinon, utilisez les schémas imprimés ou projetés pour observer les composants
     Vous trouverez pleins d'exemples dans le matériel fourni.
 
 !!! abstract "Ressources utiles pour vous former"
-    - [Fiche de description des métaux utilisés dans un smartphone](../Ressources/Fiche_metaux.md)
+    - [Fiche de description des métaux utilisés dans un smartphone](./docs/Ressources/FichesDetaillees/Metaux_smartphone.md)
     - [Fiche concept "Quels métaux dans les smartphones ?" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html)
     - [Activité pédagogique "Autopsie d'un smartphone" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_3_Mesurer2/story.html)
 
@@ -89,7 +89,7 @@ Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Su
 *Mine de cuivre de Palabora, Afrique du Sud ; à gauche : représentation imagée de la quantité de cuivre métal produite par la mine jusqu’à environ 2007 (© Dillon Marsh · Mise à disposition par le photographe · dillonmarsh.com) : à droite : Vue satellitaire de la mine et mise en évidence de l’emprise en surface des déchets miniers (© Google 2021) | Création : SystExt · Septembre 2021*
 
 !!! abstract "Ressources utiles pour vous former"
-    Vous trouverez des ressources et des bibliographies pour vous former dans la Partie ["Ressources"](../Ressources/Introduction.md).
+    Vous trouverez des ressources et des bibliographies pour vous former dans la Partie ["Ressources"](./docs/Ressources/FichesDetaillees/Metaux_smartphone.md).
 
 
 ## IV - Expliquer les règles du jeu
