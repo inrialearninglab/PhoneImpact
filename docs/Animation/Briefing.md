@@ -67,7 +67,7 @@ Il y aussi en plus de ces métaux les **autres matières** qui représentent de 
     Dans le jeu PhoneImpact, le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
 
 !!! abstract "Ressources utiles pour vous former"
-    [Fiche de description des métaux utilisés dans un smartphone](../Ressources/Fiche_metaux.md).
+    [Fiche de description des métaux utilisés dans un smartphone](./docs/Ressources/FichesDetaillees/Metaux_smartphone.md).
 
 ## III - Exposé : les différentes étapes de l'extraction minière
 
@@ -89,7 +89,7 @@ Vous pouvez montrer la photo de la **mine de cuivre de Palabora en Afrique du Su
 *Mine de cuivre de Palabora, Afrique du Sud ; à gauche : représentation imagée de la quantité de cuivre métal produite par la mine jusqu’à environ 2007 (© Dillon Marsh · Mise à disposition par le photographe · dillonmarsh.com) : à droite : Vue satellitaire de la mine et mise en évidence de l’emprise en surface des déchets miniers (© Google 2021) | Création : SystExt · Septembre 2021*
 
 !!! abstract "Ressources utiles pour vous former"
-    Vous trouverez des ressources et des bibliographies pour vous former dans la Partie ["Ressources"](./docs/Ressources/FichesDetaillees/Metaux_smartphone.md).
+    Vous trouverez des ressources et des bibliographies pour vous former dans la Partie ["Ressources"](./docs/Ressources/Introduction.md).
 
 
 ## IV - Expliquer les règles du jeu
