@@ -3,20 +3,20 @@ hide:
   - navigation
 ---
 
-# Se procurer le jeu
+# Imprimer<br/>ou acheter le jeu
 
 Choisissez entre :
 
 - Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
-- Utiliser la version Print&Play : imprimez, plastifiez éventuellement, et découpez le matériel.
+- Utiliser la version gratuite et imprimable : téléchargez gratuitement, imprimez, plastifiez éventuellement, et découpez le matériel.
 
-## I - Acheter une boîte de jeu
+## I - Version payante :
 
 Les boîtes sont disponibles à la vente : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
 
 <img alt="VueBoite1.png" src="../img/VueBoite1.png" width=25% />
 
-## II - Print & Play
+## II - Version gratuite
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
 
