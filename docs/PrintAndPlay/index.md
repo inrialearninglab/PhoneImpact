@@ -7,16 +7,10 @@ hide:
 
 Choisissez entre :
 
-- Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 - Utiliser la version gratuite et imprimable : téléchargez gratuitement, imprimez, plastifiez éventuellement, et découpez le matériel.
+- Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 
-## I - Version payante :
-
-Les boîtes sont disponibles à la vente : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
-
-<img alt="VueBoite1.png" src="../img/VueBoite1.png" width=25% />
-
-## II - Version gratuite
+## I - Version gratuite et imprimable
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
 
@@ -34,7 +28,6 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 |------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | <a href="pnp/polluplus.pdf"><img alt="cartePlluPlus.jpg" src="../img/cartePlluPlus.jpg" width="100"/></a> | <a href="pnp/pollumoins.pdf"><img alt="cartePolluMoins.jpg" src="../img/cartePolluMoins.jpg" width="100" /></a> | <a href="pnp/recyclage.pdf"><img alt="carteRecycl.jpg" src="../img/carteRecycl.jpg" width="100" /></a> |
 | [Imprimer recto-verso](pnp/polluplus.pdf)                                                | [Imprimer recto-verso](pnp/pollumoins.pdf)                                                                      | [Imprimer recto-verso](pnp/recyclage.pdf)                                                              |
-
 
 ### Les cartes Cartes Synthèse des ressources
 <a href="pnp/recap.pdf">
@@ -58,3 +51,9 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 |---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | <a href="docCommuns/LivretDeRegles.pdf"><img alt="LivretDeRegles" src="../img/LivretDeRegles.png" width="150"/></a> | <a href="docCommuns/AideDeJeu.pdf"><img alt="AideDeJeu" src="../img/AideDeJeu.png" width="140" /> </a> |
 | [Imprimer recto-verso](docCommuns/LivretDeRegles.pdf)                                                               | [Imprimer recto](docCommuns/AideDeJeu.pdf)                                                             |
+
+## II - Version payante :
+
+Les boîtes sont disponibles à la vente, avec tout le matériel nécessaire : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
+
+<img alt="VueBoite1.png" src="../img/VueBoite1.png" width=25% />
