@@ -3,12 +3,12 @@ hide:
   - navigation
 ---
 
-# Imprimer<br/>ou acheter le jeu
+# Imprimer ou acheter le jeu
 
 Choisissez entre :
 
-- Utiliser la version gratuite et imprimable : téléchargez gratuitement, imprimez, plastifiez éventuellement, et découpez le matériel.
-- Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
+- télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
+- acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 
 ## I - Version gratuite et imprimable
 
