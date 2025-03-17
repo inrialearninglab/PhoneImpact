@@ -10,7 +10,7 @@ Choisissez entre :
 - télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
 - acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 
-## I - Version gratuite et imprimable
+## I - Version gratuite et imprimable (Print&Play)
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
 
@@ -52,7 +52,7 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 | <a href="docCommuns/LivretDeRegles.pdf"><img alt="LivretDeRegles" src="../img/LivretDeRegles.png" width="150"/></a> | <a href="docCommuns/AideDeJeu.pdf"><img alt="AideDeJeu" src="../img/AideDeJeu.png" width="140" /> </a> |
 | [Imprimer recto-verso](docCommuns/LivretDeRegles.pdf)                                                               | [Imprimer recto](docCommuns/AideDeJeu.pdf)                                                             |
 
-## II - Version payante :
+## II - Version payante
 
 Les boîtes sont disponibles à la vente, avec tout le matériel nécessaire : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
 
