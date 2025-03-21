@@ -1,6 +1,6 @@
-# Phase de jeu 20' : flash
+# Version accélérée du jeu (20') : mode flash
 
-!!! note "Expérience flash"
+!!! note "Mode flash"
    Pour une partie plus courte et une préparation adaptée, différente de la phase de jeu normale de 40 minutes, appliquez ces quelques ajustements.
 
 Pour une expérience plus rapide tout en conservant l’essence du jeu, on ne garde que les événements : 1 ; 1.bis ; 2 ; 6 ; 7 ; 13 ; 14.

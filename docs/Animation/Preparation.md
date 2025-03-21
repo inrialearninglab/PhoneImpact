@@ -5,7 +5,7 @@
 Assurez-vous de bien comprendre les règles, le déroulé et les objectifs pédagogiques du jeu. Tous ces aspects sont développés dans la [Partie "Présentation du jeu PhoneImpact" de ce portail](../Jeu/Presentation.md).
 
 !!! tip "Un conseil"
-    Relisez attentivement la documentation et testez vous-même le jeu ou animez une mini-séance test avec vos proches ou vos collègues grâce à la version flash en 20'. C'est préférable pour bien comprendre les règles du jeu et les différentes stratégies qu'on peut adopter !
+    Relisez attentivement la documentation et testez vous-même le jeu ou animez une mini-séance test avec vos proches ou vos collègues grâce à la version accélérée en 20' : mode flash. C'est préférable pour bien comprendre les règles du jeu et les différentes stratégies qu'on peut adopter !
     Préparez si besoin une fiche synthétique des règles pour pouvoir les expliquer rapidement le jour de l'atelier.
 
 ## II - Se familiariser avec les impacts environnementaux et sociaux du smartphone
