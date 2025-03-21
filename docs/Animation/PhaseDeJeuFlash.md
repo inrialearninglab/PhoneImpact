@@ -1,4 +1,4 @@
-# Version flash (20')
+# Version flash : jouer en 20'
 
 !!! note "Mode flash"
     Le mode flash est une version accélérée du jeu, idéale pour en comprendre rapidement le mécanisme. Parfait pour les animateurs et animatrices souhaitant se former à l’animation du jeu ou simplement le découvrir.    
