@@ -108,7 +108,7 @@ Pour avoir des précisions sur le traitement minéralurgique et métallurgique d
     [29] De nombreux métaux, dont les terres rares, ne sont quasiment pas recyclés.
 
 !!! Source "Précisions et sources"
-    Voir malus [28].
+    Voir précisions et sources du malus [28].
 
 <hr>
 
@@ -644,7 +644,7 @@ Pour toutes ces cartes :
 * Les informations concernant l'utilisation des métaux dans les smartphones sont issues de l'outil interactif développé par ISF SystExt (Ingénieurs sans frontières Systèmes extractifs et environnements).  
     Source : [Inforgraphie Des métaux dans mon smartphone ?. Systext. Avril 2017](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/)
     
-     Attention, ces informations sont à prendre avec précaution car la composition précise des smartphones n'est que rarement et partiellement connue, sachant qu'elle varie en fonction des smartphones et évolue rapidement avec l'évolution des technologies. Voir la fiche détaillée sur les métaux dans les smartphones pour plus d  
+     Attention, ces informations sont à prendre avec précaution car la composition précise des smartphones n'est que rarement et partiellement connue, sachant qu'elle varie en fonction des smartphones et évolue rapidement avec l'évolution des technologies. Voir la fiche détaillée sur les métaux dans les smartphones pour plus d'informations. 
 
 <hr>
 
