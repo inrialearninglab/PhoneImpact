@@ -67,4 +67,3 @@ mkdocs serve
 ```
 
 Après quelques secondes, le site devrait être visible ici : http://localhost:8000
-test Laurence
