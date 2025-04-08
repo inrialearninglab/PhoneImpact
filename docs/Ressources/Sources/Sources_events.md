@@ -17,6 +17,8 @@ Les événements décrits sont parfois réels et parfois fictifs mais ancrés da
 [^rock]: *Rock-to-Metal Ratio: A Foundational Metric for Understanding Mine Wastes*. Nedal T. Nassar, Graham W. Lederer, Jamie L. Brainard, Abraham J. Padilla, and Joseph D. Lessard
 Environmental Science & Technology 2022 56 (10), 6710-6721. DOI: 10.1021/acs.est.1c07875. Disponible sur [ACS Publication](https://pubs.acs.org/doi/10.1021/acs.est.1c07875#).
 
+[2] Collecter des vieux smartphones permet de recycler certaines ressources comme l'or.
+
 [3] 2005 : l'Union Européenne met en place le marché du carbone, un système d'échange de quotas d'émissions de gaz à effet de serre.
 
 !!! Source "À propos du marché du carbone"
@@ -37,14 +39,26 @@ Environmental Science & Technology 2022 56 (10), 6710-6721. DOI: 10.1021/acs.est
     
     Source : synthèse de la législation de l'UE "[Commerce responsable des minerais provenant de zones de conflit ou à haut risque](https://eur-lex.europa.eu/FR/legal-content/summary/responsible-trade-in-minerals-from-high-risk-or-conflict-areas.html)".
  
+[5] 2030 : TechCity ouvre une mine, de nouvelles ressources sont disponibles.
+
+[6] 2034 : Suite à une catastrophe minière, les citoyens de TechCity manifestent et une loi est votée pour appliquer le principe pollueur-payeur.
+
+[7] 2038 : TechCity décide de favoriser les fabricants les plus vertueux.
+
 [8] 2041 : Depuis quelques temps la teneur des minerais diminue fortement ; produire la même quantité de métal pollue aujourd'hui 2 fois plus qu'avant.
 
 !!! Source "À propos de la diminution de la teneur en métal des minerais"
     Voir les sources du Malus [31].
 
+[9] 2044 : Une loi est votée pour lutter contre l'accaparement des métaux par quelques fabricants.
+
+[10] 2047 : TechCity impose une taxe aux fabricants qui polluent le plus.
+
+[11] 2049 : Une nouvelle loi inclut des taxes pour ceux qui ne font pas assez d'efforts sur le recyclage.
+
 [12] Dans la réalité, dépolluer est extrêmement long, difficile et coûteux, voire impossible. Les anciens sites miniers restent pollués.
 
 !!! Source "À propos de la dépollutions des anciens sites miniers"
     Voir les sources des cartes Malus [13], [24] et [44].
-
- 
+    
+[13] 2050 : Les pollutions s'accumulent. Les habitants de TechCity stoppent la production minière pour se concentrer sur le recylage et la dépollution.

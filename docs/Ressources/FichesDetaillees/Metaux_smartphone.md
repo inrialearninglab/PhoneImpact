@@ -1,16 +1,29 @@
 ---
-title: "🚧 De quoi est fait un smartphone ?"
+title: "🚧 Les métaux dans les smartphones"
 ---
 # 🚧 Les métaux dans les smartphones
 
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
-Un smartphone est principalement constitué de métaux, de matières plastiques et de matériaux céramiques (en particulier du verre). En 1950, on dénombrait une douzaine de métaux dans nos bons vieux téléphones fixes. Le smartphone d'aujourd'hui, beaucoup plus petit et fin, contient plus de 50 métaux : une condition pour avoir toutes les fonctionnalités de nos équipements !
- 
-  NB : usages dispersifs
+Un smartphone est principalement constitué de métaux, de verre et de matières plastiques. 
+
+<a href="./img/matieres-smartphone.png"> <img src="./img/matieres-smartphone.png" width="300"/></a>
+
+Source : https://doi.org/10.1016/j.resourpol.2020.101750
+
+!!! Tip ""
+    TODO : Expliquer viteuf les usages.
+    Q : C'est quoi exactement la céramique ? Et les PCB c'est en plastique ?
+
+En 1950, on dénombrait une douzaine de métaux dans nos bons vieux téléphones fixes. Le smartphone d'aujourd'hui, beaucoup plus petit et fin, contient plus de 50 métaux : une condition pour avoir toutes les fonctionnalités de nos équipements !
+
+!!! Tip ""
+    TODO : Ajouter la figure avec l'évolution du nombre de métaux dans les smartphones.
 
 ## Généralités
+Commençons par quelques généralités. 
+
 ### Qu'est-ce qu'un métal ?
 Élément du système périodique versus notion physique
 
@@ -19,104 +32,119 @@ Notions géologiques et physiques
 * métal
 * élément
 
+"Un <b>métal</b> est soit l’un des éléments du système périodique, soit un alliage de plusieurs éléments. Par contre, tous les éléments chimiques ne sont pas des métaux (ex. l'oxygène).",Définition,"empty"
+
+"Un <b>minéral</b> est une substance inorganique (contrairement par exemple à un végétal) caractérisée par sa composition chimique et une structure cristalline.",Définition,"empty"
+
+"On exploite souvent plusieurs métaux dans une mine (ex. cuivre et zinc). Si tous ont une valeur économique similaire, on parle de <b>co-produits</b>.",Définition,"empty"
+
+## Quels métaux dans les smartphones ?
+
+!!! Tip ""
+    TODO : Ajouter la figure avec l'évolution du nombre de métaux dans les smartphones.
+
+* Les informations concernant l'utilisation des métaux dans les smartphones sont issues de l'outil interactif développé par ISF SystExt (Ingénieurs sans frontières Systèmes extractifs et environnements).  
+    Source : [Inforgraphie Des métaux dans mon smartphone ?. Systext. Avril 2017](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/)
+    
+     Attention, ces informations sont à prendre avec précaution car la composition précise des smartphones n'est que rarement et partiellement connue, sachant qu'elle varie en fonction des smartphones et évolue rapidement avec l'évolution des technologies. Voir la fiche détaillée sur les métaux dans les smartphones pour plus d  
+     
+La composition précise des smartphones n'est que rarement et partiellement connue, et les sources utilisées dans les deux études ne sont donc pas comparables. L'information importante à retenir est la grande diversité des métaux présents dans un smartphone, et la grande variété de leurs usages.
+
+<a href="./img/metals-smartphone.png"> <img src="./img/metals-smartphone.png" width="linewidth"/></a>
+
+Systext a fourni en 2017 une [infographie détaillée](https://www.systext.org/node/1724) des éléments chimiques généralement présents dans un smarphone.
+
+<a href="./img/systext.png"> <img src="./img/systext.png" width="linewidth"/></a>
+
+Une [étude de l'ADEME d'octobre 2024](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique et fournit un état de l'art sur les impacts environnementaux et besoins associés. Les métaux indiqués présents dans un smartphone (pages 186-188 du fichier Recueil-fiches-Equipement.pdf) diffèrent en partie de ceux de l'étude Systext sans qu'il soit aisé d'expliquer ces différences. 
+
+
 ## Classifications des métaux
-réalité industrielle (métaux de base et métaux précieux) et en partie à une réalité physico-chimique (terres rares)
 
-* métaux rares
-* métaux précieux
-* terres rares
-* métaux lourds
+Il existe plusieurs manières de classifier les métaux, selon que l'on considère leur usage industriel, leurs propriétés physico-chimiques ou encore leurs spécificités géologiques. Notons que ces classifications ne sont complètement indépendantes les unes des autres : par exemple les métaux précieux (classification industrielle) ont des propriétés physico-chimiques similaires. Par contre, la correspondance n'est pas parfaite. Ainsi, certains métaux de base dans l'industrie (qu'on appelle métaux communs dans le jeu) sont des métaux rares du point géologique.
 
-### Métaux de base
+Nous précisons dans la suite différentes classifications des métaux qui sont fréquemment utilisées, en distinguant la nature des propriétés sur lesquelles elles se basent : industrielle, physico-chimique, géologique.
 
-> _Il n’existe pas de classification absolue des métaux cependant on peut distinguer quatre grandes familles industrielles qui peuvent être utilisées pour définir les champs d’analyse ou de description lorsqu’il n’est pas fait recours à des listes précises :_
-> 
-> * _Les métaux de base : Fe, Al, Ti, Mg, Mn, Cr, Zn, Pb, Cu, Ni, Sn_
-> * _Les métaux précieux : Au, Ag, Pt, Pd, Ir, Os, Rh, Ru_
-> * _Les métaux de l’énergie nucléaire que sont les actinides : U, Th, Pu_
-> * _Les métaux de spécialité : tous les autres_
+### Une classification industrielle : métaux de base, métaux précieux…
 
-Source : [Fiche technique de ADEME : _l'épuisement des métaux et minéraux : faut il s'en inquiéter ?_](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/ademe_epuisement-metaux-mineraux-201706-fiche-techniquev2.pdf), juin 2017
+L'ADEME distingue quatre grandes familles industrielles de métaux :
 
-### Métaux précieux
+* Les **métaux de base** : fer (Fe), aluminium (Al), titane (Ti), magnésium (Mg), manganèse (Mn), chrome (Cr), zinc (Zn), cuivre (Cu), nickel (Ni) et étain (Sn)
+* Les **métaux précieux** : or (Au), argent (Ag), platine (Pt), palladium (Pd), iridium (Ir), osmium (Os), rhodium (Rh) et rhuténium (Ru)
+* Les **métaux de l’énergie nucléaire** : uranium (U), thorium (Th) et plutonium (Pu)
+* Les **métaux de spécialité** : tous les autres
 
-Voir ci-dessus. Voir également :
+> Source : [Fiche technique de ADEME : _l'épuisement des métaux et minéraux : faut il s'en inquiéter ?_](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/ademe_epuisement-metaux-mineraux-201706-fiche-techniquev2.pdf), juin 2017
 
-> _Les éléments du groupe du platine, ou platinoïdes, sont six métaux voisins dans le tableau de Mendeleïev, le ruthénium (Ru), le rhodium (Rh), le palladium (Pd), l'osmium (Os), l'iridium (Ir) et le platine (Pt). \[...\] Les platinoïdes sont considérés comme des métaux précieux, avec l'or et l'argent._
+La notion de préciosité n'est pas une notion chimique, c'est une notion stratégique qui a vocation à évoluer au cours du temps. Il ne faut pas confondre préciosité et rareté, qui est une propriété géologique (voir plus bas). La rareté d’un métal peut impliquer sa préciosité, mais c'est surtout son prix, et donc la demande et les stocks disponibles, qui détermine sa préciosité.
 
-Source : [Rapport _Platinoïdes : le BRGM publie un nouveau panorama sur les métaux du groupe du platine_](https://www.mineralinfo.fr/fr/actualite/actualite/platinoides-brgm-publie-un-nouveau-panorama-sur-metaux-du-groupe-du-platine), février 2014
+La notion de métal précieux a varié au cours de l'histoire, essentiellement en fonction de l'offre et de la demande. Certains métaux précieux sont aujourd'hui essentiels au fonctionnement des smartphones, mais sont présents en très petite quantité : environ 0,5 % (en poids) de la totalité des métaux.
 
-### Terres rares
+### Des familles d'éléments métalliques : terres rares, platinoïdes
 
-Les terres rares sont les métaux de la famille des lanthanides auxquels on ajoute communément le scandium et l'yttrium, formant ainsi un ensemble aux propriétés voisines : scandium (Sc), yttrium (Y), lanthane (La), cérium (Ce), praséodyme (Pr), néodyme (Nd), prométhium (Pm), samarium (Sm), europium (Eu), gadolinium (Gd), terbium (Tb), dysprosium (Dy), holmium (Ho), erbium (Er), thulium (Tm), ytterbium (Yb), lutécium (Lu).
+Une autre façon de classifier les métaux consiste à s'intéresser à leurs propriétés physico-chimiques liées à leur position dans le système périodique des éléments. C'est ce qui permet de définir les terres rares et les platinoïdes.
 
-Précisions et source
+**Terres rares**
 
 > _Les terres rares représentent le groupe des lanthanides (éléments de numéros atomiques compris entre 57 et 71, du lanthane au lutécium) auquel on ajoute, du fait de propriétés chimiques voisines (même colonne de la classification périodique), l’yttrium (Y) et le scandium (Sc)._
 
 Source : [L'élémentarium (Société chimique de France, Education nationale)](https://lelementarium.fr/product/terres-rares/), 2024
 
-### Autres métaux[¶](http://localhost:8000/serious-game/smartphone/Ressources/Sources/Sources_plateau.html#autres-metaux "Permanent link")
+Ces 17 métaux forment ainsi un ensemble aux propriété voisines : scandium (Sc), yttrium (Y), lanthane (La), cérium (Ce), praséodyme (Pr), néodyme (Nd), prométhium (Pm), samarium (Sm), europium (Eu), gadolinium (Gd), terbium (Tb), dysprosium (Dy), holmium (Ho), erbium (Er), thulium (Tm), ytterbium (Yb), lutécium (Lu).
 
-Parmi les autres métaux présents dans un smartphone, on compte par exemple : lithium (Li), cobalt (Co), tantale (Ta), indium (In), antimoine (Sb), tungstène (W), gallium (Ga), germanium (Ge), silicium (Si)… comme détaillé ci-dessous.
+Notons que malgré leur nom, les terres rares sont en fait assez abondantes dans la croûte terrestre, mais difficiles à extraire. 
 
-## Quels métaux dans les smartphones ?
+**Platinoïdes**
 
-Le plateau Smartphone indique que les différentes ressources sont toutes nécessaires à la fabrication de chaque composant, à l'exception des terres rares et des métaux précieux pour la batterie et la coque.
+On appelle platinoïdes six métaux voisins dans le tableau de Mendeleïev : le ruthénium (Ru), le rhodium (Rh), le palladium (Pd), l'osmium (Os), l'iridium (Ir) et le platine (Pt). 
 
-Source principale
+Source : [Rapport _Platinoïdes : le BRGM publie un nouveau panorama sur les métaux du groupe du platine_](https://www.mineralinfo.fr/fr/actualite/actualite/platinoides-brgm-publie-un-nouveau-panorama-sur-metaux-du-groupe-du-platine), février 2014
 
-Systext a fourni en 2017 une [infographie détaillée](https://www.systext.org/node/1724) des éléments chimiques généralement présents dans un smarphone.
+Notons que l'ensemble des platinoïdes sont considérés comme des métaux précieux, avec l'or et l'argent.
 
-[](http://localhost:8000/serious-game/smartphone/Ressources/Sources/img/systext.png)[![](http://localhost:8000/serious-game/smartphone/Ressources/Sources/img/systext.png)](http://localhost:8000/serious-game/smartphone/Ressources/Sources/img/systext.png)
+**Métaux lourds**
 
-Si l'on distingue les différents types de métaux et les autres éléments chimiques présents dans chaque composant, on obtient ainsi :
+!!! Source "Précisions et sources"
+    
+    > *Les métaux lourds sont des éléments métalliques présentant un poids atomique élevé, tels que le mercure, le chrome, le cadmium, l'arsenic et le plomb. Ils peuvent nuire aux organismes vivants à faibles concentrations et ont tendance à s'accumuler dans la chaîne alimentaire.*  
+ 
+     Source : [Définition de "Métal lourd" sur le glossaire du site ec.europa.eu](https://ec.europa.eu/health/scientific_committees/opinions_layman/amalgams-alternatives/fr/glossaire/mno/metal-lourd.htm)
 
-**Carte mère (carte et composants)**
+### Propriétés géologiques : métaux rares
 
-* Métaux communs : Cu, Fe, Ni, Pb, Sn
-* Métaux précieux : Ag, Au, Pd, Pt, Rh
-* Terres rares : Dy, Nd, Pr, Sm
-* Autres métaux : As, B, Be, Bi, Co, Ga, Ge, Nb, Ru, Ta, Si, W, Zr
-* Autres éléments chimiques : Cl, P
+Attention, ce qu'on appelle métaux communs dans le jeu ne correspond pas à cette notion de rareté !
 
-**Batterie**
+Attention, les terres rares ne sont pas rares !
 
-* Métaux communs : Al, Mn
-* _Pas de métaux précieux_
-* _Pas de terres rares_
-* Autres métaux : Co, Li, V
-* Autres éléments chimiques : C, F, P
-
-**Coque (boîtier)**
-
-* Métaux communs : Ni, Mg, Zn
-* _Pas de métaux précieux_
-* _Pas de terres rares_
-* Autres métaux : Sb
-* Autres éléments chimiques : Br, C
-
-**Écran tactile (dalle tactile + vitre + écran)**
-
-* Métaux communs : Al, Mg, Sn
-* _Pas de métaux précieux_
-* Terres rares : Eu, Ce, Gd, La, Tb, Tm, Y
-* Autres métaux : Ba, Hg, In, Mo, Si
-* Autres éléments chimiques : B, K, S
-
-On constatera une différence avec le plateau smartphone : l'absence de métaux précieux dans l'écran tactile. Nous avons fait le choix de mettre en évidence la présence croissante d'électronique (riche en métaux précieux) directement associée aux écrans, comme par exemple dans les iPhones récents qui intègrent à l'écran une puce de reconnaissance faciale (source : [ifixit. _Apple’s New Screen Repair Trap Could Change the Repair Industry Forever_](https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever#), novembre 2021).
-
-Complément
-
-Une [étude de l'ADEME d'octobre 2024](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique et fournit un état de l'art sur les impacts environnementaux et besoins associés.
-
-Les métaux indiqués présents dans un smartphone (pages 186-188 du fichier Recueil-fiches-Equipement.pdf) diffèrent en partie de ceux de l'étude Systext sans qu'il soit aisé d'expliquer ces différences car la composition précise des smartphones n'est que rarement et partiellement connue, et les sources utilisées dans les deux études ne sont donc pas comparables. L'information importante à retenir est la grande diversité des métaux présents dans un smartphone, et la grande variété de leurs usages.
 
 ## Quels usages de ces métaux ?
 
+Votre smartphone à fabriquer est représenté par un Plateau Smartphone constitué de 4 composants : Coque, Carte mère, Batterie et Écran tactile.
+
+Par souci de simplification, le composant Carte mère désigne l'ensemble des composants électroniques associés : processeur, mémoire vive, etc. mais aussi haut-parleurs, caméras, antenne…
+
+**Métaux communs** (ex. aluminium, cuivre, fer) : aussi appelés "métaux de base", ils sont utilisés communément dans l'industrie. Les métaux communs représentent la majeure partie du poids des métaux dans un smartphone.
+
+---
+
+**Métaux précieux** (ex. argent, or, palladium, platine) : rares (très peu abondants dans la croûte terrestre) mais surtout de grande valeur économique. Dans les smartphones, ils sont utilisés principalement pour leur conductivité et leur résistance à la corrosion.
+
+---
+
+**Terres rares** (ex. néodyme, yttrium) : malgré leur nom, les terres rares sont en fait assez abondantes dans la croûte terrestre, mais en faible teneur et difficiles à extraire. Elles servent entre autres à fabriquer les aimants pour les vibreurs des smartphones et à colorer les LED des écrans.
+
+---
+
+**Autres métaux** (ex. cobalt, lithium, tantale) : un smartphone contient également de nombreux autres métaux qui ne sont ni communs, ni précieux ni des terres rares. On compte une cinquantaine de métaux et métalloïdes dans un smartphone, qui permettent smartphone contient également de nombreux autres métaux qui ne sont ni communs, ni précieux ni des terres rares. On compte une cinquantaine de métaux et métalloïdes dans un smartphone, qui permettent l'implémentation de fonctionnalités spécifiques.
+
+---
+
+**Autres matières** (ex. céramique, plastique, matières synthétiques, verre) : en plus des métaux, les smartphones contiennent d'autres matières comme du verre et du plastique pour l'écran, la coque, les circuits imprimés contenus dans la carte mère...
+  
+  NB : usages dispersifs
+
 ### Des métaux communs
 
-Aussi appelés "métaux de base", ces métaux sont utilisés communément dans l'industrie. Certains peuvent demander une grande quantité d’énergie pour être extraits et raffinés.
 Les métaux communs composent la majorité des métaux d'un smartphone.
 
 Parmi les métaux considérés dans la préparation de ce jeu, voici la liste des métaux communs pris en compte :
@@ -150,26 +178,12 @@ Parmi les métaux considérés dans la préparation de ce jeu, voici la liste de
 
     Le zinc est apprécié dans le secteur de l’électronique pour sa résistance à la corrosion et à l’usure. On le retrouve dans les réseaux de transmission et de stockage de données.
 
-A noter que l'IFPEN liste également dans cette catégorie :
-
-- Titane (Ti)
-- Chrome (Cr)
-- Plomb (Pb)
-
-
 ### Des métaux précieux
 
-La notion de préciosité n'est pas une notion chimique, c'est une notion stratégique qui a vocation à évoluer au cours du temps. Il ne faut pas confondre préciosité et rareté. La rareté d’un métal peut impliquer sa préciosité, mais c'est surtout son prix, et donc la demande et les stocks disponibles, qui détermine sa préciosité.
-
-La notion de métal précieux a varié au cours de l'histoire, essentiellement en fonction de l'offre et de la demande. Certains métaux précieux sont aujourd'hui essentiels au fonctionnement des smartphones, mais sont présents en très petite quantité : environ 0,5 % (en poids) de la totalité des métaux.
-
-Dans le monde de l’électronique, l’or est utilisé principalement pour les propriétés anti-oxydantes (ne rouille pas), de conductibilité de l’électricité sur les cartes électroniques et parce qu’il est très facile à travailler (on dit qu’il est ductile). Le palladium protège les circuits électroniques contre la corrosion.
-
-Aujourd’hui, il y a plus d’or dans une tonne de déchets de cartes électroniques que dans une tonne de minerai d’or ! Une tonne de minerais d’or contient entre 1 g et 10 g d’or selon la mine. Comme les métaux communs, les métaux précieux ont pour la plupart un bon taux de recyclage : environ 50%.
-
-Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des métaux précieux pris en compte :
+Parmi les métaux considérés dans la préparation de ce jeu, voici la liste des métaux précieux pris en compte :
 
 - Or (Au) 
+    Dans le monde de l’électronique, l’or est utilisé principalement pour les propriétés anti-oxydantes (ne rouille pas), de conductibilité de l’électricité sur les cartes électroniques et parce qu’il est très facile à travailler (on dit qu’il est ductile). 
 
     L’or est apprécié dans le secteur du numérique pour sa conductivité et sa résistance à la corrosion qui en font un matériau de choix pour de nombreux composants de haute spécification et de haute qualité. 
 
@@ -178,7 +192,7 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
     L’argent est le le métal possédant les meilleures conductivités thermique et électrique. Il est également apprécié dans le secteur du numérique pour sa résistance à la corrosion et à l’usure. 
 
 - Palladium (Pd) 
-
+    Le palladium protège les circuits électroniques contre la corrosion.
     Le palladium est apprécié dans le secteur de l’électronique pour son point de fusion élevé, sa résistance à l’oxydation dans l’air et à la corrosion chimique et ses propriétés catalytiques exceptionnelles.
 
 - Platine (Pt) 
@@ -197,13 +211,9 @@ A noter que l'IFPEN liste également dans cette catégorie :
 
 ### Des terres rares
 
-Malgré leur nom, les terres rares sont assez abondantes dans la croûte terrestre mais difficiles à extraire. Leur extraction génère des déchets radioactifs. Les extraire nécessite des procédés complexes et très polluants. 
-
-Il s'agit en fait principalement de la famille des lanthanides à laquelle on ajoute communément le scandium et l'yttrium. Ces 17 métaux forment ainsi un [ensemble aux propriété voisines][terres_rares].
-
 Ce sont des métaux chimiquement assez réactifs et disposant de propriétés électromagnétiques, électroniques, magnétiques, optiques ou encore catalytiques les rendant indispensables pour des fabrications de haute technologie. Ils servent à fabriquer des aimants, nécessaires à la production de la vibration de nos smartphone; à donner des couleurs plus belles et plus variées aux LED de nos écrans. Moins de 0,1 % (en poids) des métaux constituant mon smartphone sont des terres rares.
 
-Parmis les métaux considéré dans la préparation de ce jeu, voici la liste des terres rares prises en compte :
+Parmi les métaux considérés dans la préparation de ce jeu, voici la liste des terres rares prises en compte :
 
 - Dysprosium (Dy)
 
@@ -225,11 +235,10 @@ Parmis les métaux considéré dans la préparation de ce jeu, voici la liste de
 A noter que le Silicium se retrouve dans cette catégorie bien qu'il soit très abondant dans la croûte terrestre, sachant qu'il n'est de toute façon pas extrait en mine. 
 
 ### D'autres métaux
-Un smartphone contient également de nombreux autres métaux qui ne sont ni communs, ni précieux ni des terres rares. Ils sont les plus nombreux.
 
 Ce sont des métaux spéciaux dont les propriétés physico-chimiques permettent l'implémentation de nombreuses fonctionnalités d’un smartphone. Le tantale, par exemple est extrêmement résistant et permet la miniaturisation. On les retrouve en seconde position dans la composition du smartphone (autour de 16% en poids des métaux).
 
-Parmi les métaux considéré dans la préparation de ce jeu, voici la liste des métaux rares pris en compte :
+Parmi les métaux considérés dans la préparation de ce jeu, voici la liste des métaux de spécialité pris en compte :
 
 - Antimoine (Sb) 
 
@@ -267,9 +276,14 @@ Parmi les métaux considéré dans la préparation de ce jeu, voici la liste des
 
     Le silicium métal utilisé dans les équipements numériques est du polysilicium affiné à un niveau de pureté extrême de 10N à 13N . Il est apprécié dans la microélectronique pour ses propriétés semi-conductrices utiles au fonctionnement des circuits intégrés, au stockage et à la transmission d’information.
 
+## Pour aller plus loin
 
+### Sources de référence
+* L'élémentarium pour tout ce qui relève des propriétés physiques des métaux
 
-## Ressources
+### Autres sources
+
+## En vrac
 - [ADEME Etude numérique et métaux : Impacts environnementaux du numérique et besoins en métaux](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html)
 - [Ifp énergies nouvelles : métaux transition énergétique](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/climat-environnement-et-economie-circulaire/les-metaux-transition-energetique#Les%20m%C3%A9taux%20:%20quelques%20d%C3%A9finitions)
 - [Fiche concept 2.2.1, chapitre "La production des métaux"](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.2.1-EmpreinteEnvironnementaleTerminal-MoocImpactNum.html?lang=fr#la-production-des-metaux)
@@ -285,7 +299,7 @@ Parmi les métaux considéré dans la préparation de ce jeu, voici la liste des
 [terres_rares]: https://www.ifpenergiesnouvelles.fr/article/les-terres-rares-transition-energetique-quelles-menaces-les-vitamines-lere-moderne
 
 
-# Usages des métaux mais pas que
+## Usages des métaux mais pas que
 * Antimoine → dopant pour les IC
 * Argent → conducteur électrique
 * Arsenic → LED, dopant pour les IC
@@ -311,6 +325,31 @@ Parmi les métaux considéré dans la préparation de ce jeu, voici la liste des
 * Germanium → wafer
 
 - La grande diversité de métaux dans un smartphone Refs : EuChems, Orange dans le rapport du Sénat, aller chercher du côté du Fraunhofer https://www.youtube.com/watch?v=9-2b-Xrmzgc&list=PLWMNQf5APHgKSwbX6RYvqHpKRzn2T3LvU&index=16
-	* Question subsidiaire : usage diffus ou pas ? cf usage ci-dessous
+	* Question subsidiaire : usage diffus ou pas ? 
 
 
+
+## Notes métaux smartphones
+https://www.researchnester.com/fr/reports/silver-nanowires-market/4934
+
+https://www.pcmobitech.com/what-is-ltpo-technology-how-does-it-compare-to-amoled/#LTPO-vs-AMOLED-Key-Differences
+https://silverinstitute.opt-wp.cloud.bosslogics.com/wp-content/uploads/2021/05/SilverElectronics_MmktTR2021v.pdf
+https://www.androidauthority.com/how-do-folding-screens-actually-work-3164822/
+https://www.silverinstitute.org/wp-content/uploads/2021/05/SilverElectronics_MmktTR2021v.pdf
+https://www.pcbaaa.com/battery-pcb/
+https://www.luckylight.cn/en/products/led-display/led-backlight/
+https://www.oeko.de/fileadmin/oekodoc/Resource_Efficiency_ICT_LV.pdf
+https://www.journaldugeek.com/2020/09/28/ecrans-amoled-ou-lcd-quels-sont-les-avantages-les-inconvenients-et-que-choisir-pour-votre-smartphone/
+https://www.numerama.com/tech/701693-nitrure-de-gallium-tout-comprendre-a-ce-materiau-qui-veut-revolutionner-la-recharge.html
+https://www.samsung.com/fr/guide-achat-mobile/caracteristiques/ecran-amoled-smartphone-galaxy/
+https://www.servicesmobiles.fr/nouveau-materiau-conducteur-et-transparent-pour-nos-ecrans-78189
+https://fr.wikipedia.org/wiki/Accumulateur_nickel-hydrure_m%C3%A9tallique
+https://www.cadaoz.com/fr/blog/comprendre-la-batterie-de-votre-smartphone/
+
+Ceramics in cellphones https://www.azom.com/article.aspx?ArticleID=15780
+https://miao.ensad.fr/2018/08/21/les-ceramiques-et-les-verres/
+
+
+## Composants électroniques Nexus 4
+* RFIC Qualcomm PM8921 : https://www.ansys.com/blog/what-is-rfic 
+* DRAM Samsung
