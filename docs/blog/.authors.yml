@@ -2,15 +2,15 @@ authors:
     madeline:
         name: Madeline Montigny
         description: Ingénieure pédagogique
-        avatar: img/MadelineMontigny.jpg
+        avatar: https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/blog/img/MadelineMontigny.jpg
         url: https://www.linkedin.com/in/madelinemontigny/
     sherazade:
         name: Sherazade Djeballah
         description: Ingénieure pédagogique
-        avatar: img/Sherazade.jpeg
+        avatar: https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/blog/img/Sherazade.jpeg
         url: https://www.linkedin.com/in/sherazade-djeballah-6a8759233/
     sabah:
         name: Sabah Khalfa
         description: Ingénieure pédagogique
-        avatar: img/SabahKhalfa.jpeg
+        avatar: https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/blog/img/SabahKhalfa.jpeg
         url: https://www.linkedin.com/in/sabah-khalfa-ab24749/
