@@ -1,21 +1,16 @@
 authors:
-    nathan:
-        name: Nathan Viaud
-        description: Développeur
-        avatar: https://avatars.githubusercontent.com/u/79544144?v=4
-        url: https://github.com/NathanViaud
     madeline:
         name: Madeline Montigny
         description: Ingénieure pédagogique
-        avatar: img/MadelineMontigny.jpg
+        avatar: blog/img/MadelineMontigny.jpg
         url: https://www.linkedin.com/in/madelinemontigny/
     sherazade:
         name: Sherazade Djeballah
         description: Ingénieure pédagogique
-        avatar: img/Sherazade.jpeg
+        avatar: blog/img/Sherazade.jpeg
         url: https://www.linkedin.com/in/sherazade-djeballah-6a8759233/
     sabah:
         name: Sabah Khalfa
         description: Ingénieure pédagogique
-        avatar: img/SabahKhalfa.jpeg
+        avatar: blog/img/SabahKhalfa.jpeg
         url: https://www.linkedin.com/in/sabah-khalfa-ab24749/
