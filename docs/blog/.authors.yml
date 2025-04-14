@@ -2,15 +2,15 @@ authors:
     madeline:
         name: Madeline Montigny
         description: Ingénieure pédagogique
-        avatar: assets/img/MadelineMontigny.jpg
+        avatar: /serious-game/smartphone/assets/img/MadelineMontigny.jpg
         url: https://www.linkedin.com/in/madelinemontigny/
     sherazade:
         name: Sherazade Djeballah
         description: Ingénieure pédagogique
-        avatar: assets/img/Sherazade.jpeg
+        avatar: /serious-game/smartphone/assets/img/Sherazade.jpeg
         url: https://www.linkedin.com/in/sherazade-djeballah-6a8759233/
     sabah:
         name: Sabah Khalfa
         description: Ingénieure pédagogique
-        avatar: assets/img/SabahKhalfa.jpeg
+        avatar: /serious-game/smartphone/assets/img/SabahKhalfa.jpeg
         url: https://www.linkedin.com/in/sabah-khalfa-ab24749/
