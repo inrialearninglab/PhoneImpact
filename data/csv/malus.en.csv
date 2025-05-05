@@ -4,7 +4,7 @@ text,type,image,index
 "An <b>ore</b> is a rock that is mined in order to obtain metals or other useful minerals, after several stages of processing.",Definition,"empty",1
 "<b>Waste rock</b> is the rock that needs to be extracted in order to reach the ore.",Definition,"empty",2
 "<b>Mine tailings</b>  are the solid or liquid waste produced when processing the ore.",Definition,"empty",3
-" ",In pictures, "Antamina_Mine_Tailings_Pond",4
+" ",In pictures,"Antamina_Mine_Tailings_Pond",4
 "In order to store mine tailings, artificial ponds are created by building dams or embankments. \n\n<b>Dam breaches</b> are one of the causes of mine-related disasters.",Risks,"empty",5
 "Brumadinho dam breach, Brazil, 2019, TV NBR, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",In pictures,"Resumo_da_agenda_do_Presidente",6
 "Once the ore has been excavated, it is crushed, ground and sorted in order to separate out the desired minerals.\n\nThis processing stage consumes a lot of energy and water, and generates tailings.",Processing,"empty",7
@@ -14,7 +14,7 @@ text,type,image,index
 "Ore extraction and the initial processing operations (crushing and grinding) generate dust, which is a major source of water and soil pollution.",Pollution,"empty",11
 "Mining waste (tailings and waste rock) often contains sulfur, which reacts chemically with air and water, and then with other pollutants (lead, arsenic, etc.), thus causing serious water pollution.",Pollution,"empty",12
 "Cleaning up pollution in former mining sites is difficult, costly and takes an extremely long time, and is sometimes even impossible.",Pollution,"empty",13
-"<b>Brazil, 2015</b>. Breach of a tailings dam near an iron ore mine, which the Brazilian government qualified as "<i>the country's biggest ever environmental disaster<i>". The long-term pollution stretched as far as the Atlantic Ocean 650 km away.",Disaster,"empty",14
+"<b>Brazil, 2015</b>. Breach of a tailings dam near an iron ore mine, which the Brazilian government qualified as ""<i>the country's biggest ever environmental disaster</i>"". The long-term pollution stretched as far as the Atlantic Ocean 650 km away.",Disaster,"empty",14
 "<b>Romania, 2000</b>. Dam breach near a waste-rock processing plant.\n\nThe pollutants (including 115 tons of cyanide) destroyed almost all the flora and fauna in a nearby river over a distance of almost 600 km.",Disaster,"empty",15
 "<b>Canada, 2014</b>. Dam breach near a copper and gold mine.\n\nMine tailings, containing hundreds of tons of lead, spilled into two lakes downstream.",Disaster,"empty",16
 "China is the world's leading producer of rare earths and other metals, such as gallium and magnesium.\n\nThis represents a major geopolitical challenge.",Tensions,"empty",17
@@ -23,7 +23,7 @@ text,type,image,index
 "<b>Papua New Guinea, 1989</b>. The environmental and social conflict surrounding a copper and gold mine ended up turning into a civil war that would claim around 20,000 lives over the course of 10 years.",Conflict,"empty",20
 "In Chile, Peru and\nArgentina, the <b>demands on water</b> to produce copper and lithium are in conflict with the needs of the local populations.",Conflicts,"empty",21
 "There are still active mines in France: gold is mined in French Guiana, nickel in New Caledonia (6% of world production in 2023) and bauxite near Montpellier.",In France,"empty",22
-"A lithium mine is scheduled to open in the Massif Central by 2027. It will be one of the largest in Europe."In France,"empty",23
+"A lithium mine is scheduled to open in the Massif Central by 2027. It will be one of the largest in Europe.",In France,"empty",23
 "Hundreds of former mines were not cleaned up when they closed.\n\nSome of these are still a major source of pollution today.",In France,"empty",24
 "The <b>Democratic Republic of Congo</b> is the world's leading producer \nof <b>cobalt</b> (74% of production in 2023).\n\nCobalt is used in smartphone motherboards and batteries.",Geography,"empty",25
 "<b>Indonesia</b> is the world's leading producer of <b>nickel</b \n(50% of production in 2023).\n\nNickel is used in smartphone motherboards and casings.",Geography,"empty",26
@@ -34,15 +34,15 @@ text,type,image,index
 "In order to satisfy the global demand for metals, ores with lower and lower grades are being extracted.\n\nConsequently, much more material needs to be extracted to produce the same quantity of metal.",For information,"empty",31
 "<b>Rare earths</b> (not to be confused with rare metals!) are metals that are fairly abundant in the Earth's crust but with a very low grade.",For information,"empty",32
 "Although there are many <b>underground</b> mines, the majority of mines today are operated as <b>open pits</b>.",For information,"empty",33
-" " ,In pictures,"MineCuivreRoumanie",34
-" " ,In pictures,"MineColtanRDC",35
-" " ,In pictures,"mine_lithium",36
+" ",In pictures,"MineCuivreRoumanie",34
+" ",In pictures,"MineColtanRDC",35
+" ",In pictures,"mine_lithium",36
 "Gold mines often contain naturally-occurring mercury and arsenic, which are dangerous to health and the environment.",Risks,"empty",37
 "The mining industry is the leading cause of <b>environmental conflicts</b> in the world.\n\nIn 2019, 50 environmental defenders were assassinated during conflicts involving the mining industry.",Conflicts,"empty",38
 "<b>Brazil, 2019</b>. Breach of a tailings dam at an iron ore mine, which resulted in 243 deaths, 27 missing people and hundreds of injuries.\n\nThe operator had to pay almost �6 billion in damages.",Disaster,"empty",39
 "<b>Hungary, 2010</b>. Dam breach near an aluminum factory. Red mud flooded several villages, killing 10 people and injuring 286.\n\nIt was Hungary's worst ever industrial disaster.",Disaster,"empty",40
 "There are very few factories capable of recycling the wide variety of metals contained in an electronic board, and none in France.",Recycling,"empty",41
-"The main technical difficulties involved in recycling the metals contained in smartphones are:\n\n1) identifying the metals concerned\n\n2) separating them from the other metals.",Recycling, "empty",42
+"The main technical difficulties involved in recycling the metals contained in smartphones are:\n\n1) identifying the metals concerned\n\n2) separating them from the other metals.",Recycling,"empty",42
 "<b>Belgium, 2020</b>. Due to the dust emitted by a metal recycling plant, the children in this neighborhood have blood lead levels that are considered dangerous.",Recycling,"empty",43
 "A former gold mine near Carcassonne has caused major arsenic pollution problems.n\nAmong other things, the sale of vegetables produced in the region has been banned.",In France,"empty",44
 "Several mining exploration projects (for gold, lithium, tin and other metals) are currently in progress or awaiting authorization in France.",In France,"empty",45
@@ -57,7 +57,7 @@ text,type,image,index
 "<b>South Africa</b> is the world's leading producer of <b>platinum</b> (67% of production in 2023).\n\nPlatinum is used in smartphone motherboards.",Geography,"empty",54
 "A <b>slag heap</b> is an artificial hill formed by the accumulation of waste rock and tailings from a mine.",Definition,"empty",55
 "The term <b>world reserves</b> of a metal (e.g. copper) refers to the currently exploitable quantity of a given metal in the Earth's crust.\n\nThese reserves are very unevenly distributed around the world.",Definition,"empty",56
-"In France, the <b>Mining Code</b> defines the distinction between mines and quarries. The term mine is used when the material extracted is considered strategic, otherwise the term "quarry" is used.",For information,"empty",57
+"In France, the <b>Mining Code</b> defines the distinction between mines and quarries. The term mine is used when the material extracted is considered strategic, otherwise the term ""quarry"" is used.",For information,"empty",57
 "Many metals used in the digital sector are <b>by</b>-<b>products</b>, i.e. they are recovered during the processing of other metals.\n\nFor example, gallium is a by-product of aluminum.",For information,"empty",58
 "The average grade of ore varies greatly between the different types of metals: it is around 45% for iron (45 g of iron for 100 g of ore) but only 0.00008% for gold (8 g of gold for 10 tons of ore)!",For information,"empty",59
 "Worldwide production quantities vary greatly from one metal to another: a few hundred tons a year for certain precious metals, but 100,000 times more for certain base metals!", For information,"empty",60
