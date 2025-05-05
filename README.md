@@ -8,7 +8,7 @@ Sommaire:
 - [Déploiement en local du portail de ressources](#déploiement_en_local_du_portail_de_ressources)
 
 ## Génération automatique des cartes en local
-### Environment Docker  
+### Environment Docker
 
 #### Create image
 ```shell
@@ -17,15 +17,22 @@ docker build -t phone-impact .
 
 #### Run container
 Execute this command inside the project folder and the result will be generated in `_output`
+
+##### French version
 ```shell
 docker run -v .:/app phone-impact
 ```
 
+##### English version
+```shell
+docker run -v $(pwd):/app phone-impact pnp[en]
+```
+
 #### Enter container
 ```shell
-docker run -v .:/app --entrypoint sh -it phone-impact  
+docker run -v .:/app --entrypoint sh -it phone-impact
 ```
-#### Generate the event cards 
+#### Generate the event cards
 ```shell
 ruby decks/pnp/events.rb
 ```
