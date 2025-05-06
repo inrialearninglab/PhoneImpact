@@ -25,7 +25,7 @@ docker run -v .:/app phone-impact
 
 ##### English version
 ```shell
-docker run -v $(pwd):/app phone-impact pnp[en]
+docker run -v $(pwd):/app phone-impact "pnp[en]"
 ```
 
 #### Enter container
