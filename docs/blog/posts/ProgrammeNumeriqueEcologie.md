@@ -2,7 +2,7 @@
 date: 2025-05-07
 authors: [pauline]
 title: "Retour d’expériences sur les ateliers PhoneImpact"
-description: "Après des mois de développement, d’ajustements et d’enthousiasme partagé, PhoneImpact franchit une nouvelle étape : les boîtes de jeu sont désormais disponibles à la vente ! 🎉 Que vous soyez joueur·se, enseignant·e, animateur·trice ou simplement curieux·se, PhoneImpact offre une expérience ludique unique pour sensibiliser aux impacts environnementaux des activités extractives liées à la fabrication des smartphones."
+description: "Le programme Numérique et Ecologie de la Direction du numérique au secrétariat général des ministres en charges de l’aménagement du territoire et de la transition écologique a organisé plusieurs sessions du jeu Phone Impact en 2025 dans le cadre de ses missions de formation et sensibilisation au numérique responsable."
 ---
 Le programme Numérique et Ecologie de la Direction du numérique au secrétariat général des ministres en charges de l’aménagement du territoire et de la transition écologique a organisé plusieurs sessions du jeu Phone Impact en 2025 dans le cadre de ses missions de formation et sensibilisation au numérique responsable.
 <!-- more -->
