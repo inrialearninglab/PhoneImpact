@@ -3,6 +3,7 @@ date: 2025-03-24
 authors: [sabah]
 title: "Intervention au Féru des Sciences à Nancy !"
 description: "Inria Learning Lab a participé à la première édition de Ménage de printemps organisé par les musées scientifiques de la Métropole du Grand Nancy et dédié au cycle de vie des supports éléctroniques que nous utilisons tous les jours et parfois plus que de raison !"
+slug: feru-des-sciences
 ---
 Inria Learning Lab a participé à la première édition de "*[Ménage de printemps](https://www.leferudessciences.eu/accueil)*", organisée par les musées scientifiques de la Métropole du Grand Nancy et dédiée au **cycle de vie des supports électroniques** que nous utilisons tous les jours, et parfois plus que de raison !
 
