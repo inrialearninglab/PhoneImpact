@@ -1,7 +1,7 @@
 ---
 date: 2025-05-17
-authors: [Association pour l’Informatique participative], 
-title: "Numérique responsable : des idées, des jeux, des voix" Médiation, reconditionnement et promotion des logiciels libre sont les 3 activités de l'association
+authors: [Association pour l’Informatique participative], Médiation, reconditionnement et promotion des logiciels libre sont les 3 activités de l'association
+title: "Numérique responsable : des idées, des jeux, des voix"
 description: "Présents à la Place cu Numérique, nous avons sensibilisé au reconditionnement informatique à travers le jeu "Qui suis-je ?" et coanimé un stand PhoneImpact avec la Grange Numérique autour de l'impact environnemental des smartphones. Une journée riche en échanges sur le numérique responsable, ponctuée d'enregistrements pour une future émission sur Radio Béton."
 slug: informatique-participative
 ---
