@@ -3,6 +3,7 @@ date: 2024-02-20
 authors: [sherazade]
 title: "Retour sur le salon Tech & Fest edition 2024"
 description: "L'équipe d'Inria Learning Lab était présente à la première édition du [Tech & Fest](https://www.tech-fest.fr/fr) pour présenter le prototype du jeu PhoneImpact au grand public."
+slug: tech-fest-2024
 ---
 L'équipe d'Inria Learning Lab était présente à la première édition du [Tech & Fest](https://www.tech-fest.fr/fr) pour présenter le prototype du jeu **PhoneImpact** au grand public.
 <!-- more -->

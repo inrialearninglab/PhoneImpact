@@ -3,6 +3,7 @@ date: 2025-05-07
 authors: [pauline]
 title: "Des ateliers PhoneImpact pour sensibiliser au numérique responsable"
 description: "Le programme **Numérique et Ecologie** de la **Direction du numérique au secrétariat général des ministres** en charges de l’aménagement du territoire et de la transition écologique a organisé plusieurs sessions du jeu Phone Impact en 2025 dans le cadre de ses **missions de formation et sensibilisation au numérique responsable**."
+slug: programme-numerique-ecologie
 ---
 Le programme **Numérique et Ecologie** de la **Direction du numérique au secrétariat général des ministres** en charges de l’aménagement du territoire et de la transition écologique a organisé plusieurs sessions du jeu PhoneImpact en 2025 dans le cadre de ses **missions de formation et sensibilisation au numérique responsable**.
 <!-- more -->
