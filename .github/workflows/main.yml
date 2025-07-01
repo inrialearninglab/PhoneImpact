@@ -1,26 +1,51 @@
-name: Mkdocs
+name: Deploy MkDocs to GitHub Pages
+
 on:
     workflow_dispatch:
     push:
-        tags:
-            - "*"
+        branches:
+            - main
+
+permissions:
+    contents: read
+    pages: write
+    id-token: write
+
+concurrency:
+    group: "pages"
+    cancel-in-progress: false
+
 jobs:
-    deploy:
+    build:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v2
-            - uses: actions/setup-python@v2
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
               with:
-                  python-version: 3.x
-            - run: pip install -r requirements.txt
-            - run: mkdocs gh-deploy --force
-            - run: git checkout gh-pages
-            - name: Replace relative URLs
-              run: >
-                  CI_PAGES_URL="https://$( cut -d '/' -f 1 <<< "$GITHUB_REPOSITORY" ).github.io/$( cut -d '/' -f 2 <<< "$GITHUB_REPOSITORY" )/" &&
-                  for file in $(find * -name "*.html"); do
-                    sed -i "s|<img \([^\\\>]*\)src=\"\([^\:]*\)\"|<img \1\src=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
-                    sed -i "s|<iframe \([^\\\>]*\)src=\"\([^\:]*\)\"|<iframe \1\src=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
-                    sed -i "s|<a \([^\\\>]*\)href=\"\([^#][^\:\"]*\)\"|<a \1\href=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
-                  done
-            - run: git config user.email "benoit.rospars@inria.fr" && git config user.name "Benoit Rospars" && git add . && git commit -m "Relative to absolute urls" && git push origin gh-pages
+                  python-version: "3.10"
+
+            - name: Install deps
+              run: |
+                  pip install -r requirements.txt
+
+            - name: Build MkDocs site
+              run: mkdocs build --clean --site-dir site
+
+            - name: Upload site artifact
+              uses: actions/upload-pages-artifact@v3
+              with:
+                  path: site
+
+    deploy:
+        needs: build
+        runs-on: ubuntu-latest
+        environment:
+            name: github-pages
+            url: ${{ steps.deployment.outputs.page_url }}
+        steps:
+            - name: Deploy to GitHub Pages
+              id: deployment
+              uses: actions/deploy-pages@v4
