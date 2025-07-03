@@ -2,19 +2,32 @@ image: alpine:latest
 
 pages:
     stage: deploy
+
     script:
         - apk add --no-cache bash coreutils findutils
 
         - export BASE_GITHUB_URL="https://phoneimpact.inria.fr"
 
         - mkdir -p public
+
+        # For every .md file in docs
         - |
             find docs -name "*.md" | while read file; do
-              rel_path="${file#docs/}"
-              rel_path="${rel_path%.md}"
-              out_path="public/${rel_path}/index.html"
-              url_path=$(echo "$rel_path" | sed 's| |%20|g')
-              redirect_url="$BASE_GITHUB_URL/$url_path/"
+              rel_path="${file#docs/}"         # e.g. PrintAndPlay/index.md
+              filename=$(basename "$rel_path") # e.g. index.md
+              rel_dir=$(dirname "$rel_path")   # e.g. PrintAndPlay
+
+              if [ "$filename" = "index.md" ]; then
+                out_path="public/${rel_dir}/index.html"
+                url_path="${rel_dir}/"
+              else
+                name_noext="${filename%.md}"
+                out_path="public/${rel_dir}/${name_noext}.html"
+                url_path="${rel_dir}/${name_noext}/"
+              fi
+
+              url_path=$(echo "$url_path" | sed 's| |%20|g')
+              redirect_url="$BASE_GITHUB_URL/$url_path"
               mkdir -p "$(dirname "$out_path")"
 
               echo '<!DOCTYPE html>' > "$out_path"
@@ -29,28 +42,11 @@ pages:
               echo '  </body>' >> "$out_path"
               echo '</html>' >> "$out_path"
             done
-
-        - |
-            if [ -f docs/index.md ]; then
-              mkdir -p public
-              echo '<!DOCTYPE html>' > public/index.html
-              echo '<html>' >> public/index.html
-              echo '  <head>' >> public/index.html
-              echo "    <meta http-equiv=\"refresh\" content=\"0; url=$BASE_GITHUB_URL/\" />" >> public/index.html
-              echo "    <script>window.location.href = '$BASE_GITHUB_URL/';</script>" >> public/index.html
-              echo '    <title>Redirecting…</title>' >> public/index.html
-              echo '  </head>' >> public/index.html
-              echo '  <body>' >> public/index.html
-              echo "    <p>If you are not redirected, <a href=\"$BASE_GITHUB_URL/\">click here</a>.</p>" >> public/index.html
-              echo '  </body>' >> public/index.html
-              echo '</html>' >> public/index.html
-            fi
-
-    artifacts:
-        paths:
-            - public
-    only:
-        - main
+            artifacts:
+                paths:
+                    - public
+            only:
+                - main
 
 create-cards:
     stage: deploy
