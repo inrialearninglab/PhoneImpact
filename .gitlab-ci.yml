@@ -1,35 +1,68 @@
-image: brospars/docker-mkdocs
+image: alpine:latest
+
 pages:
-  stage: deploy
-  script:
-  - pip install -r requirements.txt
-  - mkdocs build --site-dir public
-  - cd public
-  - for file in $(find * -name "*.html"); do
-      sed -i "s|<img \([^\\\>]*\)src=\"\([^\:\>]*\)\"|<img \1\src=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
-      sed -i "s|<a \([^\\\>]*\)href=\"\([^#][^\:\"]*\)\"|<a \1\href=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
-    done
-  - for file in $(find * -name "story.html"); do
-      sed -i -e "\@</body>@i\<script src=\"$CI_PAGES_URL/assets/extra.js\"></script>" $file;
-    done
-  artifacts:
-    expire_in: 3 days
-    paths:
-    - public
-  only:
-  - main
+    stage: deploy
+    script:
+        - apk add --no-cache bash coreutils findutils
+
+        - export BASE_GITHUB_URL="https://phoneimpact.inria.fr"
+
+        - mkdir -p public
+        - |
+            find docs -name "*.md" | while read file; do
+              rel_path="${file#docs/}"
+              rel_path="${rel_path%.md}"
+              out_path="public/${rel_path}/index.html"
+              url_path=$(echo "$rel_path" | sed 's| |%20|g')
+              redirect_url="$BASE_GITHUB_URL/$url_path/"
+              mkdir -p "$(dirname "$out_path")"
+
+              echo '<!DOCTYPE html>' > "$out_path"
+              echo '<html>' >> "$out_path"
+              echo '  <head>' >> "$out_path"
+              echo "    <meta http-equiv=\"refresh\" content=\"0; url=$redirect_url\" />" >> "$out_path"
+              echo "    <script>window.location.href = '$redirect_url';</script>" >> "$out_path"
+              echo '    <title>Redirecting…</title>' >> "$out_path"
+              echo '  </head>' >> "$out_path"
+              echo '  <body>' >> "$out_path"
+              echo "    <p>If you are not redirected, <a href=\"$redirect_url\">click here</a>.</p>" >> "$out_path"
+              echo '  </body>' >> "$out_path"
+              echo '</html>' >> "$out_path"
+            done
+
+        - |
+            if [ -f docs/index.md ]; then
+              mkdir -p public
+              echo '<!DOCTYPE html>' > public/index.html
+              echo '<html>' >> public/index.html
+              echo '  <head>' >> public/index.html
+              echo "    <meta http-equiv=\"refresh\" content=\"0; url=$BASE_GITHUB_URL/\" />" >> public/index.html
+              echo "    <script>window.location.href = '$BASE_GITHUB_URL/';</script>" >> public/index.html
+              echo '    <title>Redirecting…</title>' >> public/index.html
+              echo '  </head>' >> public/index.html
+              echo '  <body>' >> public/index.html
+              echo "    <p>If you are not redirected, <a href=\"$BASE_GITHUB_URL/\">click here</a>.</p>" >> public/index.html
+              echo '  </body>' >> public/index.html
+              echo '</html>' >> public/index.html
+            fi
+
+    artifacts:
+        paths:
+            - public
+    only:
+        - main
 
 create-cards:
-  stage: deploy
-  image: viaudnathan/phone-impact
-  script:
-    - ls -al
-    - cd app
-    - ls -al
-    - rake pnp
-  artifacts:
-    expire_in: 3 days
-    paths:
-      - _output
-  only:
-    - manual
+    stage: deploy
+    image: viaudnathan/phone-impact
+    script:
+        - ls -al
+        - cd app
+        - ls -al
+        - rake pnp
+    artifacts:
+        expire_in: 3 days
+        paths:
+            - _output
+    only:
+        - manual
