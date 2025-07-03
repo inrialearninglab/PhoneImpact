@@ -2,20 +2,15 @@ image: alpine:latest
 
 pages:
     stage: deploy
-
     script:
         - apk add --no-cache bash coreutils findutils
-
         - export BASE_GITHUB_URL="https://phoneimpact.inria.fr"
-
         - mkdir -p public
-
-        # For every .md file in docs
         - |
             find docs -name "*.md" | while read file; do
-              rel_path="${file#docs/}"         # e.g. PrintAndPlay/index.md
-              filename=$(basename "$rel_path") # e.g. index.md
-              rel_dir=$(dirname "$rel_path")   # e.g. PrintAndPlay
+              rel_path="${file#docs/}"
+              filename=$(basename "$rel_path")
+              rel_dir=$(dirname "$rel_path")
 
               if [ "$filename" = "index.md" ]; then
                 out_path="public/${rel_dir}/index.html"
@@ -42,11 +37,12 @@ pages:
               echo '  </body>' >> "$out_path"
               echo '</html>' >> "$out_path"
             done
-            artifacts:
-                paths:
-                    - public
-            only:
-                - main
+    artifacts:
+        paths:
+            - public
+        expire_in: 3 days
+    only:
+        - main
 
 create-cards:
     stage: deploy
