@@ -4,9 +4,9 @@ text,type,image,index
 "An <b>ore</b> is a rock that is mined in order to obtain metals or other useful minerals, after several stages of processing.",Definition,"empty",1
 "<b>Waste rock</b> is the rock that needs to be extracted in order to reach the ore.",Definition,"empty",2
 "<b>Mine tailings</b>  are the solid or liquid waste produced when processing the ore.",Definition,"empty",3
-" ",In pictures,"Antamina_Mine_Tailings_Pond",4
+" ",In pictures,"Antamina_Mine_Tailings_Pond.en",4
 "In order to store mine tailings, artificial ponds are created by building dams or embankments. \n\n<b>Dam breaches</b> are one of the causes of mine-related disasters.",Risks,"empty",5
-"Brumadinho dam breach, Brazil, 2019, TV NBR, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",In pictures,"Resumo_da_agenda_do_Presidente",6
+"Brumadinho dam breach, Brazil, 2019, TV NBR, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",In pictures,"Resumo_da_agenda_do_Presidente.en",6
 "Once the ore has been excavated, it is crushed, ground and sorted in order to separate out the desired minerals.\n\nThis processing stage consumes a lot of energy and water, and generates tailings.",Processing,"empty",7
 "When the ore has been reduced to powder, it undergoes various chemical and physical treatments to eliminate impurities until the desired metal is obtained.",Processing,"empty",8
 "Mining waste (tailings and waste rock) often contains heavy metals, which occur naturally in the mine and represent a danger to health and to the environment: lead, mercury, arsenic, etc.",Risks,"empty",9
@@ -34,9 +34,9 @@ text,type,image,index
 "In order to satisfy the global demand for metals, ores with lower and lower grades are being extracted.\n\nConsequently, much more material needs to be extracted to produce the same quantity of metal.",For information,"empty",31
 "<b>Rare earths</b> (not to be confused with rare metals!) are metals that are fairly abundant in the Earth's crust but with a very low grade.",For information,"empty",32
 "Although there are many <b>underground</b> mines, the majority of mines today are operated as <b>open pits</b>.",For information,"empty",33
-" ",In pictures,"MineCuivreRoumanie",34
-" ",In pictures,"MineColtanRDC",35
-" ",In pictures,"mine_lithium",36
+" ",In pictures,"MineCuivreRoumanie.en",34
+" ",In pictures,"MineColtanRDC.en",35
+" ",In pictures,"mine_lithium.en",36
 "Gold mines often contain naturally-occurring mercury and arsenic, which are dangerous to health and the environment.",Risks,"empty",37
 "The mining industry is the leading cause of <b>environmental conflicts</b> in the world.\n\nIn 2019, 50 environmental defenders were assassinated during conflicts involving the mining industry.",Conflicts,"empty",38
 "<b>Brazil, 2019</b>. Breach of a tailings dam at an iron ore mine, which resulted in 243 deaths, 27 missing people and hundreds of injuries.\n\nThe operator had to pay almost �6 billion in damages.",Disaster,"empty",39
