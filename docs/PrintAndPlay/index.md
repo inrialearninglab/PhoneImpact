@@ -9,12 +9,20 @@ hide:
 
 Télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
 
-<a href="pnp/cards.zip" class="card-button">
-    Version gratuite et imprimable (.zip)
-</a>
-
 !!! Warning
     Pour le plateau Smartphone, veillez à en imprimer un exemplaire par joueur.
+
+<div style="display: flex;gap: 1rem;">
+    <a href="pnp/cards.zip" class="card-button">
+        Version Française (.zip)
+    </a>
+
+    <a href="pnp/cards.en.zip" class="card-button">
+        English version (.zip)
+    </a>
+</div>
+
+
 
 Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 
