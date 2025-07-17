@@ -66,7 +66,7 @@ Les métaux qui sont cités comme exemples sur les cartes Ressource sont les 25 
 
 * **Métaux précieux** : or (Au), argent (Ag), platine (Pt), palladium (Pd), ruthenium (Ru)
 
-* **Terres rares** : yttrium (Y), néodyme (Nd), dyprosium (Dy), praséodyme (Pr)
+* **Terres rares** : yttrium (Y), néodyme (Nd), dysprosium (Dy), praséodyme (Pr)
 
 * **Autres métaux** : lithium (Li), cobalt (Co), tantale (Ta), indium (In), antimoine (Sb), tungstène (W), gallium (Ga), germanium (Ge), silicium (Si)
 

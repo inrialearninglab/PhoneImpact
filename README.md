@@ -1,6 +1,6 @@
 # Jeu sérieux Phone Impact
 
-[Portail du jeu avec tous les documents nécessaires](https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/index.html)
+[Portail du jeu avec tous les documents nécessaires](https://phoneimpact.inria.fr/)
 
 Sommaire:
 
