@@ -6,6 +6,7 @@ pages:
         - apk add --no-cache bash coreutils findutils
         - export BASE_GITHUB_URL="https://phoneimpact.inria.fr"
         - mkdir -p public
+        - echo "=== REDIRECT LOG ===" > public/redirections.txt
         - |
             find docs -name "*.md" | while read file; do
               rel_path="${file#docs/}"
@@ -23,6 +24,13 @@ pages:
 
               url_path=$(echo "$url_path" | sed 's| |%20|g')
               redirect_url="$BASE_GITHUB_URL/$url_path"
+
+               # Log the redirection
+               echo "File: $file" >> public/redirections.txt
+               echo "Output HTML: $out_path" >> public/redirections.txt
+               echo "Redirect URL: $redirect_url" >> public/redirections.txt
+               echo "---" >> public/redirections.txt
+
               mkdir -p "$(dirname "$out_path")"
 
               echo '<!DOCTYPE html>' > "$out_path"
