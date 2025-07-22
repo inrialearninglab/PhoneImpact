@@ -18,7 +18,7 @@ pages:
               else
                 name_noext="${filename%.md}"
                 out_path="public/${rel_dir}/${name_noext}.html"
-                url_path="${rel_dir}/${name_noext}/"
+                url_path="${rel_dir}/${name_noext}.html"
               fi
 
               url_path=$(echo "$url_path" | sed 's| |%20|g')
