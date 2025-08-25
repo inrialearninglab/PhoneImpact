@@ -32,22 +32,22 @@ docker run -v $(pwd):/app phone-impact "pnp[en]"
 ```shell
 docker run -v .:/app --entrypoint sh -it phone-impact
 ```
-    ##### Generate the event cards
-    ```shell
-    rake events
-    ```
-    The file `_output_/events.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/events.pdf if it's ok.
+##### Generate the event cards
+```shell
+rake events
+```
+The file `_output_/events.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/events.pdf if it's ok.
 
-    ##### Generate the malus cards
-    ```shell
-    rake malus
-    ```
-    The file `_output_/malus.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/malus.pdf if it's ok.
+##### Generate the malus cards
+```shell    
+rake malus
+```
+The file `_output_/malus.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/malus.pdf if it's ok.
 
-    ##### Generate in english
-    ```
-    rake events [en]
-    ```
+##### Generate in english
+```
+rake events [en]
+```
 
 ## Déploiement en local du portail de ressources
 Attention, partie assez technique !
