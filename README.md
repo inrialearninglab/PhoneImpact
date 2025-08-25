@@ -46,7 +46,7 @@ The file `_output_/malus.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/mal
 
 ##### Generate in english
 ```
-rake events [en]
+rake events[en]
 ```
 
 ## Déploiement en local du portail de ressources
