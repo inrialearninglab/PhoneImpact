@@ -32,28 +32,22 @@ docker run -v $(pwd):/app phone-impact "pnp[en]"
 ```shell
 docker run -v .:/app --entrypoint sh -it phone-impact
 ```
-#### Generate the event cards
-```shell
-ruby decks/pnp/events.rb
-```
-The file `_output_/events.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/events.pdf if it's ok.
+    ##### Generate the event cards
+    ```shell
+    rake events
+    ```
+    The file `_output_/events.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/events.pdf if it's ok.
 
-#### Generate the malus cards
-```shell
-ruby decks/pnp/malus.rb
-```
-The file `_output_/malus.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/malus.pdf if it's ok.
+    ##### Generate the malus cards
+    ```shell
+    rake malus
+    ```
+    The file `_output_/malus.pdf` is generated. Copy it in docs/PrintAndPlay/pnp/malus.pdf if it's ok.
 
-[//]: # (## Generating cards)
-
-[//]: # (By default the cards you generate aren't added to the git repository, to add your cards please move the content of the _output file inside the pdf file by executing this command:)
-
-[//]: # (```shell)
-
-[//]: # (mv _output/*.pdf PrintAndPlay/)
-
-[//]: # (```)
-
+    ##### Generate in english
+    ```
+    rake events [en]
+    ```
 
 ## Déploiement en local du portail de ressources
 Attention, partie assez technique !
