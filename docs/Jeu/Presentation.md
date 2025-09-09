@@ -1,5 +1,10 @@
 <h1 style="margin-bottom: 0;">Présentation du jeu PhoneImpact</h1>
-<img alt="InfosGenerales.png" src="../img/InfosGenerales.png" width=25% style="margin-top: 0;" />
+
+:fontawesome-solid-users: **Joueur⸱euses: 3 à 5**
+
+:fontawesome-solid-cake-candles: **Âge : Dès 14 ans**
+
+:fontawesome-solid-clock: **Durée : 40 minutes**
 
 !!! Information
     Le jeu est adaptable à un public plus jeune que 14 ans, à condition qu'un accompagnement pédagogique renforcé soit prévu.
@@ -10,9 +15,9 @@
 
 *Vous devrez faire des choix stratégiques en tenant compte des contraintes environnementales et économiques ! Attention, chaque choix aura des conséquences...*
 
-*Le temps est venu de construire un avenir plus durable. Êtes-vous prêt·e à relever ce défi de taille ? Le destin de TechCity est entre vos mains.* 
-  
-<img alt="Equipe.png" src="../img/Equipe.png" width="180" align="right" />  
+*Le temps est venu de construire un avenir plus durable. Êtes-vous prêt·e à relever ce défi de taille ? Le destin de TechCity est entre vos mains.*
+
+<img alt="Equipe.png" src="../img/Equipe.png" width="180" align="right" />
 
 ## I - But du jeu
 
@@ -25,11 +30,11 @@ Mais attention à ne pas trop polluer !
 S'appuyant sur la définition du jeu proposée par Gilles Brougère, "_une activité régie par des règles, où la liberté d’action et la prise de décision jouent un rôle central dans l'engagement des participant·es_", le jeu sérieux (ou serious game) va bien au-delà du simple divertissement. Il transforme une activité ludique en un outil d'apprentissage ou de sensibilisation, encourageant l'expérimentation et l'interaction dans un cadre sécurisé.
 Grâce à des mécanismes ludiques, il stimule l’intérêt et favorise une immersion totale, tout en intégrant des objectifs pédagogiques.
 
-Pour répondre précisément aux besoins des apprenant·es ou des utilisateur·rices, le jeu sérieux adapte sa conception et ses mécaniques pour :  
+Pour répondre précisément aux besoins des apprenant·es ou des utilisateur·rices, le jeu sérieux adapte sa conception et ses mécaniques pour :
 
-- transmettre des connaissances théoriques,  
-- développer des compétences pratiques,  
-- sensibiliser à des enjeux sociaux.  
+- transmettre des connaissances théoriques,
+- développer des compétences pratiques,
+- sensibiliser à des enjeux sociaux.
 
 En combinant plaisir et apprentissage, il permet aux participant·es d'explorer, de tester, voire d'échouer, sans crainte de conséquences réelles, tout en capitalisant sur ces expériences pour progresser.
 
@@ -52,9 +57,9 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
 
 !!! info "Pour info"
 
-    **Ce jeu s'inscrit dans un parcours pédagogique :**  
-  
-    - [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)  
-    - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)  
-      
+    **Ce jeu s'inscrit dans un parcours pédagogique :**
+
+    - [Mooc "Impacts environnementaux du numérique"](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
+    - [ePoc "Smartphone et planète"](https://epoc.inria.fr/epocs/E007MM/)
+
     Les contenus théoriques sur les impacts liés à l’extraction minière ont été rédigés par des expert·es scientifiques qui ont testé le jeu à des moments différents et ont permis de faire évoluer certaines règles. Ils nous ont aussi accompagnés pour le contenu des kakémonos présentés lors du [brief](../Animation/Briefing.md) et du [debrief](../Animation/Debriefing.html) du jeu.
