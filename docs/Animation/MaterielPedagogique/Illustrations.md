@@ -8,6 +8,7 @@ Vous trouverez ci-dessous, les illustrations qui vous seront utiles pour l'anima
 ![chaine_production_metal.jpeg](Illustrations/chaine_production_metal.jpeg)
 ## Tour du monde de l'industrie minière
 ![carte_producteurs_miniers_et_conflits.png](Illustrations/carte_producteurs_miniers_et_conflits.webp)
+[Lien vers l'image pour impression](https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/raw/main/assets/carte_producteurs_miniers_et_conflits.png?ref_type=heads)
 
 ## Images Malus
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
