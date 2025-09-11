@@ -6,7 +6,7 @@ Vous trouverez ci-dessous, les illustrations qui vous seront utiles pour l'anima
 ![MineCuivrePalabora.jpg](Illustrations/MineCuivrePalabora.jpg)
 ## Chaîne de production d'un métal
 ![chaine_production_metal.jpeg](Illustrations/chaine_production_metal.jpeg)
-## Principaux pays producteurs miniers et zones de conflits et de catastrophes majeures liés à l'industrie minière
+## Tour du monde de l'industrie minière
 ![carte_producteurs_miniers_et_conflits.png](Illustrations/carte_producteurs_miniers_et_conflits.png)
 ## Images Malus
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
