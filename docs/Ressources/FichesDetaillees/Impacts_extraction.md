@@ -1,14 +1,14 @@
 ---
-title: "🚧 Les conséquences de l'extraction minière"
+title: 🚧 Conséquences locales de l'extraction minière
 ---
-# 🚧 Les conséquences environnementales et sociales de l'industrie minière
+# 🚧 Les conséquences environnementales et sociales de l'extraction minière
 
 !!! Warning
     Attention, cette fiche est en cours de rédaction
     
 Pollutions, catastrophes, tensions voire conflits… L'extraction minière est  source de nombreux impacts environnementaux et sociaux négatifs.
     
-## L'extraction minière, une activité à risque
+## Une activité à risque
 
 Certains métaux lourds sont souvent naturellement associés à d'autres métaux : plomb, mercure, arsenic... Si ces métaux lourds ne sont pas eux-mêmes exploités, alors ils se retrouvent dans les déchets miniers.    
 
@@ -44,7 +44,7 @@ D'autre part, des produits chimiques dangereux sont fréquemment utilisés penda
 
 Les terres rares, à ne pas confondre avec les métaux rares, ne le sont pas tant du fait de leur rareté mais parce qu’elles sont difficiles à extraire. Leur extraction génère des déchets radioactifs.
 
-## L'extraction minière, une activité gourmande en ressources
+## Une activité gourmande en ressources
 
 Eau, énergie et emprise au sol
 
@@ -52,7 +52,7 @@ On estime qu’environ 10 % de l’énergie primaire mondiale est consacrée à 
 
 Les conflits d'usage
 
-## Pollutions
+## Une source de pollutions
 
 Pollutions de l'air (particules fines, pluies acides...), de l'eau, des sols, avec des conséquences sur l'environnement et la santé des populations.
 
@@ -258,108 +258,6 @@ Claimants seeking damages from Anglo-Australian mining company over 2015 environ
 
 https://www.theguardian.com/business/2024/oct/25/victims-of-brazils-worst-environmental-disaster-to-pursue-claim-in-uk-despite-settlement
 
-## L'après mine
-
-<hr>
-
-!!! Tip ""
-    [13] Dépolluer des anciens sites miniers est extrêmement long, difficile et coûteux, voire impossible.
-
-!!! Source "Précisions et sources"
-
-    À propos de l'ancienne mine d'or et d'arsenic de Salsigne, près de Carcassonne, un rapport du Ministère de l'Aménagement du territoire et de l'Environnement indique en 1998 :  
-    > *Compte tenu de la quantité de déchets à traiter, de la surface du site et s'agissant de la pollution laissée par trois quarts de siècles d'activité industrielle, il n'est pas réaliste d'envisager de traiter tous les déchets comme on le ferait pour les déchets produits au jour le jour par une industrie actuellement en activité. [...] Actuellement il ne nous paraît pas possible de supprimer toute pollution des sols.* 
-    
-    Source : [Le Site de Salsigne (Aude) : rapport à Mme la ministre de l'aménagement du territoire et de l'environnement et à M. le secrétaire d'Etat à l'industrie. Remis le 1er janvier 1998](https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement)
-
-!!! Compléments "Complément"
-
-    Le rapport [Exploitation minière et traitement des minerais](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf) détaille page 57 plusieurs méthodes de neutralisation des DMA issues de stériles ou de résidus miniers :
-    
-     > 1. *noyer les stocks de stériles et de résidus miniers sous une lame d’eau ou les déverser dans des lacs anoxiques et fermés (l’oxygène pénètre très difficilement dans l’eau).*
-     > 2. *traiter passivement le site en :*  
-           - *drainant et dérivant les eaux de ruissellement et en recouvrant les stocks de stériles et de résidus miniers d'une couverture imperméable naturelle, permettant une revégétalisation et donc une protection contre l'érosion : couches superposées d'argile et de terre, dépôts de tourbière (riches en matière organique et réducteurs) ;*  
-           - *aménageant des zones humides artificielles. Elles utilisent les microbes aériens et aquatiques associés aux végétaux des zones humides pour éliminer les métaux dissous du drainage rocheux. [...] Il s'agit là d'une méthode de traitement relativement nouvelle dotée de nombreux mécanismes spécifiques et d'exigences d'entretien qui ne sont pas encore pleinement compris.*  
-           - *créant un canal de calcaire ouvert ou un drain calcaire anoxique.* 
-
-<hr>
-
-
-!!! Tip ""
-    [24] Des centaines d'anciennes mines n'ont pas été dépolluées lors de leur fermeture. Certaines causent aujourd'hui encore des pollutions majeures.
-
-!!! Source "Précisions et sources"
-
-    > *Si le code minier a progressivement soumis les exploitations à des obligations de remise en état et de surveillance au moment de la cessation d'activité, les nombreux anciens sites miniers, désormais orphelins, n'ont pour la plupart pas fait l'objet d'une telle réhabilitation. La France compte aujourd'hui 1 850 sites miniers, parmi lesquels seulement 225 font toujours l'objet d'un titre d'exploitation valide.* 
-
-    Source : Rapport de commission d'enquête du sénat ["Pollutions industrielles et minières des sols : assumer ses responsabilités, réparer les erreurs du passé et penser durablement l'avenir Tome I"](https://www.senat.fr/rap/r19-700-1/r19-700-114.html#toc638). Septembre 2020
-
-    En ce qui concerne les pollutions majeures, voir le cas de l'ancienne mine de Salsigne, malus [45]. 
-    
-
-<hr>
-
-!!! Tip ""
-    [44] Une ancienne mine d'or vers Carcassonne cause d'importants problèmes de pollution à l'arsenic. Il a entre autres été interdit de vendre des légumes produits dans la région.
-
-!!! Source "Précisions et sources"
-    À propos de l'ancienne mine d'or et d'arsenic de Salsigne, près de Carcassonne, un rapport du Ministère de l'Aménagement du territoire et de l'Environnement indique en 1998 :   
-    
-    > *Le niveau de 50 mg d'arsenic par litre est largement dépassé dans le Grésillou à son confluent avec l'Orbiel à Lastours et ce même niveau est souvent dépassé à Conques, ce niveau est dépassé dans un puits communal à Conques. Il a été constaté que certains légumes cultivés sur des sols inondables en bordure de l'Orbiel ou arrosés avec de l'eau venant de l'Orbiel, ou de puits proches de l'Orbiel et de ses affluent qui coulent près du site de Salsigne, contenaient des teneurs anormales en métaux et arsenic. Un arrêté interministériel du 30 mai 1997 a interdit la mise sur le marché des légumes feuilles (salades, etc.) concernés pour une durée de un an.* 
-    
-    Source : [Le Site de Salsigne (Aude) : rapport à Mme la ministre de l'aménagement du territoire et de l'environnement et à M. le secrétaire d'Etat à l'industrie](https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement). Janvier 1998 
-
-!!! Compléments "Complément"
-
-    * Pour des précisions sur les recommandations sanitaires de l'Agence Régionale de Santé Occitanie en 2019, voir : [Recommandations sanitaires vallée de l’Orbiel- Mars 2019. A l’attention des communes de : VILLARDONNEL, SALSIGNE, VILLANIERE, LASTOURS, CONQUES/ORBIEL, VILLALIER et TREBES pour les parcelles ayant été inondées par l’Orbiel ou ses affluents. Agence régionale de santé occitanie](https://www.occitanie.ars.sante.fr/system/files/2019-06/2019_Recommandations%20sanitaires%20%C3%A0%20la%20population.pdf). 
-
-    * Pour plus d'informations sur les conséquences sanitaires sur la population de la mine, voir : [Salsigne. Quand la mine dort, la pollution veille. La dépêche. Janvier 2025](https://www.ladepeche.fr/article/2013/03/21/1587889-salsigne-quand-la-mine-dort-la-pollution-veille.html)  
-        On y lit entre autres :
-        
-        > *Chaque année la montagne rejette dans la rivière Orbiel 3 650 kg d'arsenic. [...] Mille ans seront nécessaires pour faire table rase des scories.*
-    
-    * On trouve également des informations très détaillées dans une présentation de l'association France Nature Environnement sur la situation en 2021 
-    
-        Source : [La gestion du passif minier - Tirer les leçons des erreurs du passé. Association France Nature Environnement. Janvier 2021](https://fne-ocmed.fr/wp-content/uploads/2021/02/presentation_Oge_salsigne.pdf)  
-        
-        On y trouve entre autres cette citation d'un [rapport de la cour des Comptes de 2003](https://www.ccomptes.fr/sites/default/files/EzPublish/Salsigne.pdf)  (page 361):
-        > *L’extraction de l’or produisant des déchets à forte composante en arsenic, le site est aujourd’hui, selon le ministère de l’écologie et du développement durable, l’un des plus pollués de France.*  
-
-Gestion de l’après-mine par l’Union européenne et la France
-BRGM/RP-52607-FR 3
-Synthèse
-l est généralement considéré, par la plupart des pays en Europe, qu’avant 1985, les
-conséquences de la fermeture d’une mine sur son environnement n’étaient pas
-vraiment prises en compte. Avec l’abandon des sites miniers par les exploitants, qui
-n’a fait que s’accélérer depuis cette date pour des raisons économiques, les
-dommages aux équipements et les impacts sur l’environnement, accompagnés par
-une prise de conscience forte des populations touchées, se sont développés parfois de
-façon spectaculaire. Devant la dimension des enjeux financiers et les problèmes de
-responsabilité, les états ont été amenés à réagir rapidement, en adaptant à cette
-nouvelle situation leur législation minière et environnementale.
-
-http://infoterre.brgm.fr/rapports/RP-52607-FR.pdf
-
-!!! Compléments "Complément"
-    Pour aller plus loin, voir le dossier sur l'après-mine de Systext : https://www.systext.org/apres-mine
-
-Environnement et restauration des sites miniers (Nouvelle-Calédonie)
-https://hal.science/hal-03582006/document
-La politique française de prévention des risques liés à l’après-mine
-https://www.annales.org/edit/ri/2007/ri-novembre-2007/didier.pdf_
-
-
-« L’extraction de l’or produisant des déchets à forte composante en arsenic, le site est
-aujourd’hui, selon le ministère de l’écologie et du développement durable,
-l’un des plus pollués de France. »
-
-_Complément : L’Etat face aux enjeux industriels et environnementaux : l’exemple des mines d’or de Salsigne
-https://www.ccomptes.fr/sites/default/files/EzPublish/Salsigne.pdf_
-
-
-    https://www.lemonde.fr/planete/article/2024/05/11/dans-les-cevennes-l-heritage-empoisonne-de-l-apres-mine_6232556_3244.html
-
-
 ## Conséquences sur la santé des populations 
 
 Le mercure, l'arsenic et le plomb font partie des métaux lourds.
@@ -374,7 +272,7 @@ Pour les dangers que représentent le mercure, l'arsenic et le plomb pour la san
 * [Fiche sur l'arsenic](https://www.who.int/fr/news-room/fact-sheets/detail/arsenic)
 * [Fiche sur l'intoxication au plomb](https://www.who.int/fr/news-room/fact-sheets/detail/lead-poisoning-and-health)
 
-## Conflits miniers
+## Une source de conflits
 
 Des journaux de référence tels que le Guardian et le Monde publient régulièrement des enquêtes approfondies sur les conflits liés à l'industrie minière.
 
@@ -623,6 +521,107 @@ https://www.npr.org/2024/05/28/nx-s1-4959776/how-the-extraction-of-lithium-in-ch
 https://www.courrierinternational.com/article/enquete-les-immenses-reserves-de-lithium-damerique-latine-ravivent-les-nationalismes
 
 https://chinalaborwatch.org/forged-in-silence-the-untold-stories-of-chinese-workers-at-indonesias-nickel-plants/
+
+## L'après mine
+
+<hr>
+
+!!! Tip ""
+    [13] Dépolluer des anciens sites miniers est extrêmement long, difficile et coûteux, voire impossible.
+
+!!! Source "Précisions et sources"
+
+    À propos de l'ancienne mine d'or et d'arsenic de Salsigne, près de Carcassonne, un rapport du Ministère de l'Aménagement du territoire et de l'Environnement indique en 1998 :  
+    > *Compte tenu de la quantité de déchets à traiter, de la surface du site et s'agissant de la pollution laissée par trois quarts de siècles d'activité industrielle, il n'est pas réaliste d'envisager de traiter tous les déchets comme on le ferait pour les déchets produits au jour le jour par une industrie actuellement en activité. [...] Actuellement il ne nous paraît pas possible de supprimer toute pollution des sols.* 
+    
+    Source : [Le Site de Salsigne (Aude) : rapport à Mme la ministre de l'aménagement du territoire et de l'environnement et à M. le secrétaire d'Etat à l'industrie. Remis le 1er janvier 1998](https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement)
+
+!!! Compléments "Complément"
+
+    Le rapport [Exploitation minière et traitement des minerais](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf) détaille page 57 plusieurs méthodes de neutralisation des DMA issues de stériles ou de résidus miniers :
+    
+     > 1. *noyer les stocks de stériles et de résidus miniers sous une lame d’eau ou les déverser dans des lacs anoxiques et fermés (l’oxygène pénètre très difficilement dans l’eau).*
+     > 2. *traiter passivement le site en :*  
+           - *drainant et dérivant les eaux de ruissellement et en recouvrant les stocks de stériles et de résidus miniers d'une couverture imperméable naturelle, permettant une revégétalisation et donc une protection contre l'érosion : couches superposées d'argile et de terre, dépôts de tourbière (riches en matière organique et réducteurs) ;*  
+           - *aménageant des zones humides artificielles. Elles utilisent les microbes aériens et aquatiques associés aux végétaux des zones humides pour éliminer les métaux dissous du drainage rocheux. [...] Il s'agit là d'une méthode de traitement relativement nouvelle dotée de nombreux mécanismes spécifiques et d'exigences d'entretien qui ne sont pas encore pleinement compris.*  
+           - *créant un canal de calcaire ouvert ou un drain calcaire anoxique.* 
+
+<hr>
+
+
+!!! Tip ""
+    [24] Des centaines d'anciennes mines n'ont pas été dépolluées lors de leur fermeture. Certaines causent aujourd'hui encore des pollutions majeures.
+
+!!! Source "Précisions et sources"
+
+    > *Si le code minier a progressivement soumis les exploitations à des obligations de remise en état et de surveillance au moment de la cessation d'activité, les nombreux anciens sites miniers, désormais orphelins, n'ont pour la plupart pas fait l'objet d'une telle réhabilitation. La France compte aujourd'hui 1 850 sites miniers, parmi lesquels seulement 225 font toujours l'objet d'un titre d'exploitation valide.* 
+
+    Source : Rapport de commission d'enquête du sénat ["Pollutions industrielles et minières des sols : assumer ses responsabilités, réparer les erreurs du passé et penser durablement l'avenir Tome I"](https://www.senat.fr/rap/r19-700-1/r19-700-114.html#toc638). Septembre 2020
+
+    En ce qui concerne les pollutions majeures, voir le cas de l'ancienne mine de Salsigne, malus [45]. 
+    
+
+<hr>
+
+!!! Tip ""
+    [44] Une ancienne mine d'or vers Carcassonne cause d'importants problèmes de pollution à l'arsenic. Il a entre autres été interdit de vendre des légumes produits dans la région.
+
+!!! Source "Précisions et sources"
+    À propos de l'ancienne mine d'or et d'arsenic de Salsigne, près de Carcassonne, un rapport du Ministère de l'Aménagement du territoire et de l'Environnement indique en 1998 :   
+    
+    > *Le niveau de 50 mg d'arsenic par litre est largement dépassé dans le Grésillou à son confluent avec l'Orbiel à Lastours et ce même niveau est souvent dépassé à Conques, ce niveau est dépassé dans un puits communal à Conques. Il a été constaté que certains légumes cultivés sur des sols inondables en bordure de l'Orbiel ou arrosés avec de l'eau venant de l'Orbiel, ou de puits proches de l'Orbiel et de ses affluent qui coulent près du site de Salsigne, contenaient des teneurs anormales en métaux et arsenic. Un arrêté interministériel du 30 mai 1997 a interdit la mise sur le marché des légumes feuilles (salades, etc.) concernés pour une durée de un an.* 
+    
+    Source : [Le Site de Salsigne (Aude) : rapport à Mme la ministre de l'aménagement du territoire et de l'environnement et à M. le secrétaire d'Etat à l'industrie](https://www.vie-publique.fr/rapport/26411-le-site-de-salsigne-aude-rapport-mme-la-ministre-de-lamenagement). Janvier 1998 
+
+!!! Compléments "Complément"
+
+    * Pour des précisions sur les recommandations sanitaires de l'Agence Régionale de Santé Occitanie en 2019, voir : [Recommandations sanitaires vallée de l’Orbiel- Mars 2019. A l’attention des communes de : VILLARDONNEL, SALSIGNE, VILLANIERE, LASTOURS, CONQUES/ORBIEL, VILLALIER et TREBES pour les parcelles ayant été inondées par l’Orbiel ou ses affluents. Agence régionale de santé occitanie](https://www.occitanie.ars.sante.fr/system/files/2019-06/2019_Recommandations%20sanitaires%20%C3%A0%20la%20population.pdf). 
+
+    * Pour plus d'informations sur les conséquences sanitaires sur la population de la mine, voir : [Salsigne. Quand la mine dort, la pollution veille. La dépêche. Janvier 2025](https://www.ladepeche.fr/article/2013/03/21/1587889-salsigne-quand-la-mine-dort-la-pollution-veille.html)  
+        On y lit entre autres :
+        
+        > *Chaque année la montagne rejette dans la rivière Orbiel 3 650 kg d'arsenic. [...] Mille ans seront nécessaires pour faire table rase des scories.*
+    
+    * On trouve également des informations très détaillées dans une présentation de l'association France Nature Environnement sur la situation en 2021 
+    
+        Source : [La gestion du passif minier - Tirer les leçons des erreurs du passé. Association France Nature Environnement. Janvier 2021](https://fne-ocmed.fr/wp-content/uploads/2021/02/presentation_Oge_salsigne.pdf)  
+        
+        On y trouve entre autres cette citation d'un [rapport de la cour des Comptes de 2003](https://www.ccomptes.fr/sites/default/files/EzPublish/Salsigne.pdf)  (page 361):
+        > *L’extraction de l’or produisant des déchets à forte composante en arsenic, le site est aujourd’hui, selon le ministère de l’écologie et du développement durable, l’un des plus pollués de France.*  
+
+Gestion de l’après-mine par l’Union européenne et la France
+BRGM/RP-52607-FR 3
+Synthèse
+l est généralement considéré, par la plupart des pays en Europe, qu’avant 1985, les
+conséquences de la fermeture d’une mine sur son environnement n’étaient pas
+vraiment prises en compte. Avec l’abandon des sites miniers par les exploitants, qui
+n’a fait que s’accélérer depuis cette date pour des raisons économiques, les
+dommages aux équipements et les impacts sur l’environnement, accompagnés par
+une prise de conscience forte des populations touchées, se sont développés parfois de
+façon spectaculaire. Devant la dimension des enjeux financiers et les problèmes de
+responsabilité, les états ont été amenés à réagir rapidement, en adaptant à cette
+nouvelle situation leur législation minière et environnementale.
+
+http://infoterre.brgm.fr/rapports/RP-52607-FR.pdf
+
+!!! Compléments "Complément"
+    Pour aller plus loin, voir le dossier sur l'après-mine de Systext : https://www.systext.org/apres-mine
+
+Environnement et restauration des sites miniers (Nouvelle-Calédonie)
+https://hal.science/hal-03582006/document
+La politique française de prévention des risques liés à l’après-mine
+https://www.annales.org/edit/ri/2007/ri-novembre-2007/didier.pdf_
+
+
+« L’extraction de l’or produisant des déchets à forte composante en arsenic, le site est
+aujourd’hui, selon le ministère de l’écologie et du développement durable,
+l’un des plus pollués de France. »
+
+_Complément : L’Etat face aux enjeux industriels et environnementaux : l’exemple des mines d’or de Salsigne
+https://www.ccomptes.fr/sites/default/files/EzPublish/Salsigne.pdf_
+
+
+    https://www.lemonde.fr/planete/article/2024/05/11/dans-les-cevennes-l-heritage-empoisonne-de-l-apres-mine_6232556_3244.html
 
 
 ## Une grande diversité de situations

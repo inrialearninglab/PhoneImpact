@@ -1,50 +1,54 @@
 ---
-title: 🚧 Quelques repères sur la production minière
+title: 🚧 Enjeux globaux liés aux métaux
 ---
 
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
-# 🚧 Quelques repères sur la production minière
+# 🚧 Les conséquences environnementales et sociales de l'industrie minière à l'échelle globale
 
 Au-delà de la réalité matérielle et humaine de l'extraction minière et de ses conséquences, il est parfois difficile de s'y retrouver dans les ordres de grandeur. Nous tentons ici de fournir quelques repères sur l'industrie minière à l'échelle mondiale, et sur les tendances actuelles. 
     
-## Répartition de la production et des réserves minérales
+## Focus sur la France
 
-Il existe de grandes disparités géographiques dans la production minière, comme illustré par l'infographie ci-dessous. 
+Il y a encore des **mines en activité** en France : on exploite de l'or en Guyane, du nickel en Nouvelle-Calédonie (6% de la production mondiale en 2023) et de la bauxite (le minerai qui sert à produire l'aluminium et le gallium) vers Montpellier.
 
-*Carte de répartition des productions minières*
-<a href="./img/BRGM-productions.png"> <img src="./img/BRGM-productions.png" width="linewidth"/></a>
-!!! Attention
-	Les infographies présentées ici sont basées sur les chiffres de l'USGS de 2022 alors que les chiffres utilisés dans le jeu sont ceux de 2023 (rapport 2024).
+!!! Source "Sources"
+
+    On trouve la liste des mines exploitées en France aujourd'hui sur le site de [Mineralinfo, le portail français des ressources minérales non énergétiques](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/mines-france).
+       
+    Le chiffre de 6% est calculé à partir des données de la page 123 du rapport [Mineral commodity summaries 2024](https://www.usgs.gov/publications/mineral-commodity-summaries-2024) de l'USGS (U.S. Geological Survey).
+
+La France a par ailleurs un riche **passé minier**, ayant occupé "*une place significative dans la production mondiale de tungstène (3<sup>e</sup> producteur européen jusqu’en 1986, avec les mines de Salau et du district d’Échassières), l’antimoine (1<sup>er</sup> producteur mondial au début du XX<sup>e</sup> siècle avec les mines de La Lucette et du district de Brioude-Massiac), et l’or (avec un gisement de classe mondiale, celui de Salsigne).*" 
+
+<a href="./img/BRGM-anciennes-mines.jpeg"> <img src="./img/BRGM-anciennes-mines.jpeg" width="linewidth"/></a>
+**Carte des anciennes principales mines ayant été exploitées en France**
 
 !!! Source "Source"
 
-    Les chiffres concernant la production des différents métaux viennent de la table 5 (colonne *Percentage of world total*) du rapport *"Mineral Commidity Summaries 2024"* de l'Institut d'études géologiques des États-Unis (USGS).  
+    La carte et la citation ci-dessus proviennent du site de [Mineralinfo, le portail français des ressources minérales non énergétiques](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/exploitation-miniere-france).
 
-    Source : [Mineral commodity summaries 2024. U.S. Geological Survey](https://www.usgs.gov/publications/mineral-commodity-summaries-2024)
+Enfin, le Bureau de recherches géologiques et minières (BRGM), qui est le service géologique national français, a effectué entre 2013 et 2015 des travaux de réévaluation du **potentiel français en ressources minérales**. L'ouverture d'une mine de lithium est ainsi prévue d'ici 2027 dans le Massif central. Ce sera l'une des plus grandes d'Europe. Plusieurs projets d'exploration minière sont actuellement en cours ou en attente d'autorisation en France, pour exploiter or, lithium, étain...
 
-    <a href="./img/production-2023-USGS.png"> <img src="./img/production-2023-USGS.png" width="linewidth"/></a>
+<a href="./img/BRGM-potentiel-minier.jpeg"> <img src="./img/BRGM-potentiel-minier.jpeg" width="linewidth"/></a>
 
-    La part de la Chine dans la production mondiale de terres rares est indiquée dans le [rapport 2011 de l'USGS (page 129)  Mineral commodity](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/mcs/mcs2011.pdf)
+!!! Source "Sources"
+
+    https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/potentiel-du-sous-sol-francais-exploration
+
+    Il s'agit d'une mine située à Beauvoir dans l'Allier. 
     
-Notons que de nombreux facteurs entrent en compte pour expliquer cette répartition des productions minières : abondance du minerai dans le sous-sol du pays, facilité d'accès aux gisements, réglementations environnementales plus ou moins contraignantes, coût de la main d'œuvre... On appelle ainsi **ressources** (mondiales ou nationales) d'un métal la quantité estimée de ce métal présente dans la croûte terrestre, et **réserves** la quantité de ressources qui sont actuellement exploitables d'un point technique et économique. Les réserves sont très inégalement réparties dans le monde et la production des différents pays ne reflète pas nécessairement les réserves de ces derniers, comme on peut le constater en comparant l'infographie ci-dessous avec la précédente.
+    Voir par exemple l'article "L'une des plus grandes mines européennes de lithium va ouvrir en France d'ici 2027".  
 
-*Carte de répartition des réserves minières*
-<a href="./img/BRGM-reserves.jpg"> <img src="./img/BRGM-reserves.jpg" width="linewidth"/></a>
+    Source : [L'une des plus grandes mines européennes de lithium va ouvrir en France d'ici 2027. France Inter. Octobre 2022](https://www.radiofrance.fr/franceinter/l-une-des-plus-grandes-mines-europeennes-de-lithium-va-ouvrir-en-france-d-ici-2027-3063449)
 
-La République Démocratique du Congo abrite ainsi plus de 50% des réserves mondiales de cobalt. On entend fréquemment l'expression "scandale géologique" pour décrire la richesse extrême du sous-sol de la RDC. De même, [TODO : triangle du lithium] alors que c'est l'Australie qui est aujourd'hui le principal producteur de lithium (48% de la production en 2023).
+       > *Deux permis d'exploration sont en cours de validité dans le Massif central :         
+            - PER Bonneval » : pour la recherche d'or, d'argent, d'antimoine et de substances connexes dans le Limousin et détenu par la société Cordier Mines ;  
+            - PER Beauvoir » : pour la recherche d'étain, de niobium de tantale, de tungstène, de béryllium et de lithium et détenu par la société Imerys Ceramics France.*
 
-Enfin, les métaux ne sont pas toujours raffinés dans le pays dont le minerai est extrait. 
-*Carte de répartition du raffinage*
-<a href="./img/BRGM-raffinage.png"> <img src="./img/BRGM-raffinage.png" width="linewidth"/></a>
-
-On notera en particulier la situation de quasi-monopole de la Chine sur l'affinage d'un grand nombre de métaux, et le faible poids de l'Afrique dans ce secteur malgré la richesse de son sous-sol. Par exemple, la Guinée représente 26% de la production de bauxite (le minerai dont on extrait l'aluminium et le gallium) mais ne dispose d'aucune raffinerie sur son territoire, la production de l'aluminium et du gallium étant majoritairement réalisée en Chine.
-
-!!! Source "Source"
-
-    Les infographies ci-dessus proviennent du site de MineralInfo : https://www.mineralinfo.fr/fr/actualite/actualite/cartes-de-geopolitique-des-ressources-minieres-production-reserves-mondiales
-
+      > *Plusieurs demandes de permis d'exploration sont en cours d'instruction.*  
+      
+      Source : [Le potentiel du sous-sol français. Mineral info](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/potentiel-du-sous-sol-francais)
 
 ## Teneur moyenne des minerais et volumes de production 
 

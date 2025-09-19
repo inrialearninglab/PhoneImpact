@@ -1,5 +1,9 @@
 # Notes sur les sources
 
+Pope Francis also visited the Democratic Republic of Congo in 2023, where he criticized the “poison of greed” driving conflict in the region. “Hands off the Democratic Republic of the Congo. Hands off Africa. Stop choking Africa: it is not a mine to be stripped or a terrain to be plundered,” Francis said.
+
+https://www.theguardian.com/commentisfree/2025/may/09/pope-leo-xiv-moral-leadership
+
 # À déplacer
 
 ## Débrief
@@ -37,11 +41,14 @@ Attention à bien remettre en perspective
     * 53 : Pas clair à quoi exactement sert le gallium dans les écrans et surtout ça n'a pas l'air d'être généralisé à tous les smartphones, donc j'assure le coup
     * 54 : Idem pour le platine, on pourra toujours ajouter un commentaire
 
+- Qui sont les parties prenantes ?
+
 # Refs à bouger ?
 
-https://www.theguardian.com/world/2025/jan/13/south-africa-launches-operation-at-gold-mine-amid-fears-many-dead
+
 
 https://www.mineralinfo.fr/fr/ecomine/silicium-un-element-chimique-tres-abondant-un-affinage-strategique
+
 https://fr.wikipedia.org/wiki/Abondance_des_%C3%A9l%C3%A9ments_dans_la_cro%C3%BBte_terrestre
 https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/climat-environnement-et-economie-circulaire/les-metaux-transition-energetique#:~:text=Les%20m%C3%A9taux%20abondants%20sont%20ceux,molybd%C3%A8ne%2C%20tungst%C3%A8ne%2C%20etc
 https://www.systext.org/node/1724
