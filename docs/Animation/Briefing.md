@@ -107,13 +107,17 @@ Dans ce jeu, vous habitez la ville TechCity et vous incarnez un·e fabricant·e 
 
 Vous avez chacun un plateau smartphone devant vous composé de : l’écran tactile (dalle et vitre), la batterie, la coque, la carte mère.
 
-Chaque composant est constitué de ressources, elles-mêmes désignées par des types de ressources qui sont les suivants dans le jeu :
+Chaque composant est constitué de ressources. Les chiffres associés à chaque ressource (en rouge) indiquent le nombre de ressources nécessaires pour fabriquer ce composant.
+
+Les ressources sont désignées par des types de ressources qui sont les suivants dans le jeu :
 
 - **Métaux communs** : beaucoup utilisés dans l'industrie, ils représentent la majeure partie des métaux d'un smartphone -> représenté par un métal gris
 - **Métaux précieux** : rares mais surtout de grande valeur économique -> représenté par un lingot d’Or
 - **Terres rares** : pas si rare mais difficile à extraire -> représenté par un tas de terre marron
 - **Autres métaux** : un smartphone contient également de nombreux autres métaux qui ne sont ni communs, ni précieux ni des terres rares -> représenté par un minerai bleu
 - **Autres matières** : 40 à 70% du poids du smartphone comme le plastique -> représenté par une fibre violette
+
+
 
 Le but du jeu est de rassembler assez de ressources pour fabriquer le plus de composants de votre smartphone.
 
@@ -134,7 +138,8 @@ Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sen
   
          Les cartes Malus piochées sont lues à haute voix (titre et texte) aux autres et posées devant soi. Attention, le nombre de cartes Malus en sa possession peut avoir des conséquences sur la progression du jeu !
 
-- **Fabriquer un composant** : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué. Le nombre de ressources nécessaires est indiqué sur le plateau pour chaque composant.
+- **Fabriquer un composant** : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué. Le nombre de ressources nécessaires est indiqué sur le plateau pour chaque composant.  
+La fabrication de ce composant rapporte des points, indiqués sur le plateau à côté de son nom.
 - **Dépolluer** : se défausser de 1 à 2 cartes malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
 
 En cas d’oubli, vous pouvez vous référer à l’aide de jeu :
