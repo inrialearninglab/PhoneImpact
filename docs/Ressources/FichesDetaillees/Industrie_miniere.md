@@ -13,25 +13,21 @@ Au-delà de la réalité matérielle et humaine de l'extraction minière et de s
 
 Il existe de grandes disparités géographiques dans la production minière, comme illustré par l'infographie ci-dessous. 
 
-*Carte de répartition des productions minières*
-<a href="./img/BRGM-productions.png"> <img src="./img/BRGM-productions.png" width="linewidth"/></a>
-!!! Attention
-	Les infographies présentées ici sont basées sur les chiffres de l'USGS de 2022 alors que les chiffres utilisés dans le jeu sont ceux de 2023 (rapport 2024).
+!!! Source ""
+	<figure markdown=span><a href="./img/BRGM-productions.png"> <img src="./img/BRGM-productions.png" width="linewidth"/></a>
+	*Carte de répartition des productions minières*
+	</figure>
+!!! Tip ""
+	Attention : Les infographies présentées ici sont basées sur les chiffres de l'USGS de 2022 alors que les chiffres utilisés dans PhoneImpact sont ceux de 2023 (rapport 2024).
+   
+Notons que de nombreux facteurs entrent en compte pour expliquer cette répartition des productions minières : abondance du minerai dans le sous-sol du pays, facilité d'accès aux gisements, réglementations environnementales plus ou moins contraignantes, coût de la main d'œuvre, stabilité géopolitique du pays... 
 
-!!! Source "Source"
-
-    Les chiffres concernant la production des différents métaux viennent de la table 5 (colonne *Percentage of world total*) du rapport *"Mineral Commidity Summaries 2024"* de l'Institut d'études géologiques des États-Unis (USGS).  
-
-    Source : [Mineral commodity summaries 2024. U.S. Geological Survey](https://www.usgs.gov/publications/mineral-commodity-summaries-2024)
-
-    <a href="./img/production-2023-USGS.png"> <img src="./img/production-2023-USGS.png" width="linewidth"/></a>
-
-    La part de la Chine dans la production mondiale de terres rares est indiquée dans le [rapport 2011 de l'USGS (page 129)  Mineral commodity](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/mcs/mcs2011.pdf)
-    
-Notons que de nombreux facteurs entrent en compte pour expliquer cette répartition des productions minières : abondance du minerai dans le sous-sol du pays, facilité d'accès aux gisements, réglementations environnementales plus ou moins contraignantes, coût de la main d'œuvre... On appelle ainsi **ressources** (mondiales ou nationales) d'un métal la quantité estimée de ce métal présente dans la croûte terrestre, et **réserves** la quantité de ressources qui sont actuellement exploitables d'un point technique et économique. Les réserves sont très inégalement réparties dans le monde et la production des différents pays ne reflète pas nécessairement les réserves de ces derniers, comme on peut le constater en comparant l'infographie ci-dessous avec la précédente.
+On appelle par ailleurs **ressources** (mondiales ou nationales) d'un métal la quantité estimée de ce métal présente dans la croûte terrestre, et **réserves** la quantité de ressources qui sont *actuellement* exploitables d'un point technique et économique. Les réserves (et les ressources) sont elles aussi très inégalement réparties dans le monde. On notera que la production des différents pays ne reflète pas nécessairement les réserves de ces derniers, comme on peut le constater en comparant l'infographie ci-dessous avec la précédente.
 
 *Carte de répartition des réserves minières*
-<a href="./img/BRGM-reserves.jpg"> <img src="./img/BRGM-reserves.jpg" width="linewidth"/></a>
+
+!!! Source ""
+	<figure markdown=span><a href="./img/BRGM-reserves.jpg"> <img src="./img/BRGM-reserves.jpg" width="linewidth"/></a>
 
 La République Démocratique du Congo abrite ainsi plus de 50% des réserves mondiales de cobalt. On entend fréquemment l'expression "scandale géologique" pour décrire la richesse extrême du sous-sol de la RDC. De même, [TODO : triangle du lithium] alors que c'est l'Australie qui est aujourd'hui le principal producteur de lithium (48% de la production en 2023).
 

@@ -5,68 +5,9 @@ title: 🚧 Enjeux globaux liés aux métaux
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
-# 🚧 Les conséquences environnementales et sociales de l'industrie minière à l'échelle globale
+# 🚧 Enjeux globaux liés aux métaux
 
 Au-delà de la réalité matérielle et humaine de l'extraction minière et de ses conséquences, il est parfois difficile de s'y retrouver dans les ordres de grandeur. Nous tentons ici de fournir quelques repères sur l'industrie minière à l'échelle mondiale, et sur les tendances actuelles. 
-    
-## Focus sur la France
-
-Il y a encore des **mines en activité** en France : on exploite de l'or en Guyane, du nickel en Nouvelle-Calédonie (6% de la production mondiale en 2023) et de la bauxite (le minerai qui sert à produire l'aluminium et le gallium) vers Montpellier.
-
-!!! Source "Sources"
-
-    On trouve la liste des mines exploitées en France aujourd'hui sur le site de [Mineralinfo, le portail français des ressources minérales non énergétiques](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/mines-france).
-       
-    Le chiffre de 6% est calculé à partir des données de la page 123 du rapport [Mineral commodity summaries 2024](https://www.usgs.gov/publications/mineral-commodity-summaries-2024) de l'USGS (U.S. Geological Survey).
-
-La France a par ailleurs un riche **passé minier**, ayant occupé "*une place significative dans la production mondiale de tungstène (3<sup>e</sup> producteur européen jusqu’en 1986, avec les mines de Salau et du district d’Échassières), l’antimoine (1<sup>er</sup> producteur mondial au début du XX<sup>e</sup> siècle avec les mines de La Lucette et du district de Brioude-Massiac), et l’or (avec un gisement de classe mondiale, celui de Salsigne).*" 
-
-<a href="./img/BRGM-anciennes-mines.jpeg"> <img src="./img/BRGM-anciennes-mines.jpeg" width="linewidth"/></a>
-**Carte des anciennes principales mines ayant été exploitées en France**
-
-!!! Source "Source"
-
-    La carte et la citation ci-dessus proviennent du site de [Mineralinfo, le portail français des ressources minérales non énergétiques](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/exploitation-miniere-france).
-
-Enfin, le Bureau de recherches géologiques et minières (BRGM), qui est le service géologique national français, a effectué entre 2013 et 2015 des travaux de réévaluation du **potentiel français en ressources minérales**. L'ouverture d'une mine de lithium est ainsi prévue d'ici 2027 dans le Massif central. Ce sera l'une des plus grandes d'Europe. Plusieurs projets d'exploration minière sont actuellement en cours ou en attente d'autorisation en France, pour exploiter or, lithium, étain...
-
-<a href="./img/BRGM-potentiel-minier.jpeg"> <img src="./img/BRGM-potentiel-minier.jpeg" width="linewidth"/></a>
-
-!!! Source "Sources"
-
-    https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/potentiel-du-sous-sol-francais-exploration
-
-    Il s'agit d'une mine située à Beauvoir dans l'Allier. 
-    
-    Voir par exemple l'article "L'une des plus grandes mines européennes de lithium va ouvrir en France d'ici 2027".  
-
-    Source : [L'une des plus grandes mines européennes de lithium va ouvrir en France d'ici 2027. France Inter. Octobre 2022](https://www.radiofrance.fr/franceinter/l-une-des-plus-grandes-mines-europeennes-de-lithium-va-ouvrir-en-france-d-ici-2027-3063449)
-
-       > *Deux permis d'exploration sont en cours de validité dans le Massif central :         
-            - PER Bonneval » : pour la recherche d'or, d'argent, d'antimoine et de substances connexes dans le Limousin et détenu par la société Cordier Mines ;  
-            - PER Beauvoir » : pour la recherche d'étain, de niobium de tantale, de tungstène, de béryllium et de lithium et détenu par la société Imerys Ceramics France.*
-
-      > *Plusieurs demandes de permis d'exploration sont en cours d'instruction.*  
-      
-      Source : [Le potentiel du sous-sol français. Mineral info](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/potentiel-du-sous-sol-francais)
-
-## Teneur moyenne des minerais et volumes de production 
-
-Au-delà de la grande diversité géographique de la répartition de la production et des réserves de différents métaux, il existe également de grandes différences entre les métaux.
-
-La **teneur** en métal d’un minerai est la proportion de métal contenue dans ce minerai. Par exemple, la teneur en cuivre d'un minerai est en moyenne autour de 0,6% (6g de cuivre pour 1kg de minerai). La teneur moyenne varie beaucoup entre les différents métaux : environ 45% pour le fer (45g de fer pour 100g de minerai) mais seulement 0,00008% pour l'or (8g d'or pour 10 tonnes de minerai) !
-
-Si l'on s'intéresse à la quantité de roche qu'il faut extraire pour obtenir un gramme de métal (ce qu'on appelle en anglais le *rock-to-metal ratio*), il faut prendre en compte non seulement la teneur du minerai, mais également les stériles, c'est-à-dire les roches qu’il faut extraire pour accéder au minerai. Il y a souvent 2 à 3 fois plus de stériles que de minerai extrait. 
-
-D'autre part, la **production mondiale** varie beaucoup entre les métaux : de quelques dizaines de tonnes par an pour des métaux précieux comme le rhodium et le rhuténium jusqu'à des dizaines de millions de tonnes pour certains métaux communs comme l'aluminium, et encore plus pour le fer (1 milliard de tonnes produites par an) !
-
-Au final, si l'on veut estimer la quantité de roche extraite pour répondre à la demande mondiale concernant un métal donné, on se rend compte que la teneur moyenne du minerai joue un rôle très important. Par exemple, la production mondiale d'or ne représente que quelques milliers de tonnes par an, et pourtant c'est le métal qui induit la troisième plus grande quantité de roche extraite (14 milliards de tonnes en 2018), juste derrière le fer et le cuivre. 
-
-!!! Source "Source"
-
-    La teneur en métal des différents minerais est indiquée à la table S4 (colonne "_Ore grade_") du papier [*Rock-to-Metal Ratio: A Foundational Metric for Understanding Mine Wastes*, NT Nassar, 2022](https://pubs.acs.org/doi/10.1021/acs.est.1c07875). La teneur en fer (_iron_) d'un minerai est en moyenne de 44,81%, celle en cuivre (_copper_) de 0,64%, et celle en or (_gold_) est de 0,00008%.
-    <a href="./img/RMR.png"> <img src="./img/RMR.png" width="linewidth"/></a>
-
 ## Co-produits, sous-produits
 
 Pour bien comprendre les enjeux de la production des métaux, et en particulier des métaux du numérique, il est important de rappeler que les mines permettent souvent l'extraction de plusieurs métaux. De nombreux métaux du numérique sont ainsi des <b>sous</b>-<b>produits</b>  d'autres métaux, c'est-à-dire qu'ils sont récupérés lors du traitement de ces autres métaux. Par exemple, le gallium est un sous-produit de l'aluminium. En d'autres termes, ces métaux n'influencent que très peu les décisions d'ouverture ou de fermeture des mines.

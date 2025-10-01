@@ -1,16 +1,18 @@
 ---
-title: 🚧 Quels métaux dans les smartphones
+title: 🚧 Les métaux utilisés dans les smartphones
 ---
-# 🚧 Quels métaux dans les smartphones
+# 🚧 Les métaux utilisés dans les smartphones
 
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
 Un smartphone est principalement constitué de métaux, de verre et de matières plastiques. 
 
-<a href="./img/matieres-smartphone.png"> <img src="./img/matieres-smartphone.png" width="300"/></a>
+!!! Source ""
+	<figure markdown="span"><a href="./img/matieres-smartphone.png"> <img src="./img/matieres-smartphone.png" width="300"/></a><br>
+	*Source : https://doi.org/10.1016/j.resourpol.2020.101750*
+	</figure>
 
-Source : https://doi.org/10.1016/j.resourpol.2020.101750
 
 ## I - Quels métaux dans les smartphones ?
 
@@ -20,8 +22,8 @@ La composition des smartphones n'est que très rarement connue, sachant qu'elle 
 * la présence en très faible quantité (moins de 0,01 g) d'un grand nombre de ces métaux --- on parle d'usage dispersif --- ce qui cause des difficultés pour le recyclage ;
 * la grande variété de leurs usages, comme détaillé plus bas.
 
-<a href="./img/metals-smartphone.png"> <img src="./img/metals-smartphone.png" width="linewidth"/></a>
-	
+!!! Source ""
+	<figure markdown="span"><a href="./img/metals-smartphone.png"> <img src="./img/metals-smartphone.png" width="linewidth"/></a></figure>
 ## II - Quels usages de ces métaux ?
 
 Nous présentons un aperçu des usages des différents métaux dans un smartphone en adoptant la classification industrielle de ces métaux. 
@@ -100,8 +102,10 @@ Systext a fourni en 2017 une [infographie détaillée](https://www.systext.org/n
 
 
 * Les informations concernant l'utilisation des métaux dans les smartphones sont issues de l'outil interactif développé par ISF SystExt (Ingénieurs sans frontières Systèmes extractifs et environnements).  
-    Source : [Infographie Des métaux dans mon smartphone ?. Systext. Avril 2017](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/)
-<a href="./img/systext.png"> <img src="./img/systext.png" width="linewidth"/></a>
+
+!!! Source ""
+	<figure markdown="span"><a href="./img/systext.png"> <img src="./img/systext.png" width="linewidth"/></a><br>
+	*Source : [Infographie Des métaux dans mon smartphone ?. Systext. Avril 2017](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/)*</figure>
 
 Une [étude de l'ADEME d'octobre 2024](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique et fournit un état de l'art sur les impacts environnementaux et besoins associés. Les métaux indiqués présents dans un smartphone (pages 186-188 du fichier Recueil-fiches-Equipement.pdf) diffèrent en partie de ceux de l'étude Systext sans qu'il soit aisé d'expliquer ces différences. 
 

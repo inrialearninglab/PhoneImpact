@@ -17,9 +17,11 @@ On peut décomposer le processus de production des métaux en trois grandes éta
 * l'**affinage**, ou **métallurgie**, qui peut avoir lieu loin de la mine 
 
 Nous allons détailler ces étapes dans la suite.
-<figure markdown="span">
+
+!!! Source ""
+	<figure markdown="span">
     <a href="./img/chaine-de-valeur.png"> <img src="./img/chaine-de-valeur.png" width="linewidth"/></a>
-</figure>
+	</figure>
 
 ## I - L'extraction minière
 
@@ -33,43 +35,27 @@ En France, le **code minier** définit la distinction entre mines et carrières.
 
     Source : [Les mines en France. Mineral info](https://www.mineralinfo.fr/fr/ressources-minerales-france-gestion/mines-france)
 
-Même s'il existe de nombreuses mines **souterraines**, la majorité des mines actuelles sont exploitées à **ciel ouvert** (57% des mines du monde et 88% de la production).
+Même s'il existe de nombreuses mines **souterraines**, la majorité des mines actuelles sont exploitées à **ciel ouvert** (57% des mines du monde et 88% de la production)[^1]. Les mines se présentent ainsi sous des apparences très variées.
 
-!!! Source "Source"
-    > _L'exploitation minière à ciel ouvert est la méthode la plus couramment utilisée dans le monde pour l'extraction des minéraux : 57% des mines du monde sont exploitées à ciel ouvert en nombre, et 88% en production._
+!!! Source ""
+	<figure  markdown="span"><a href="./img/mine-Roumanie.jpeg"> <img src="./img/mine-Roumanie.jpeg" width="linewidth"/></a><br>
+	*Cette photo montre la mine de cuivre de Roșia Poieni en Roumanie, qui est une mine à ciel ouvert.  
+    Source : [page wikipedia de "Mine de Roșia Poieni"](https://fr.wikipedia.org/wiki/Mine_de_Ro%C8%99ia_Poieni)*
+    </figure>
 
-    Page 48 du rapport [Étude des risques environnementaux, socio-sociétaux et juridiques des approvisionnements en minerais stratégiques pour les transitions énergétique et numérique. Record. Septembre 2023](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)
-
-Les mines se présentent ainsi sous des apparences très variées 
-
-<a href="./img/mine-Roumanie.jpeg"> <img src="./img/mine-Roumanie.jpeg" width="linewidth"/></a>
-
-!!! Source "Précisions et source"
-    Cette photo montre la mine de cuivre de Roșia Poieni en Roumanie.  
-    Source : [page wikipedia de "Mine de Roșia Poieni"](https://fr.wikipedia.org/wiki/Mine_de_Ro%C8%99ia_Poieni)
-
-<a href="./img/mine-RDC.jpeg"> <img src="./img/mine-RDC.jpeg" width="linewidth"/></a>
-
-!!! Source "Précisions et source"
-    Cette photo montre une mine de coltan près de Rubaya dans le Nord-Kivu en République Démocratique du Congo.  
-    Source : [page wikipedia de "Coltan"](https://fr.wikipedia.org/wiki/Coltan)
-
-<hr>
+!!! Source ""
+	<figure  markdown="span"><a href="./img/mine-RDC.jpeg"> <img src="./img/mine-RDC.jpeg" width="linewidth"/></a><br>
+	*Cette photo montre une mine de coltan près de Rubaya dans le Nord-Kivu en République Démocratique du Congo.
+	Il s'agit d'une mine souterraine. Source : [page wikipedia de "Coltan"](https://fr.wikipedia.org/wiki/Coltan)*
+	</figure>
 
 !!! Tip ""
     [36] Mine de lithium, États-Unis
-
-!!! Source "Précisions et source"
     Cette photo montre la mine de lithium de Silver Peak dans le Nevada aux États-Unis.  
     Source : [Mine de lithium de pic d’argent. Référence de la photo :1392927082 @simonkr. istockphoto](https://www.istockphoto.com/fr/photo/mine-de-lithium-de-pic-dargent-gm1392927082-449013842)
 
 ### Fonctionnement d'une mine
 
-<figure markdown="span">
-<a href="./img/dechets-miniers.jpg"> <img src="./img/dechets-miniers.jpg" width="linewidth"/></a>
-</figure>
-
-Source :  https://www.grida.no/resources/11415
 
 ### Stériles, minerai, résidus
 
@@ -77,26 +63,21 @@ Source :  https://www.grida.no/resources/11415
 
 Un **minerai** est une roche qu’on extrait pour obtenir, après plusieurs étapes de traitement, des métaux ou d’autres minéraux utiles. Il peut parfois se présenter sous forme de solution, comme dans le cas des mines de lithium.
 
-On appelle **stériles miniers** les roches qu’il faut extraire pour accéder au minerai. On appelle **résidus miniers** les déchets (solides ou liquides) produits lors du traitement du minerai.
-
-<figure markdown="span">
-<a href="./img/lac-de-residus-Perou.jpeg"> <img src="./img/lac-de-residus-Perou.jpeg" width="linewidth"/></a>
-</figure>
+On appelle **stériles miniers** les roches qu’il faut extraire pour accéder au minerai. 
 
 Un **terril** est une colline artificielle formée par l'accumulation de stériles ou de résidus issus de l’exploitation d'une mine.
 
 <a href="./img/terril.jpeg"> <img src="./img/terril.jpeg" width="linewidth"/></a>
 
-Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues.
+On appelle **résidus miniers** les déchets (solides ou liquides) produits lors du traitement du minerai. Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues.
 
-!!! Source "Précisions et source"
-
-    Cette photo montre le lac de résidus miniers de la mine de cuivre et zinc d'Antamina au Pérou.  
-    Source : [page wikipedia de "Barrage d'Antamina"](https://fr.wikipedia.org/wiki/Barrage_d%27Antamina)
-
-
-<hr>
-
+!!! Source ""
+	<figure markdown="span">
+	<a href="./img/lac-de-residus-Perou.jpeg"> <img src="./img/lac-de-residus-Perou.jpeg" width="linewidth"/></a><br>
+	*Cette photo montre le lac de résidus miniers de la mine de cuivre et zinc d'Antamina au Pérou.  
+    Source : [page wikipedia de "Barrage d'Antamina"](https://fr.wikipedia.org/wiki/Barrage_d%27Antamina)*
+	</figure>
+    
 
 * Grande diversité des conditions d'extraction (et donc des impacts environnementaux associés)
 
@@ -107,7 +88,6 @@ Une fois le minerai extrait, il est concassé, broyé et trié pour isoler les m
 > _Lors du processus de fragmentation d’importantes quantités de poussières sont produites par le concassage et le broyage des minerais. \[...\] Les poussières peuvent se déplacer par voie éolienne, et l’envol de poussières, à partir d’un dépôt de résidus minier ou du minerai mis à nu dans une mine à ciel ouvert peut être à l’origine de la contamination des sols après dépôt et accumulation des poussières._
 
 Page 82 du même [rapport](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)
-Une fois le minerai extrait, il est concassé, broyé et trié pour isoler les minéraux recherchés. C'est une étape qui consomme beaucoup d'énergie et d'eau, et qui génère des résidus.
 
 Cette phase de traitement a souvent lieu à proximité du site d'extraction, mais ça n'est pas toujours le cas, cf la bauxite.
 
@@ -134,7 +114,6 @@ L'extraction et les premières étapes de traitement du minerai (concassage et b
 Broyeur à boulet
 https://www.youtube.com/watch?v=vSi75VTnBoA
 
-
 ### Concentration
 Une fois réduit en poudre, le minerai subit différents traitements chimiques et physiques pour éliminer les impuretés jusqu'à obtenir le métal recherché.
 
@@ -159,6 +138,12 @@ Les résidus miniers contiennent des produits chimiques dangereux utilisés pend
 * Filtration
 * Séchage thermique
 
+<figure markdown="span">
+<a href="./img/dechets-miniers.jpg"> <img src="./img/dechets-miniers.jpg" width="linewidth"/></a>
+</figure>
+
+Source :  https://www.grida.no/resources/11415
+
 ## III - L'affinage métallurgique
 Production d'aluminium : 4 tonnes de bauxite pour 1 tonne d'aluminium
 https://www.youtube.com/watch?v=eGdXxFjqFsg
@@ -176,3 +161,4 @@ Une fois réduit en poudre, le minerai subit différents traitements chimiques e
 * Mineralinfo
 * Le rapport de l'UNEP
 
+[^1]: Source : page 48 du rapport [Étude des risques environnementaux, socio-sociétaux et juridiques des approvisionnements en minerais stratégiques pour les transitions énergétique et numérique. Record. Septembre 2023](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)

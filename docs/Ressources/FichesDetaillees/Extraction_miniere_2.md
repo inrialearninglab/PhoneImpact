@@ -1,7 +1,7 @@
 ---
-title: 🚧 Précisions sur l'extraction minière
+title: 🚧 Quelques précisions sur l'extraction minière
 ---
-# 🚧 Précisions sur l'extraction minière
+# 🚧 Quelques précisions sur l'extraction minière
 
 !!! Warning
     Attention, cette fiche est en cours de rédaction
@@ -12,9 +12,9 @@ Une grande mine de cuivre produit en moyenne 1.750 tonnes de concentré de cuivr
 
 <figure markdown="span">
 <a href="./img/tailings.jpg"> <img src="./img/tailings.jpg" width="linewidth"/></a>
+Source : Figure 5 du rapport de l'UNEP [_Mine tailings storage: Safety is no accident_](https://www.grida.no/publications/383)
 </figure>
 
-Source : Figure 5 du rapport de l'UNEP [_Mine tailings storage: Safety is no accident_](https://www.grida.no/publications/383)
 
 <figure markdown="span">
 <a href="./img/MineCuivrePalabora.jpg"> <img src="./img/MineCuivrePalabora.jpg" width="linewidth"/></a>

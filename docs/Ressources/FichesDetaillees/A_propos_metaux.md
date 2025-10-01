@@ -10,9 +10,12 @@ Wikipedia :
 - En [physique](https://fr.wikipedia.org/wiki/Physique "Physique"), un [métal](https://fr.wikipedia.org/wiki/M%C3%A9tal "Métal") est un matériau condensé ([solide](https://fr.wikipedia.org/wiki/%C3%89tat_solide "État solide") ou [liquide](https://fr.wikipedia.org/wiki/Liquide "Liquide")) dont les atomes sont liés par des [liaisons métalliques](https://fr.wikipedia.org/wiki/Liaison_m%C3%A9tallique "Liaison métallique").
 ## II - Différentes classifications des métaux
 
-Il existe plusieurs manières de classifier les métaux, selon que l'on considère leur usage industriel, leurs propriétés physico-chimiques ou encore leurs spécificités géologiques. Notons que ces classifications ne sont complètement indépendantes les unes des autres : par exemple les métaux précieux (classification industrielle) ont des propriétés physico-chimiques similaires. Par contre, la correspondance n'est pas parfaite. Ainsi, certains métaux de base dans l'industrie sont des métaux rares du point géologique.
+Il existe plusieurs manières de classifier les métaux, selon que l'on considère leur usage industriel, leurs propriétés physico-chimiques ou encore leurs spécificités géologiques. Notons que ces classifications ne sont pas complètement indépendantes les unes des autres : par exemple les métaux précieux (classification industrielle) ont des propriétés physico-chimiques similaires. Par contre, la correspondance n'est pas parfaite. Ainsi, certains métaux de base dans l'industrie sont des métaux rares du point géologique.
 
-Nous précisons dans la suite différentes classifications des métaux qui sont fréquemment utilisées, et qui apparaissent dans le jeu, en distinguant la nature des propriétés sur lesquelles elles se basent : industrielle, physico-chimique, géologique.
+Nous précisons dans la suite différentes classifications des métaux qui sont fréquemment utilisées en distinguant la nature des propriétés sur lesquelles elles se basent : industrielle, physico-chimique, géologique.
+
+!!! Tip ""
+	Nous ne détaillons ici que les classification qui sont pertinentes par rapport au jeu PhoneImpact.
 ### Une classification basée sur des propriétés géologiques
 
 La rareté d'un métal reflète son abondance dans la croûte terrestre (qui peut être plus ou moins diffuse). On distingue ainsi :
