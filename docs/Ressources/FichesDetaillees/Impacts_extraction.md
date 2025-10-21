@@ -6,9 +6,35 @@ title: 🚧 Conséquences locales de l'extraction minière
 !!! Warning
     Attention, cette fiche est en cours de rédaction
     
-Pollutions, catastrophes, tensions voire conflits… L'extraction minière est  source de nombreux impacts environnementaux et sociaux négatifs.
+Pollutions, catastrophes, tensions voire conflits… L'extraction minière est  source de nombreux impacts environnementaux et sociaux négatifs dans les zones concernées.
     
-## I - Une activité à risque
+
+## Grande diversité des conditions d'extraction
+
+* consommation d'eau à cause du pompage pour maintenir les galeries à sec (et donc problème pour évacuer cette eau)
+
+!!! Source "Précisions et sources"
+    Pour plus de précisions, voir la figure 5 du rapport de l'UNEP [*Mine tailings storage: Safety is no accident*](    https://www.grida.no/publications/383)
+
+> _Une mine à ciel ouvert générera de grandes quantités de poussière contenant des métaux lourds. Tout d’abord, lors du forage et du dynamitage, se forment des nuages de poussière contenant des gaz et particules en suspensions et pouvant affecter la santé des populations locales. Ensuite, l'exploitation à ciel ouvert nécessite de nombreux transports quotidiens des minerais, la plupart du temps par camions, pour acheminer le minerai vers des zones de transformation. Les trajets génèrent des poussières \[...\]._
+
+Pages 71-72 du rapport [Étude des risques environnementaux, socio-sociétaux et juridiques des approvisionnements en minerais stratégiques pour les transitions énergétique et numérique](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf) publié en septembre 2023.
+## I - Une activité avec de gros besoins en ressources
+
+Eau, énergie et emprise au sol
+
+On estime qu’environ 10 % de l’énergie primaire mondiale est consacrée à extraire, transporter et raffiner les ressources métalliques (tous secteurs confondus).
+
+Les conflits d'usage
+
+Emprise au sol : https://www.nature.com/articles/s43247-023-00805-6
+Global mining footprint mapped from high-resolution satellite imagery
+ https://felt.com/map/Global-mining-footprint-FhngephpTdWu9ChFO4rwIQA?loc=0.13,138.66,3.29z
+## II - Une source de pollutions
+
+Pollutions de l'air (particules fines, pluies acides...), de l'eau, des sols, avec des conséquences sur l'environnement et la santé des populations.
+
+### Une activité à risque
 
 Certains métaux lourds sont souvent naturellement associés à d'autres métaux : plomb, mercure, arsenic... Si ces métaux lourds ne sont pas eux-mêmes exploités, alors ils se retrouvent dans les déchets miniers.    
 
@@ -43,21 +69,6 @@ D'autre part, des produits chimiques dangereux sont fréquemment utilisés penda
     Source : rapport de MineralInfo [Exploitation minière et traitement des minerais](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf) publié en février 2017
 
 Les terres rares, à ne pas confondre avec les métaux rares, ne le sont pas tant du fait de leur rareté mais parce qu’elles sont difficiles à extraire. Leur extraction génère des déchets radioactifs.
-
-## II - Une activité gourmande en ressources
-
-Eau, énergie et emprise au sol
-
-On estime qu’environ 10 % de l’énergie primaire mondiale est consacrée à extraire, transporter et raffiner les ressources métalliques (tous secteurs confondus).
-
-Les conflits d'usage
-
-Emprise au sol : https://www.nature.com/articles/s43247-023-00805-6
-Global mining footprint mapped from high-resolution satellite imagery
- https://felt.com/map/Global-mining-footprint-FhngephpTdWu9ChFO4rwIQA?loc=0.13,138.66,3.29z
-## III - Une source de pollutions
-
-Pollutions de l'air (particules fines, pluies acides...), de l'eau, des sols, avec des conséquences sur l'environnement et la santé des populations.
 
 ### Poussières 
 
@@ -259,19 +270,6 @@ Claimants seeking damages from Anglo-Australian mining company over 2015 environ
 
 https://www.theguardian.com/business/2024/oct/25/victims-of-brazils-worst-environmental-disaster-to-pursue-claim-in-uk-despite-settlement
 
-### Conséquences sur la santé des populations 
-
-Le mercure, l'arsenic et le plomb font partie des métaux lourds.
-
-> _Toxiques pour tous les êtres vivants sous leur forme oxydée, ils n’ont aucun rôle bénéfique et s’accumulent dans les chaînes alimentaires (bioaccumulation)._
-
-Source : [Métaux lourds : cadmium, mercure et plomb. Commissariat général au développement durable. Juillet 2019](https://www.notre-environnement.gouv.fr/themes/sante/les-produits-chimiques-ressources/article/metaux-lourds-cadmium-mercure-et-plomb)
-
-Pour les dangers que représentent le mercure, l'arsenic et le plomb pour la santé, voir les fiches détaillées de l'OMS :
-
-* [Fiche sur le mercure](https://www.who.int/fr/news-room/fact-sheets/detail/mercury-and-health)
-* [Fiche sur l'arsenic](https://www.who.int/fr/news-room/fact-sheets/detail/arsenic)
-* [Fiche sur l'intoxication au plomb](https://www.who.int/fr/news-room/fact-sheets/detail/lead-poisoning-and-health)
 
 ### L'après mine
 
@@ -375,8 +373,25 @@ https://www.ccomptes.fr/sites/default/files/EzPublish/Salsigne.pdf_
     https://www.lemonde.fr/planete/article/2024/05/11/dans-les-cevennes-l-heritage-empoisonne-de-l-apres-mine_6232556_3244.html
 
 
-## IV - Une source de conflits
+## III - Une source de conflits
 
+### Des conséquences parfois lourdes sur la santé des populations locales 
+
+Le mercure, l'arsenic et le plomb font partie des métaux lourds.
+
+> _Toxiques pour tous les êtres vivants sous leur forme oxydée, ils n’ont aucun rôle bénéfique et s’accumulent dans les chaînes alimentaires (bioaccumulation)._
+
+Source : [Métaux lourds : cadmium, mercure et plomb. Commissariat général au développement durable. Juillet 2019](https://www.notre-environnement.gouv.fr/themes/sante/les-produits-chimiques-ressources/article/metaux-lourds-cadmium-mercure-et-plomb)
+
+Pour les dangers que représentent le mercure, l'arsenic et le plomb pour la santé, voir les fiches détaillées de l'OMS :
+
+* [Fiche sur le mercure](https://www.who.int/fr/news-room/fact-sheets/detail/mercury-and-health)
+* [Fiche sur l'arsenic](https://www.who.int/fr/news-room/fact-sheets/detail/arsenic)
+* [Fiche sur l'intoxication au plomb](https://www.who.int/fr/news-room/fact-sheets/detail/lead-poisoning-and-health)
+
+
+
+### De nombreux conflits d'usage des ressources
 ### Minerais de conflits
 
 !!! Tip ""
@@ -391,7 +406,8 @@ https://www.ccomptes.fr/sites/default/files/EzPublish/Salsigne.pdf_
     Un document du Service de recherche du Parlement européen rédigé en 2015 fournit des informations supplémentaires sur la proposition de règlement européen (qui a finalement été adoptée en 2017).  
     
     Source : [Briefing *Les minéraux des conflits-La proposition de règlement européen*. Parlement européen. Février 2015](https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/548985/EPRS_BRI(2015)548985_REV1_FR.pdf)
-### Conflits environnementaux
+
+### L'industrie minière, première cause de conflits environnementaux
 L’industrie minière est la première cause dans le monde de **conflits environnementaux**[^1]. En 2019, 50 défenseurs de l'environnement ont été assassinés dans des conflits liés à l'industrie minière[^2].
 
 Des journaux de référence tels que le Guardian et le Monde publient régulièrement des enquêtes approfondies sur les conflits liés à l'industrie minière.
@@ -615,7 +631,7 @@ https://www.courrierinternational.com/article/enquete-les-immenses-reserves-de-l
 
 https://chinalaborwatch.org/forged-in-silence-the-untold-stories-of-chinese-workers-at-indonesias-nickel-plants/
 
-## Une grande diversité de situations
+## IV - Une grande diversité de situations
 Grande diversité des conditions d'extraction (et donc des impacts environnementaux associés)
 = certains modes d'extraction sont plus polluants et moins respectueux des droits humains que d'autres.
  Pour illustrer ces différences, on peut noter que la majorité des catastrophes minières détaillées dans les cartes Malus sont dues à une mauvaise gestion des infrastructures de retenue des résidus miniers, comme mis en avant dans le rapport de l'UNEP [Mine tailings storage: Safety is no accident](https://www.grida.no/publications/383) publié en 2017.

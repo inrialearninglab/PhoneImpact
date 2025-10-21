@@ -6,11 +6,7 @@ title: 🚧 Le processus de production des métaux
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
-La production des métaux est un processus complexe et mondialisé, depuis les mines jusqu'aux usines de raffinage.
-
-## Les grandes étapes de la production des métaux
-
-On peut décomposer le processus de production des métaux en trois grandes étapes :
+La production des métaux est un processus complexe et mondialisé, depuis les mines jusqu'aux usines de raffinage. On peut décomposer le processus de production des métaux en trois grandes étapes :
 
 * l'**extraction du minerai** dans la mine
 * le **pré-traitement**, ou **minéralurgie**, qui a souvent lieu à proximité de la mine
@@ -22,10 +18,7 @@ Nous allons détailler ces étapes dans la suite.
 	<figure markdown="span">
     <a href="./img/chaine-de-valeur.png"> <img src="./img/chaine-de-valeur.png" width="linewidth"/></a>
 	</figure>
-
-## I - L'extraction minière
-
-### Qu'est-ce qu'une mine ?
+## I - Qu'est-ce qu'une mine ?
 
 En France, le **code minier** définit la distinction entre mines et carrières. On parle de mine lorsque le matériau extrait est considéré comme stratégique, et sinon, de carrière.
 
@@ -54,55 +47,56 @@ Même s'il existe de nombreuses mines **souterraines**, la majorité des mines a
     Cette photo montre la mine de lithium de Silver Peak dans le Nevada aux États-Unis.  
     Source : [Mine de lithium de pic d’argent. Référence de la photo :1392927082 @simonkr. istockphoto](https://www.istockphoto.com/fr/photo/mine-de-lithium-de-pic-dargent-gm1392927082-449013842)
 
-### Fonctionnement d'une mine
+## II - Comment fonctionne une mine ?
+
+L'infographie ci-dessous, que nous allons détailler par la suite, illustre le processus global de fonctionnement d'une mine à ciel ouvert.
+
+!!! Source ""
+	<figure  markdown="span"><a href="./img/dechets-miniers.jpg"> <img src="./img/dechets-miniers.jpg" width="linewidth"/></a><br>
+	*Le principe de fonctionnement d'une mine à ciel ouvert, depuis l'extraction jusqu'au stockage des déchets miniers.<br>
+	La partie gauche de l'infographie montre la distinction entre minerai et stériles. <br>
+	La partie en bas à droite montre un terril, et la partie en haut à droite décrit le pré-traitement minéralurgique du minerai. 
+    Source : https://www.grida.no/resources/11415*
+    </figure>
+    
+La première étape de l'extraction minière vise à récupérer ce qu'on appelle le **minerai**, c'est-à-dire la roche[^2] qu’on va ensuite traiter en vue d'obtenir des métaux ou d’autres minéraux utiles.  
+
+!!! Source ""
+	<figure  markdown="span"><a href="./img/minerai-steriles.png"> <img src="./img/minerai-steriles.png" width="80% linewidth"/></a><br>
+	*Distinction entre minerai et stériles.  
+    Source : https://www.grida.no/resources/11415*
+    </figure>
+    
+La distinction entre minerai, qu'on va traiter, et roche **stérile**, qu'on ne cherchera pas à exploiter, se fait sur la base de critères économiques : en deçà d'une certaine concentration en métal de la roche, il n'est plus rentable de la traiter. Les stériles sont extraits uniquement pour accéder au minerai, puis stockés, souvent sous forme de collines artificielles appelées **terrils**.
+
+!!! Source ""
+	<figure  markdown="span"><a href="./img/terrils.png"> <img src="./img/terrils.png" width="linewidth"/></a><br>
+	*Stockage des stériles sous formontre un terril.  
+    Source : https://www.grida.no/resources/11415*
+    </figure>
 
 
-### Stériles, minerai, résidus
+!!! Source ""
+	<figure  markdown="span"><a href="./img/terril.jpeg"> <img src="./img/terril.jpeg" width="linewidth"/></a><br>
+	*Un terril est une colline artificielle formée par l'accumulation de stériles issus de l’exploitation d'une mine  
+    Source : https://www.grida.no/resources/11415*
+    </figure>
 
-* minerai = notion économique
+Une fois le minerai extrait, il est concassé, broyé et trié pour isoler les minéraux recherchés. Cette phase de traitement, qu'on appelle le pré-traitement minéralurgique, a lieu à proximité du site d'extraction. On appelle **résidus miniers** les déchets (solides ou liquides) produits lors du traitement du minerai. Pour stocker les résidus miniers liquides, on crée des lacs artificiels en construisant des barrages ou des digues.
 
-Un **minerai** est une roche qu’on extrait pour obtenir, après plusieurs étapes de traitement, des métaux ou d’autres minéraux utiles. Il peut parfois se présenter sous forme de solution, comme dans le cas des mines de lithium.
-
-On appelle **stériles miniers** les roches qu’il faut extraire pour accéder au minerai. 
-
-Un **terril** est une colline artificielle formée par l'accumulation de stériles ou de résidus issus de l’exploitation d'une mine.
-
-<a href="./img/terril.jpeg"> <img src="./img/terril.jpeg" width="linewidth"/></a>
-
-On appelle **résidus miniers** les déchets (solides ou liquides) produits lors du traitement du minerai. Pour stocker les résidus miniers, on crée des lacs artificiels en construisant des barrages ou des digues.
-
+!!! Source ""
+	<figure  markdown="span"><a href="./img/mineralurgie.png"> <img src="./img/mineralurgie.png" width="linewidth"/></a><br>
+	*Le principe de fonctionnement d'une mine à ciel ouvert, depuis l'extraction jusqu'au stockage des déchets miniers.<br>
+    Source : https://www.grida.no/resources/11415*
+    </figure>
 !!! Source ""
 	<figure markdown="span">
 	<a href="./img/lac-de-residus-Perou.jpeg"> <img src="./img/lac-de-residus-Perou.jpeg" width="linewidth"/></a><br>
 	*Cette photo montre le lac de résidus miniers de la mine de cuivre et zinc d'Antamina au Pérou.  
+	La mine d’Antamina, située à 4 300 m d’altitude est exploitée, à ciel ouvert, depuis 2001. <br>
     Source : [page wikipedia de "Barrage d'Antamina"](https://fr.wikipedia.org/wiki/Barrage_d%27Antamina)*
 	</figure>
-    
 
-* Grande diversité des conditions d'extraction (et donc des impacts environnementaux associés)
-
-## II - Le pré-traitement minéralurgique
-
-Une fois le minerai extrait, il est concassé, broyé et trié pour isoler les minéraux recherchés. C'est une étape qui consomme beaucoup d'énergie et d'eau, et qui génère des résidus.
-
-> _Lors du processus de fragmentation d’importantes quantités de poussières sont produites par le concassage et le broyage des minerais. \[...\] Les poussières peuvent se déplacer par voie éolienne, et l’envol de poussières, à partir d’un dépôt de résidus minier ou du minerai mis à nu dans une mine à ciel ouvert peut être à l’origine de la contamination des sols après dépôt et accumulation des poussières._
-
-Page 82 du même [rapport](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)
-
-Cette phase de traitement a souvent lieu à proximité du site d'extraction, mais ça n'est pas toujours le cas, cf la bauxite.
-
-
-!!! Tip ""
-    [10] Les résidus miniers contiennent des produits chimiques dangereux utilisés pendant le traitement du minerai. On utilise par exemple du cyanure pour le traitement de l'or.
-
-!!! Source "Précisions et sources"
-
-    La lixiviation est une des méthodes classiques de concentration de minerai.
-
-    >  *La lixiviation est un processus simple d’extraction par dissolution basé sur le fait que tous les minerais ont des coefficients de dissolution différents et peuvent donc se retrouver séparés par la circulation d’un solvant. Ce principe est mondialement utilisé pour extraire l’or (le solvant étant majoritairement le cyanure), mais d’autres métaux comme le cuivre et l’uranium peuvent être extraits ainsi.*  
-
-    Source : rapport de MineralInfo [Exploitation minière et traitement des minerais](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf) publié en février 2017
-    
 
 ### Fragmentation
 * concassage
@@ -138,11 +132,21 @@ Les résidus miniers contiennent des produits chimiques dangereux utilisés pend
 * Filtration
 * Séchage thermique
 
-<figure markdown="span">
-<a href="./img/dechets-miniers.jpg"> <img src="./img/dechets-miniers.jpg" width="linewidth"/></a>
-</figure>
 
-Source :  https://www.grida.no/resources/11415
+
+    
+
+!!! Tip ""
+    [10] Les résidus miniers contiennent des produits chimiques dangereux utilisés pendant le traitement du minerai. On utilise par exemple du cyanure pour le traitement de l'or.
+
+!!! Source "Précisions et sources"
+
+    La lixiviation est une des méthodes classiques de concentration de minerai.
+
+    >  *La lixiviation est un processus simple d’extraction par dissolution basé sur le fait que tous les minerais ont des coefficients de dissolution différents et peuvent donc se retrouver séparés par la circulation d’un solvant. Ce principe est mondialement utilisé pour extraire l’or (le solvant étant majoritairement le cyanure), mais d’autres métaux comme le cuivre et l’uranium peuvent être extraits ainsi.*  
+
+    Source : rapport de MineralInfo [Exploitation minière et traitement des minerais](https://www.mineralinfo.fr/sites/default/files/documents/2021-01/tome_06_exploitation_miniere_et_traitement_des_minerais_final24032017_1.pdf) publié en février 2017
+    
 
 ## III - L'affinage métallurgique
 Production d'aluminium : 4 tonnes de bauxite pour 1 tonne d'aluminium
@@ -162,3 +166,5 @@ Une fois réduit en poudre, le minerai subit différents traitements chimiques e
 * Le rapport de l'UNEP
 
 [^1]: Source : page 48 du rapport [Étude des risques environnementaux, socio-sociétaux et juridiques des approvisionnements en minerais stratégiques pour les transitions énergétique et numérique. Record. Septembre 2023](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)
+
+[^2]: À noter que le minerai peut parfois se présenter sous forme de solution et non de roche, comme dans le cas de certaines mines de lithium.

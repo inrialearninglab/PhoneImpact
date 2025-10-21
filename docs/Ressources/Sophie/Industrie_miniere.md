@@ -1,10 +1,31 @@
+## TODO
+* Pour les usages + répartition des réserves par métal : https://www.mineralinfo.fr/fr/substance/lithium-li
+* Expliquer cette différence entre minerai et métal dans les chiffres
+* Les minerais peuvent avoir des noms propres
+* Source de l'expression "scandale géologique"
+* Mettre la source primaire pour avoir les chiffres de l'USGS
+* Faire une infographie pour expliquer le RMR
+* Faire une infographie pour les volumes de production
 ## Sources de référence
 
 * MineralInfo
 * Le papier RMR
 * Le papier By-products
+## En vrac
 
+Mineral Resources Online Spatial Data
+https://mrdata.usgs.gov/general/map-global.html
+
+Reviews of the Geology and Nonfuel Mineral Deposits of the World
+https://pubs.usgs.gov/of/2005/1294/
+
+Mineral Resources Data System (MRDS)
+https://mrdata.usgs.gov/mrds/
+
+Atelier prospective avec Gauthier
 ## Reliquats 
+
+La teneur en fer (_iron_) d'un minerai est en moyenne de 44,81%, celle en cuivre (_copper_) de 0,64%, et celle en or (_gold_) est de 0,00008%.*<br>
 On notera en particulier que :
 
 * La <b>République Démocratique du Congo</b> est le premier producteur mondial de <b>cobalt</b> (74% de la production en 2023).

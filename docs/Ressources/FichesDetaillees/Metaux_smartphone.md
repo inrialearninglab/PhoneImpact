@@ -6,19 +6,15 @@ title: 🚧 Les métaux utilisés dans les smartphones
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
-Un smartphone est principalement constitué de métaux, de verre et de matières plastiques. 
-
-!!! Source ""
-	<figure markdown="span"><a href="./img/matieres-smartphone.png"> <img src="./img/matieres-smartphone.png" width="300"/></a><br>
-	*Source : https://doi.org/10.1016/j.resourpol.2020.101750*
-	</figure>
-
+Les smartphones modernes contiennent plus de 50 métaux, contre une dizaine dans les téléphones fixes des années 1950. Ces nouveaux métaux remplissent une grande diversité de fonctions (miniaturisation, protection contre la corrosion, etc.).
+    
+En plus des métaux, un smartphone contient du verre, des plastiques, de la céramique... 
 
 ## I - Quels métaux dans les smartphones ?
 
-La composition des smartphones n'est que très rarement connue, sachant qu'elle varie en fonction des modèles et évolue rapidement au fil des technologies. On peut néanmoins mettre en avant trois caractéristiques principales :
+La composition exacte des smartphones n'est que très rarement connue, sachant qu'elle varie en fonction des modèles et évolue rapidement au fil des technologies. On peut néanmoins mettre en avant trois caractéristiques principales :
 
-* la grande diversité des métaux présents dans un smartphone (plus d'une cinquantaine alors qu'en 1950, on dénombrait une douzaine de métaux dans nos bons vieux téléphones fixes) ; 
+* la grande diversité des métaux présents dans un smartphone ; 
 * la présence en très faible quantité (moins de 0,01 g) d'un grand nombre de ces métaux --- on parle d'usage dispersif --- ce qui cause des difficultés pour le recyclage ;
 * la grande variété de leurs usages, comme détaillé plus bas.
 
@@ -26,7 +22,33 @@ La composition des smartphones n'est que très rarement connue, sachant qu'elle 
 	<figure markdown="span"><a href="./img/metals-smartphone.png"> <img src="./img/metals-smartphone.png" width="linewidth"/></a></figure>
 ## II - Quels usages de ces métaux ?
 
-Nous présentons un aperçu des usages des différents métaux dans un smartphone en adoptant la classification industrielle de ces métaux. 
+Voici maintenant un aperçu des usages des différents métaux dans un smartphone. Nous nous appuyons pour cela sur deux sources principales[^2] :
+
+- une [infographie détaillée et un outil interactif en ligne](https://www.systext.org/node/1724) décrivant les éléments chimiques généralement présents dans un smarphone, fournis par l'association ISF Systext (Ingénieurs sans frontières Systèmes extractifs et environnements) en 2017 ;
+    
+- une récente [étude de l'ADEME](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) (publiée en novembre 2024) sur les besoins en métaux dans le secteur numérique et les impacts environnementaux associés[^1].
+
+!!! Source ""
+	<figure markdown="span"><a href="./img/systext.png"> <img src="./img/systext.png" width="linewidth"/></a><br>
+	*Les différents métaux présents dans un smartphone.*<br>
+	*Source : [Infographie Des métaux dans mon smartphone ? Systext. Avril 2017](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/)*</figure>
+
+
+Métaux de base
+* Structure
+* Conductivité
+
+Métaux précieux
+* Palladium, platine, or pour la finition des circuits intégrés 
+
+ Terres rares 
+* Dysprosium, praséodyme, néodyme pour les aimants dans les hauts-parleurs, les vibrateurs et les caméras
+* Indium, yttrium etc. pour le rétro-éclairage des écrans LCD
+
+Métaux de spécialité : une très grande diversité d'usage
+* Silicium pour les "wafers"
+* Gallium pour le rétro-éclairage des écrans LCD
+* Étain, tantale
 
 **Métaux de base**
 
@@ -91,24 +113,6 @@ La présence d'un grand nombre de ces métaux, parfois en très petite quantité
 
     Le silicium métal utilisé dans les équipements numériques est du polysilicium affiné à un niveau de pureté extrême de 10N à 13N . Il est apprécié dans la microélectronique pour ses propriétés semi-conductrices utiles au fonctionnement des circuits intégrés, au stockage et à la transmission d’information.
 
-Pour savoir o
-sources utilisées dans les deux études ne sont donc pas comparables.
-
-- une [infographie détaillée](https://www.systext.org/node/1724) des éléments chimiques généralement présents dans un smarphone fournie par Systext en 2017
-    
-- une récente [étude de l'ADEME](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) (publiée en novembre 2024) sur les besoins en métaux dans le secteur numérique et les impacts environnementaux associés
-
-Systext a fourni en 2017 une [infographie détaillée](https://www.systext.org/node/1724) des éléments chimiques généralement présents dans un smarphone.
-
-
-* Les informations concernant l'utilisation des métaux dans les smartphones sont issues de l'outil interactif développé par ISF SystExt (Ingénieurs sans frontières Systèmes extractifs et environnements).  
-
-!!! Source ""
-	<figure markdown="span"><a href="./img/systext.png"> <img src="./img/systext.png" width="linewidth"/></a><br>
-	*Source : [Infographie Des métaux dans mon smartphone ?. Systext. Avril 2017](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/)*</figure>
-
-Une [étude de l'ADEME d'octobre 2024](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique et fournit un état de l'art sur les impacts environnementaux et besoins associés. Les métaux indiqués présents dans un smartphone (pages 186-188 du fichier Recueil-fiches-Equipement.pdf) diffèrent en partie de ceux de l'étude Systext sans qu'il soit aisé d'expliquer ces différences. 
-
 ## Sources de référence
 * L'élémentarium pour tout ce qui relève des propriétés physiques des métaux
 * Bookhagen
@@ -118,6 +122,6 @@ Une [étude de l'ADEME d'octobre 2024](https://librairie.ademe.fr/economie-circu
 
  sources utilisées dans les deux études ne sont donc pas comparables. 
 
-- une [infographie détaillée](https://www.systext.org/node/1724) des éléments chimiques généralement présents dans un smarphone fournie par Systext en 2017
-    
-- une récente [étude de l'ADEME](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) (publiée en novembre 2024) sur les besoins en métaux dans le secteur numérique et les impacts environnementaux associés
+[^1]: Cette [étude](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) considère une liste de 25 métaux critiques nécessaires à l'industrie du numérique et fournit un état de l'art sur les impacts environnementaux et besoins associés. Les usages des métaux présents dans un smartphone sont décrits pages 186-188 du fichier Recueil-fiches-Equipement.pdf.
+
+[^2]: Notons que ces sources ne sont pas totalement concordantes sans qu'il soit aisé d'expliquer ces différences  cause du manque de données sur la composition précise des smartphones. Les informations fournies dans les deux documents n'en demeurent pas moins globalement similaires, et nous ne présentons ci-dessus que des conclusions qui se recoupent entre les deux sources.

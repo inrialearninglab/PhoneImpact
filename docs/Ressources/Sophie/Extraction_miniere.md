@@ -1,3 +1,6 @@
+## TODO
+* Check "Cette phase de traitement a lieu à proximité du site d'extraction."
+
 ## Sources de référence
 
 <figure markdown="span">

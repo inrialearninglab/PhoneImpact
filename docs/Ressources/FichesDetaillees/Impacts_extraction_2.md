@@ -8,27 +8,6 @@ title: 🚧 Enjeux globaux liés aux métaux
 # 🚧 Enjeux globaux liés aux métaux
 
 Au-delà de la réalité matérielle et humaine de l'extraction minière et de ses conséquences, il est parfois difficile de s'y retrouver dans les ordres de grandeur. Nous tentons ici de fournir quelques repères sur l'industrie minière à l'échelle mondiale, et sur les tendances actuelles. 
-## Co-produits, sous-produits
-
-Pour bien comprendre les enjeux de la production des métaux, et en particulier des métaux du numérique, il est important de rappeler que les mines permettent souvent l'extraction de plusieurs métaux. De nombreux métaux du numérique sont ainsi des <b>sous</b>-<b>produits</b>  d'autres métaux, c'est-à-dire qu'ils sont récupérés lors du traitement de ces autres métaux. Par exemple, le gallium est un sous-produit de l'aluminium. En d'autres termes, ces métaux n'influencent que très peu les décisions d'ouverture ou de fermeture des mines.
-
-!!! Source "Précisions et source"
-    
-    > *Le gallium ne forme pas de gisements économiquement exploitables à l’état naturel, et provient en grande majorité de la filière de production d’aluminium (sous-produit du raffinage de la bauxite en alumine).* 
-    
-    Source : [Gallium (Ga). Mineral info](https://www.mineralinfo.fr/fr/substance/gallium-ga)
-       
-       Dans le cas général, on trouve une liste des métaux du système périodique qui sont principalement obtenus comme des sous-produits dans la Figure 1 du papier [*Article By-product metals are technologically essential but have problematic supply*, NT Nassar, 2015](https://www.science.org/doi/10.1126/sciadv.1400180). Parmi ces métaux on trouve un grand nombre de métaux présents dans les smartphones, comme le cobalt, le germanium, le zirconium, l'indium, les terres rares...
-       
-      <figure markdown="span">
-           <a href="./img/by-products.png"> <img src="./img/by-products.png" width="linewidth"/></a>
-        </figure>
-
-    La figure 2 du même papier décrit plus précisément les relations de dépendance entre métaux, et en particulier quel métal est un sous-produit de quel autre.
-
-    <figure markdown="span">
-           <a href="./img/metal-companionality.png"> <img src="./img/metal-companionality.png" width="500"/></a>
-        </figure>
 
 ## Évolution de la teneur des minerais
 

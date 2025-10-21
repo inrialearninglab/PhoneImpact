@@ -16,6 +16,14 @@
 
 ## Reliquats de texte
 
+!!! Source ""
+	<figure markdown="span">
+	<a href="./img/smartphone-demonte.png"> <img src="./img/smartphone-demonte.png" width="linewidth"/></a>
+	*Principaux composants d'un smartphone*<br>
+	*CC-BY-NC Jacques Combaz*
+	</figure>
+
+
 Commençons par quelques définitions. Un <b>métal</b> est soit l’un des éléments du système périodique, soit un alliage de plusieurs éléments. Par contre, tous les éléments chimiques ne sont pas des métaux (ex. l'oxygène).
 
 Un <b>minéral</b> est une substance inorganique (contrairement par exemple à un végétal) caractérisée par sa composition chimique et une structure cristalline.
@@ -30,6 +38,10 @@ Notions géologiques et physiques
 
 **Autres matières** (ex. céramique, plastique, matières synthétiques, verre) : en plus des métaux, les smartphones contiennent d'autres matières comme du verre et du plastique pour l'écran, la coque, les circuits imprimés contenus dans la carte mère...
 
+!!! Source ""
+	<figure markdown="span"><a href="./img/matieres-smartphone.png"> <img src="./img/matieres-smartphone.png" width="300"/></a><br>
+	*Source : https://doi.org/10.1016/j.resourpol.2020.101750*
+	</figure>
 
 
 ## Propriétés recherchées pour les métaux d'un smartphone
