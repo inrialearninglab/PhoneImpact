@@ -9,7 +9,9 @@
 
 Votre smartphone à fabriquer est représenté par un Plateau Smartphone constitué de 4 composants : **Coque**, **Carte mère**, **Batterie** et **Écran tactile**. La fabrication d'un composant rapporte des points, indiqués sur le plateau à côté de son nom.
 
-Chaque composant est fabriqué à partir de **ressources** qui correspondent à différents **types de ressources** (Métaux communs, Métaux précieux, Terres rares, Autres métaux et Autres matières). Les chiffres associés à chaque ressource indiquent le **nombre** de ressources nécessaires pour **fabriquer** chaque composant.
+Chaque composant est fabriqué à partir de **ressources** qui correspondent à différents **types de ressources** (Métaux communs, Métaux précieux, Terres rares, Autres métaux et Autres matières). Les chiffres dans les cadres rouges indiquent combien de ressources sont nécessaires pour fabriquer chaque composant.
+
+Par exemple, pour fabriquer le composant «Carte mère», il faut 2 Métaux communs, 1 Métal précieux, 1 Terre rare, 2 Autres métaux, et 2 autres matières.
 
 !!! note "Remarque"
     - Par souci de simplification, la **carte mère** désigne aussi l'ensemble des composants électroniques associés : processeur, mémoire vive, etc. mais aussi haut-parleurs, caméras, antenne...  
@@ -27,12 +29,9 @@ Pour fabriquer les composants de votre smartphone, vous aurez besoin de **ressou
 </center>
 
 - **Rouge : PolluPlus**
-qui pratique un minage classique, polluant et non responsable.
-- **Orange : PolluMoins**
-qui pratique un minage plus responsable et essaie de prendre en compte les aspects environnementaux et sociaux.      
+- **Orange : PolluMoins** 
 - **Vert : Recycl’**
-  spécialisé dans le recyclage, avec un niveau de pollution qui est beaucoup moins élevé.  
-
+ 
 On distingue **5 types de ressources** nécessaires à la fabrication des composants d'un smartphone :  
 
 <img alt="MetalCommun.png" src="../img/MetalCommun.png" width="100" align="left"/>
@@ -100,7 +99,7 @@ Pour chaque fournisseur, ces cartes indiquent la répartition des différents ty
 </center>
 
 !!! note "Remarque"
-    - Le fabricant Recycl’ (en vert) ne fournit pas de ressource de type **Autres métaux** ou **Terres rares** qui sont des ressources non recyclables.
+    - Le fabricant Recycl’ (en vert) ne fournit pas de ressource de type **Autres métaux** ou **Terres rares** qui sont des ressources pas ou peu recyclées.
     - Les chiffres sont choisis pour favoriser la dynamique de jeu mais ne sont pas représentatifs de la réalité de la production.
 
 ## VI -  Cartes Événement

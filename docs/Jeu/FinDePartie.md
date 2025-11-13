@@ -13,7 +13,6 @@ Une partie de PhoneImpact peut se terminer de **3 manières différentes** :
 ## II - Décompte des points
 
 Calculer votre score en **additionnant** les points (inscrits sur le plateau de jeu) correspondant à chaque **composant construit**.
-
-Un **bonus de 2 points** est attribué à celui ou celle qui a construit le smartphone le plus écoresponsable, c'est-à-dire avec le **plus de cartes Recycl’** parmi celles posées sur le plateau de jeu. En cas d'égalité, **+2 points pour les personnes concernées**.
+La personne qui a la plus de points remporte la partie !
 
 <img alt="illustration1.png" src="../img/illustration1.png" width="300" align="right"/>
