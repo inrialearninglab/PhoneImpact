@@ -38,6 +38,7 @@ Le nombre de cartes Ressources piochées dépend du fournisseur allant du plus p
 #### b. Récupérer des ressources
 
 Une fois le fournisseur choisi, il faut récupérer 1 à 3 ressources parmi les cartes visibles associées au fournisseur et/ou dans la pioche.
+
 - Si vous choisissez PolluPlus, vous pouvez prendre au total 3 cartes visibles ou dans la pioche. 
 
 !!! example "Par exemple"
