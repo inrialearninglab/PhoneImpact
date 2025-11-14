@@ -5,11 +5,11 @@ hide:
 
 # Imprimer ou acheter le jeu
 
-Afin d’en favoriser la diffusion la plus large possible et d’encourager la collaboration avec des partenaires pour toucher d’autres publics, PhoneImpact est accessible en libre téléchargement sous licence CC-BY-SA.
+PhoneImpact est accessible en libre téléchargement sous licence CC-BY-SA afin d’en favoriser la diffusion la plus large possible et d’encourager la collaboration avec des partenaires pour toucher d’autres publics.
 
-**Choisissez entre :**
-
-Télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
+**Pour jouer, vous pouvez obtenir le matériel de deux façons :**
+- soit en téléchargeant gratuitement la version imprimable (Print & Play), puis en l’imprimant (en la plastifiant si vous le souhaitez) et en découpant les éléments.
+- soit en choisissant la version payante en boîte.
 
 !!! Warning
 Préparez-vous ! L’assemblage d’une boîte de jeu en version Print & Play prend au minimum 1 heure (sans plastification).
@@ -30,16 +30,16 @@ Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessai
     Acheter une boîte
 </a>
 
-## I - Version gratuite et imprimable (Print&Play)
+## Option 1 : version gratuite et imprimable (Print&Play)
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
 
 ### Le plateau Smartphone
-<a href="docCommuns/Plateau.pdf"><img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
 
 !!! Warning
 Pour le plateau Smartphone, veillez à en imprimer un exemplaire par joueur.
-[Lien vers le plateau Smartphone à imprimer en 5 exemplaires, recto](docCommuns/Plateau.pdf)
+
+<a href="docCommuns/Plateau.pdf"><img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
 
 ### Les cartes Ressources
 
@@ -53,8 +53,6 @@ Pour le plateau Smartphone, veillez à en imprimer un exemplaire par joueur.
 <img alt="Cartes Synthèse PolluPlus" src="../img/SynthesePolluPlus.jpeg" width="100" align="center"/>
 <img alt="Cartes Synthèse PolluMoins" src="../img/SynthesePolluMoins.jpeg" width="100" align="center"/>
 <img alt="Cartes Synthèse Recycl'" src="../img/SyntheseRecycl.jpeg" width="100" align="center"/></a>
-
-[Lien vers les cartes Synthèse des ressources, à imprimer recto-verso](pnp/recap.pdf)
 
 ### Les cartes Événements et Malus
 
@@ -71,8 +69,11 @@ Pour le plateau Smartphone, veillez à en imprimer un exemplaire par joueur.
 | <a href="docCommuns/LivretDeRegles.pdf"><img alt="LivretDeRegles" src="../img/LivretDeRegles.png" width="150"/></a> | <a href="docCommuns/AideDeJeu.pdf"><img alt="AideDeJeu" src="../img/AideDeJeu.png" width="140" /> </a> |
 | [Imprimer recto-verso](docCommuns/LivretDeRegles.pdf)                                                               | [Imprimer recto](docCommuns/AideDeJeu.pdf)                                                             |
 
-## II - Version payante
-
-Les boîtes sont disponibles à la vente, avec tout le matériel nécessaire : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
+## Option 2 : version payante en boîte
 
 <img alt="VueBoite1.png" src="../img/VueBoite1.png" width=25% />
+
+Les boîtes sont disponibles à la vente : elles contiennent tout le matériel nécessaire pour une expérience de jeu immédiate et clé en main.
+Vous pouvez les commander ici : [achetez une boîte de jeu](https://boutique.inria.ecoessentials.fr/)
+
+Une fois la commande validée, les boîtes sont livrées sous 2 à 3 semaines maximum.
