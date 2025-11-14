@@ -5,12 +5,14 @@ hide:
 
 # Imprimer ou acheter le jeu
 
+Afin d’en favoriser la diffusion la plus large possible et d’encourager la collaboration avec des partenaires pour toucher d’autres publics, PhoneImpact est accessible en libre téléchargement sous licence CC-BY-SA.
+
 **Choisissez entre :**
 
 Télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
 
 !!! Warning
-    Pour le plateau Smartphone, veillez à en imprimer un exemplaire par joueur.
+Préparez-vous ! L’assemblage d’une boîte de jeu en version Print & Play prend au minimum 1 heure (sans plastification).
 
 <div style="display: flex;gap: 1rem;">
     <a href="pnp/cards.zip" class="card-button">
@@ -22,8 +24,6 @@ Télécharger gratuitement puis imprimer, plastifier éventuellement, et découp
     </a>
 </div>
 
-
-
 Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
 
 <a href="https://boutique.inria.ecoessentials.fr/" class="card-button">
@@ -34,12 +34,11 @@ Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessai
 
 Vous trouverez dans cette page les liens de téléchargement pour imprimer votre propre version du jeu. Nous vous conseillons si possible d'imprimer en couleur et, si vous en avez la possibilité, de plastifier les éléments du jeu (plateaux et cartes).
 
-!!! Warning
-    Préparez-vous ! L’assemblage d’une boîte de jeu en version Print & Play prend au minimum 1 heure (sans plastification).
-
 ### Le plateau Smartphone
 <a href="docCommuns/Plateau.pdf"><img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
 
+!!! Warning
+Pour le plateau Smartphone, veillez à en imprimer un exemplaire par joueur.
 [Lien vers le plateau Smartphone à imprimer en 5 exemplaires, recto](docCommuns/Plateau.pdf)
 
 ### Les cartes Ressources
