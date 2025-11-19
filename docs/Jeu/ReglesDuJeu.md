@@ -23,6 +23,8 @@ La pile des **cartes Événements** est placée devant le ou la **Joueur·euse 1
 Les joueur·euses jouent à **tour de rôle**, dans le sens **horaire**.
 À son tour, **une des trois actions suivantes est possible** (passer son tour n’est pas autorisé) :
 
+<img alt="AideDeJeu.png" src="../img/illustration2.png" width="170" align="right"/>
+
 * **S’approvisionner**
 * **Fabriquer**
 * **Dépolluer**
@@ -63,6 +65,8 @@ Les cartes Ressources sont secrètes donc vous devez les garder en main.
 
 Selon le fournisseur choisi, vous piocherez également des cartes Malus que vous lirez à haute voix.
 
+<img alt="carteMalusVerso.png" src="../img/illustration2.png" width="170" align="right"/>
+
 Ces cartes représentent les conséquences environnementales de vos décisions.
 Vous piocherez 2 Malus pour PolluPlus, 1 Malus pour PolluMoins et aucun Malus pour Recycl'.
 
@@ -94,6 +98,8 @@ Défaussez **1 à 2 cartes Malus** de votre main. Ces cartes ne sont pas remises
 En cas de doute sur les 3 actions possibles, référez-vous à la carte **Aide de jeu**.
 
 ##  IV -  Fin de tour de jeu
+
+<img alt="cartesEvenement.png" src="../img/illustration2.png" width="170" align="right"/>
 
 À la fin de chaque tour de jeu, le ou la **Joueur·euse 1** tire une **carte Événements** qui affectera l’ensemble des joueur·euses. Lire son contenu et suivre les instructions.
 

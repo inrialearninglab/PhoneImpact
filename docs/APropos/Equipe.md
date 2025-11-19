@@ -21,4 +21,4 @@ Ce jeu est une oeuvre collective. De nombreuses personnes ont participé à ce p
 Nous remercions [Suzon Beaussant](https://www.linkedin.com/in/suzon-beaussant/) ([Evolud'](https://evolud.fr/)- Serious Game Designer) qui nous accompagné dans la phase de conception du jeu ainsi que le Service STIP Inria Grenoble qui nous a soutenu tout le long du projet.
 Nous remercions également [Guilain Praseuth](https://www.linkedin.com/in/gpraseuth/) (Responsable projet innovation pédagogique, TBS Education) pour la traduction anglaise du jeu.
 
-PhoneImpact a été soutenu par le [**Ministère de la Culture**](https://www.linkedin.com/company/ministeredelaculture/posts/?feedView=all) qui a financé des boîtes de jeu à destination des bibliothèques et médiathèques.
+PhoneImpact a été soutenu par le [Ministère de la Culture](https://www.linkedin.com/company/ministeredelaculture/posts/?feedView=all) qui a financé des boîtes de jeu à destination des bibliothèques et médiathèques.

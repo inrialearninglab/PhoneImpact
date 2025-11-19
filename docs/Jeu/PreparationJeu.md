@@ -1,10 +1,16 @@
 # Mise en place
 
+<center>
+<img alt="TableDeJeu.png" src="../img/TableDeJeuV2.png" width="550"/>  
+
+Exemple d'une mise en place à 4 joueur.euses
+</center>
+
 ## Étape 1 - se procurer le jeu 
 
 Pour cela, vous avez deux possibilités :
-- soit vous avez une boite de jeu
-- soit vous avez imprimé et découpé votre propre version du jeu depuis le portail web
+- soit vous avez une boite de jeu  
+- soit vous avez imprimé et découpé votre propre version du jeu depuis le portail web  
 
 Commencez par placer les plateaux “Smartphone” autour de la table, un plateau par joueur.
 
@@ -55,9 +61,3 @@ Puis déposez la pioche Événements, face cachée, sur la table.
 Une **Aide de jeu** est placée au centre de la table, à disposition de tous les joueur·euses  <span style="color: #7F88E6; font-weight: bold; border: 1.5px solid #7F88E6; border-radius: 50%; padding: 1px 4px; display: inline-flex; align-items: center; justify-content: center; font-size: 12px; line-height: 1;">9</span>     .
 
 À vous de jouer !
-
-<center>
-<img alt="TableDeJeu.png" src="../img/TableDeJeuV2.png" width="550"/>  
-_Exemple d'une mise en place à 4 joueur.euses_
-</center>
-
