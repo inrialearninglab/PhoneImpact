@@ -1,14 +1,15 @@
 # Mise en place
 
 <center>
+Exemple d'une mise en place à 4 joueur.euses
+
 <img alt="TableDeJeu.png" src="../img/TableDeJeuV2.png" width="550"/>  
 
-Exemple d'une mise en place à 4 joueur.euses
 </center>
 
 ## Étape 1 - se procurer le jeu 
 
-Pour cela, vous avez deux possibilités :
+Pour cela, vous avez deux possibilités :  
 - soit vous avez une boite de jeu  
 - soit vous avez imprimé et découpé votre propre version du jeu depuis le portail web  
 
