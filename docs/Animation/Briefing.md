@@ -1,169 +1,160 @@
 ---
 toc_depth: 2
 ---
-# Brief 20' : introduire l’activité
+# Brief 20' : introduire l’atelier
 
-Le brief a pour objectif d'aligner les attentes des participants et de poser les bases du jeu. Il sert à présenter le contexte, les règles et les objectifs du jeu.
+Le brief a pour objectif d'aligner les attentes des participant·es et de poser les bases du jeu. Il permet de présenter le contexte, les règles et les objectifs de l'atelier.
 
 !!! tip "Ceci est une proposition de brief !"
-    Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueur·euses), avec ou sans expert·e pour présenter les aspects théoriques.
-    Sans expert·e, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
+    Nous avons testé cette version à de nombreuses reprises auprès de lycéen·nes (plusieurs tables de jeu de 3 à 5 joueur·euses), avec ou sans intervention d’un·e expert·e pour présenter les aspects théoriques.
+    En l’absence d’expert·e, vous pouvez vous appuyer sur les ressources pédagogiques mises à votre disposition.
     
-     Libre à vous d'adapter le Brief en fonction de votre public.
+     Libre à vous d'adapter ce brief selon votre public et le niveau de connaissances attendu. 
 
 !!! info "Matériel utile pour le brief"
-    Tout d'abord, il existe un kakemono de brief sur lequel vous pourrez vous appuyer pendant cette phase. Si vous n'avez pas pu imprimer le kakemono, vous pouvez imprimer les illustrations séparément.
+    Un kakémono de brief est disponible pour vous accompagner dans cette phase d'introduction. Si vous ne disposez pas du kakémono imprimé, vous pouvez utiliser les illustrations séparées.
 
-    - les kakemonos sont disponibles sur la page [🧑‍🏫 Animer / Matériel pédagogique / Kakemonos](./MaterielPedagogique/Kakemonos.md)
-    - les illustrations sont disponibles sur la page [🧑‍🏫 Animer / Matériel pédagogique / Illustrations pour l'animation du jeu](./MaterielPedagogique/Illustrations.md)
-
+    - lien vers les kakémonos : [🧑‍🏫 Animer / Matériel pédagogique / Kakemonos](./MaterielPedagogique/Kakemonos.md)
+    - lien vers les illustrations : [🧑‍🏫 Animer / Matériel pédagogique / Illustrations pour l'animation du jeu](./MaterielPedagogique/Illustrations.md)
 
 ## I - Questions de partage de connaissances
-Le kakemono de brief est caché dans un premier temps.
+Dans un premier temps, le kakémono de brief reste caché.
 
-Pour commencer l'atelier, vous pouvez poser quelques questions qui permettent d'introduire les métaux et ressources nécessaires à la fabrication d’un smartphone.
+Pour commencer l'atelier, vous pouvez poser quelques questions introductives afin d'ouvrir la réflexion sur  les métaux et ressources nécessaires à la fabrication d’un smartphone.
 
 *De quoi est constitué un smartphone ?*
 !!! note "Réponse"
-    Un smartphone est principalement constitué de métaux (45%), de verre (32%) et de matières plastiques (17%).
+    Principalement de métaux (45%), de verre (32%) et de matières plastiques (17%).
 
 *Savez-vous combien de métaux il y a dans un smartphone ?*
 !!! note "Réponse"
-    Plus de 50 métaux (contre une dizaine dans les téléphones fixes des années 1950).
+    Plus de 50 métaux différents (contre une dizaine dans les téléphones fixes des années 1950).
     
-    Une condition pour avoir toutes les fonctionnalités (camera, vibreur, téléphone, applications, GPS...) et tout ça miniaturisé.
+    Cette diversité est nécessaire pour assurer toutes les fonctionnalités attendues (caméra, vibreur, téléphone, applications, GPS...) dans un format miniaturisé.
 
-*A votre avis, quels sont les métaux présents dans le smartphone ?*
+*À votre avis, quels sont les métaux présents dans un smartphone ?*
 !!! note "Réponse"
-    Vous pouvez maintenant retourner le kakemono ou montrer les illustrations (format papier ou projetée)  
+    Vous pouvez maintenant retourner le kakémono ou montrer les illustrations (imprimées ou projetées). 
 
-    - Montrer l'illustration "[les éléments chimiques contenus dans un smartphone](./MaterielPedagogique/Illustrations/smartphone_demonte.png)" : « *Voici un schéma avec pour chaque composant du smartphone les éléments chimiques qu’on y trouve.* ».
-    - Lister et montrer les 4 composants du smartphone : l'écran=vitre et dalle, la batterie, la carte mère, la coque.
+    - Montrer l'illustration "[les éléments chimiques contenus dans un smartphone](./MaterielPedagogique/Illustrations/smartphone_demonte.png)" : « *Voici un schéma présentant les différents composants du smartphone et les éléments chimiques qu’ils contiennent.* ».
+    - Lister et montrer les 4 composants principaux du smartphone : l'écran = vitre + dalle tactile, la batterie, la carte mère et la coque.
     
 
 ## II - Activité de découverte : de quoi est constitué un smartphone ?
 
-Objectif : sensibiliser les participants aux composants d’un smartphone et aux matériaux nécessaires pour sa fabrication.
+Objectif : sensibiliser les participant·es aux différents composants d’un smartphone et aux matériaux nécessaires à leur fabrication.
 
 Si vous disposez de vieux smartphones, invitez les joueur·euses à les manipuler (un smartphone par table).
-Sinon, utilisez les schémas imprimés ou projetés pour observer les composants "[les éléments chimiques contenus dans un smartphone](./MaterielPedagogique/Illustrations/smartphone_demonte.png)".
+Sinon, utilisez les schémas imprimés ou projetés, notamment l’illustration "[les éléments chimiques contenus dans un smartphone](./MaterielPedagogique/Illustrations/smartphone_demonte.png)".
 
 <a href="./MaterielPedagogique/Illustrations/smartphone_demonte.png"> "<img src="./MaterielPedagogique/Illustrations/smartphone_demonte.png" width="400"/></a>
 
-Après une phase d'observation ou manipulation d'un smartphone démonté, vous pouvez poser quesques questions.
+Après cette phase d’observation ou de manipulation, vous pouvez poser quelques questions.
 
-*Où se trouve la batterie ? La caméra ? La carte mère ? ...*
+*Où se trouvent : la batterie ? La caméra ? La carte mère ? ...*
 !!! note "Réponse"
-    Montrer où sont situés ces éléments
+    Montrer où sont situés ces éléments sur le smartphone démonté ou sur le schéma.
 
-*Où sont les métaux?*
+*Où sont les métaux ?*
 !!! note "Réponse"
-    - Montrer où sont les métaux
-    - En gros, ce qui est doré ou argenté
+    - Montrer les zones où se trouvent les métaux.
+    - En règle générale, il s’agit de ce qui apparaît en doré ou en argenté dans les composants électroniques.
 
 !!! note "Quelques explications"
-    Voilà à quoi ressemble l'intérieur d'un smartphone.  
-    Vous voyez apparaître la batterie, et de nombreux composants électroniques qui sont rassemblés sur ce qu'on appelle la carte mère.  
-    Si on enlève la carte mère et la batterie, on voit qu'il reste encore quelques éléments attachés à l'écran tactile, le haut-parleur etc.  
-    Pour simplifier, on a quatre composants : la coque, la batterie, la carte mère et l'écran tactile. Dans le jeu PhoneImpact, on a regroupé les composants à peu près de cette manière.
+    Voici à quoi ressemble l'intérieur d'un smartphone : on distingue la batterie, ainsi qu’un ensemble de composants électroniques regroupés sur ce qu'on appelle : la carte mère.  
+    Si on enlève la carte mère et la batterie, on voit qu'il reste encore divers éléments fixés à l'écran tactile, le haut-parleur... etc.  
+    Pour simplifier, on peut retenir quatre principaux composants d'un smartphone : la coque, la batterie, la carte mère et l'écran tactile. Dans le jeu PhoneImpact, on a regroupé les composants à peu près de cette manière.
 
-    En ce qui concerne les matériaux qui constituent le smartphone, on voit : du verre pour l'écran, du plastique pour la coque, un certain nombre d'autres matières synthétiques, et puis des métaux, qu'on voit en particulier au niveau des composants électroniques.   
-    Ce qu'on ne voit pas à l'oeil nu, c'est qu'il y a une très grande diversité de métaux dans un smartphone.
+    Concernant les matériaux, on observe : du verre pour l'écran, du plastique pour la coque, diverses matières synthétiques, et puis des métaux, qu'on voit en particulier au niveau des composants électroniques.   
+    Ce que l’œil ne perçoit pas, en revanche, c’est la grande diversité de métaux présents dans un smartphone.
 
-    Vous reconnaissez peut-être ici le tableau périodique des éléments. Cette illustration montre la présence d'un grand nombre d'éléments chimiques dans les smartphones, et en particulier de métaux : fer, cuivre, cobalt, etc.
+    L’illustration du tableau périodique associée au smartphone montre la variété des éléments chimiques et en particulier de métaux : fer, cuivre, cobalt, etc.
 
-    On a du mal à connaître la composition précise des smartphones, et  il y a des variations en fonction des modèles, mais ce qu'on peut retenir c'est qu'il y en a plus d'une cinquantaine, et souvent en très petite quantité à part pour les métaux communs comme le fer ou l'aluminium.  
-    La raison de cette diversité est que les métaux ont de nombreux usages très spécifiques, par exemple en lien avec des propriétés de conductivité électrique, de résistance à la corrosion etc.
+    Il existe des variations selon les modèles et les fabricants, et la composition exacte est difficile à connaître. Mais on peut retenir qu’un smartphone contient plus d’une cinquantaine de métaux, dont la plupart en très petites quantités, à l’exception des métaux communs comme le fer ou l’aluminium.  
+    Cette diversité s’explique par les propriétés spécifiques de chaque métal : conductivité électrique, résistance à la corrosion... etc.
 
-
-
-!!! abstract "Ressources utiles pour vous former"
+!!! abstract Ressources utiles pour se former, rédigées par des expert·es scientifiques, sont issues du Mooc « Impacts environnementaux du numérique » (ImpactNum) :
     - [Fiche concept "Quels métaux dans les smartphones ?" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html)
     - [Activité pédagogique "Autopsie d'un smartphone" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_3_Mesurer2/story.html)
 
-## III - Classement des métaux en 4 catégories
-Montrer les catégories sur le kakemono de brief. Sinon, vous pouvez montrer les logos des matières avec les cartes Ressources du jeu.
+## III - Classement des métaux en quatre catégories
+Montrer les catégories de métaux à l'aide du kakémono de brief. Si vous ne l’avez pas, utilisez les logos des matières présents sur les cartes Ressources du jeu.
 
 Pour les besoins du jeu, les métaux ont été classés selon 4 catégories :  
 
 -	![Logo Métaux communs](/assets/icons/MetauxCommuns.png){ width="50" } Les **Métaux communs** (fer, nickel, aluminium,...) qui sont aussi appelés métaux de base dans l'industrie et qui sont les plus fréquemment utilisés.
--	![Logo Métaux précieux](/assets/icons/MetauxPrecieux.png){ width="50" } Les **Métaux précieux** (or, argent, platine,...) : ce sont des métaux qui sont rares, c'est à dire très peu abondants dans la croûte terrestre, mais surtout de grande valeur économique. Ils sont utilisés pour leur conductivité et leur résistance à la corrosion.
--	![Logo Terres rares](/assets/icons/TerresRares.png){ width="50" } Les **Terres rares** (neodyme, yttrium,...) qui ne sont pas rares mais difficiles à extraire car présentes en très faible quantité. Elles sont utilisées pour fabriquer les aimants dans les vibreurs et colorer les LED des écrans.
--	![Logo Autres Métaux](/assets/icons/AutresMetaux.png){ width="50" } les **Autres métaux** (cobalt, lithium, tantale) : qui sont
-très nombreux et sont utilisés pour des usages très diversifiés.
+-	![Logo Métaux précieux](/assets/icons/MetauxPrecieux.png){ width="50" } Les **Métaux précieux** (or, argent, platine,...) : ce sont des métaux qui sont rares, c'est-à-dire très peu abondants dans la croûte terrestre, mais surtout de grande valeur économique. On les utilise notamment pour leur conductivité et leur résistance à la corrosion.
+-	![Logo Terres rares](/assets/icons/TerresRares.png){ width="50" } Les **Terres rares** (neodyme, yttrium,...) qui ne sont pas rares mais difficiles à extraire car présentes en très faible quantité. Ils servent par exemple à fabriquer les aimants dans les vibreurs et colorer les LED des écrans.
+-	![Logo Autres Métaux](/assets/icons/AutresMetaux.png){ width="50" } les **Autres métaux** (cobalt, lithium, tantale) : qui sont très nombreux et sont utilisés pour des usages très diversifiés.
 
-![Logo Autres matières](/assets/icons/AutresMatieres.png){ width="50" } Il y aussi en plus de ces métaux les **Autres matières** qui représentent de 40 à 70% du poids du smartphone (ex. céramique, plastique, matières synthétiques, verre).
+![Logo Autres matières](/assets/icons/AutresMatieres.png){ width="50" } En plus des métaux, un smartphone contient également de nombreuses **Autres matières** qui représentent de 40 à 70% du poids du smartphone (ex. céramique, plastique, matières synthétiques, verre).
 
 !!! warning "Précision importante"
-    Dans le jeu PhoneImpact, le pourcentage de cartes nécessaires pour les composants n'est pas représentatif du poids réel des ressources d'un smartphone ni de la quantité de matière mais permet de symboliser la variété des ressources nécessaires.
+    Dans PhoneImpact, la quantité de cartes Ressources nécessaires pour fabriquer les composants ne reflète ni le poids réel des matériaux ni leur quantité exacte dans un smartphone.
+    Ce système sert avant tout à illustrer la diversité des ressources nécessaires à sa fabrication.
 
-!!! abstract "Ressources utiles pour vous former"
+!!! abstract "Ressources utiles pour se former"
     [Définition simplifiée des catégories de métaux](./MaterielPedagogique/Definition_simple_categories_metaux.md).
 
 ## IV - Un exemple de mine à ciel ouvert
 
-Vous pouvez montrer la photo de la **[mine de cuivre de Palabora en Afrique du Sud](./MaterielPedagogique/Illustrations/MineCuivrePalabora.jpg)** : la plus grande mine à ciel ouvert et le plus grand trou artificiel au monde avec 2 000 mètres de diamètre et 762 mètres de profondeur. 
+Vous pouvez montrer la photo de la **[mine de cuivre de Palabora en Afrique du Sud](./MaterielPedagogique/Illustrations/MineCuivrePalabora.jpg)** : il s'agit de la plus grande mine à ciel ouvert et le plus grand trou artificiel au monde avec 2 000 mètres de diamètre et 762 mètres de profondeur. 
 
 <a href="./MaterielPedagogique/Illustrations/MineCuivrePalabora.jpg"> "<img src="./MaterielPedagogique/Illustrations/MineCuivrePalabora.jpg" width="400"/></a>
 
-La partie gauche montre un montage photo qui visualise la quantité de métal produite au final avec le minerai extrait de la mine.  On devine des installations industrielles à gauche et à l'arrière de l'entonnoir. On peut voir également un éboulement sur la gauche de la cavité.
+À gauche : un montage photo qui illustre la quantité de métal réellement obtenue à partir du minerai extrait de la mine. On distingue également des installations industrielles ainsi qu'un éboulement sur le côté gauche de la cavité.
 
-Sur la partie droite, on voit une photo aérienne de la même mine, qui permet de se rendre compte de la surface au sol qu'elle occupe, qui pose aussi parfois des problèmes.
+À droite : une vue aérienne de la même mine, qui permet de se rendre compte de la surface au sol qu'elle occupe, qui pose aussi parfois des problèmes.
 
 ## V - Exposé : les différentes étapes de l'extraction minière
 
-Si vous avez le temps et du matériel, vous pouvez projeter la vidéo sur l’exploitation minière à ciel ouvert produit au Québec accessible sur YouTube ([lien vers la vidéo](https://www.youtube.com/watch?v=GxLTtltXWtA), vous pouvez couper à 3'30''), qui est très éclairante.
+Si vous disposez du temps et du matériel nécessaires, vous pouvez projeter la vidéo sur l’exploitation minière à ciel ouvert produit au Québec et disponible sur YouTube ([lien vers la vidéo](https://www.youtube.com/watch?v=GxLTtltXWtA), vous pouvez couper à 3'30'').
 
-Montrer et commenter le [schéma des étapes de l’extraction minière et du recyclage](./MaterielPedagogique/Illustrations/etapes_extraction_mine.png).
+Ensuite, montrez et commentez le [schéma des étapes de l’extraction minière et du recyclage](./MaterielPedagogique/Illustrations/etapes_extraction_mine.png).
 
 <a href="./MaterielPedagogique/Illustrations/etapes_extraction_mine.png"> "<img src="./MaterielPedagogique/Illustrations/etapes_extraction_mine.png" width="400"/></a>
 
 *Source : Galin, Rémi & URIEN, Pol & CHARLES, Nicolas & Bailly, Laurent. (2017). Tome 3 - Projet minier et parties-prenantes.*
 
-Les méthodes d'extraction et de séparation des métaux en général font appel à des procédés complexes, énergivores et très polluants : rejets d'acides, de bases, de solvants, de métaux lourds ou de déchets radioactifs. En plus, ces processus requièrent de grandes quantités d'eau. C'est ce que nous verrons dans la phase de jeu.
-
-Montrer et commenter le schéma des étapes de l’extraction minière et du recyclage 
-
+Commentez les différentes phases représentées :
 - Les grandes étapes : mines (à ciel ouvert ou souterraines) > extraction > prétraitement > affinage > résidus et métaux
-- Recyclage dans le schéma
+- Recyclage dans le schéma.
 - Ces étapes nécessitent beaucoup d'eau et d'énergie.
 
-
 !!! abstract "Ressources utiles pour vous former"
-    Vous trouverez des ressources et des bibliographies pour vous former dans la Partie ["Ressources"](./docs/Ressources/Introduction.md).
-
+    Vous trouverez des compléments, documents et bibliographies dans la section ["Ressources"](./docs/Ressources/Introduction.md) pour approfondir ces notions.
 
 ## VI - Expliquer les règles du jeu
 
-!!! exemple "Ceci est une proposition de pitch !"
-    Dans cette partie, nous vous proposons un texte pour **expliquer simplement les règles du jeu aux joueur·euses**. Nous l'avons testé sur différents publics. Nous supposons que vous avez le jeu devant vous et que vous montrez les éléments de jeu au fur et à mesure.
+!!! exemple "Ceci est une proposition de pitch"
+    Vous trouverez ci-dessous un texte qui permet d’**expliquer simplement les règles du jeu**. Il a été testé auprès de publics variés. Nous supposons que vous avez le jeu devant vous et que vous montrez les éléments au fur et à mesure.
 
-     Libre à vous de l'adapter en fonction de votre public. Par exemple, il faudra peut-être décrire différemment les règles avec des personnes qui n'ont pas l'habitude de jouer à des jeux de société.
+     Libre à vous de l'adapter en fonction de votre public, en particulier si les personnes ne sont pas familières avec les jeux de société.
 
 ### Introduction du jeu
 
-Dans ce jeu, vous habitez la ville TechCity et vous incarnez un·e fabricant·e de smartphones et votre objectif est de fabriquer un smartphone tout en minimisant votre impact environnemental. Tout au long de la partie, vous devrez faire des choix stratégiques, mais attention car ces choix auront des conséquences.
+Dans ce jeu, vous habitez la ville TechCity et vous incarnez un·e fabricant·e de smartphones. Votre objectif est de fabriquer un smartphone tout en minimisant votre impact environnemental. Tout au long de la partie, vous devrez faire des choix stratégiques... mais attention : chaque choix a des conséquences.
 
-Vous avez chacun un plateau smartphone devant vous composé de : l’écran tactile (dalle et vitre), la batterie, la coque, la carte mère.
+Chaque joueur·euse dispose d’un plateau smartphone composé de : l’écran tactile (dalle et vitre), la batterie, la coque et de la carte mère.
 
 <center>
 <img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="200"/>
 </center>
 
-Chaque composant est fabriqué à partir de **ressources** qui correspondent à différents **types de ressources** (Métaux communs, Métaux précieux, Terres rares, Autres métaux et Autres matières). Les chiffres dans les cadres rouges indiquent combien de ressources sont nécessaires pour fabriquer chaque composant.
+Chaque composant est fabriqué à partir de **ressources** qui correspondent à différents **types de ressources** (Métaux communs, Métaux précieux, Terres rares, Autres métaux et Autres matières). Les chiffres indiqués dans les cadres rouges correspondent au nombre de cartes Ressources nécessaires pour fabriquer chaque composant.
 
-!!! example "Par exemple"
-    Pour fabriquer le composant « Carte mère », il faut 2 Métaux communs, 1 Métal précieux, 1 Terre rare, 2 Autres métaux, et 2 autres matières.
+!!! example "Exemple"
+    Pour fabriquer la « carte mère », il faut : 2 Métaux communs, 1 Métal précieux, 1 Terre rare, 2 Autres métaux, et 2 autres matières.
 
 Le but du jeu est de gagner le maximum de points en fabriquant les composants de votre smartphone. 
 
-A savoir que chaque composant rapporte un certain nombre de points, indiqué sur le plateau à côté du nom.
+Les points sont indiqués sur votre plateau, à côté du nom.
 
-!!! example "Par exemple"
+!!! example "Exemple"
     La carte mère rapporte 10 points.
 
 ### Les 3 fournisseurs
-Pour  fabriquer vos composants, il vous faudra acquérir des ressources. Pour cela, vous aurez le choix entre trois fournisseurs :
+Pour fabriquer vos composants, vous devrez acquérir des cartes Ressources. Pour cela, vous aurez le choix entre trois fournisseurs :
 
   <center>
 <img alt="cartePlluPlus.jpg" src="../img/cartePlluPlus.jpg" width="100" align="center"/>
@@ -171,86 +162,84 @@ Pour  fabriquer vos composants, il vous faudra acquérir des ressources. Pour ce
 <img alt="carteRecycl.jpg" src="../img/carteRecycl.jpg" width="100" align="center"/>
 </center>
 
-- PolluPlus en rouge qui fait du minage polluant non responsable,
-- PolluMoins en orange qui fait du minage avec quelques efforts pour moins polluer,
-- Recycl' en vert spécialisé dans le recyclage
+- PolluPlus (rouge) : minage très polluant, non responsable
+- PolluMoins (orange) : minage avec quelques efforts pour moins polluer
+- Recycl' (vert) spécialisé dans le recyclage
 
-A noter que chez le fournisseur Recycl’, vous ne trouverez ni terres rares, ni Autres métaux, qui sont peu ou pas recyclés.
+À noter : chez Recycl’, vous ne trouverez ni Terres rares, ni Autres métaux, car ces métaux sont peu ou pas recyclés aujourd’hui.
 
-Les conséquences environnementales associées à la production de ressources varient en fonction des fournisseurs. Vos choix d’approvisionnement auront donc des répercussions directes sur votre impact environnemental.
-
+Les conséquences environnementales associées à la production de ressources varient en fonction des fournisseurs. Vos choix d’approvisionnement auront donc des répercussions directes sur votre impact environnemental !
 
 ### Déroulement du jeu
 Le jeu se déroule en plusieurs étapes, vous jouez à tour de rôle dans le sens des aiguilles d’une montre.
 
-À chaque **tour de jeu**, vous pouvez faire une seule de ces 3 actions suivantes : 
+À chaque tour de jeu, vous pouvez faire **1 seule de ces 3 actions** : 1- s'approvisionner, 2- fabriquer un composant, 3- dépolluer.
 
-- **Vous approvisionner** : pour cela, vous devez d’abord choisir un fournisseur parmi PolluPlus, Pollumoins ou Recycl’. Le nombre de ressources que vous pouvez acquérir dépend du fournisseur choisi :  
-    - Si vous choisissez **PolluPlus**, vous pouvez prendre au total 3 cartes visibles ou dans la pioche. Par exemple 2 cartes visibles et 1 dans la pioche. Une fois que vous avez pris vos cartes, vous remplacez les emplacements vides par de nouvelles cartes.
-    - Si vous choisissez **PolluMoins**, c’est le même principe, mais vous ne prenez que 2 cartes au total. 
-    - Si vous choisissez **Recycl'**, vous ne prenez qu’une seule carte, visible ou dans la pioche. 
-
+- **1- S'approvisionner** : choisir un fournisseur parmi PolluPlus, Pollumoins ou Recycl’. Le nombre de ressources que vous pouvez acquérir dépend du fournisseur choisi :  
+    - Chez **PolluPlus** → vous prenez au total 3 cartes (visibles ou dans la pioche). Par exemple 2 cartes visibles et 1 dans la pioche. Une fois que vous avez pris vos cartes, vous remplacez les emplacements vides par de nouvelles cartes.
+    - Chez **PolluMoins** → vous prenez 2 cartes au total (visibles ou dans la pioche). 
+    - Chez **Recycl'** → vous prenez 1 seule carte (visible ou dans la pioche).
 
 <center>
 <img alt="Fournisseurs.png" src="../img/Fournisseurs.png" width="200"/>
 </center>
 
-
 Les cartes Ressources sont secrètes donc vous devez les garder en main.
 
-Selon le fournisseur choisi, vous piocherez également des cartes Malus que vous lirez à haute voix. Ces cartes représentent les conséquences environnementales de vos décisions.
+Selon le fournisseur, vous devez piocher des cartes Malus, à lire à haute voix.
 <center>
 <img alt="CartesMalus.png" src="../img/CartesMalus.png" width="100"/>
 </center>
 
-Vous piocherez 2 Malus pour PolluPlus, 1 Malus pour PolluMoins et aucun Malus pour Recycl'.
+    - PolluPlus → 2 Malus
+    - PolluMoins → 1 Malus
+    - Recycl’ → 0 Malus
 
-- **Fabriquer un composant** : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué. Le nombre de ressources nécessaires est indiqué sur le plateau pour chaque composant.  
+Ces cartes représentent les conséquences environnementales de vos décisions.
+
+- **2- Fabriquer un composant** : poser toutes les cartes ressources nécessaires et construire un seul des composants du smartphone. Les cartes ressources sont posées sur le composant fabriqué. Le nombre de ressources nécessaires est indiqué sur le plateau pour chaque composant.  
 La fabrication de ce composant rapporte des points, indiqués sur le plateau à côté de son nom.
-- **Dépolluer** : se défausser de 1 à 2 cartes malus -> ces cartes défaussées ne sont pas remises dans la pioche, elles sont mises de côté.
 
-En cas d’oubli, vous pouvez vous référer à l’aide de jeu :
+- **3- Dépolluer** : se défausser de 1 à 2 cartes Malus. Ces cartes ne retournent pas dans la pioche, elles sont mises de côté.
+
+Vous pouvez toujours vous référer à l’aide de jeu en cas d’oubli :
 <center>
 <img src="../img/AideDeJeu.png" width="200"/>
 </center>
 
-
-**Après chaque tour de table, on tire une carte événement**
+Après chaque tour de table, on tire une carte **Événement**
 
 <center>
 <img alt="CartesEvenement.png" src="../img/CartesEvenement.png" width="100"/>
 </center>
 
-- Elle est valable pour tous les joueur·euses.
-- On lit le contenu de la carte et on effectue l’action qui est décrite, en commençant par
-  la personne ayant le titre Joueur·euse 1 puis dans le sens horaire, sauf contre-indication.
-- Si des cartes ressources visibles sont piochées, elles sont remplacées à la fin de
-  l’événement, une fois que tous les joueur·euses ont effectué leur action.
-- Les cartes ressources ou malus défaussées sont placées dans un tas à part et non remis
-  dans les pioches.
+- Elle s'applique à tout le monde.
+- On lit la carte et on effectue l’action, en commençant par la personne ayant le titre Joueur·euse 1 puis dans le sens horaire, sauf contre-indication.
+- Les cartes visibles piochées sont remplacées à la fin de l’événement (une fois que tous les joueur·euses ont effectué leur action).
+- Les cartes Ressources ou Malus défaussées vont dans un tas séparé, jamais dans les pioches.
 
 ### Conditions de fin de partie
-La partie s’arrête quand :
+La partie s’arrête lorsque l’une des situations suivantes se produit :
 
-- Un·e des joueur·euses a construit son smartphone en entier. On termine le tour de table.
-- La carte Événement “Fin de partie” est tirée. La partie s'arrête.
-- Il n’y a plus de cartes Malus. On termine le tour de table. Si les joueur·euses choisissent l’action S’approvisionner, il est possible de le faire seulement chez Recycl’ (la pioche Malus étant vide).
+- Une personne a fini de fabriquer son smartphone → on termine le tour de table.
+- La carte Événement “Fin de partie” est tirée → la partie s’arrête immédiatement.
+- Il n’y a plus de cartes Malus → on termine le tour de table. Si l’action choisie est « S’approvisionner », il n’est alors possible de le faire que chez Recycl’ (la pioche Malus est vide).
 
 ### Décompte des points
-La personne ayant le plus de points remporte la partie. On compte les points en additionnant les points des composants (inscrits sur le plateau de jeu) construits de son smartphone.
+La personne ayant le plus grand total de points remporte la partie. On additionne les points de chaque composant fabriqué.
 
 ### Qui commence ?
 Pour déterminer qui commence :
 
-1. Si une personne **n'a pas de smartphone**, c'est elle qui commence
-2. Sinon, c'est la personne avec **le smartphone le plus vieux** qui commence
-3. Si vous ne connaissez pas l'âge de vos smartphones, favorisez la personne qui a **un smartphone reconditionné**, ou qui a **récupéré un vieux smartphone**.
-4. Si aucun de ces critères ne vous a permis de vous départager, c'est la personne la **plus jeune** qui commence.
+1. Si une personne **n'a pas de smartphone**, c'est elle qui commence.
+2. Sinon, celle qui a **le smartphone le plus ancien**.
+3. En cas de doute, privilégiez la personne ayant : **un smartphone reconditionné**, ou qui a **récupéré un vieux smartphone**.
+4. Si l’égalité persiste, la personne la **plus jeune** commence.
 
 ## VII - Annoncer le debrief
-Pour qu'ils soient plus attentifs lors de la lecture des carte Malus, vous pouvez proposer aux joueur·euses :  
+Pour capter l'attention lors de la lecture des carte Malus, vous pouvez inviter les joueur·euses à :  
 
-- de noter le numéro des cartes Malus qu'ils n'ont pas compris ou pour lesquels ils ont des questions,
-- d'écouter les cartes Malus lus à haute voix car à la fin de la partie, les contenus seront débriefés,
-- de noter les numéros des cartes Malus les plus marquants (surprise, choc, question),
+- noter le numéro des cartes Malus pas comprises ou qui soulèvent des questions,
+- écouter attentivement la lecture des cartes, car leur contenu sera débriefé à la fin,
+- noter les cartes les plus marquantes (surprise, choc, question...),
 - ...
