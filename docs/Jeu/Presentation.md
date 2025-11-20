@@ -1,4 +1,7 @@
-<h1 style="margin-bottom: 0;">Présentation du jeu PhoneImpact</h1>
+---
+title: Présentation
+---
+# Présentation du jeu PhoneImpact
 
 :fontawesome-solid-users: **Joueur⸱euses: 3 à 5**
 
