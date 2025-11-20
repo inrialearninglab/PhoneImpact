@@ -1,6 +1,6 @@
 # Kakemonos
 
-Vous trouverez ci-dessous, les kakémonos qui vous seront utiles pour l'animation du jeu PhoneImpact :
+Vous trouverez ci-dessous, les kakémonos qui vous seront utiles pour l'animation de PhoneImpact :
 
 ## Présentation
 ![Kakemono de présentation](https://gitlab.inria.fr/learninglab/serious-game/smartphone/-/raw/main/assets/kakemono_Presentation_PhoneImpact.pdf?ref_type=heads)
