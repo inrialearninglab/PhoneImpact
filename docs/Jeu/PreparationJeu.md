@@ -54,10 +54,12 @@ Mélangez la pile constituée puis ajoutez les cartes `1/6` à `6/6` mises de c�
 
 Enfin, déposez la pioche Malus, face cachée, sur la table.
 
-## Étape 3 - les cartes événements
+## Étape 4 - les cartes événements
 
 Placez la pioche **Événements** <span style="color: #7F88E6; font-weight: bold; border: 1.5px solid #7F88E6; border-radius: 50%; padding: 1px 4px; display: inline-flex; align-items: center; justify-content: center; font-size: 12px; line-height: 1;">8</span> , face cachée, sur la table. Les cartes Événements sont classées par ordre croissant au début de la partie (1, 1 bis, 2, ... 14) , avec la carte n°1 en haut de la pile.  
 Puis déposez la pioche Événements, face cachée, sur la table.
+
+## Étape 5 - Aide de jeu
 
 Une **Aide de jeu** est placée au centre de la table, à disposition de tous les joueur·euses  <span style="color: #7F88E6; font-weight: bold; border: 1.5px solid #7F88E6; border-radius: 50%; padding: 1px 4px; display: inline-flex; align-items: center; justify-content: center; font-size: 12px; line-height: 1;">9</span>     .
 
