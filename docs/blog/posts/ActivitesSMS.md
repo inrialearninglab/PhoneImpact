@@ -9,10 +9,10 @@ Découverte par des élèves de seconde d’un des grands thèmes de médiation 
 
 <!-- more -->
 
+<img alt="feru_des_sciences" src="../../../ImagesBlog/SMS1.jpg"style="width: 60%; height: auto;"/>
+
 **37 élèves de seconde en stage** ont été accueillis par _Inria_, dans le cadre d’un programme organisé par la _Faculté des sciences et technologies de l’Université de Lille (laboratoire CRIStAL)_.
 Ces journées ont été coordonnées par _Magda Guennadi_, chargée de communication et de médiation scientifique au centre Inria de l’Université de Lille.
-
-<img alt="feru_des_sciences" src="../../../ImagesBlog/SMS1.jpg"style="width: 60%; height: auto;"/>
 
 Leur première matinée de stage a combiné présentations scientifiques interactives, exposition et jeux de plateau – dont l’incontournable **PhoneImpact** !
 
