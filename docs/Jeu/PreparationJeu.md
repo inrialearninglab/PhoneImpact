@@ -44,7 +44,7 @@ Selon **le nombre de joueur·euses**, sélectionnez les cartes **Malus** de la m
 
 Par exemple, pour une partie à 4 joueurs, sélectionnez les cartes 3+ et 4+
 
-Mélangez la pile constituée puis ajoutez les cartes `1/6` à `6/6` mises de côté par ordre décroissant, de façon à ce que la carte 1/6 soit en haut de la pile.
+Mélangez la pile constituée puis ajoutez sur le dessus le paquet composé des cartes `1/6` à `6/6`, de façon à ce que la carte 1/6 soit en haut de la pile.
 
 !!! note "Récapitulatif"
     | Nombres de joueur·euses          | 3 joueur·euses | 4 joueur·euses | 5 joueur·euses |
