@@ -8,7 +8,6 @@ slug: ADEME-ReductionDechets
 Dans le cadre de la **Semaine européenne de réduction des déchets** organisée par l’**ADEME**, **Rozenn Gibon** (directrice adjointe de la DRASI) et **Thierry Joffredo** (directeur de projets à la DRASI) ont animé cette semaine deux sessions du jeu _PhoneImpact_, destiné à sensibiliser aux impacts environnementaux et sociaux liés à l’extraction des métaux nécessaires à la fabrication des smartphones.
 <!-- more -->
 
-Dans le cadre de la **Semaine européenne de réduction des déchets** organisée par l’**ADEME**, **Rozenn Gibon** (directrice adjointe de la DRASI) et **Thierry Joffredo** (directeur de projets à la DRASI) ont animé cette semaine deux sessions du jeu _PhoneImpact_, destiné à sensibiliser aux impacts environnementaux et sociaux liés à l’extraction des métaux nécessaires à la fabrication des smartphones.
 Une première session a réuni mardi des professeur·es documentalistes, suivie hier d’une seconde rencontre avec des collègues du rectorat de l’Académie de Rennes. Ces deux sessions ont été très appréciées des joueurs et joueuses : apport de connaissances, conscientisation des enjeux, mais aussi plaisir du jeu, de la rencontre et de l'échange...
 
 Ce jeu de plateau est conçu et développé par Inria Learning Lab et des expert·es scientifiques de Inria et s'adresse tout particulièrement (mais pas seulement) aux lycéen·nes et étudiant·es. L’ensemble des ressources du jeu sont disponibles sur le portail PhoneImpact, sous **licence Creative Commons CC-BY-SA 4.0**.
