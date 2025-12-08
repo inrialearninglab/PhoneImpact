@@ -10,7 +10,7 @@ Dans le cadre de la **Semaine européenne de réduction des déchets** organisé
 
 Une première session a réuni mardi des professeur·es documentalistes, suivie hier d’une seconde rencontre avec des collègues du rectorat de l’Académie de Rennes. Ces deux sessions ont été très appréciées des joueurs et joueuses : apport de connaissances, conscientisation des enjeux, mais aussi plaisir du jeu, de la rencontre et de l'échange...
 
-Ce jeu de plateau est conçu et développé par Inria Learning Lab et des expert·es scientifiques de Inria et s'adresse tout particulièrement (mais pas seulement) aux lycéen·nes et étudiant·es. L’ensemble des ressources du jeu sont disponibles sur le portail PhoneImpact, sous **licence Creative Commons CC-BY-SA 4.0**.
+Ce jeu de plateau a été conçu et développé par Inria Learning Lab et des expert·es scientifiques de Inria et s'adresse tout particulièrement (mais pas seulement) aux lycéen·nes et étudiant·es. L’ensemble des ressources du jeu sont disponibles sur le portail PhoneImpact, sous **licence Creative Commons CC-BY-SA 4.0**.
 
 Merci Benjamin Ninassi Madeline Montigny et Nadège Macé pour leur appui.
 
