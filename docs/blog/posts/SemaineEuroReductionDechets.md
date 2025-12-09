@@ -8,7 +8,7 @@ slug: ADEME-ReductionDechets
 Dans le cadre de la **Semaine européenne de réduction des déchets** du 24 au 28 novembre 2025, organisée par l’**ADEME**, _Rozenn Gibon_ (directrice adjointe de la DRASI) et _Thierry Joffredo_ (directeur de projets à la DRASI) ont animé **deux sessions** du jeu _PhoneImpact_, destiné à sensibiliser aux impacts environnementaux et sociaux liés à l’extraction des métaux nécessaires à la fabrication des smartphones.
 <!-- more -->
 
-Une première session a réuni le mardi 25 novembre des professeur·es documentalistes, suivie d’une seconde rencontre avec des collègues du rectorat de l’Académie de Rennes. Ces deux sessions ont été très appréciées des joueurs et joueuses : apport de connaissances, conscientisation des enjeux, mais aussi plaisir du jeu, de la rencontre et de l'échange...
+Une première session a réuni, le mardi 25 novembre, des professeur·es documentalistes, suivie d’une seconde rencontre avec des collègues du rectorat de l’Académie de Rennes. Ces deux sessions ont été très appréciées des joueurs et joueuses : apport de connaissances, conscientisation des enjeux, mais aussi plaisir du jeu, de la rencontre et de l'échange...
 
 Merci à Benjamin Ninassi, Madeline Montigny et Nadège Macé pour leur appui.
 
