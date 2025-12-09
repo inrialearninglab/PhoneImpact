@@ -5,14 +5,12 @@ title: "Semaine européenne de réduction des déchets organisée par l'ADEME"
 description: "Cette semaine, avec Rozenn Gibon (directrice adjointe de la DRASI) et Thierry Joffredo (directeur de projets à la DRASI) dans le cadre de la **semaine européenne de réduction des déchets, organisée par l'ADEME**, ont animé deux sessions de jeu PhoneImpact, pour sensibiliser aux impacts environnementaux et sociaux de l'extraction des métaux pour la fabrication des smartphones."
 slug: ADEME-ReductionDechets
 ---
-Dans le cadre de la **Semaine européenne de réduction des déchets** organisée par l’**ADEME**, _Rozenn Gibon_ (directrice adjointe de la DRASI) et _Thierry Joffredo_ (directeur de projets à la DRASI) ont animé cette semaine **deux sessions** du jeu _PhoneImpact_, destiné à sensibiliser aux impacts environnementaux et sociaux liés à l’extraction des métaux nécessaires à la fabrication des smartphones.
+Dans le cadre de la **Semaine européenne de réduction des déchets** du 24 au 28 novembre 2025, organisée par l’**ADEME**, _Rozenn Gibon_ (directrice adjointe de la DRASI) et _Thierry Joffredo_ (directeur de projets à la DRASI) ont animé **deux sessions** du jeu _PhoneImpact_, destiné à sensibiliser aux impacts environnementaux et sociaux liés à l’extraction des métaux nécessaires à la fabrication des smartphones.
 <!-- more -->
 
-Une première session a réuni mardi des professeur·es documentalistes, suivie hier d’une seconde rencontre avec des collègues du rectorat de l’Académie de Rennes. Ces deux sessions ont été très appréciées des joueurs et joueuses : apport de connaissances, conscientisation des enjeux, mais aussi plaisir du jeu, de la rencontre et de l'échange...
+Une première session a réuni le mardi 25 novembre des professeur·es documentalistes, suivie d’une seconde rencontre avec des collègues du rectorat de l’Académie de Rennes. Ces deux sessions ont été très appréciées des joueurs et joueuses : apport de connaissances, conscientisation des enjeux, mais aussi plaisir du jeu, de la rencontre et de l'échange...
 
-Ce jeu de plateau a été conçu et développé par Inria Learning Lab et des expert·es scientifiques de Inria et s'adresse tout particulièrement (mais pas seulement) aux lycéen·nes et étudiant·es. L’ensemble des ressources du jeu sont disponibles sur le portail PhoneImpact, sous **licence Creative Commons CC-BY-SA 4.0**.
-
-Merci Benjamin Ninassi, Madeline Montigny et Nadège Macé pour leur appui.
+Merci à Benjamin Ninassi, Madeline Montigny et Nadège Macé pour leur appui.
 
 Une ressource à faire connaître et utiliser à l'Éducation nationale, dans les collèges, lycées et services.
 
