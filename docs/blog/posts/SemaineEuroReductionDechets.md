@@ -1,5 +1,5 @@
 ---
-date: 2025-12-01
+date: 2025-11-24
 authors: [DRASI]
 title: "Semaine européenne de réduction des déchets organisée par l'ADEME"
 description: "Cette semaine, avec Rozenn Gibon (directrice adjointe de la DRASI) et Thierry Joffredo (directeur de projets à la DRASI) dans le cadre de la **semaine européenne de réduction des déchets, organisée par l'ADEME**, ont animé deux sessions de jeu PhoneImpact, pour sensibiliser aux impacts environnementaux et sociaux de l'extraction des métaux pour la fabrication des smartphones."
