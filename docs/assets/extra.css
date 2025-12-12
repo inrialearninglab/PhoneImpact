@@ -59,3 +59,14 @@ nav[data-md-level="1"] > .md-nav__list {
 .card-button:hover {
     opacity: 0.8;
 }
+
+
+.md-nav__link {
+    padding: 0 .4rem;
+}
+.md-nav__link--active {
+    background: color-mix(in srgb, var(--md-primary-fg-color--light) 10%, transparent);
+    border-radius: 4px;
+    padding: .2rem .4rem;
+    color: color-mix(in srgb, var(--md-primary-fg-color) 70%, black) !important;
+}

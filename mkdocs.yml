@@ -12,6 +12,8 @@ theme:
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.footer
+        - navigation.top
+        - navigation.path
         - announce.dismiss
     palette:
         - scheme: default

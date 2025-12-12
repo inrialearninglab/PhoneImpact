@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+  - path
 ---
 
 # Découvrez l'équipe qui a réalisé le jeu PhoneImpact
