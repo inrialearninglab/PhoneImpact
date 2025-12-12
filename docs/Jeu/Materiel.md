@@ -1,4 +1,4 @@
-# Éléments de jeu
+# Matériel
 
 ## I - Inventaire du matériel
 <center>
