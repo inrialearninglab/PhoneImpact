@@ -129,3 +129,54 @@ https://miao.ensad.fr/2018/08/21/les-ceramiques-et-les-verres/
 * RFIC Qualcomm PM8921 : https://www.ansys.com/blog/what-is-rfic 
 * DRAM Samsung
 
+
+## Extraits du rapport de l'ADEME
+
+* Le silicium
+
+- Antimoine (Sb) 
+
+    C’est la forme trioxyde de l’antimoine (ATO) qui est la plus utilisée dans le numérique. En effet, elle améliore et fiabilise les propriétés ignifugeantes des composés halogénés retardateurs de flamme en entrant dans la composition des cartes de circuits imprimés (PCB) notamment dans les serveurs, les réseaux de transmission de données. Cette propriété de l’antimoine induit également son utilisation dans les plastiques d’équipements électroniques (par exemple les boitiers), et dans les gaines de câbles électriques et optiques. De plus, le trioxyde d’antimoine est de plus en plus employé dans les semi-conducteurs comme dopant dans les plaquettes de silicium de type n.
+
+- Cobalt (Co) 
+
+    Le cobalt est apprécié dans la fabrication des équipements numériques pour son point de fusion élevé (1495°C) et ses propriétés magnétiques se conservant jusqu’à des températures élevées. 
+
+- Lithium (Li) 
+
+    Le lithium est très apprécié dans la fabrication des batteries des équipements numériques car de tous les métaux, c’est celui qui possède le potentiel électrochimique le plus élevé et qui est le moins dense à l’état solide.
+
+- Tantale (Ta) 
+
+    Le tantale est apprécié dans le secteur du numérique pour son point de fusion élevé, sa résistance à la corrosion et sa grande permittivité. Le tantale peut être utilisé dans les condensateurs de certains équipements électroniques tels que les smartphones ou disques durs. Une partie du tantale est également utilisée dans les cibles de pulvérisation  pour la production de supports de stockage, de circuits électroniques et d’écrans plats 
+
+- Tungstène (W) 
+
+    Le tungstène est apprécié dans la fabrication des équipements numériques pour sa robustesse et son point de fusion qui est le plus élevé de tous les éléments. C’est le seul matériau utilisé pour les émetteurs d’électrons car il est un bon conducteur d’électricité mais surtout car il possède une pression de vapeur très faible même à haute température. Cette propriété est très importante pour les matériaux de contact électrique, il est ainsi également utilisé dans les circuits intégrés et les dissipateurs thermiques tungstène-cuivre pour évacuer la chaleur des appareils microélectroniques. Le tungstène est aussi utilisé dans le vibreur des smartphones.
+
+- Gallium (Ga) 
+
+    Le gallium utilisé dans la fabrication des équipements numériques se présente notamment sous la forme d’arséniure de gallium (GaAs), apprécié pour sa vitesse de circulation des électrons élevée, et sous forme de nitrure de gallium (GaN). Le gallium est un semi-conducteur. 
+
+- Germanium (Ge) 
+
+    Le germanium est apprécié dans les équipements numériques pour ses propriétés semi-conductrices et optiques. 
+
+- Indium (In)
+
+    La principale application de l'indium est la production de films minces d’oxyde d’indium-étain (ITO). Lorsqu'il est déposé sous forme de film mince sur du verre ou du plastique transparent, il fonctionne comme une électrode transparente. Doté d’un point de fusion bas, il est utilisé dans les soudures, en tant que matériau d’interface thermique ou encore dans des alliages. 
+
+- Silicium (Si) 
+
+    Le silicium métal utilisé dans les équipements numériques est du polysilicium affiné à un niveau de pureté extrême de 10N à 13N . Il est apprécié dans la microélectronique pour ses propriétés semi-conductrices utiles au fonctionnement des circuits intégrés, au stockage et à la transmission d’information.
+- Aluminium (Al ) 
+
+    Métal léger et durable, offrant une protection efficace aux composants internes des appareils, même en cas de chocs. Sa capacité à contrôler la chaleur est essentielle pour maintenir les appareils électroniques au frais lors d'une utilisation prolongée. 
+
+- Cuivre (Cu) 
+
+    Le cuivre est le second meilleur conducteur électrique après l'argent. Il est utilisé dans la production de circuits électriques à haut rendement énergétique. Également résistant à la corrosion, ductile et malléable, il trouve sa principale application dans tous les types de câblage 
+
+- Nickel (Ni) 
+
+    Le nickel est souvent allié à d’autres métaux, dont le chrome, pour composer des aciers spéciaux tels que l’acier inoxydable. Il est très apprécié dans la fabrication des équipements numériques, notamment pour sa résistance à la corrosion et l’usure, son point de fusion élevé, sa ductilité, sa malléabilité et pour ses propriétés magnétiques.

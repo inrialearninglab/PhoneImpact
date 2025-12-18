@@ -7,6 +7,21 @@ title: "🚧 Réglementations"
 !!! Warning
     Attention, cette fiche est en cours de rédaction
 
+
+#### Réglementation (Rapport ADEME)
+Loi n°2017-399 du 21 février 2017 relative au devoir de vigilance des sociétés mères et des entreprises
+donneuses d’ordres
+9
+Proposal for a Directive of the European Parliament and of the Council on Corporate Sustainability Due
+Diligence and amending Directive (EU) 2019/1937 (COM/2022/71)
+10
+Règlement (UE) 2023/1542 du Parlement européen et du Conseil du 12 juillet 2023 relatif aux batteries
+et aux déchets de batteries, modifiant la directive 2008/98/CE et le règlement (UE) 2019/1020, et
+abrogeant la directive 2006/66/CE
+11
+Règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations
+liées au devoir de diligence à l'égard de la chaîne d'approvisionnement pour les importateurs de l'Union
+qui importent de
 ## En France
 
 Après mine : État depuis 1999

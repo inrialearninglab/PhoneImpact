@@ -114,7 +114,55 @@ https://www.notre-environnement.gouv.fr/themes/sante/les-produits-chimiques-ress
     Il est précisé dans le rapport que de nombreuses solutions d'abattage existent.
  
 
+Accaparement des terres
 
+cf Mody Diaw
+#### Déforestation (rapport de l'ADEME)
+Risque de déforestation liée à l’extraction des métaux
+L’exploitation minière est une cause majeure de la déforestation, venant juste après l’agriculture et
+l’élevage en termes d’impacts directs et indirects. Depuis le début du siècle, les activités d’extraction ont
+doublé, menaçant davantage les forêts tropicales humides et les régions protégées, comme l’Amazonie
+et le Cerrado, en Amérique du Sud. Un rapport du WWF (2023) indique que l’or et le charbon sont les
+principaux contributeurs de cette déforestation liée à l’exploitation minière. Ces deux produits à eux seuls
+ont causé la disparition de 6 877 km² de forêt au cours des vingt dernières années 6 . D’autres minéraux
+contribuant également à ce phénomène sont la bauxite, le minerai de fer et le cuivre.
+C’est l’une des raisons pour lesquelles la France a élaboré en 2018 une Stratégie Nationale de lutte contre
+la Déforestation Importée (SNDI) visant à mettre fin à la déforestation causée par sa consommation de
+produits agricoles et d’élevage d’ici 2030.
+L’exploitation minière conduit à défricher d’importantes étendues de forêt pour créer des fosses et des
+routes d’accès. Outre l’extraction elle-même, cette activité nécessite de l’énergie et entraîne la
+construction d’infrastructures supplémentaires, telles que celles dédiées à la transformation et au
+stockage à proximité des sites miniers.
+Les activités minières constituent le quatrième facteur de déforestation derrière l’agriculture, les
+infrastructures et l’expansion urbaine (WWF, 2023). A titre de comparaison, la surface déforestée de forêt
+humide en Amazonie (Amazonie légale du Brésil) était de 9 001 km 2 pour la période août 2022 – juillet
+2023 (Beuchle et al., 2023). Dans ce contexte, il est primordial d’examiner l’impact de l’exploitation minière en relation avec la
+déforestation dans le cadre des besoins en métaux du secteur numérique. Actuellement, la demande en
+équipements électroniques et informatiques est responsable de 5 % de la déforestation due à cette
+exploitation (WWF, 2023) — cinquième position après la construction, les véhicules, machines et
+équipements et le secteur public 7 . Du fait des transitions énergétique et numérique, la dem
+
+Systext 2021
+
+WWF, 2023. Extracted forests-Unearthing the role of mining-related deforestation as a driver of
+global deforestation
+
+UNEP, 2013. Environmental Risks and Challenges of Anthropogenic Metals Flows and Cycles, A
+Report of the Working Group on the Global Metal Flows to the International Resource Panel.
+• UNEPFI, 2014. Human Rights for the financial sector. Guidance tool – Mining and metals.
+
+NB : L'ACV ne prend pas en compte les accidents, autant dire que les ACV de métaux ça passe à côté de 2-3 difficultés...
+
+#### Impacts sociaux (Rapport de l'ADEME)
+(France Stratégie, 2020)
+(UNEPFI, 2014) pour les conditions de travail 
+
+
+
+#### Consommation énergétique : (Rapport de l'ADEME)
+10 % de l’énergie primaire mondiale en 2010 (ordre de grandeur
+confirmé par une publication de 2015) était consacrée à extraire, transporter et raffiner les
+ressources métalliques tous secteurs confondus ;
 
 https://www.pa.gov/agencies/dep/programs-and-services/mining/abandoned-mine-reclamation/operation-scarlift-and-mine-reclamation-in-pennsylvania.html
 
@@ -390,8 +438,14 @@ Pour les dangers que représentent le mercure, l'arsenic et le plomb pour la san
 * [Fiche sur l'intoxication au plomb](https://www.who.int/fr/news-room/fact-sheets/detail/lead-poisoning-and-health)
 
 
-
++ conditions de travail cf Moby Diaw
 ### De nombreux conflits d'usage des ressources
+
+Mobilisation à bas bruit : Mody Diaw
+
+Fragmentation sociale
+
+Conditions de travail
 ### Minerais de conflits
 
 !!! Tip ""

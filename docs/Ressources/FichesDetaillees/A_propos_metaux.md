@@ -1,5 +1,9 @@
+---
+title: 🚧 À propos des métaux
+---
 # 🚧 À propos des métaux
 
+%% [Tag : physique/chimie, SVT, SES] %% 
 ## I - Qu'est-ce qu'un métal ? 
 
 Métaux, non-métaux, métalloïdes, éléments chimiques, tableau périodique des éléments
@@ -74,16 +78,16 @@ Source : [Définition de "Métal lourd" sur le glossaire du site ec.europa.eu](h
 !!! TODO
 	Poids atomique ?
 
+
+TODO : Conclusion sur les catégories de métaux de PhoneImpact
 ## Niveaux de pureté ?
-## Sources de référence
-* L'élémentarium pour tout ce qui relève des propriétés physiques des métaux
-* Bookhagen
-* Systext
-* ADEME sur numérique et métaux critiques
-* ADEME pour la terminologie des grandes familles de métaux
 
- sources utilisées dans les deux études ne sont donc pas comparables. 
-
-- une [infographie détaillée](https://www.systext.org/node/1724) des éléments chimiques généralement présents dans un smarphone fournie par Systext en 2017
-    
-- une récente [étude de l'ADEME](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) (publiée en novembre 2024) sur les besoins en métaux dans le secteur numérique et les impacts environnementaux associés
+!!! Source "Sources de référence"
+	* L'élémentarium pour tout ce qui relève des propriétés physiques des métaux
+	* Bookhagen
+	* Systext
+	* ADEME sur numérique et métaux critiques
+	* ADEME pour la terminologie des grandes familles de métaux
+	 sources utilisées dans les deux études ne sont donc pas comparables. 
+	 - une [infographie détaillée](https://www.systext.org/node/1724) des éléments chimiques généralement présents dans un smarphone fournie par Systext en 2017
+    - une récente [étude de l'ADEME](https://librairie.ademe.fr/economie-circulaire-et-dechets/7713-etude-numerique-et-metaux.html) (publiée en novembre 2024) sur les besoins en métaux dans le secteur numérique et les impacts environnementaux associés

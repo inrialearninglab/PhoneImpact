@@ -55,6 +55,8 @@ HOW WATER ISSUES ARE STRANDING ASSETS
 A report commissioned by the Swiss Federal Office for the Environment (FOEN)
 https://cdn.cdp.net/cdp-production/cms/reports/documents/000/006/321/original/High_and_Dry_Report_Final.pdf?1651652748
 
+https://peer.tube/w/81pZ8xeQ5b5hp5LhRnBh27
+Destruction des conditions locales + Exposition accrue au changement climatique
 ## Dépendances économiques et néo-colonialisme
 
 Traitement parfois fait à l'autre bout du monde
@@ -66,6 +68,10 @@ https://www.youtube.com/watch?v=K_WkvtBWIx0
 La répartition de l’origine minière du gallium est difficile à établir puisque la Chine, principal producteur métallurgique, récupère le gallium dans ses raffineries qui traitent des bauxites importées de divers pays (Australie, Malaisie, Inde, Indonésie, etc.).
         
 https://deskeco.com/2024/11/18/rdc-kico-la-mine-de-zinc-plus-haute-teneur-au-monde-reprend-ses-activites
+
+https://peer.tube/w/81pZ8xeQ5b5hp5LhRnBh27
+Dépendance économique
+
 
 <hr>
 
@@ -82,6 +88,8 @@ https://deskeco.com/2024/11/18/rdc-kico-la-mine-de-zinc-plus-haute-teneur-au-mon
 <hr>
 
 ## Enjeux géopolitiques
+
+Cf le rapport ADEME pp 22-23
 
 https://www.lemonde.fr/economie/article/2024/05/30/les-minerais-critiques-attisent-les-rivalites-entre-grandes-puissances_6236298_3234.html
 
