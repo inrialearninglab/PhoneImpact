@@ -1,4 +1,4 @@
-# Mise en place
+# 📄 Mise en place
 
 <center>
 Exemple d'une mise en place à 4 joueur.euses

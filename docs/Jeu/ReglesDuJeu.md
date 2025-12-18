@@ -1,4 +1,4 @@
-# Règles du jeu
+# 📄 Règles du jeu
 
 Vous trouverez les règles détaillées de PhoneImpact dans le Livret ci-dessous.
 
