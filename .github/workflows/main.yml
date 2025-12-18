@@ -28,8 +28,10 @@ jobs:
                   python-version: "3.10"
 
             - name: Install deps
-              run: |
-                  pip install -r requirements.txt
+              run: pip install -r requirements.txt
+
+            - name: Install browsers
+              run: playwright install
 
             - name: Build MkDocs site
               run: mkdocs build --clean --site-dir site
