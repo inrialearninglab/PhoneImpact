@@ -11,8 +11,8 @@ Vous pouvez montrer cette vidéo durant la phase de brief du jeu PhoneImpact.
 <video src="https://files.inria.fr/LearningLab_public/phone-impact/Inria_PhoneImpact-01-Brief.mp4" alt="informations à retenir après une partie de jeu PhoneImpact" controls></video>
 Plan et timecode :
 
-- 0:07 Comment c'est à l'intérieur d'un smartphone ? 
-- 1:46 Combien de métaux dans mon smartphone ?!? 
-- 2:32 Différentes classifications des métaux 
-- 3:15 Ça ressemble à quoi une mine ? 
-- 4:07 Comment fonctionne une mine ? 
+- 0:07 — Comment c'est à l'intérieur d'un smartphone ? 
+- 1:46 — Combien de métaux dans mon smartphone ?!? 
+- 2:32 — Différentes classifications des métaux 
+- 3:15 — Ça ressemble à quoi une mine ? 
+- 4:07 — Comment fonctionne une mine ? 
