@@ -1,7 +1,7 @@
 ---
 toc_depth: 2
 ---
-# Brief 20' : introduire l’atelier
+# 📄 Brief 20' : introduire l’atelier
 
 Le brief a pour objectif d'aligner les attentes des participant·es et de poser les bases du jeu. Il permet de présenter le contexte, les règles et les objectifs de l'atelier.
 
@@ -11,8 +11,12 @@ Le brief a pour objectif d'aligner les attentes des participant·es et de poser 
     
      Libre à vous d'adapter ce brief selon votre public et le niveau de connaissances attendu. 
 
-!!! info "Matériel utile pour le brief"
-    Un kakémono de brief est disponible pour vous accompagner dans cette phase d'introduction. Si vous ne disposez pas du kakémono imprimé, vous pouvez utiliser les illustrations séparées.
+!!! info "Matériel pédagogique utile pour le brief"
+    Une **vidéo** vous donne quelques éléments d'introduction à la production des métaux contenus dans les smartphones. Vous pouvez montrer cette vidéo durant la phase de brief du jeu PhoneImpact pour introduire les concepts.
+
+    - lien vers la vidéo :  : [🧑‍🏫 Animer / 🎬 Brief : introduction des concepts](./BriefingVideo.md)
+    
+    Un **kakémono de brief** est disponible pour vous accompagner dans cette phase d'introduction. Si vous ne disposez pas du kakémono imprimé, vous pouvez utiliser les illustrations séparées.
 
     - lien vers les kakémonos : [🧑‍🏫 Animer / Matériel pédagogique / Kakemonos](./MaterielPedagogique/Kakemonos.md)
     - lien vers les illustrations : [🧑‍🏫 Animer / Matériel pédagogique / Illustrations pour l'animation du jeu](./MaterielPedagogique/Illustrations.md)
@@ -73,7 +77,7 @@ Après cette phase d’observation ou de manipulation, vous pouvez poser quelque
     Il existe des variations selon les modèles et les fabricants, et la composition exacte est difficile à connaître. Mais on peut retenir qu’un smartphone contient plus d’une cinquantaine de métaux, dont la plupart en très petites quantités, à l’exception des métaux communs comme le fer ou l’aluminium.  
     Cette diversité s’explique par les propriétés spécifiques de chaque métal : conductivité électrique, résistance à la corrosion... etc.
 
-!!! abstract Ressources utiles pour se former, rédigées par des expert·es scientifiques, sont issues du Mooc « Impacts environnementaux du numérique » (ImpactNum) :
+!!! abstract "Ressources utiles pour se former, rédigées par des expert·es scientifiques, sont issues du Mooc « Impacts environnementaux du numérique » (ImpactNum) :"
     - [Fiche concept "Quels métaux dans les smartphones ?" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.3.1-QuelsMinerauxPourUnSmartphone-MoocImpactNum.html)
     - [Activité pédagogique "Autopsie d'un smartphone" du Mooc ImpactNum](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/Activites/Capsule_Partie2_3_Mesurer2/story.html)
 

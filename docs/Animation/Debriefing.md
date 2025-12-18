@@ -1,4 +1,4 @@
-# Débrief 30' : terminer l'activité
+# 📄 Débrief 30' : terminer l'activité
 Une fois la phase de jeu terminée, il est essentiel de mener un débriefing pour recueillir les ressentis, les enseignements, et permettre une remise en perspective des informations abordées pendant la session. Ce temps d'échange est un moment clé pour ancrer les apprentissages, favoriser la discussion et répondre aux questions des participants.
 
 !!! exemple "Ceci est une proposition de debrief !"
@@ -6,6 +6,11 @@ Une fois la phase de jeu terminée, il est essentiel de mener un débriefing pou
       Nous l'avons testé à de nombreuses reprises avec des lycéens (plusieurs tables de jeu de 3 à 5 joueur·euses), avec ou sans expert pour présenter les aspects théoriques. Sans expert, il est possible de s'appuyer sur des ressources pédagogiques mises à votre disposition.
 
      Libre à vous d'adapter le derief en fonction de votre public.
+
+!!! info "Matériel pédagogique utile pour le debrief"
+    Une **vidéo** fait le point sur les informations à retenir suite au jeu sérieux PhoneImpact. Vous pouvez montrer cette vidéo durant la phase de debrief du jeu PhoneImpact.
+
+    - lien vers la vidéo :  : [🧑‍🏫 Animer / 🎬 Debrief : ce qu'il faut retenir](./DebriefingVideo.md)
 
 ## I. Recueil des émotions
 

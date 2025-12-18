@@ -70,3 +70,7 @@ nav[data-md-level="1"] > .md-nav__list {
     padding: .2rem .4rem;
     color: color-mix(in srgb, var(--md-primary-fg-color) 70%, black) !important;
 }
+
+video {
+    border-radius: 8px;
+}
