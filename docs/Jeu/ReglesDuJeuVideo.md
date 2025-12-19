@@ -2,7 +2,7 @@
 
 La vidéo présente les règles du jeu PhoneImpact et illustre le déroulement d’une partie.
 
-<video src="https://files.inria.fr/LearningLab_public/phone-impact/Inria_PhoneImpact-03-Regles.mp4" alt="informations à retenir après une partie de jeu PhoneImpact" controls poster="img/ReglesDuJeuVignette.png"></video>
+<video src="https://files.inria.fr/LearningLab_public/phone-impact/Inria_PhoneImpact-03-Regles.mp4" alt="informations à retenir après une partie de jeu PhoneImpact" controls></video>
 
 Plan et timecode :  
 

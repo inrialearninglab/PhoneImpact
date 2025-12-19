@@ -2,7 +2,7 @@
 
 La vidéo présente les étapes d’installation du matériel du jeu PhoneImpact.
 
-<video src="https://files.inria.fr/LearningLab_public/phone-impact/Inria_PhoneImpact-02-Installation.mp4" alt="informations à retenir après une partie de jeu PhoneImpact" controls poster="img/InstallationVignette.png"></video>
+<video src="https://files.inria.fr/LearningLab_public/phone-impact/Inria_PhoneImpact-02-Installation.mp4" alt="informations à retenir après une partie de jeu PhoneImpact" controls></video>
 
 Plan et timecode :
 
