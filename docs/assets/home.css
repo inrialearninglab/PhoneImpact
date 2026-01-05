@@ -43,6 +43,14 @@
 
 .card > p {
     flex: 1;
+    margin-top: 0.25em !important;
+    font-size: 0.75rem !important;
+}
+
+.card > ul {
+    flex: 1;
+    margin-top: 0.25em !important;
+    font-size: 0.7rem !important;
 }
 
 .row {
