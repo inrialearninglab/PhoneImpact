@@ -73,4 +73,5 @@ nav[data-md-level="1"] > .md-nav__list {
 
 video {
     border-radius: 8px;
+    border: 2px solid black;
 }
