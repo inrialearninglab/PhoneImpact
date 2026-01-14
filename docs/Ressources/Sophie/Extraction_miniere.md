@@ -7,6 +7,21 @@
     <a href="./img/etapes_extraction_mine.png"> <img src="./img/etapes_extraction_mine.png" width="linewidth"/></a>
 </figure>
 ## En vrac
+
+
+!!! Source ""
+	<figure  markdown="span"><a href="./img/minerai-steriles.png"> <img src="./img/minerai-steriles.png" width="80% linewidth"/></a><br>
+	*Distinction entre minerai et stériles.  
+    Source : https://www.grida.no/resources/11415*
+    </figure>
+
+!!! Source ""
+	<figure  markdown="span"><a href="./img/terrils.png"> <img src="./img/terrils.png" width="linewidth"/></a><br>
+	*Stockage des stériles sous formontre un terril.  
+    Source : https://www.grida.no/resources/11415*
+    </figure>
+
+
 https://ismgb.net/coursUniv/coursUniv_14635_pdf.pdf
 
 video
@@ -19,6 +34,25 @@ https://www.youtube.com/watch?v=i3_9v2GOicE
 
 Comment marche l'extraction du lithium dans le salar de l'Atacama
 https://www.youtube.com/watch?v=zzcT9exF4Js
+
+Broyeur à boulet
+https://www.youtube.com/watch?v=vSi75VTnBoA
+!!! Source ""
+	<figure  markdown="span"><a href="./img/fonctionnement-mine-mineralurgie-fr.png"> <img src="./img/fonctionnement-mine-mineralurgie-fr.png" width="linewidth"/></a><br>
+	*Le principe de fonctionnement d'une mine à ciel ouvert, depuis l'extraction jusqu'au stockage des déchets miniers.<br>
+    Source : https://www.grida.no/resources/11415*
+    </figure>
+
+   https://wikimemoires.net/2019/12/la-lixiviation-techniques-de-separation-et-types/
+    https://thierryregards.eu/2019/06/banro-lixiviation-cyanure-mines-extraction-or-gold-kivu-twangiza-namoya/
+Production d'aluminium : 4 tonnes de bauxite pour 1 tonne d'aluminium
+https://www.youtube.com/watch?v=eGdXxFjqFsg
+NB : Parfois le minerai lui-même a un nom (pas seulement "minerai de fer"), cf bauxite = minerai qu'on extrait pour produire l'aluminium et le gallium, coltan = minerai pour le tantale
+
+"La <b>bauxite</b> est le principal minerai qui permet de produire l’<b>aluminium</b> et le <b>gallium</b>.\n\nLes trois plus gros pays producteurs sont l'<b>Australie</b>, la <b>Chine</b> et la <b>Guinée</b>.",Pour info,"empty",59
+"Le <b>coltan</b> est un minerai qui permet de produire le tantale.\n\nLa <b>République Démocratique du Congo</b>, premier producteur de coltan, est sujet à des conflits armés.",Pour info,"empty",60
+
+Une fois réduit en poudre, le minerai subit différents traitements chimiques et physiques pour éliminer les impuretés jusqu'à obtenir le métal recherché.
 
 ### Images traitement minerai
 

@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FichesDetaillees/A_propos_metaux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A_propos_metaux"
-            }
-          },
-          {
-            "id": "47f2cd675af155a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "FichesDetaillees/Metaux_smartphone.md",
                 "mode": "source",
                 "source": false
@@ -36,17 +22,31 @@
             }
           },
           {
+            "id": "47f2cd675af155a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FichesDetaillees/Extraction_miniere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extraction_miniere"
+            }
+          },
+          {
             "id": "3547f8ee473bcd54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FichesDetaillees/Impacts_extraction_2.md",
+                "file": "Sophie/Extraction_miniere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Impacts_extraction_2"
+              "title": "Extraction_miniere"
             }
           },
           {
@@ -214,33 +214,37 @@
   },
   "active": "47f2cd675af155a0",
   "lastOpenFiles": [
-    "FichesDetaillees/A_propos_metaux.md",
     "FichesDetaillees/Metaux_smartphone.md",
-    "Sources/Sources_malus.md",
     "FichesDetaillees/Extraction_miniere.md",
+    "Sophie/Extraction_miniere.md",
+    "FichesDetaillees/img/fonctionnement-mine-mineralurgie-fr.png",
+    "FichesDetaillees/img/fonctionnement-mine-fr-5.png",
+    "FichesDetaillees/Impacts_extraction_2.md",
+    "fonctionnement-mine-fr.png",
+    "FichesDetaillees/img/fonctionnement-mine-fr.png",
+    "FichesDetaillees/img/mine-USA.jpg",
+    "FichesDetaillees/img/mine_USA.jpg",
+    "FichesDetaillees/Focus_France.md",
+    "FichesDetaillees/A_propos_metaux.md",
+    "Sources/Sources_malus.md",
     "FichesDetaillees/Impacts_extraction.md",
     "Sophie/Metaux_smartphone.md",
-    "FichesDetaillees/Impacts_extraction_2.md",
     "FichesDetaillees/Extraction_miniere_2.md",
     "FichesDetaillees/Recyclage.md",
     "FichesDetaillees/img/usages-metaux.png",
     "FichesDetaillees/Reglementations.md",
-    "Sophie/Extraction_miniere.md",
     "FichesDetaillees/references/Bookhagen et al. - 2020 - Metallic resources in smartphones.pdf",
     "FichesDetaillees/Industrie_miniere.md",
-    "FichesDetaillees/Focus_France.md",
     "FichesDetaillees/img/terrils.png",
     "FichesDetaillees/img/terrils.xcf",
     "FichesDetaillees/img/minerai-steriles.xcf",
     "FichesDetaillees/img/minerai-steriles.png",
     "FichesDetaillees/img/minerai-sterile.png",
     "FichesDetaillees/img/minerai-sterile.xcf",
-    "FichesDetaillees/img/mineralurgie.png",
     "FichesDetaillees/img/mineralurgie.xcf",
     "Sophie/Industrie_miniere.md",
     "FichesDetaillees/Perspective_smartphone.md",
     "Sophie/Focus_France.md",
-    "FichesDetaillees/img/Puits_Castan.jpeg",
     "Sophie/Impacts_extraction.md",
     "Sophie/Glossaire - archives.md",
     "events.pdf",
@@ -251,8 +255,6 @@
     "Sources/cited/Gallium (Ga) _ MineralInfo.pdf",
     "Sources/cited/Cuivre - L’Élémentarium.pdf",
     "Sources/cited/2019_Recommandations sanitaires à la population.pdf",
-    "Sources/cited/conflictos-mineros.png",
-    "Sources/cited/EJAtlas.png",
     "Sources/Sources_plateau.md",
     "Notes-Sophie.md",
     "Introduction.md"
