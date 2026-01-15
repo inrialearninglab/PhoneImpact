@@ -1,10 +1,10 @@
 ---
-title: 🚧 Le processus de production des métaux
+title: Le processus de production des métaux
 ---
-# 🚧 Le processus de production des métaux
+# Le processus de production des métaux
 
-!!! Warning
-    Attention, cette fiche est en cours de rédaction
+!!! Warning ""
+    Dernière mise à jour : 15 janvier 2026
 
 La production des métaux est un processus complexe et mondialisé, depuis les mines jusqu'aux usines de raffinage. Dans la suite, nous allons détailler les principales étapes de ce processus.
 ## I - Qu'est-ce qu'une mine ?
@@ -76,7 +76,9 @@ On appelle **résidus miniers** les déchets (solides ou liquides) produits lors
 	</figure>
 
 ## III - L'affinage métallurgique
-La phase de pré-traitement minéralurgique a lieu à proximité du site d'extraction. 
+Le concentré métallique obtenu au terme du pré-traitement minéralurgique a une teneur de quelques dizaines de pourcents (20 à 30% pour une mine de cuivre standard). L'affinage (ou raffinage) métallurgique a pour rôle de produire du métal à des niveaux de pureté qui correspondent aux usages de ce métal. Il est important de noter que le numérique nécessite des métaux à des niveaux de pureté particulièrement élevés : de l'ordre de 9N à 12N, c'est à dire avec une teneur en métal de 99,999999999% à 99,999999999999% (de 9 à 12 fois le chiffre 9 après la virgule) !
+
+Les infrastructures nécessaires pour le traitement métallurgique sont très gourmandes en énergie, ce qui explique pourquoi contrairement au traitement minéralurgique, qui a général lieu à proximité du site d'extraction, le concentré peut être raffiné loin de la mine dont il provient, voire même dans un autre pays. 
 
 ## Schéma récapitulatif
 
@@ -89,8 +91,6 @@ Le schéma ci-dessous récapitule les différentes étapes de la production d'un
 
 !!! Source "Sources de référence"
 	* Le rapport RECORD
-	* Rock-to-Metal Ratio: A Foundational Metric for Understanding Mine Wastes
-	* Mineralinfo
 	* Le rapport de l'UNEP
 
 [^1]: Source : page 48 du rapport [Étude des risques environnementaux, socio-sociétaux et juridiques des approvisionnements en minerais stratégiques pour les transitions énergétique et numérique. Record. Septembre 2023](https://record-net.org/media/etudes/253/public/rapport/rapport-record22-0721-1a.pdf)
