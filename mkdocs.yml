@@ -1,6 +1,6 @@
 site_name: "Jeu sérieux : PhoneImpact"
 site_url: https://phoneimpact.inria.fr
-repo_url: https://gitlab.inria.fr/learninglab/serious-game/smartphone
+#repo_url: https://gitlab.inria.fr/learninglab/serious-game/smartphone
 repo_name: Source
 use_directory_urls: false
 theme:
