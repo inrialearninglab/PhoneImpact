@@ -1,8 +1,8 @@
 ---
 date: 2026-02-19
 authors: [victorien]
-title: "Collégiens de 3ᵉ en immersion au centre Inria de l’Université de Rennes : sensibilisation au numérique et à l’environnement"
-description: "Des collégiens de 3ᵉ ont effectué un stage d’observation au centre Inria de l’Université de Rennes. Pendant trois jours, ils ont échangé avec les équipes de recherche OBELIX, CAPSULE, ÉPICURE, MAGELLAN et SEAMLESS autour des thématiques du numérique et de l’environnement. Ils ont notamment participé au jeu sérieux PhoneImpact, qui leur a permis d’apprendre et de réfléchir de façon ludique aux impacts environnementaux et sociaux de la fabrication des smartphones, tout en découvrant des alternatives, comme le projet de recherche SmolPhone."
+title: "Collégiens de 3ᵉ en stage d'observation au centre Inria de l’Université de Rennes : sensibilisation au numérique et à l’environnement"
+description: "Des collégiens de 3ᵉ ont effectué un stage d’observation au centre Inria de l’Université de Rennes. Pendant trois jours, ils ont échangé avec les **équipes de recherche OBELIX, CAPSULE, ÉPICURE, MAGELLAN** et SEAMLESS autour des **thématiques du numérique et de l’environnement**. Ils ont notamment participé à l'atelier-jeu **PhoneImpact**, qui leur a permis d’apprendre et de réfléchir de façon ludique aux impacts environnementaux et sociaux de la fabrication des smartphones, tout en découvrant des alternatives, comme le **projet de recherche SmolPhone**."
 slug: stage-observation
 ---
 Des collégiens de 3ᵉ ont effectué un stage d’observation au centre Inria de l’Université de Rennes. Pendant trois jours, ils ont échangé avec les équipes de recherche OBELIX, CAPSULE, ÉPICURE, MAGELLAN et SEAMLESS autour des thématiques du numérique et de l’environnement.
@@ -31,4 +31,5 @@ Les collégiens se sont pleinement investi dans l'atelier et ont donné des reto
 L'atelier a été animé par Victorien Elvinger qui a été appuyé par Pablo Leboulanger et Matteo Chancerel.
 
 [1] https://www.irisa.fr/article/2026-02/retour-sur-laccueil-des-stagiaires-de-3eme
+
 [2] https://people.irisa.fr/Martin.Quinson/Research/SmolPhone/
