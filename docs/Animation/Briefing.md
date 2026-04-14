@@ -86,12 +86,12 @@ Montrer les catégories de métaux à l'aide du kakémono de brief. Si vous ne l
 
 Pour les besoins du jeu, les métaux ont été classés selon 4 catégories :  
 
--	![Logo Métaux communs](/assets/icons/MetauxCommuns.png){ width="50" } Les **Métaux communs** (fer, nickel, aluminium,...) qui sont aussi appelés métaux de base dans l'industrie et qui sont les plus fréquemment utilisés.
--	![Logo Métaux précieux](/assets/icons/MetauxPrecieux.png){ width="50" } Les **Métaux précieux** (or, argent, platine,...) : ce sont des métaux qui sont rares, c'est-à-dire très peu abondants dans la croûte terrestre, mais surtout de grande valeur économique. On les utilise notamment pour leur conductivité et leur résistance à la corrosion.
--	![Logo Terres rares](/assets/icons/TerresRares.png){ width="50" } Les **Terres rares** (neodyme, yttrium,...) qui ne sont pas rares mais difficiles à extraire car présentes en très faible quantité. Ils servent par exemple à fabriquer les aimants dans les vibreurs et colorer les LED des écrans.
--	![Logo Autres Métaux](/assets/icons/AutresMetaux.png){ width="50" } les **Autres métaux** (cobalt, lithium, tantale) : qui sont très nombreux et sont utilisés pour des usages très diversifiés.
+-	![Logo Métaux communs](../assets/icons/MetauxCommuns.png){ width="50" } Les **Métaux communs** (fer, nickel, aluminium,...) qui sont aussi appelés métaux de base dans l'industrie et qui sont les plus fréquemment utilisés.
+-	![Logo Métaux précieux](../assets/icons/MetauxPrecieux.png){ width="50" } Les **Métaux précieux** (or, argent, platine,...) : ce sont des métaux qui sont rares, c'est-à-dire très peu abondants dans la croûte terrestre, mais surtout de grande valeur économique. On les utilise notamment pour leur conductivité et leur résistance à la corrosion.
+-	![Logo Terres rares](../assets/icons/TerresRares.png){ width="50" } Les **Terres rares** (neodyme, yttrium,...) qui ne sont pas rares mais difficiles à extraire car présentes en très faible quantité. Ils servent par exemple à fabriquer les aimants dans les vibreurs et colorer les LED des écrans.
+-	![Logo Autres Métaux](../assets/icons/AutresMetaux.png){ width="50" } les **Autres métaux** (cobalt, lithium, tantale) : qui sont très nombreux et sont utilisés pour des usages très diversifiés.
 
-![Logo Autres matières](/assets/icons/AutresMatieres.png){ width="50" } En plus des métaux, un smartphone contient également de nombreuses **Autres matières** qui représentent de 40 à 70% du poids du smartphone (ex. céramique, plastique, matières synthétiques, verre).
+![Logo Autres matières](../assets/icons/AutresMatieres.png){ width="50" } En plus des métaux, un smartphone contient également de nombreuses **Autres matières** qui représentent de 40 à 70% du poids du smartphone (ex. céramique, plastique, matières synthétiques, verre).
 
 !!! warning "Précision importante"
     Dans PhoneImpact, la quantité de cartes Ressources nécessaires pour fabriquer les composants ne reflète ni le poids réel des matériaux ni leur quantité exacte dans un smartphone.
