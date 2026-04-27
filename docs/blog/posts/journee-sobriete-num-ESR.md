@@ -15,4 +15,4 @@ Le public était composé de personnes susceptibles d’animer à leur tour des 
 
 L’atelier a également fait l’objet d’une restitution visuelle en direct par Guillaume Danel, facilitateur graphique, [Des mots à l’image](https://www.desmotsalimage.com/) :
 
-<img alt="feru_des_sciences" src="../../../ImagesBlog/Dessin-AtelierPhoneImpact-JourneeUVED_mars2026.jpg"style="width: 60%; height: auto;"/>
+<img alt="sobriete-numerique-ESR" src="../../../ImagesBlog/Dessin-AtelierPhoneImpact-JourneeUVED_mars2026.jpg"style="width: 60%; height: auto;"/>
