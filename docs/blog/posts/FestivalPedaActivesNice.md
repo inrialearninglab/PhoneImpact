@@ -13,6 +13,6 @@ Cet événement était articulé autour de conférences et d’ateliers afin de 
 Nous avons également animé un atelier de PhoneImpact, avec un brief, une version flash de 20  minutes et un débrief.
 Ce fut l'occasion de rencontrer et d'échanger avec des chercheurs, des ingénieurs pédagogiques et des étudiants passionnés de pédagogie.
 
-[Lien vers le post linkedin]()
+[Lien vers le post linkedin](https://www.linkedin.com/posts/inrialearninglab_phoneimpact-phoneimpact-festivaldespedagogieactives-ugcPost-7472211532639084545-YRkC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeuDqMBke003HKcEnRDmBNI7FN6eu4k3-A)
 
 <img alt="festival-peda-actives" src="../../../ImagesBlog/festival_peda_actives.jpg" style="width: 70%; height: auto;"/>
