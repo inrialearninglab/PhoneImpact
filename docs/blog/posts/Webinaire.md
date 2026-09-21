@@ -18,3 +18,5 @@ Le webinaire a rencontré un vif intérêt avec près de 300 personnes inscrites
 Cette présentation a permis de faire connaître PhoneImpact auprès d’un public de professionnel·les de l’éducation et de médiation (éducateurices, médiateurices, profs, animateurices jeunesse, familles, et plus largement, citoyen·nes) tout en ouvrant des perspectives de collaboration.
 
 Le replay du webinaire ainsi que les ressources partagées sont disponibles : [ici](https://louisderrac.com/le-defi-deduquer-a-un-numerique-acceptable-rediffusion-du-3-juin-2026/)
+
+La transcription est disponible [ici](https://www.librealire.org/le-defi-d-eduquer-a-un-numerique-acceptable)
