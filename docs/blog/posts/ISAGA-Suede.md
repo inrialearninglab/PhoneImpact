@@ -3,7 +3,7 @@ date: 2026-06-30
 authors: [madeline]
 title: "Workshop PhoneImpact à ISAGA 2026"
 description: "Le 23 juin 2026, nous avons eu l'opportunité d'animer un atelier PhoneImpact en Suède lors de la conférence [ISAGA (International Simulation and Gaming Association)"
-slug: workshop
+slug: workshop-simulation-gaming
 ---
 Le 23 juin 2026, nous avons eu l'opportunité d'animer un atelier PhoneImpact en Suède lors de la conférence [ISAGA (International Simulation and Gaming Association)](https://www.conftool.org/isaga2026/index.php?page=browseSessions&form_date=2026-06-23&form_session=161&mode=table&presentations=hide)
 
