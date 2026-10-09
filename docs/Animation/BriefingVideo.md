@@ -1,18 +1,22 @@
 ---
 toc_depth: 2
 ---
+
 # 🎬 Brief : introduction des concepts
 
-Dans cette vidéo, Sophie Quinton, chercheuse Inria, vous donne quelques éléments d'introduction à 
+Dans cette vidéo, Sophie Quinton, chercheuse Inria, vous donne quelques éléments d'introduction à
 la production des métaux contenus dans les smartphones :
 
 Vous pouvez montrer cette vidéo durant la phase de brief du jeu PhoneImpact.
 
-<video src="https://files.inria.fr/LearningLab_public/phone-impact/Inria_PhoneImpact-01-Brief.mp4" alt="informations à retenir après une partie de jeu PhoneImpact" controls></video>
+<video src="https://files.inria.fr/LearningLab_public/phone-impact/Inria_PhoneImpact-01-Brief.mp4" alt="informations à retenir après une partie de jeu PhoneImpact" controls>
+    <track label="Français" kind="subtitles" srclang="fr" src="./subtitles/ST_Brief.vtt" />
+</video>
+
 Plan et timecode :
 
-- 0:07 — Comment c'est à l'intérieur d'un smartphone ? 
-- 1:46 — Combien de métaux dans mon smartphone ?!? 
-- 2:32 — Différentes classifications des métaux 
-- 3:15 — Ça ressemble à quoi une mine ? 
-- 4:07 — Comment fonctionne une mine ? 
+- 0:07 — Comment c'est à l'intérieur d'un smartphone ?
+- 1:46 — Combien de métaux dans mon smartphone ?!?
+- 2:32 — Différentes classifications des métaux
+- 3:15 — Ça ressemble à quoi une mine ?
+- 4:07 — Comment fonctionne une mine ?
